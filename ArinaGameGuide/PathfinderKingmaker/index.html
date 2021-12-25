@@ -5,6 +5,8 @@
     <title></title>
     <link rel="stylesheet" href="ArinaPage.css">
     <link rel="stylesheet" href="../ArinaGameGuide.css">
+    <!--<script src="../js/Ansrabrar.js"></script>-->
+    <!--<script src="../js/Characters/Heroes/Riana.js"></script>-->
 </head>
 <body>
     <div style="text-align:center">
@@ -16,8 +18,18 @@
     </div>
     <div id="main" class="main"></div>
 
-    <script>
-
+    <script type="module">
+        import { Doc, Div } from "../js/Ansrabrar.js";
+        import { Riana } from "../js/Characters/Heroes/Riana.js";
+        let doc = new Doc();
+        
+        var a = Riana.CreateDiv(doc, "aaa", 200, 200, false, false, doc);
+        Riana.CreateText("aaa", a);
+        
+        document.addEventListener("DOMContentLoaded", function (event) {
+            doc.printTo(document);
+        });
+        
         //Companion
         function loadCompanion() {
             var divMain = document.getElementById("main");
