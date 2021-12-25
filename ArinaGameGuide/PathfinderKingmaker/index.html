@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="ArinaPage.css">
+    <link rel="stylesheet" href="../ArinaGameGuide.css">
+</head>
+<body>
+    <div style="text-align:center">
+        <h3>Pathfinder: Kingmaker 攻略網頁</h3>
+    </div>
+    <br />
+    <div class="indexMain">
+        <a href="javascript:loadCompanion()">Companion</a>
+    </div>
+    <div id="main" class="main"></div>
+
+    <script>
+
+        //Companion
+        function loadCompanion() {
+            var divMain = document.getElementById("main");
+            //var PData, BRData;
+            //var divMain = document.getElementById("main");
+            var xhttp = new XMLHttpRequest();
+            xhttp.responseType = 'html';
+            xhttp.open("GET", "Companion.html?v=" + Math.random(), true);
+            xhttp.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    var bodyContent = this.response.substring(this.response.indexOf("<body>") + 6);
+                    bodyContent = bodyContent.substring(0, bodyContent.indexOf("</body>"));
+                    //alert(bodyContent);
+                    divMain.innerHTML = bodyContent;
+                }
+            }
+            xhttp.send();
+
+        }
+    </script>
+</body>
+</html>

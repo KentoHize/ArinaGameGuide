@@ -1,0 +1,79 @@
+[
+  {
+    "ID": 1,
+    "Name": "Athletics",
+    "KeyAttribute": "Strength",
+    "ArmorCheckPenalty": true,
+    "TrainedOnly": false
+  },
+  {
+    "ID": 2,
+    "Name": "Mobility",
+    "KeyAttribute": "Dexterity",
+    "ArmorCheckPenalty": true,
+    "TrainedOnly": false
+  },
+  {
+    "ID": 3,
+    "Name": "Trickery",
+    "KeyAttribute": "Dexterity",
+    "ArmorCheckPenalty": false,
+    "TrainedOnly": true
+  },
+  {
+    "ID": 4,
+    "Name": "Stealth",
+    "KeyAttribute": "Dexterity",
+    "ArmorCheckPenalty": true,
+    "TrainedOnly": false
+  },
+  {
+    "ID": 5,
+    "Name": "Knowledge(Arcana)",
+    "KeyAttribute": "Intelligence",
+    "ArmorCheckPenalty": false,
+    "TrainedOnly": true
+  },
+  {
+    "ID": 6,
+    "Name": "Knowledge(World)",
+    "KeyAttribute": "Intelligence",
+    "ArmorCheckPenalty": false,
+    "TrainedOnly": true
+  },
+  {
+    "ID": 7,
+    "Name": "Lore(Nature)",
+    "KeyAttribute": "Wisdom",
+    "ArmorCheckPenalty": false,
+    "TrainedOnly": true
+  },
+  {
+    "ID": 8,
+    "Name": "Lore(Religion)",
+    "KeyAttribute": "Wisdom",
+    "ArmorCheckPenalty": false,
+    "TrainedOnly": true
+  },
+  {
+    "ID": 9,
+    "Name": "Perception",
+    "KeyAttribute": "Wisdom",
+    "ArmorCheckPenalty": false,
+    "TrainedOnly": false
+  },
+  {
+    "ID": 10,
+    "Name": "Persuasion",
+    "KeyAttribute": "Charisma",
+    "ArmorCheckPenalty": false,
+    "TrainedOnly": false
+  },
+  {
+    "ID": 11,
+    "Name": "Use Magic Device",
+    "KeyAttribute": "Charisma",
+    "ArmorCheckPenalty": false,
+    "TrainedOnly": true
+  }
+]

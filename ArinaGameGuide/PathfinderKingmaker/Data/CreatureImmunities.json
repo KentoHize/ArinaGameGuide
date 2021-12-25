@@ -1,0 +1,452 @@
+[
+  {
+    "ID": 1,
+    "Creature": "Quickhydra",
+    "Condition": "Prone",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 2,
+    "Creature": "Hydra",
+    "Condition": "Prone",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 3,
+    "Creature": "Quickspider",
+    "Condition": "Web",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 4,
+    "Creature": "Primal Giant Spider",
+    "Condition": "Web",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 5,
+    "Creature": "Doomspider",
+    "Condition": "Web",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 6,
+    "Creature": "Primal Spider Matriarch",
+    "Condition": "Web",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 7,
+    "Creature": "Quickspider Swarm",
+    "Condition": "Web",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 8,
+    "Creature": "Quickspider Swarm",
+    "Condition": "Mind-Affecting",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 9,
+    "Creature": "Ancient Wyvern",
+    "Condition": "Sleep",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 10,
+    "Creature": "Ancient Wyvern",
+    "Condition": "Paralyzed",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 11,
+    "Creature": "Purple Worm",
+    "Condition": "Prone",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 12,
+    "Creature": "Grag Linnorm",
+    "Condition": "Grape",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 13,
+    "Creature": "Grag Linnorm",
+    "Condition": "Prone",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 14,
+    "Creature": "Grag Linnorm",
+    "Condition": "Sleep",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 15,
+    "Creature": "Grag Linnorm",
+    "Condition": "Paralyzed",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 16,
+    "Creature": "Grag Linnorm",
+    "Condition": "Entangled",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 17,
+    "Creature": "Grag Linnorm",
+    "Condition": "Difficult Terrain",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 18,
+    "Creature": "Grag Linnorm",
+    "Condition": "Slowed",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 19,
+    "Creature": "Grag Linnorm",
+    "Condition": "Staggered",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 20,
+    "Creature": "Grag Linnorm",
+    "Condition": "Immobilized",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 21,
+    "Creature": "Ghost",
+    "Condition": null,
+    "CondtionGroup": "UndeadImmunities"
+  },
+  {
+    "ID": 22,
+    "Creature": "Ghostly Mage Guard",
+    "Condition": null,
+    "CondtionGroup": "UndeadImmunities"
+  },
+  {
+    "ID": 23,
+    "Creature": "Ghostly Guard",
+    "Condition": null,
+    "CondtionGroup": "UndeadImmunities"
+  },
+  {
+    "ID": 24,
+    "Creature": "The Fallen Priestess",
+    "Condition": "Grape",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 25,
+    "Creature": "The Fallen Priestess",
+    "Condition": "Paralyzed",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 26,
+    "Creature": "The Fallen Priestess",
+    "Condition": "Entangled",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 27,
+    "Creature": "The Fallen Priestess",
+    "Condition": "Difficult Terrain",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 28,
+    "Creature": "The Fallen Priestess",
+    "Condition": "Slowed",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 29,
+    "Creature": "The Fallen Priestess",
+    "Condition": "Staggered",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 30,
+    "Creature": "The Fallen Priestess",
+    "Condition": "Immobilized",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 31,
+    "Creature": "Lady of Shallows",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 32,
+    "Creature": "Lady of Shallows",
+    "Condition": "Difficult Terrain",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 33,
+    "Creature": "Poisonous Shambling Mound",
+    "Condition": "Mind-Affecting",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 34,
+    "Creature": "Poisonous Shambling Mound",
+    "Condition": "Compulsion",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 35,
+    "Creature": "Poisonous Shambling Mound",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 36,
+    "Creature": "Poisonous Shambling Mound",
+    "Condition": "Charmed",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 37,
+    "Creature": "Poisonous Shambling Mound",
+    "Condition": "Stunned",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 38,
+    "Creature": "Poisonous Shambling Mound",
+    "Condition": "Polymorph",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 39,
+    "Creature": "Poisonous Shambling Mound",
+    "Condition": "Paralyzed",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 40,
+    "Creature": "Poisonous Shambling Mound",
+    "Condition": "Sleep",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 41,
+    "Creature": "Nixie Prankster",
+    "Condition": "Difficult Terrain",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 42,
+    "Creature": "Poisonous Primal Doomhydra",
+    "Condition": "Prone",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 43,
+    "Creature": "Grag Linnorm 16 Dragon",
+    "Condition": "Grape",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 44,
+    "Creature": "Grag Linnorm 16 Dragon",
+    "Condition": "Prone",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 45,
+    "Creature": "Grag Linnorm 16 Dragon",
+    "Condition": "Sleep",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 46,
+    "Creature": "Grag Linnorm 16 Dragon",
+    "Condition": "Paralyzed",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 47,
+    "Creature": "Grag Linnorm 16 Dragon",
+    "Condition": "Entangled",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 48,
+    "Creature": "Grag Linnorm 16 Dragon",
+    "Condition": "Difficult Terrain",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 49,
+    "Creature": "Grag Linnorm 16 Dragon",
+    "Condition": "Slowed",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 50,
+    "Creature": "Grag Linnorm 16 Dragon",
+    "Condition": "Staggered",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 51,
+    "Creature": "Grag Linnorm 16 Dragon",
+    "Condition": "Immobilized",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 52,
+    "Creature": "Poacher Alchemist",
+    "Condition": "Grape",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 53,
+    "Creature": "Poacher Alchemist",
+    "Condition": "Spell - Magic Missile",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 54,
+    "Creature": "Poacher Alchemist",
+    "Condition": "Paralyzed",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 55,
+    "Creature": "Poacher Alchemist",
+    "Condition": "Entangled",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 56,
+    "Creature": "Poacher Alchemist",
+    "Condition": "Difficult Terrain",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 57,
+    "Creature": "Poacher Alchemist",
+    "Condition": "Slowed",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 58,
+    "Creature": "Poacher Alchemist",
+    "Condition": "Staggered",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 59,
+    "Creature": "Poacher Alchemist",
+    "Condition": "Immobilized",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 60,
+    "Creature": "Nightmare Skeleton Soldier",
+    "Condition": null,
+    "CondtionGroup": "UndeadImmunities"
+  },
+  {
+    "ID": 61,
+    "Creature": "Fionn",
+    "Condition": null,
+    "CondtionGroup": "UndeadImmunities"
+  },
+  {
+    "ID": 62,
+    "Creature": "Acid-imbued Giant Slug",
+    "Condition": null,
+    "CondtionGroup": "Vermin Immunities"
+  },
+  {
+    "ID": 63,
+    "Creature": "Acid-imbued Giant Slug",
+    "Condition": "Prone",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 64,
+    "Creature": "Matsero Janush",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 65,
+    "Creature": "Matsero Janush",
+    "Condition": "Death",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 66,
+    "Creature": "Matsero Janush",
+    "Condition": "Sleep",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 67,
+    "Creature": "Matsero Janush",
+    "Condition": "ability score damage",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 68,
+    "Creature": "Matsero Janush",
+    "Condition": "drain",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 69,
+    "Creature": "Matsero Janush",
+    "Condition": "Spell - Magic Missile",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 70,
+    "Creature": "Matsero Janush",
+    "Condition": "Petrified",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 71,
+    "Creature": "Moray",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 72,
+    "Creature": "Moray",
+    "Condition": "Difficult Terrain",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 73,
+    "Creature": "Greater Tatzlwyrm",
+    "Condition": "Sleep",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 74,
+    "Creature": "Greater Tatzlwyrm",
+    "Condition": "Paralyzed",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 75,
+    "Creature": "Ravan Swarm",
+    "Condition": null,
+    "CondtionGroup": "Swarm Immunities"
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "ID": 1,
+    "Creature": "Quickspider",
+    "Ability": "Evasion",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 2,
+    "Creature": "Nympth",
+    "Ability": "Blinding Beauty",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 3,
+    "Creature": "Quickwood",
+    "Ability": "Lunge",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 4,
+    "Creature": "Wild Hunt Archer",
+    "Ability": "Wild Gaze",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 5,
+    "Creature": "Trollhound",
+    "Ability": "Regeneration",
+    "Amount": 5,
+    "DamageType1": "Fire",
+    "DamageType2": "Acid"
+  },
+  {
+    "ID": 6,
+    "Creature": "Thickskin Tribe King Itshar",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 7,
+    "Creature": "Thickskin Tribe King Itshar",
+    "Ability": "Inspire Ferocity",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 8,
+    "Creature": "Thickskin Tribe Queen Reshia",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 9,
+    "Creature": "Thickskin Tribe Queen Reshia",
+    "Ability": "Inspire Ferocity",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 10,
+    "Creature": "Poisonous Primal Doomhydra",
+    "Ability": "Fast Healing",
+    "Amount": 12,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 11,
+    "Creature": "Bandit 8 Fighter",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 12,
+    "Creature": "Bandit 8 Fighter",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 13,
+    "Creature": "Bandit 8 Rogue",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 14,
+    "Creature": "Technic League's Alchemist",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 15,
+    "Creature": "Technic League's Archer",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 16,
+    "Creature": "Technic League's Archer",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 17,
+    "Creature": "Technic League's Cleric",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 18,
+    "Creature": "Technic League's Fighter",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 19,
+    "Creature": "Technic League's Bard",
+    "Ability": "Inspired Courage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 20,
+    "Creature": "Venomanticore",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 21,
+    "Creature": "Green Dweomanticore",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 22,
+    "Creature": "Moray",
+    "Ability": "Beguiling Aura",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 23,
+    "Creature": "Ferocious Trollhound",
+    "Ability": "Regeneration",
+    "Amount": 3,
+    "DamageType1": "Fire",
+    "DamageType2": "Acid"
+  },
+  {
+    "ID": 24,
+    "Creature": "Athach",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 25,
+    "Creature": "Athach",
+    "Ability": "Lunge",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 26,
+    "Creature": "Spriggan Savage",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 27,
+    "Creature": "Spriggan Rogue",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 28,
+    "Creature": "Spriggan Raider",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 29,
+    "Creature": "Spriggan Skilled Crossbowman",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 30,
+    "Creature": "Spriggan Skilled Crossbowman",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 31,
+    "Creature": "Spriggan Fighter",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 32,
+    "Creature": "Spriggan Dodgy Crossbowman",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 33,
+    "Creature": "Spriggan Dodgy Crossbowman",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 34,
+    "Creature": "Agai",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  }
+]

@@ -1,0 +1,672 @@
+[
+  {
+    "ID": 1,
+    "Name": "Ancient Roc RS",
+    "Memo": ""
+  },
+  {
+    "ID": 2,
+    "Name": "Fake Stag Lord RS",
+    "Memo": ""
+  },
+  {
+    "ID": 3,
+    "Name": "Fake Stag Lord Comrade Fighter RS",
+    "Memo": ""
+  },
+  {
+    "ID": 4,
+    "Name": "Fake Stag Lord Comrade Rogue RS",
+    "Memo": ""
+  },
+  {
+    "ID": 5,
+    "Name": "Fake Stag Lord Comrade Cleric RS",
+    "Memo": ""
+  },
+  {
+    "ID": 6,
+    "Name": "Fake Stag Lord Comrade Wizard RS",
+    "Memo": ""
+  },
+  {
+    "ID": 8,
+    "Name": "Golbin Horseslayer RS",
+    "Memo": ""
+  },
+  {
+    "ID": 7,
+    "Name": "Golbin Roc Eye RS",
+    "Memo": ""
+  },
+  {
+    "ID": 9,
+    "Name": "Golbin Sneak RS",
+    "Memo": ""
+  },
+  {
+    "ID": 10,
+    "Name": "Poisonous Hydra Standard RS",
+    "Memo": ""
+  },
+  {
+    "ID": 11,
+    "Name": "Primal Hydra Standard RS",
+    "Memo": ""
+  },
+  {
+    "ID": 12,
+    "Name": "Golbin Horsereaper RS",
+    "Memo": ""
+  },
+  {
+    "ID": 13,
+    "Name": "Goblin Arch-chemist RS",
+    "Memo": ""
+  },
+  {
+    "ID": 14,
+    "Name": "Lamashtu_Cultist_1 RS",
+    "Memo": ""
+  },
+  {
+    "ID": 15,
+    "Name": "Lamashtu_Cultist_2 RS",
+    "Memo": ""
+  },
+  {
+    "ID": 16,
+    "Name": "Priest of Lamashtu RS",
+    "Memo": ""
+  },
+  {
+    "ID": 17,
+    "Name": "Gobllin Sneakwhack RS",
+    "Memo": ""
+  },
+  {
+    "ID": 18,
+    "Name": "Gobllin Commando Commander RS",
+    "Memo": ""
+  },
+  {
+    "ID": 19,
+    "Name": "Goblin Dogcutter RS",
+    "Memo": ""
+  },
+  {
+    "ID": 20,
+    "Name": "Goblin Soldier RS",
+    "Memo": ""
+  },
+  {
+    "ID": 21,
+    "Name": "Goblin Alchemist Master RS",
+    "Memo": ""
+  },
+  {
+    "ID": 22,
+    "Name": "Goblin Alchemist Expert RS",
+    "Memo": ""
+  },
+  {
+    "ID": 23,
+    "Name": "Goblin Shaman RS",
+    "Memo": ""
+  },
+  {
+    "ID": 24,
+    "Name": "Gobllin Sentry RS",
+    "Memo": ""
+  },
+  {
+    "ID": 25,
+    "Name": "Gobllin Sly Eye RS",
+    "Memo": ""
+  },
+  {
+    "ID": 26,
+    "Name": "Goblin King RS",
+    "Memo": ""
+  },
+  {
+    "ID": 27,
+    "Name": "Goblin Smart Eye RS",
+    "Memo": ""
+  },
+  {
+    "ID": 28,
+    "Name": "Goblin Alchemist RS",
+    "Memo": ""
+  },
+  {
+    "ID": 29,
+    "Name": "Goblin Dogreaper RS",
+    "Memo": ""
+  },
+  {
+    "ID": 30,
+    "Name": "Wyvern Meat",
+    "Memo": ""
+  },
+  {
+    "ID": 31,
+    "Name": "Gobllin Lynx Eye RS",
+    "Memo": ""
+  },
+  {
+    "ID": 32,
+    "Name": "Guard 1 RS",
+    "Memo": ""
+  },
+  {
+    "ID": 33,
+    "Name": "Meat",
+    "Memo": ""
+  },
+  {
+    "ID": 34,
+    "Name": "Gobllin Falcon Eye RS",
+    "Memo": ""
+  },
+  {
+    "ID": 35,
+    "Name": "1d6 Hydra Eyes",
+    "Memo": ""
+  },
+  {
+    "ID": 36,
+    "Name": "Hydra Eye",
+    "Memo": ""
+  },
+  {
+    "ID": 37,
+    "Name": "Redcap RS",
+    "Memo": "Bloodstone"
+  },
+  {
+    "ID": 38,
+    "Name": "Redcap Trickster RS",
+    "Memo": "Green Quartz\n20 Coin"
+  },
+  {
+    "ID": 39,
+    "Name": "Giant Spider Lag",
+    "Memo": ""
+  },
+  {
+    "ID": 40,
+    "Name": "Wand of Lighting Bolt",
+    "Memo": ""
+  },
+  {
+    "ID": 41,
+    "Name": "Belt of Physical Form +4",
+    "Memo": ""
+  },
+  {
+    "ID": 42,
+    "Name": "Melted Shard of a Ring",
+    "Memo": ""
+  },
+  {
+    "ID": 43,
+    "Name": "Womb of Lamashtu Treasure B",
+    "Memo": ""
+  },
+  {
+    "ID": 44,
+    "Name": "1d3-1 Giant Spider Lag",
+    "Memo": ""
+  },
+  {
+    "ID": 45,
+    "Name": "Mysterious Bird",
+    "Memo": ""
+  },
+  {
+    "ID": 46,
+    "Name": "1d3 Fruits",
+    "Memo": ""
+  },
+  {
+    "ID": 47,
+    "Name": "Enlarged Owlbear-Like Treant RS",
+    "Memo": ""
+  },
+  {
+    "ID": 48,
+    "Name": "Other World B Boss Treasure",
+    "Memo": ""
+  },
+  {
+    "ID": 49,
+    "Name": "1d3 Hydra Eyes",
+    "Memo": ""
+  },
+  {
+    "ID": 50,
+    "Name": "Cypress Queen's Crown",
+    "Memo": ""
+  },
+  {
+    "ID": 51,
+    "Name": "Womb of Lamashtu Treasure F",
+    "Memo": ""
+  },
+  {
+    "ID": 52,
+    "Name": "Chainshirt",
+    "Memo": ""
+  },
+  {
+    "ID": 53,
+    "Name": "MLS + BP",
+    "Memo": ""
+  },
+  {
+    "ID": 54,
+    "Name": "Weretiger_Inquisitor RS",
+    "Memo": ""
+  },
+  {
+    "ID": 55,
+    "Name": "Dwarven Champion's Helmet",
+    "Memo": ""
+  },
+  {
+    "ID": 56,
+    "Name": "Dart +3",
+    "Memo": ""
+  },
+  {
+    "ID": 57,
+    "Name": "SS + LA",
+    "Memo": ""
+  },
+  {
+    "ID": 58,
+    "Name": "Wererat_8_Alchemist RS",
+    "Memo": ""
+  },
+  {
+    "ID": 59,
+    "Name": "Cyclops RS",
+    "Memo": ""
+  },
+  {
+    "ID": 60,
+    "Name": "Random Jewelry",
+    "Memo": ""
+  },
+  {
+    "ID": 61,
+    "Name": "Ring of Luck",
+    "Memo": ""
+  },
+  {
+    "ID": 62,
+    "Name": "Tenebrous Depth III Treasure D",
+    "Memo": ""
+  },
+  {
+    "ID": 63,
+    "Name": "Flaming Fail +2",
+    "Memo": ""
+  },
+  {
+    "ID": 64,
+    "Name": "The Weary Traveler RS",
+    "Memo": ""
+  },
+  {
+    "ID": 65,
+    "Name": "CSB + D + SL",
+    "Memo": "Composite Showbow + Dagger + Studded Leather"
+  },
+  {
+    "ID": 66,
+    "Name": "Tenebrous Depth IV Treasure E",
+    "Memo": ""
+  },
+  {
+    "ID": 67,
+    "Name": "Dagger",
+    "Memo": ""
+  },
+  {
+    "ID": 68,
+    "Name": "Shortbow",
+    "Memo": ""
+  },
+  {
+    "ID": 69,
+    "Name": "Masterwork Sortsword",
+    "Memo": ""
+  },
+  {
+    "ID": 70,
+    "Name": "Satyr RS",
+    "Memo": ""
+  },
+  {
+    "ID": 71,
+    "Name": "Satyr Archer RS",
+    "Memo": ""
+  },
+  {
+    "ID": 72,
+    "Name": "Dyrad RS",
+    "Memo": ""
+  },
+  {
+    "ID": 73,
+    "Name": "Headband of Inspired Wisdom +2",
+    "Memo": ""
+  },
+  {
+    "ID": 74,
+    "Name": "Masterwork Dagger",
+    "Memo": ""
+  },
+  {
+    "ID": 75,
+    "Name": "4 Random Jewelry",
+    "Memo": ""
+  },
+  {
+    "ID": 76,
+    "Name": "Tenebrous Depth IV Treasure B",
+    "Memo": ""
+  },
+  {
+    "ID": 77,
+    "Name": "Death From Afar",
+    "Memo": ""
+  },
+  {
+    "ID": 78,
+    "Name": "Composite Longbow",
+    "Memo": ""
+  },
+  {
+    "ID": 79,
+    "Name": "Recap Savage RS",
+    "Memo": ""
+  },
+  {
+    "ID": 80,
+    "Name": "Money and Valuables",
+    "Memo": "調查中"
+  },
+  {
+    "ID": 81,
+    "Name": "Random Scroll",
+    "Memo": ""
+  },
+  {
+    "ID": 82,
+    "Name": "Kobold Boomsayer RS",
+    "Memo": ""
+  },
+  {
+    "ID": 83,
+    "Name": "MSS + LS + BP",
+    "Memo": "Masterwork Shortsowrd + Light Shield + Breastplate"
+  },
+  {
+    "ID": 84,
+    "Name": "Kobold Dragon Shaman RS",
+    "Memo": ""
+  },
+  {
+    "ID": 85,
+    "Name": "Masterwork Longbow",
+    "Memo": ""
+  },
+  {
+    "ID": 86,
+    "Name": "Athlete's Gloves",
+    "Memo": ""
+  },
+  {
+    "ID": 87,
+    "Name": "Tenebrous Depth VII Treasure B",
+    "Memo": ""
+  },
+  {
+    "ID": 88,
+    "Name": "The Fallen Priestess RS",
+    "Memo": ""
+  },
+  {
+    "ID": 89,
+    "Name": "Judgemental Gaze",
+    "Memo": ""
+  },
+  {
+    "ID": 90,
+    "Name": "Bracers of Armor +6",
+    "Memo": ""
+  },
+  {
+    "ID": 91,
+    "Name": "MSS + LS + LA",
+    "Memo": "Masterwork Shortsowrd + Light Shield + Leather Armor"
+  },
+  {
+    "ID": 92,
+    "Name": "Thickskin Tribe King Itshar RS",
+    "Memo": ""
+  },
+  {
+    "ID": 93,
+    "Name": "Thickskin Tribe Queen Reshia RS",
+    "Memo": ""
+  },
+  {
+    "ID": 94,
+    "Name": "Lady of Shallows RS",
+    "Memo": ""
+  },
+  {
+    "ID": 95,
+    "Name": "3 Hydra Eye",
+    "Memo": ""
+  },
+  {
+    "ID": 96,
+    "Name": "Dappled Qugmire Treasure",
+    "Memo": ""
+  },
+  {
+    "ID": 97,
+    "Name": "Bridge Over The Gudrin River Cave Treasure",
+    "Memo": ""
+  },
+  {
+    "ID": 98,
+    "Name": "Poacher Brawler RS",
+    "Memo": ""
+  },
+  {
+    "ID": 99,
+    "Name": "Poacher Alchemist RS",
+    "Memo": ""
+  },
+  {
+    "ID": 100,
+    "Name": "Fionn RS",
+    "Memo": ""
+  },
+  {
+    "ID": 101,
+    "Name": "Sartayne RS",
+    "Memo": ""
+  },
+  {
+    "ID": 102,
+    "Name": "2 MD + CS + RP1",
+    "Memo": "2 Masterwork Dagger + Chainshirt + Ring of Protection +1\n"
+  },
+  {
+    "ID": 103,
+    "Name": "Bandit 8 Fighter RS",
+    "Memo": "Some Coin + Composite Longbow + Chainshirt\n\n(6, 13)"
+  },
+  {
+    "ID": 104,
+    "Name": "RS + MLC",
+    "Memo": "Random Scroll + Masterwork Light Crossbow\n\n(Protection from Cold)"
+  },
+  {
+    "ID": 105,
+    "Name": "Random Coins",
+    "Memo": ""
+  },
+  {
+    "ID": 106,
+    "Name": "Greater Cyclops RS",
+    "Memo": ""
+  },
+  {
+    "ID": 107,
+    "Name": "Saint Galvan's Gullet Treasure A",
+    "Memo": ""
+  },
+  {
+    "ID": 108,
+    "Name": "Tenacious Marsh Treasure A",
+    "Memo": ""
+  },
+  {
+    "ID": 109,
+    "Name": "Ferocious Devourer RS",
+    "Memo": ""
+  },
+  {
+    "ID": 110,
+    "Name": "Technic League's Alchemist RS",
+    "Memo": ""
+  },
+  {
+    "ID": 111,
+    "Name": "Technic League's Conjurer RS",
+    "Memo": ""
+  },
+  {
+    "ID": 112,
+    "Name": "Technic League's Archer RS",
+    "Memo": ""
+  },
+  {
+    "ID": 113,
+    "Name": "Technic League's Rogue RS",
+    "Memo": ""
+  },
+  {
+    "ID": 115,
+    "Name": "Technic League's Cleric RS",
+    "Memo": ""
+  },
+  {
+    "ID": 116,
+    "Name": "MLS + HS + BP",
+    "Memo": "Masterwork Longsword + Heavy Shield + Breastplate"
+  },
+  {
+    "ID": 117,
+    "Name": "Technic League's Bard RS",
+    "Memo": ""
+  },
+  {
+    "ID": 118,
+    "Name": "Technic League Hideout Treasure A",
+    "Memo": ""
+  },
+  {
+    "ID": 119,
+    "Name": "Moray RS",
+    "Memo": ""
+  },
+  {
+    "ID": 120,
+    "Name": "Adamantine Shield Fortress Treasure A",
+    "Memo": ""
+  },
+  {
+    "ID": 121,
+    "Name": "Empty Skull Rock Treasure B",
+    "Memo": ""
+  },
+  {
+    "ID": 122,
+    "Name": "Leather Armor",
+    "Memo": ""
+  },
+  {
+    "ID": 123,
+    "Name": "Ancient Cyclops Coin",
+    "Memo": ""
+  },
+  {
+    "ID": 124,
+    "Name": "Vengeance of the Meek",
+    "Memo": ""
+  },
+  {
+    "ID": 125,
+    "Name": "Spriggan Savage RS",
+    "Memo": ""
+  },
+  {
+    "ID": 126,
+    "Name": "Spriggan Rogue RS",
+    "Memo": ""
+  },
+  {
+    "ID": 127,
+    "Name": "Varnhold Treasure C",
+    "Memo": ""
+  },
+  {
+    "ID": 128,
+    "Name": "Spriggan Raider RS",
+    "Memo": ""
+  },
+  {
+    "ID": 129,
+    "Name": "Spriggan Skilled Crossbowman RS",
+    "Memo": ""
+  },
+  {
+    "ID": 130,
+    "Name": "Spriggan Fighter RS",
+    "Memo": ""
+  },
+  {
+    "ID": 131,
+    "Name": "Spriggan Dodgy Crossbowman RS",
+    "Memo": ""
+  },
+  {
+    "ID": 132,
+    "Name": "Spriggan Crossbowman RS",
+    "Memo": ""
+  },
+  {
+    "ID": 133,
+    "Name": "Sweet Syrup",
+    "Memo": ""
+  },
+  {
+    "ID": 134,
+    "Name": "Wand of Displacement",
+    "Memo": ""
+  },
+  {
+    "ID": 135,
+    "Name": "Varnhold Stockade Treasure Agai",
+    "Memo": ""
+  }
+]

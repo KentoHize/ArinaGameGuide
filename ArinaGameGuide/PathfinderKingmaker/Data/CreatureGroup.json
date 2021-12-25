@@ -1,0 +1,849 @@
+[
+  {
+    "ID": 1,
+    "Name": "Primal Giant Spider + Spider Swarm",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 2,
+    "Name": "Talon Peak Bandit Group",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 3,
+    "Name": "Talon Boss",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 4,
+    "Name": "Lonely Barrow Ancient Golems",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 5,
+    "Name": "Fake Stag Lord and His Companion",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 6,
+    "Name": "Gurdin River Goblin Group A",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 7,
+    "Name": "Goblin Village Goblin Guards",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 8,
+    "Name": "Lamashtu's Cultist Group At Shrine",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 9,
+    "Name": "Goblin Fort Group A",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 10,
+    "Name": "Goblin Fort Group B",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 11,
+    "Name": "Goblin Fort Group C",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 12,
+    "Name": "Goblin Fort Group D",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 13,
+    "Name": "Goblin Fort Group E",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 14,
+    "Name": "Goblin Fort Group F",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 15,
+    "Name": "Goblin Fort Group G",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 16,
+    "Name": "Goblin Fort Group H",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 17,
+    "Name": "Goblin Fort Group Boss",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 18,
+    "Name": "Goblin Fort Group Bloom",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 19,
+    "Name": "Womb of Lamashtu Goblin Group",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 20,
+    "Name": "Capital Square Bloom Group A",
+    "Place": "Capital Square B",
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 21,
+    "Name": "Capital Square Bloom Group B",
+    "Place": "Capital Square B",
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 22,
+    "Name": "Capital Square Bloom Group C",
+    "Place": "Capital Square B",
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 23,
+    "Name": "Capital Square Bloom Greater Primal Owlbear",
+    "Place": "Capital Square B",
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 24,
+    "Name": "Capital Square Bloom Group D",
+    "Place": "Capital Square B",
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 25,
+    "Name": "Capital Square Bloom Group E",
+    "Place": "Capital Square B",
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 26,
+    "Name": "Womb of Lamashtu Group A",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 27,
+    "Name": "Womb of Lamashtu Group B",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 28,
+    "Name": "Womb of Lamashtu Group C",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 29,
+    "Name": "Womb of Lamashtu Group D",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 30,
+    "Name": "Womb of Lamashtu Group E",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 31,
+    "Name": "Womb of Lamashtu Group F",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 32,
+    "Name": "Womb of Lamashtu Group G",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 33,
+    "Name": "Womb of Lamashtu Group H",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 34,
+    "Name": "Womb of Lamashtu Group I",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 35,
+    "Name": "Other World A Group A",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 36,
+    "Name": "Other World A Group B",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 37,
+    "Name": "Other World A Group C",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 38,
+    "Name": "Other World A Group D",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 39,
+    "Name": "Other World A Group E",
+    "Place": "Other World A",
+    "Position": "South",
+    "Memo": ""
+  },
+  {
+    "ID": 40,
+    "Name": "Other World A Group F",
+    "Place": "Other World A",
+    "Position": "North West",
+    "Memo": ""
+  },
+  {
+    "ID": 41,
+    "Name": "Other World A Group G",
+    "Place": "Other World A",
+    "Position": "East",
+    "Memo": "2 Doomspider will appear after"
+  },
+  {
+    "ID": 42,
+    "Name": "Other World A Group H",
+    "Place": "Other World A",
+    "Position": "North",
+    "Memo": ""
+  },
+  {
+    "ID": 43,
+    "Name": "Other World B Group A",
+    "Place": "Other World B",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 44,
+    "Name": "Other World B Group B",
+    "Place": "Other World B",
+    "Position": "East",
+    "Memo": ""
+  },
+  {
+    "ID": 45,
+    "Name": "Other World B Group C",
+    "Place": "Other World B",
+    "Position": "West",
+    "Memo": ""
+  },
+  {
+    "ID": 46,
+    "Name": "Other World B Boss",
+    "Place": "Other World B",
+    "Position": "West",
+    "Memo": ""
+  },
+  {
+    "ID": 47,
+    "Name": "Other World A Boss",
+    "Place": "Other World A",
+    "Position": "North",
+    "Memo": ""
+  },
+  {
+    "ID": 48,
+    "Name": "Other World Flower Fight",
+    "Place": "Other World A",
+    "Position": "North",
+    "Memo": ""
+  },
+  {
+    "ID": 49,
+    "Name": "Womb of Lamashtu Flower Fight Wave 1",
+    "Place": "Womb of Lamashtu",
+    "Position": "South",
+    "Memo": ""
+  },
+  {
+    "ID": 50,
+    "Name": "Womb of Lamashtu Flower Fight Wave 2",
+    "Place": "Womb of Lamashtu",
+    "Position": "South",
+    "Memo": ""
+  },
+  {
+    "ID": 51,
+    "Name": "Womb of Lamashtu Flower Fight Wave 3",
+    "Place": "Womb of Lamashtu",
+    "Position": "South",
+    "Memo": ""
+  },
+  {
+    "ID": 52,
+    "Name": "Tenebrous Depth II Group A",
+    "Place": "Tenebrous Depth II",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 53,
+    "Name": "Tenebrous Depth II Group B",
+    "Place": "Tenebrous Depth II",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 54,
+    "Name": "Tenebrous Depth II Group C",
+    "Place": "Tenebrous Depth II",
+    "Position": "North East",
+    "Memo": ""
+  },
+  {
+    "ID": 55,
+    "Name": "Tenebrous Depth II Group D",
+    "Place": "Tenebrous Depth II",
+    "Position": "North East",
+    "Memo": ""
+  },
+  {
+    "ID": 56,
+    "Name": "Tenebrous Depth II Group E",
+    "Place": "Tenebrous Depth II",
+    "Position": "North",
+    "Memo": ""
+  },
+  {
+    "ID": 57,
+    "Name": "Tenebrous Depth II Group F",
+    "Place": "Tenebrous Depth II",
+    "Position": "East",
+    "Memo": ""
+  },
+  {
+    "ID": 58,
+    "Name": "Tenebrous Depth III Group A",
+    "Place": "Tenebrous Depth III",
+    "Position": "South West",
+    "Memo": ""
+  },
+  {
+    "ID": 59,
+    "Name": "Tenebrous Depth III Group B",
+    "Place": "Tenebrous Depth III",
+    "Position": "North West",
+    "Memo": ""
+  },
+  {
+    "ID": 60,
+    "Name": "Tenebrous Depth III Group C",
+    "Place": "Tenebrous Depth III",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 61,
+    "Name": "Tenebrous Depth III Group D",
+    "Place": "Tenebrous Depth III",
+    "Position": "South East",
+    "Memo": ""
+  },
+  {
+    "ID": 62,
+    "Name": "Tenebrous Depth III Group E",
+    "Place": "Tenebrous Depth III",
+    "Position": "South",
+    "Memo": ""
+  },
+  {
+    "ID": 63,
+    "Name": "Tenebrous Depth IV Group A",
+    "Place": "Tenebrous Depth IV",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 64,
+    "Name": "Tenebrous Depth IV Group B",
+    "Place": "Tenebrous Depth IV",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 65,
+    "Name": "Tenebrous Depth IV Group C",
+    "Place": "Tenebrous Depth IV",
+    "Position": "North",
+    "Memo": ""
+  },
+  {
+    "ID": 66,
+    "Name": "Tenebrous Depth IV Group D",
+    "Place": "Tenebrous Depth IV",
+    "Position": "North",
+    "Memo": ""
+  },
+  {
+    "ID": 67,
+    "Name": "Tenebrous Depth IV The Weary Traveler",
+    "Place": "Tenebrous Depth IV",
+    "Position": "North",
+    "Memo": ""
+  },
+  {
+    "ID": 68,
+    "Name": "Tenebrous Depth IV Group E",
+    "Place": "Tenebrous Depth IV",
+    "Position": "North East",
+    "Memo": ""
+  },
+  {
+    "ID": 69,
+    "Name": "Tenebrous Depth V Group A",
+    "Place": "Tenebrous Depth V",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 70,
+    "Name": "Tenebrous Depth V Group B",
+    "Place": "Tenebrous Depth V",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 71,
+    "Name": "Tenebrous Depth V Group C",
+    "Place": "Tenebrous Depth V",
+    "Position": "North East",
+    "Memo": ""
+  },
+  {
+    "ID": 72,
+    "Name": "Tenebrous Depth V Group D",
+    "Place": "Tenebrous Depth V",
+    "Position": "North East",
+    "Memo": ""
+  },
+  {
+    "ID": 73,
+    "Name": "Tenebrous Depth VI Group A",
+    "Place": "Tenebrous Depth VI",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 74,
+    "Name": "Tenebrous Depth VI Group B",
+    "Place": "Tenebrous Depth VI",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 75,
+    "Name": "Tenebrous Depth VI Group C",
+    "Place": "Tenebrous Depth VI",
+    "Position": "West",
+    "Memo": "Very Hard(Wild Gaze)"
+  },
+  {
+    "ID": 76,
+    "Name": "Tenebrous Depth VI Group D",
+    "Place": "Tenebrous Depth VI",
+    "Position": "South",
+    "Memo": ""
+  },
+  {
+    "ID": 77,
+    "Name": "Tenebrous Depth VI Group E",
+    "Place": "Tenebrous Depth VI",
+    "Position": "South West",
+    "Memo": ""
+  },
+  {
+    "ID": 78,
+    "Name": "Tenebrous Depth VII Group A",
+    "Place": "Tenebrous Depth VII",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 79,
+    "Name": "Tenebrous Depth VII Group B",
+    "Place": "Tenebrous Depth VII",
+    "Position": "North",
+    "Memo": ""
+  },
+  {
+    "ID": 80,
+    "Name": "Tenebrous Depth VII Group C",
+    "Place": "Tenebrous Depth VII",
+    "Position": "West",
+    "Memo": ""
+  },
+  {
+    "ID": 81,
+    "Name": "Tenebrous Depth VII Group D",
+    "Place": "Tenebrous Depth VII",
+    "Position": "East",
+    "Memo": ""
+  },
+  {
+    "ID": 82,
+    "Name": "Tenebrous Depth VII Group E",
+    "Place": "Tenebrous Depth VII",
+    "Position": "South West",
+    "Memo": ""
+  },
+  {
+    "ID": 83,
+    "Name": "Tenebrous Depth VIII Group A",
+    "Place": "Tenebrous Depth VIII",
+    "Position": "North",
+    "Memo": ""
+  },
+  {
+    "ID": 84,
+    "Name": "Tenebrous Depth VIII Group B",
+    "Place": "Tenebrous Depth VIII",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 85,
+    "Name": "Tenebrous Depth VIII Group C",
+    "Place": "Tenebrous Depth VIII",
+    "Position": "South East",
+    "Memo": ""
+  },
+  {
+    "ID": 86,
+    "Name": "Tenebrous Depth VIII The Fallen Priestess",
+    "Place": "Tenebrous Depth VIII",
+    "Position": "South West",
+    "Memo": ""
+  },
+  {
+    "ID": 87,
+    "Name": "Tenebrous Depth VIII Group D",
+    "Place": "Tenebrous Depth VIII",
+    "Position": "North West",
+    "Memo": ""
+  },
+  {
+    "ID": 88,
+    "Name": "Baneful Bog Group A",
+    "Place": "Baneful Bog",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 89,
+    "Name": "Rill-and-Spill Deeper Group A",
+    "Place": "Rill-and-Spill Deeper",
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 90,
+    "Name": "Poisonous Shambling Mound Group A",
+    "Place": "Dappled Qugmire",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 91,
+    "Name": "Bridge Over The Gudrin River Grag Linnorm",
+    "Place": "Bridge Over The Gudrin River",
+    "Position": "Deep Floor 1",
+    "Memo": ""
+  },
+  {
+    "ID": 92,
+    "Name": "Lizzard Skin Poacher Group",
+    "Place": "Poacher's Hideout",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 93,
+    "Name": "Six Bears Camp Fionn",
+    "Place": "Six Bears Camp",
+    "Position": "North East",
+    "Memo": ""
+  },
+  {
+    "ID": 94,
+    "Name": "Sartayne",
+    "Place": "Capital Square A",
+    "Position": "Deep Floor 1",
+    "Memo": ""
+  },
+  {
+    "ID": 95,
+    "Name": "Technic League Encampent Varrask Task\n",
+    "Place": null,
+    "Position": null,
+    "Memo": ""
+  },
+  {
+    "ID": 96,
+    "Name": "Saint Galvan's Gullet Group A",
+    "Place": "Saint Galvan's Gullet",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 98,
+    "Name": "Brown Baldhead Group A",
+    "Place": "Brown Baldhead",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 99,
+    "Name": "Tenacious Marsh Group A",
+    "Place": "Tenacious Marsh",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 100,
+    "Name": "Swamp Ruins Group A",
+    "Place": "Swamp Ruins",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 101,
+    "Name": "Technic League Hideout Group A",
+    "Place": "Technic League Hideout",
+    "Position": "North East",
+    "Memo": ""
+  },
+  {
+    "ID": 102,
+    "Name": "Technic League Hideout Group B",
+    "Place": "Technic League Hideout",
+    "Position": "North West",
+    "Memo": ""
+  },
+  {
+    "ID": 103,
+    "Name": "Technic League Hideout Group C",
+    "Place": "Technic League Hideout",
+    "Position": "West",
+    "Memo": ""
+  },
+  {
+    "ID": 104,
+    "Name": "Technic League Hideout Group D",
+    "Place": "Technic League Hideout",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 105,
+    "Name": "Technic League Hideout Matsero Janush",
+    "Place": "Technic League Hideout",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 106,
+    "Name": "An Ancient Curse, Part Three Group A",
+    "Place": "Bald Hilltop",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 107,
+    "Name": "An Ancient Curse, Part Three Group B",
+    "Place": "Bald Hilltop",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 108,
+    "Name": "An Ancient Curse, Part Three Group C",
+    "Place": "Bald Hilltop",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 109,
+    "Name": "Empty Skull Rock Group B",
+    "Place": "Empty Skull Rock",
+    "Position": "Deep Floor 1",
+    "Memo": ""
+  },
+  {
+    "ID": 110,
+    "Name": "Dragonleaf Gulch Ollie's Event",
+    "Place": "Dragonleaf Gulch",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 111,
+    "Name": "Varnhold Group A",
+    "Place": "Varnhold",
+    "Position": "North West",
+    "Memo": ""
+  },
+  {
+    "ID": 112,
+    "Name": "Varnhold Group B",
+    "Place": "Varnhold",
+    "Position": "East",
+    "Memo": ""
+  },
+  {
+    "ID": 113,
+    "Name": "Varnhold Stockade Group A",
+    "Place": "Varnhold Stockade",
+    "Position": "South",
+    "Memo": ""
+  },
+  {
+    "ID": 114,
+    "Name": "Varnhold Stockade Group B",
+    "Place": "Varnhold Stockade",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 115,
+    "Name": "Varnhold Stockade Group C",
+    "Place": "Varnhold Stockade",
+    "Position": "South East",
+    "Memo": ""
+  },
+  {
+    "ID": 116,
+    "Name": "Varnhold Stockade Group D",
+    "Place": "Varnhold Stockade",
+    "Position": "North East",
+    "Memo": ""
+  },
+  {
+    "ID": 117,
+    "Name": "Varnhold Stockade Group E",
+    "Place": "Varnhold Stockade",
+    "Position": "North West",
+    "Memo": ""
+  },
+  {
+    "ID": 118,
+    "Name": "Varnhold Stockade Group F",
+    "Place": "Varnhold Stockade",
+    "Position": "Deep Floor 1",
+    "Memo": ""
+  },
+  {
+    "ID": 119,
+    "Name": "Varnhold Stockade Group G",
+    "Place": "Varnhold Stockade",
+    "Position": "Deep Floor 1",
+    "Memo": ""
+  },
+  {
+    "ID": 120,
+    "Name": "Varnhold Stockade Group H",
+    "Place": "Varnhold Stockade",
+    "Position": "Deep Floor 1",
+    "Memo": ""
+  },
+  {
+    "ID": 121,
+    "Name": "Varnhold Stockade Group I",
+    "Place": "Varnhold Stockade",
+    "Position": "Deep Floor 1",
+    "Memo": ""
+  },
+  {
+    "ID": 122,
+    "Name": "Varnhold Stockade Group Agai",
+    "Place": "Varnhold Stockade",
+    "Position": "Deep Floor 2",
+    "Memo": ""
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 1,
+    "Name": "None",
+    "CName": ""
+  },
+  {
+    "ID": 2,
+    "Name": "Center",
+    "CName": ""
+  },
+  {
+    "ID": 3,
+    "Name": "North",
+    "CName": ""
+  },
+  {
+    "ID": 4,
+    "Name": "South",
+    "CName": ""
+  },
+  {
+    "ID": 5,
+    "Name": "West",
+    "CName": ""
+  },
+  {
+    "ID": 6,
+    "Name": "East",
+    "CName": ""
+  },
+  {
+    "ID": 7,
+    "Name": "North West",
+    "CName": ""
+  },
+  {
+    "ID": 8,
+    "Name": "North East",
+    "CName": ""
+  },
+  {
+    "ID": 9,
+    "Name": "South West",
+    "CName": ""
+  },
+  {
+    "ID": 10,
+    "Name": "South East",
+    "CName": ""
+  },
+  {
+    "ID": 11,
+    "Name": "Deep Floor 1",
+    "CName": ""
+  },
+  {
+    "ID": 12,
+    "Name": "Deep Floor 2",
+    "CName": ""
+  },
+  {
+    "ID": 13,
+    "Name": "Deep Floor 3",
+    "CName": ""
+  }
+]

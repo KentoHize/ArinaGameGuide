@@ -1,0 +1,590 @@
+[
+  {
+    "ID": 1,
+    "Creature": "Venomhodag",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 2,
+    "Creature": "Venomhodag",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 3,
+    "Creature": "Black Dweomerowlbear",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 4,
+    "Creature": "Black Dweomerowlbear",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 5,
+    "Creature": "Redcap",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 6,
+    "Creature": "Doomspider",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 7,
+    "Creature": "Doomspider",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 8,
+    "Creature": "Primal Spider Matriarch",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 9,
+    "Creature": "Primal Spider Matriarch",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
+  },
+  {
+    "ID": 10,
+    "Creature": "Poisonous Primal Manticore",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 11,
+    "Creature": "Poisonous Primal Manticore",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
+  },
+  {
+    "ID": 12,
+    "Creature": "Enlarged Owlbear-Like Treant",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 13,
+    "Creature": "Giant Flytrap",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 20
+  },
+  {
+    "ID": 14,
+    "Creature": "Ferocious Dweomercat",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 5
+  },
+  {
+    "ID": 15,
+    "Creature": "Weretiger",
+    "Type": "DamageReduction",
+    "DamageType": "Silver",
+    "Amount": 10
+  },
+  {
+    "ID": 16,
+    "Creature": "Greater Werewolf",
+    "Type": "DamageReduction",
+    "DamageType": "Silver",
+    "Amount": 10
+  },
+  {
+    "ID": 17,
+    "Creature": "Weretiger_Inquisitor",
+    "Type": "DamageReduction",
+    "DamageType": "Silver",
+    "Amount": 10
+  },
+  {
+    "ID": 18,
+    "Creature": "Alpha Worg",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 1
+  },
+  {
+    "ID": 19,
+    "Creature": "Wererat",
+    "Type": "DamageReduction",
+    "DamageType": "Silver",
+    "Amount": 10
+  },
+  {
+    "ID": 20,
+    "Creature": "Wererat_8_Alchemist",
+    "Type": "DamageReduction",
+    "DamageType": "Silver",
+    "Amount": 10
+  },
+  {
+    "ID": 21,
+    "Creature": "Huge Water Elemental",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 5
+  },
+  {
+    "ID": 22,
+    "Creature": "Elder Water Elemental",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 10
+  },
+  {
+    "ID": 23,
+    "Creature": "Reckless Satyr Bowman",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 5
+  },
+  {
+    "ID": 24,
+    "Creature": "Movanic Deva",
+    "Type": "DamageReduction",
+    "DamageType": "Evil",
+    "Amount": 10
+  },
+  {
+    "ID": 25,
+    "Creature": "Movanic Deva",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 10
+  },
+  {
+    "ID": 26,
+    "Creature": "Movanic Deva",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 27,
+    "Creature": "Scythe Tree",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 10
+  },
+  {
+    "ID": 28,
+    "Creature": "Scythe Tree",
+    "Type": "Vulnerability",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 29,
+    "Creature": "Satyr",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 5
+  },
+  {
+    "ID": 30,
+    "Creature": "Satyr Archer",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 5
+  },
+  {
+    "ID": 31,
+    "Creature": "Dryad",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 5
+  },
+  {
+    "ID": 32,
+    "Creature": "Bear-like Treant",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 5
+  },
+  {
+    "ID": 33,
+    "Creature": "Nympth",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 34,
+    "Creature": "Wild Hunt Archer",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 35,
+    "Creature": "Wild Hunt Archer",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 10
+  },
+  {
+    "ID": 36,
+    "Creature": "Wild Hunt Archer",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 37,
+    "Creature": "Wild Hunt Archer",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 38,
+    "Creature": "Recap Savage",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 39,
+    "Creature": "Redcap Trickster",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 40,
+    "Creature": "Hodag-like Treant",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 41,
+    "Creature": "Grag Linnorm",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 42,
+    "Creature": "Grag Linnorm",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 15
+  },
+  {
+    "ID": 43,
+    "Creature": "Kobold Dragon Shaman",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 5
+  },
+  {
+    "ID": 44,
+    "Creature": "Gargoyle",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
+  },
+  {
+    "ID": 45,
+    "Creature": "Ghostly Mage Guard",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 46,
+    "Creature": "Ghost",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 47,
+    "Creature": "Ghostly Mage Guard",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
+  },
+  {
+    "ID": 48,
+    "Creature": "Ghostly Mage Guard",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 49,
+    "Creature": "Ghostly Guard",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 50,
+    "Creature": "The Fallen Priestess",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 10
+  },
+  {
+    "ID": 51,
+    "Creature": "Thickskin Tribe Queen Reshia",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 3
+  },
+  {
+    "ID": 52,
+    "Creature": "Lady of Shallows",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 53,
+    "Creature": "Lady of Shallows",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 54,
+    "Creature": "Poisonous Shambling Mound",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 10
+  },
+  {
+    "ID": 55,
+    "Creature": "Poisonous Shambling Mound",
+    "Type": "Immunity",
+    "DamageType": "Electricity",
+    "Amount": null
+  },
+  {
+    "ID": 56,
+    "Creature": "Nixie Prankster",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 5
+  },
+  {
+    "ID": 57,
+    "Creature": "Poisonous Primal Doomhydra",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 58,
+    "Creature": "Poisonous Primal Doomhydra",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
+  },
+  {
+    "ID": 59,
+    "Creature": "Poisonous Primal Doomhydra",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 60,
+    "Creature": "Poisonous Primal Doomhydra",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 61,
+    "Creature": "Grag Linnorm 16 Dragon",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 62,
+    "Creature": "Grag Linnorm 16 Dragon",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 15
+  },
+  {
+    "ID": 63,
+    "Creature": "Nightmare Skeleton Soldier",
+    "Type": "DamageReduction",
+    "DamageType": "Bludgeon",
+    "Amount": 5
+  },
+  {
+    "ID": 64,
+    "Creature": "Nightmare Skeleton Soldier",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 65,
+    "Creature": "Nightmare Skeleton Soldier",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 66,
+    "Creature": "Fionn",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 67,
+    "Creature": "Fionn",
+    "Type": "Vulnerability",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 68,
+    "Creature": "Acid-imbued Giant Slug",
+    "Type": "DamageReduction",
+    "DamageType": "Slash/Pierce",
+    "Amount": 10
+  },
+  {
+    "ID": 69,
+    "Creature": "Acid-imbued Giant Slug",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 10
+  },
+  {
+    "ID": 70,
+    "Creature": "Elder Air Elemental",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 10
+  },
+  {
+    "ID": 71,
+    "Creature": "Venomanticore",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 72,
+    "Creature": "Venomanticore",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 73,
+    "Creature": "Green Dweomanticore",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 74,
+    "Creature": "Green Dweomanticore",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 75,
+    "Creature": "Moray",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 76,
+    "Creature": "Moray",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 77,
+    "Creature": "Athach",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 78,
+    "Creature": "Spriggan Savage",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 4
+  },
+  {
+    "ID": 79,
+    "Creature": "Spriggan Savage",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 4
+  },
+  {
+    "ID": 80,
+    "Creature": "Spriggan Savage",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 3
+  },
+  {
+    "ID": 81,
+    "Creature": "Ravan Swarm",
+    "Type": "Vulnerability",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 82,
+    "Creature": "Agai",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 21
+  },
+  {
+    "ID": 83,
+    "Creature": "Agai",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 21
+  },
+  {
+    "ID": 84,
+    "Creature": "Agai",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 9
+  }
+]

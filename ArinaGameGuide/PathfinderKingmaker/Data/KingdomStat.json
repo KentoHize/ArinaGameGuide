@@ -1,0 +1,52 @@
+[
+  {
+    "ID": 1,
+    "Name": "Community",
+    "CName": ""
+  },
+  {
+    "ID": 2,
+    "Name": "Loyalty",
+    "CName": ""
+  },
+  {
+    "ID": 3,
+    "Name": "Military",
+    "CName": ""
+  },
+  {
+    "ID": 4,
+    "Name": "Economy",
+    "CName": ""
+  },
+  {
+    "ID": 5,
+    "Name": "Relations",
+    "CName": ""
+  },
+  {
+    "ID": 6,
+    "Name": "Divine",
+    "CName": ""
+  },
+  {
+    "ID": 7,
+    "Name": "Arcane",
+    "CName": ""
+  },
+  {
+    "ID": 8,
+    "Name": "Stability",
+    "CName": ""
+  },
+  {
+    "ID": 9,
+    "Name": "Culture",
+    "CName": ""
+  },
+  {
+    "ID": 10,
+    "Name": "Espionage",
+    "CName": ""
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "ID": 30,
+    "Name": "Simple Weapon",
+    "CName": "",
+    "MainType": "Weapon",
+    "SubType": "Simple Weapon"
+  },
+  {
+    "ID": 1,
+    "Name": "Martial Weapon",
+    "CName": "",
+    "MainType": "Weapon",
+    "SubType": "Martial Weapon"
+  },
+  {
+    "ID": 31,
+    "Name": "Exotic Weapon",
+    "CName": "",
+    "MainType": "Weapon",
+    "SubType": "Exotic Weapon"
+  },
+  {
+    "ID": 26,
+    "Name": "Cloth",
+    "CName": "",
+    "MainType": "Armor",
+    "SubType": "Cloth"
+  },
+  {
+    "ID": 25,
+    "Name": "Light Armor",
+    "CName": "",
+    "MainType": "Armor",
+    "SubType": "Light Armor"
+  },
+  {
+    "ID": 24,
+    "Name": "Medium Armor",
+    "CName": "",
+    "MainType": "Armor",
+    "SubType": "Medium Armor"
+  },
+  {
+    "ID": 2,
+    "Name": "Heavy Armor",
+    "CName": "",
+    "MainType": "Armor",
+    "SubType": "Heavy Armor"
+  },
+  {
+    "ID": 27,
+    "Name": "Light Shield",
+    "CName": "",
+    "MainType": "Shield",
+    "SubType": "Light Shield"
+  },
+  {
+    "ID": 28,
+    "Name": "Heavy Shield",
+    "CName": "",
+    "MainType": "Shield",
+    "SubType": "Heavy Shield"
+  },
+  {
+    "ID": 29,
+    "Name": "Tower Shield",
+    "CName": "",
+    "MainType": "Shield",
+    "SubType": "Tower Shield"
+  },
+  {
+    "ID": 4,
+    "Name": "Helmet",
+    "CName": "",
+    "MainType": "Accessories",
+    "SubType": "Helmet"
+  },
+  {
+    "ID": 14,
+    "Name": "Amulet",
+    "CName": "",
+    "MainType": "Accessories",
+    "SubType": "Amulet"
+  },
+  {
+    "ID": 8,
+    "Name": "Cloak",
+    "CName": "",
+    "MainType": "Accessories",
+    "SubType": "Cloak"
+  },
+  {
+    "ID": 9,
+    "Name": "Ring",
+    "CName": "",
+    "MainType": "Accessories",
+    "SubType": "Ring"
+  },
+  {
+    "ID": 13,
+    "Name": "Belt",
+    "CName": "",
+    "MainType": "Accessories",
+    "SubType": "Belt"
+  },
+  {
+    "ID": 10,
+    "Name": "Glove",
+    "CName": "",
+    "MainType": "Accessories",
+    "SubType": "Glove"
+  },
+  {
+    "ID": 11,
+    "Name": "Bracers",
+    "CName": "",
+    "MainType": "Accessories",
+    "SubType": "Bracers"
+  },
+  {
+    "ID": 12,
+    "Name": "Boots",
+    "CName": "",
+    "MainType": "Accessories",
+    "SubType": "Boots"
+  },
+  {
+    "ID": 32,
+    "Name": "Chemical",
+    "CName": "",
+    "MainType": "Usable",
+    "SubType": "Chemical"
+  },
+  {
+    "ID": 23,
+    "Name": "Oil",
+    "CName": "",
+    "MainType": "Usable",
+    "SubType": "Oil"
+  },
+  {
+    "ID": 5,
+    "Name": "Potion",
+    "CName": "",
+    "MainType": "Usable",
+    "SubType": "Potion"
+  },
+  {
+    "ID": 20,
+    "Name": "Scroll",
+    "CName": "",
+    "MainType": "Usable",
+    "SubType": "Scroll"
+  },
+  {
+    "ID": 21,
+    "Name": "Wand",
+    "CName": "",
+    "MainType": "Usable",
+    "SubType": "Wand"
+  },
+  {
+    "ID": 22,
+    "Name": "Rod",
+    "CName": "",
+    "MainType": "Usable",
+    "SubType": "Rod"
+  },
+  {
+    "ID": 39,
+    "Name": "Usable",
+    "CName": "",
+    "MainType": "Usable",
+    "SubType": "Usable"
+  },
+  {
+    "ID": 40,
+    "Name": "Recipe",
+    "CName": "",
+    "MainType": "Usable",
+    "SubType": "Recipe"
+  },
+  {
+    "ID": 6,
+    "Name": "Story Item",
+    "CName": "",
+    "MainType": "Notable",
+    "SubType": "Story Item"
+  },
+  {
+    "ID": 18,
+    "Name": "Spell Component",
+    "CName": "",
+    "MainType": "Notable",
+    "SubType": "Spell Component"
+  },
+  {
+    "ID": 19,
+    "Name": "Artifact Piece",
+    "CName": "",
+    "MainType": "Notable",
+    "SubType": "Artifact Piece"
+  },
+  {
+    "ID": 33,
+    "Name": "Collectable Item",
+    "CName": "",
+    "MainType": "Notable",
+    "SubType": "Collectable Item"
+  },
+  {
+    "ID": 38,
+    "Name": "Notable",
+    "CName": "",
+    "MainType": "Notable",
+    "SubType": "Notable"
+  },
+  {
+    "ID": 34,
+    "Name": "Magic Item",
+    "CName": "",
+    "MainType": "Other",
+    "SubType": "Magic Item"
+  },
+  {
+    "ID": 7,
+    "Name": "Key",
+    "CName": "",
+    "MainType": "Other",
+    "SubType": "Key"
+  },
+  {
+    "ID": 15,
+    "Name": "Ingredient",
+    "CName": "",
+    "MainType": "Other",
+    "SubType": "Ingredient"
+  },
+  {
+    "ID": 16,
+    "Name": "Ration",
+    "CName": "",
+    "MainType": "Other",
+    "SubType": "Ration"
+  },
+  {
+    "ID": 17,
+    "Name": "Paper/Book",
+    "CName": "",
+    "MainType": "Other",
+    "SubType": "Paper/Book"
+  },
+  {
+    "ID": 36,
+    "Name": "Jewelry",
+    "CName": "",
+    "MainType": "Other",
+    "SubType": "Jewelry"
+  },
+  {
+    "ID": 37,
+    "Name": "Household Item",
+    "CName": "",
+    "MainType": "Other",
+    "SubType": "Household Item"
+  },
+  {
+    "ID": 41,
+    "Name": "Skin",
+    "CName": "",
+    "MainType": "Other",
+    "SubType": "Skin"
+  },
+  {
+    "ID": 35,
+    "Name": "Other",
+    "CName": "",
+    "MainType": "Other",
+    "SubType": "Other"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "ID": 3,
+    "Name": "Unarmed Strike",
+    "CName": "",
+    "DamageType": "Slash/Bludgeon/Pierce"
+  },
+  {
+    "ID": 1,
+    "Name": "Bite",
+    "CName": "",
+    "DamageType": "Slash/Bludgeon/Pierce"
+  },
+  {
+    "ID": 4,
+    "Name": "Sting",
+    "CName": "",
+    "DamageType": "Pierce"
+  },
+  {
+    "ID": 5,
+    "Name": "Claw",
+    "CName": "",
+    "DamageType": "Slash/Bludgeon"
+  },
+  {
+    "ID": 11,
+    "Name": "Slam",
+    "CName": "",
+    "DamageType": "Bludgeon"
+  },
+  {
+    "ID": 9,
+    "Name": "Gore",
+    "CName": "",
+    "DamageType": "Pierce"
+  },
+  {
+    "ID": 6,
+    "Name": "Tail",
+    "CName": "",
+    "DamageType": "Bludgeon"
+  },
+  {
+    "ID": 2,
+    "Name": "Piercing Weapon",
+    "CName": "",
+    "DamageType": "Pierce"
+  },
+  {
+    "ID": 7,
+    "Name": "Slashing Weapon",
+    "CName": "",
+    "DamageType": "Slash"
+  },
+  {
+    "ID": 8,
+    "Name": "Bludgeoning Weapon",
+    "CName": "",
+    "DamageType": "Bludgeon"
+  },
+  {
+    "ID": 10,
+    "Name": "Touch",
+    "CName": "",
+    "DamageType": "None"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "ID": 1,
+    "EffectOrConditionSet": "True Seeing",
+    "EffectOrConditon": "True Seeing"
+  },
+  {
+    "ID": 2,
+    "EffectOrConditionSet": "Invisibility",
+    "EffectOrConditon": "Invisibility"
+  },
+  {
+    "ID": 3,
+    "EffectOrConditionSet": "Acidic Creature",
+    "EffectOrConditon": "Acidic Creature"
+  },
+  {
+    "ID": 4,
+    "EffectOrConditionSet": "Fiery Creature",
+    "EffectOrConditon": "Fiery Creature"
+  },
+  {
+    "ID": 5,
+    "EffectOrConditionSet": "Cold Creature",
+    "EffectOrConditon": "Cold Creature"
+  },
+  {
+    "ID": 6,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "Mind-Affecting"
+  },
+  {
+    "ID": 7,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "Fear"
+  },
+  {
+    "ID": 8,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "Compulsion"
+  },
+  {
+    "ID": 9,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "Emotion"
+  },
+  {
+    "ID": 10,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "Poison"
+  },
+  {
+    "ID": 11,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "Disease"
+  },
+  {
+    "ID": 12,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "Charmed"
+  },
+  {
+    "ID": 13,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "Dazed"
+  },
+  {
+    "ID": 14,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "Stunned"
+  },
+  {
+    "ID": 15,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "Death"
+  },
+  {
+    "ID": 16,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "Critical Hits"
+  },
+  {
+    "ID": 17,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "damage from non-magical weapons"
+  },
+  {
+    "ID": 18,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "ability score damage"
+  },
+  {
+    "ID": 19,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "drain"
+  },
+  {
+    "ID": 20,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "precision damage"
+  },
+  {
+    "ID": 21,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "Nauseated"
+  },
+  {
+    "ID": 22,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "Fatigued"
+  },
+  {
+    "ID": 23,
+    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditon": "Sickened"
+  },
+  {
+    "ID": 24,
+    "EffectOrConditionSet": "Diseased Creature",
+    "EffectOrConditon": "Diseased Creature"
+  },
+  {
+    "ID": 25,
+    "EffectOrConditionSet": "Vermin Immunities",
+    "EffectOrConditon": "Mind-Affecting"
+  },
+  {
+    "ID": 26,
+    "EffectOrConditionSet": "Vermin Immunities",
+    "EffectOrConditon": "Compulsion"
+  },
+  {
+    "ID": 27,
+    "EffectOrConditionSet": "Vermin Immunities",
+    "EffectOrConditon": "Charmed"
+  },
+  {
+    "ID": 28,
+    "EffectOrConditionSet": "Swarm Immunities",
+    "EffectOrConditon": "Critical Hits"
+  },
+  {
+    "ID": 29,
+    "EffectOrConditionSet": "Swarm Immunities",
+    "EffectOrConditon": "precision damage"
+  },
+  {
+    "ID": 30,
+    "EffectOrConditionSet": "Swarm Immunities",
+    "EffectOrConditon": "spell with a target"
+  },
+  {
+    "ID": 31,
+    "EffectOrConditionSet": "Swarm Immunities",
+    "EffectOrConditon": "halves physical damage from slashing and piercing weapon"
+  }
+]

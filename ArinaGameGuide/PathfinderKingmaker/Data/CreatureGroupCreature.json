@@ -1,0 +1,2362 @@
+[
+  {
+    "ID": 1,
+    "CreatureGroup": "Primal Giant Spider + Spider Swarm",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 2,
+    "CreatureGroup": "Primal Giant Spider + Spider Swarm",
+    "Creature": "Spider Swarm",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 3,
+    "CreatureGroup": "Talon Peak Bandit Group",
+    "Creature": "Bandit_TP_1",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 4,
+    "CreatureGroup": "Talon Peak Bandit Group",
+    "Creature": "Bandit_TP_2",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 5,
+    "CreatureGroup": "Talon Peak Bandit Group",
+    "Creature": "Bandit_TP_3",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 6,
+    "CreatureGroup": "Talon Boss",
+    "Creature": "Ancient Roc",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 7,
+    "CreatureGroup": "Lonely Barrow Ancient Golems",
+    "Creature": "Ancient Golem",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 8,
+    "CreatureGroup": "Fake Stag Lord and His Companion",
+    "Creature": "Fake Stag Lord",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 9,
+    "CreatureGroup": "Fake Stag Lord and His Companion",
+    "Creature": "Bandit_FSL_1",
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 10,
+    "CreatureGroup": "Fake Stag Lord and His Companion",
+    "Creature": "Bandit_FSL_2",
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 11,
+    "CreatureGroup": "Fake Stag Lord and His Companion",
+    "Creature": "Bandit_FSL_3",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 12,
+    "CreatureGroup": "Fake Stag Lord and His Companion",
+    "Creature": "Bandit_FSL_4",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 13,
+    "CreatureGroup": "Fake Stag Lord and His Companion",
+    "Creature": "Bandit_FSL_5",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 14,
+    "CreatureGroup": "Gurdin River Goblin Group A",
+    "Creature": "Goblin Horseslayer",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 15,
+    "CreatureGroup": "Gurdin River Goblin Group A",
+    "Creature": "Goblin Roc Eye",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 16,
+    "CreatureGroup": "Gurdin River Goblin Group A",
+    "Creature": "Goblin Sneak",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 17,
+    "CreatureGroup": "Goblin Village Goblin Guards",
+    "Creature": "Goblin Horsereaper",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 18,
+    "CreatureGroup": "Goblin Village Goblin Guards",
+    "Creature": "Goblin Arch-chemist",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 19,
+    "CreatureGroup": "Lamashtu's Cultist Group At Shrine",
+    "Creature": "Priest of Lamashtu",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 20,
+    "CreatureGroup": "Lamashtu's Cultist Group At Shrine",
+    "Creature": "Lamashtu_Cultist_1",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 21,
+    "CreatureGroup": "Lamashtu's Cultist Group At Shrine",
+    "Creature": "Lamashtu_Cultist_2",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 22,
+    "CreatureGroup": "Goblin Fort Group A",
+    "Creature": "Gobllin Sentry",
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 23,
+    "CreatureGroup": "Goblin Fort Group A",
+    "Creature": "Gobllin Lynx Eye",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 24,
+    "CreatureGroup": "Goblin Fort Group A",
+    "Creature": "Goblin Sneak",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 25,
+    "CreatureGroup": "Goblin Fort Group A",
+    "Creature": "Goblin Horsereaper",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 26,
+    "CreatureGroup": "Goblin Fort Group B",
+    "Creature": "Goblin Arch-chemist",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 27,
+    "CreatureGroup": "Goblin Fort Group B",
+    "Creature": "Gobllin Commando Commander",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 28,
+    "CreatureGroup": "Goblin Fort Group B",
+    "Creature": "Gobllin Sneakwhack",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 29,
+    "CreatureGroup": "Goblin Fort Group C",
+    "Creature": "Goblin Dogreaper",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 30,
+    "CreatureGroup": "Goblin Fort Group C",
+    "Creature": "Goblin Horsereaper",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 31,
+    "CreatureGroup": "Goblin Fort Group C",
+    "Creature": "Goblin Soldier",
+    "Quantity": 8,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 32,
+    "CreatureGroup": "Goblin Fort Group C",
+    "Creature": "Goblin Smart Eye",
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 33,
+    "CreatureGroup": "Goblin Fort Group C",
+    "Creature": "Goblin Alchemist",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 34,
+    "CreatureGroup": "Goblin Fort Group D",
+    "Creature": "Goblin Roc Eye",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 35,
+    "CreatureGroup": "Goblin Fort Group D",
+    "Creature": "Goblin Sneak",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 36,
+    "CreatureGroup": "Goblin Fort Group E",
+    "Creature": "Goblin Roc Eye",
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 37,
+    "CreatureGroup": "Goblin Fort Group E",
+    "Creature": "Goblin Sneak",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 38,
+    "CreatureGroup": "Goblin Fort Group E",
+    "Creature": "Gobllin Commando Commander",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 39,
+    "CreatureGroup": "Goblin Fort Group E",
+    "Creature": "Goblin Alchemist Master",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 40,
+    "CreatureGroup": "Goblin Fort Group E",
+    "Creature": "Goblin Soldier",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 41,
+    "CreatureGroup": "Goblin Fort Group E",
+    "Creature": "Goblin Alchemist Expert",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 42,
+    "CreatureGroup": "Goblin Fort Group E",
+    "Creature": "Goblin Dogcutter",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 44,
+    "CreatureGroup": "Goblin Fort Group F",
+    "Creature": "Dire Wolf",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 43,
+    "CreatureGroup": "Goblin Fort Group F",
+    "Creature": "Goblin Dogcutter",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 45,
+    "CreatureGroup": "Goblin Fort Group F",
+    "Creature": "Goblin Roc Eye",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 46,
+    "CreatureGroup": "Goblin Fort Group F",
+    "Creature": "Gobllin Sneakwhack",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 47,
+    "CreatureGroup": "Goblin Fort Group F",
+    "Creature": "Goblin Sneak",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 48,
+    "CreatureGroup": "Goblin Fort Group F",
+    "Creature": "Goblin Horsereaper",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 49,
+    "CreatureGroup": "Goblin Fort Group G",
+    "Creature": "Gobllin Commando Commander",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 50,
+    "CreatureGroup": "Goblin Fort Group G",
+    "Creature": "Goblin Horsereaper",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 51,
+    "CreatureGroup": "Goblin Fort Group G",
+    "Creature": "Goblin Sneak",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 52,
+    "CreatureGroup": "Goblin Fort Group G",
+    "Creature": "Goblin Arch-chemist",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 53,
+    "CreatureGroup": "Goblin Fort Group G",
+    "Creature": "Ferocious Worg",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 54,
+    "CreatureGroup": "Goblin Fort Group H",
+    "Creature": "Gobllin Commando Commander",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 55,
+    "CreatureGroup": "Goblin Fort Group H",
+    "Creature": "Gobllin Sly Eye",
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 56,
+    "CreatureGroup": "Goblin Fort Group H",
+    "Creature": "Gobllin Sentry",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 57,
+    "CreatureGroup": "Goblin Fort Group H",
+    "Creature": "Gobllin Sneakwhack",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 58,
+    "CreatureGroup": "Goblin Fort Group H",
+    "Creature": "Goblin Horsereaper",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 59,
+    "CreatureGroup": "Goblin Fort Group H",
+    "Creature": "Goblin Roc Eye",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 60,
+    "CreatureGroup": "Goblin Fort Group Boss",
+    "Creature": "Goblin Shaman",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 61,
+    "CreatureGroup": "Goblin Fort Group Boss",
+    "Creature": "Goblin King",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 62,
+    "CreatureGroup": "Goblin Fort Group Boss",
+    "Creature": "Winter Wolf",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 63,
+    "CreatureGroup": "Goblin Fort Group Boss",
+    "Creature": "Gobllin Sentry",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 64,
+    "CreatureGroup": "Goblin Fort Group Boss",
+    "Creature": "Gobllin Sly Eye",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 65,
+    "CreatureGroup": "Goblin Fort Group Bloom",
+    "Creature": "Ferocious Wyvern",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 66,
+    "CreatureGroup": "Goblin Fort Group Bloom",
+    "Creature": "Primal Manticore",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 67,
+    "CreatureGroup": "Womb of Lamashtu Goblin Group",
+    "Creature": "Goblin Dogcutter",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 68,
+    "CreatureGroup": "Womb of Lamashtu Goblin Group",
+    "Creature": "Goblin Sneak",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 69,
+    "CreatureGroup": "Womb of Lamashtu Goblin Group",
+    "Creature": "Goblin Soldier",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 70,
+    "CreatureGroup": "Womb of Lamashtu Goblin Group",
+    "Creature": "Goblin Smart Eye",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 71,
+    "CreatureGroup": "Womb of Lamashtu Goblin Group",
+    "Creature": "Gobllin Falcon Eye",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 72,
+    "CreatureGroup": "Womb of Lamashtu Goblin Group",
+    "Creature": "Greater Enraged Owlbear",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 73,
+    "CreatureGroup": "Capital Square Bloom Group A",
+    "Creature": "Dire Venomwolf",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 74,
+    "CreatureGroup": "Capital Square Bloom Group A",
+    "Creature": "Owlbear",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 75,
+    "CreatureGroup": "Capital Square Bloom Group B",
+    "Creature": "Yellow Dweomaticore",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 76,
+    "CreatureGroup": "Capital Square Bloom Group B",
+    "Creature": "Yellow Dweomerwyvern",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 77,
+    "CreatureGroup": "Capital Square Bloom Group B",
+    "Creature": "Owlbear",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 78,
+    "CreatureGroup": "Capital Square Bloom Group B",
+    "Creature": "Ferocious Wyvern",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 79,
+    "CreatureGroup": "Capital Square Bloom Group C",
+    "Creature": "Purple Dweomerowlbear",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 80,
+    "CreatureGroup": "Capital Square Bloom Group C",
+    "Creature": "Red Dweomerwyvern",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 81,
+    "CreatureGroup": "Capital Square Bloom Greater Primal Owlbear",
+    "Creature": "Greater Primal Owlbear",
+    "Quantity": 0,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 82,
+    "CreatureGroup": "Capital Square Bloom Group D",
+    "Creature": "Ferocious Owlbear",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 83,
+    "CreatureGroup": "Capital Square Bloom Group D",
+    "Creature": "Ferocious Hydra",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 84,
+    "CreatureGroup": "Capital Square Bloom Group D",
+    "Creature": "Ferocious Wyvern",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 85,
+    "CreatureGroup": "Capital Square Bloom Group E",
+    "Creature": "Quickhydra",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 86,
+    "CreatureGroup": "Capital Square Bloom Group E",
+    "Creature": "Quickbear",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 87,
+    "CreatureGroup": "Capital Square Bloom Group E",
+    "Creature": "Black Dweomerowlbear",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 88,
+    "CreatureGroup": "Womb of Lamashtu Group A",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 89,
+    "CreatureGroup": "Womb of Lamashtu Group B",
+    "Creature": "Giant Slug",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 90,
+    "CreatureGroup": "Womb of Lamashtu Group B",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 91,
+    "CreatureGroup": "Womb of Lamashtu Group C",
+    "Creature": "Redcap Trickster",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 92,
+    "CreatureGroup": "Womb of Lamashtu Group C",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 93,
+    "CreatureGroup": "Womb of Lamashtu Group C",
+    "Creature": "Quickspider",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 94,
+    "CreatureGroup": "Womb of Lamashtu Group D",
+    "Creature": "Giant Slug",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 95,
+    "CreatureGroup": "Womb of Lamashtu Group D",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 8,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 96,
+    "CreatureGroup": "Womb of Lamashtu Group E",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 97,
+    "CreatureGroup": "Womb of Lamashtu Group F",
+    "Creature": "Redcap Trickster",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 98,
+    "CreatureGroup": "Womb of Lamashtu Group F",
+    "Creature": "Redcap",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 99,
+    "CreatureGroup": "Womb of Lamashtu Group F",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 100,
+    "CreatureGroup": "Womb of Lamashtu Group G",
+    "Creature": "Doomspider",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 101,
+    "CreatureGroup": "Womb of Lamashtu Group G",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 6,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 102,
+    "CreatureGroup": "Womb of Lamashtu Group H",
+    "Creature": "Primal Spider Matriarch",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 103,
+    "CreatureGroup": "Womb of Lamashtu Group H",
+    "Creature": "Quickspider Swarm",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 104,
+    "CreatureGroup": "Womb of Lamashtu Group H",
+    "Creature": "Spider Swarm",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 105,
+    "CreatureGroup": "Womb of Lamashtu Group H",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 106,
+    "CreatureGroup": "Womb of Lamashtu Group H",
+    "Creature": "Doomspider",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 107,
+    "CreatureGroup": "Womb of Lamashtu Group I",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 6,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 108,
+    "CreatureGroup": "Womb of Lamashtu Group I",
+    "Creature": "Doomspider",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 109,
+    "CreatureGroup": "Womb of Lamashtu Group I",
+    "Creature": "Primal Spider Matriarch",
+    "Quantity": 2,
+    "AdditonalItems": "Melted Shard of a Ring",
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 110,
+    "CreatureGroup": "Womb of Lamashtu Group I",
+    "Creature": "Spider Swarm",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 111,
+    "CreatureGroup": "Womb of Lamashtu Group I",
+    "Creature": "Quickspider Swarm",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 112,
+    "CreatureGroup": "Womb of Lamashtu Group I",
+    "Creature": "Quickspider",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 114,
+    "CreatureGroup": "Other World A Group A",
+    "Creature": "Doomspider",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 113,
+    "CreatureGroup": "Other World A Group A",
+    "Creature": "Quickspider",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 115,
+    "CreatureGroup": "Other World A Group B",
+    "Creature": "Doomspider",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 116,
+    "CreatureGroup": "Other World A Group C",
+    "Creature": "Black Dweomerowlbear",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 117,
+    "CreatureGroup": "Other World A Group D",
+    "Creature": "Black Dweomerowlbear",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 118,
+    "CreatureGroup": "Other World A Group D",
+    "Creature": "Greater Enraged Owlbear",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 119,
+    "CreatureGroup": "Other World A Group E",
+    "Creature": "Quickspider Swarm",
+    "Quantity": 7,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 120,
+    "CreatureGroup": "Other World A Group F",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 121,
+    "CreatureGroup": "Other World A Group F",
+    "Creature": "Doomspider",
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 122,
+    "CreatureGroup": "Other World A Group G",
+    "Creature": "Poisonous Primal Manticore",
+    "Quantity": 2,
+    "AdditonalItems": "1d3 Fruits",
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 123,
+    "CreatureGroup": "Other World A Group H",
+    "Creature": "Ancient Wyvern",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 124,
+    "CreatureGroup": "Other World A Group H",
+    "Creature": "Yellow Dweomerwyvern",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "True Seeing"
+  },
+  {
+    "ID": 125,
+    "CreatureGroup": "Other World A Group H",
+    "Creature": "Red Dweomerwyvern",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "True Seeing"
+  },
+  {
+    "ID": 126,
+    "CreatureGroup": "Other World B Group A",
+    "Creature": "Primal Manticore",
+    "Quantity": 2,
+    "AdditonalItems": "1d3 Fruits",
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 127,
+    "CreatureGroup": "Other World B Group B",
+    "Creature": "Doomspider",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 128,
+    "CreatureGroup": "Other World B Group C",
+    "Creature": "Quickspider",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 129,
+    "CreatureGroup": "Other World B Group C",
+    "Creature": "Doomspider",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 130,
+    "CreatureGroup": "Other World B Group C",
+    "Creature": "Primal Spider Matriarch",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 131,
+    "CreatureGroup": "Other World B Boss",
+    "Creature": "Enlarged Owlbear-Like Treant",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 132,
+    "CreatureGroup": "Other World A Boss",
+    "Creature": "Black Dweomerowlbear",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 133,
+    "CreatureGroup": "Other World A Boss",
+    "Creature": "Purple Dweomerowlbear",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 134,
+    "CreatureGroup": "Other World Flower Fight",
+    "Creature": "Dire Venomwolf",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 135,
+    "CreatureGroup": "Other World Flower Fight",
+    "Creature": "Greater Owlbear-like Treant",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 136,
+    "CreatureGroup": "Womb of Lamashtu Flower Fight Wave 1",
+    "Creature": "Giant Flytrap",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 137,
+    "CreatureGroup": "Womb of Lamashtu Flower Fight Wave 1",
+    "Creature": "Everblooming Flower",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 138,
+    "CreatureGroup": "Womb of Lamashtu Flower Fight Wave 2",
+    "Creature": "Primal Manticore",
+    "Quantity": 1,
+    "AdditonalItems": "Cypress Queen's Crown",
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 139,
+    "CreatureGroup": "Womb of Lamashtu Flower Fight Wave 2",
+    "Creature": "Primal Hydra",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 140,
+    "CreatureGroup": "Womb of Lamashtu Flower Fight Wave 3",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 141,
+    "CreatureGroup": "Womb of Lamashtu Flower Fight Wave 3",
+    "Creature": "Primal Spider Matriarch",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 142,
+    "CreatureGroup": "Womb of Lamashtu Flower Fight Wave 3",
+    "Creature": "Ferocious Dweomercat",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 143,
+    "CreatureGroup": "Tenebrous Depth II Group A",
+    "Creature": "Weretiger",
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 145,
+    "CreatureGroup": "Tenebrous Depth II Group B",
+    "Creature": "Greater Werewolf",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 144,
+    "CreatureGroup": "Tenebrous Depth II Group B",
+    "Creature": "Wolf",
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 146,
+    "CreatureGroup": "Tenebrous Depth II Group C",
+    "Creature": "Ferocious Wolf",
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 147,
+    "CreatureGroup": "Tenebrous Depth II Group C",
+    "Creature": "Dire Venomwolf",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Invisibility"
+  },
+  {
+    "ID": 148,
+    "CreatureGroup": "Tenebrous Depth II Group D",
+    "Creature": "Weretiger_Inquisitor",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Acidic Creature"
+  },
+  {
+    "ID": 149,
+    "CreatureGroup": "Tenebrous Depth II Group D",
+    "Creature": "Weretiger",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Acidic Creature"
+  },
+  {
+    "ID": 150,
+    "CreatureGroup": "Tenebrous Depth II Group E",
+    "Creature": "Alpha Wolf",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Acidic Creature"
+  },
+  {
+    "ID": 151,
+    "CreatureGroup": "Tenebrous Depth II Group F",
+    "Creature": "Wererat_8_Alchemist",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Acidic Creature"
+  },
+  {
+    "ID": 152,
+    "CreatureGroup": "Tenebrous Depth II Group F",
+    "Creature": "Wererat",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Acidic Creature"
+  },
+  {
+    "ID": 153,
+    "CreatureGroup": "Tenebrous Depth III Group A",
+    "Creature": "Raging Cyclops",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature"
+  },
+  {
+    "ID": 154,
+    "CreatureGroup": "Tenebrous Depth III Group B",
+    "Creature": "Cyclops Cleric",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature"
+  },
+  {
+    "ID": 155,
+    "CreatureGroup": "Tenebrous Depth III Group B",
+    "Creature": "Raging Cyclops",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature"
+  },
+  {
+    "ID": 157,
+    "CreatureGroup": "Tenebrous Depth III Group C",
+    "Creature": "Cyclops Cleric",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature"
+  },
+  {
+    "ID": 156,
+    "CreatureGroup": "Tenebrous Depth III Group C",
+    "Creature": "Cyclops",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature"
+  },
+  {
+    "ID": 158,
+    "CreatureGroup": "Tenebrous Depth III Group D",
+    "Creature": "Cyclops Cleric 19 Cleric",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature"
+  },
+  {
+    "ID": 159,
+    "CreatureGroup": "Tenebrous Depth III Group D",
+    "Creature": "Cyclops",
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature"
+  },
+  {
+    "ID": 160,
+    "CreatureGroup": "Tenebrous Depth III Group E",
+    "Creature": "Raging Cyclops",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature"
+  },
+  {
+    "ID": 161,
+    "CreatureGroup": "Tenebrous Depth III Group E",
+    "Creature": "Cyclops",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature"
+  },
+  {
+    "ID": 162,
+    "CreatureGroup": "Tenebrous Depth IV Group A",
+    "Creature": "Greater Giant Spider",
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 163,
+    "CreatureGroup": "Tenebrous Depth IV Group A",
+    "Creature": "Goblin Alchemist Master",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 164,
+    "CreatureGroup": "Tenebrous Depth IV Group B",
+    "Creature": "Goblin Roc Eye",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 165,
+    "CreatureGroup": "Tenebrous Depth IV Group B",
+    "Creature": "Doomspider",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 167,
+    "CreatureGroup": "Tenebrous Depth IV Group C",
+    "Creature": "Elder Water Elemental",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 166,
+    "CreatureGroup": "Tenebrous Depth IV Group C",
+    "Creature": "Huge Water Elemental",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 169,
+    "CreatureGroup": "Tenebrous Depth IV Group D",
+    "Creature": "Gobllin Falcon Eye",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 168,
+    "CreatureGroup": "Tenebrous Depth IV Group D",
+    "Creature": "Quickspider",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 170,
+    "CreatureGroup": "Tenebrous Depth IV The Weary Traveler",
+    "Creature": "The Weary Traveler",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 171,
+    "CreatureGroup": "Tenebrous Depth IV The Weary Traveler",
+    "Creature": "Movanic Deva",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 172,
+    "CreatureGroup": "Tenebrous Depth IV The Weary Traveler",
+    "Creature": "Reckless Satyr Bowman",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 173,
+    "CreatureGroup": "Tenebrous Depth IV Group E",
+    "Creature": "Goblin Alchemist Master",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 174,
+    "CreatureGroup": "Tenebrous Depth IV Group E",
+    "Creature": "Goblin Dead Eye",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 175,
+    "CreatureGroup": "Tenebrous Depth IV Group E",
+    "Creature": "Goblin Dogreaper",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 176,
+    "CreatureGroup": "Tenebrous Depth V Group A",
+    "Creature": "Scythe Tree",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Cold Creature"
+  },
+  {
+    "ID": 177,
+    "CreatureGroup": "Tenebrous Depth V Group B",
+    "Creature": "Satyr",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Cold Creature"
+  },
+  {
+    "ID": 178,
+    "CreatureGroup": "Tenebrous Depth V Group B",
+    "Creature": "Satyr Archer",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Cold Creature"
+  },
+  {
+    "ID": 179,
+    "CreatureGroup": "Tenebrous Depth V Group B",
+    "Creature": "Dryad",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Cold Creature"
+  },
+  {
+    "ID": 180,
+    "CreatureGroup": "Tenebrous Depth V Group C",
+    "Creature": "Bear-like Treant",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Cold Creature"
+  },
+  {
+    "ID": 181,
+    "CreatureGroup": "Tenebrous Depth V Group C",
+    "Creature": "Quickwood",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Cold Creature"
+  },
+  {
+    "ID": 182,
+    "CreatureGroup": "Tenebrous Depth V Group C",
+    "Creature": "Nympth",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Cold Creature"
+  },
+  {
+    "ID": 183,
+    "CreatureGroup": "Tenebrous Depth V Group D",
+    "Creature": "Giant Flytrap",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Cold Creature"
+  },
+  {
+    "ID": 184,
+    "CreatureGroup": "Tenebrous Depth VI Group A",
+    "Creature": "Greater Dire Bear",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature"
+  },
+  {
+    "ID": 185,
+    "CreatureGroup": "Tenebrous Depth VI Group B",
+    "Creature": "Ferocious Dweomercat",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature"
+  },
+  {
+    "ID": 187,
+    "CreatureGroup": "Tenebrous Depth VI Group C",
+    "Creature": "Wild Hunt Archer",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature"
+  },
+  {
+    "ID": 186,
+    "CreatureGroup": "Tenebrous Depth VI Group C",
+    "Creature": "Ferocious Smilodon",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature"
+  },
+  {
+    "ID": 188,
+    "CreatureGroup": "Tenebrous Depth VI Group D",
+    "Creature": "Recap Savage",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature"
+  },
+  {
+    "ID": 189,
+    "CreatureGroup": "Tenebrous Depth VI Group E",
+    "Creature": "Redcap Trickster",
+    "Quantity": 1,
+    "AdditonalItems": "Money and Valuables",
+    "AddtionalEffectOrConditions": "Fiery Creature"
+  },
+  {
+    "ID": 190,
+    "CreatureGroup": "Tenebrous Depth VI Group E",
+    "Creature": "Redcap",
+    "Quantity": 5,
+    "AdditonalItems": "Money and Valuables",
+    "AddtionalEffectOrConditions": "Fiery Creature"
+  },
+  {
+    "ID": 191,
+    "CreatureGroup": "Tenebrous Depth VII Group A",
+    "Creature": "Primal Manticore",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 192,
+    "CreatureGroup": "Tenebrous Depth VII Group B",
+    "Creature": "Venomhodag",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 193,
+    "CreatureGroup": "Tenebrous Depth VII Group B",
+    "Creature": "Hodag-like Treant",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 194,
+    "CreatureGroup": "Tenebrous Depth VII Group C",
+    "Creature": "Grag Linnorm",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 195,
+    "CreatureGroup": "Tenebrous Depth VII Group C",
+    "Creature": "Kobold Dragon Shaman",
+    "Quantity": 2,
+    "AdditonalItems": "Money and Valuables",
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 196,
+    "CreatureGroup": "Tenebrous Depth VII Group C",
+    "Creature": "Kobold Boomsayer",
+    "Quantity": 2,
+    "AdditonalItems": "Money and Valuables",
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 197,
+    "CreatureGroup": "Tenebrous Depth VII Group C",
+    "Creature": "Kobold Blade",
+    "Quantity": 4,
+    "AdditonalItems": "Money and Valuables",
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 198,
+    "CreatureGroup": "Tenebrous Depth VII Group D",
+    "Creature": "Medusa",
+    "Quantity": 4,
+    "AdditonalItems": "Money and Valuables",
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 199,
+    "CreatureGroup": "Tenebrous Depth VII Group D",
+    "Creature": "Gargoyle",
+    "Quantity": 8,
+    "AdditonalItems": "Money and Valuables",
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 200,
+    "CreatureGroup": "Tenebrous Depth VII Group E",
+    "Creature": "Ghostly Mage Guard",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 201,
+    "CreatureGroup": "Tenebrous Depth VII Group E",
+    "Creature": "Ghost",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 202,
+    "CreatureGroup": "Tenebrous Depth VIII Group A",
+    "Creature": "Goblin Death Eye",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Diseased Creature"
+  },
+  {
+    "ID": 203,
+    "CreatureGroup": "Tenebrous Depth VIII Group A",
+    "Creature": "Goblin Arch-chemist",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Diseased Creature"
+  },
+  {
+    "ID": 204,
+    "CreatureGroup": "Tenebrous Depth VIII Group A",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Diseased Creature"
+  },
+  {
+    "ID": 205,
+    "CreatureGroup": "Tenebrous Depth VIII Group A",
+    "Creature": "Doomspider",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Diseased Creature"
+  },
+  {
+    "ID": 206,
+    "CreatureGroup": "Tenebrous Depth VIII Group B",
+    "Creature": "Quickspider",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Diseased Creature"
+  },
+  {
+    "ID": 207,
+    "CreatureGroup": "Tenebrous Depth VIII Group C",
+    "Creature": "Primal Spider Matriarch",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Diseased Creature"
+  },
+  {
+    "ID": 208,
+    "CreatureGroup": "Tenebrous Depth VIII The Fallen Priestess",
+    "Creature": "Gobllin Commando Commander",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Diseased Creature"
+  },
+  {
+    "ID": 209,
+    "CreatureGroup": "Tenebrous Depth VIII The Fallen Priestess",
+    "Creature": "Goblin Death Eye",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Diseased Creature"
+  },
+  {
+    "ID": 210,
+    "CreatureGroup": "Tenebrous Depth VIII The Fallen Priestess",
+    "Creature": "Gobllin Sneakwhack",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Diseased Creature"
+  },
+  {
+    "ID": 211,
+    "CreatureGroup": "Tenebrous Depth VIII The Fallen Priestess",
+    "Creature": "The Fallen Priestess",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Diseased Creature"
+  },
+  {
+    "ID": 212,
+    "CreatureGroup": "Tenebrous Depth VIII Group D",
+    "Creature": "Spider Swarm",
+    "Quantity": 8,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Diseased Creature"
+  },
+  {
+    "ID": 213,
+    "CreatureGroup": "Tenebrous Depth VIII Group D",
+    "Creature": "Quickspider",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Diseased Creature"
+  },
+  {
+    "ID": 214,
+    "CreatureGroup": "Tenebrous Depth VIII Group D",
+    "Creature": "Primal Spider Matriarch",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Diseased Creature"
+  },
+  {
+    "ID": 215,
+    "CreatureGroup": "Baneful Bog Group A",
+    "Creature": "Thickskin Tribe King Itshar",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 216,
+    "CreatureGroup": "Baneful Bog Group A",
+    "Creature": "Thickskin Tribe Queen Reshia",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 217,
+    "CreatureGroup": "Baneful Bog Group A",
+    "Creature": "Thickskin Lizardfolk",
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 218,
+    "CreatureGroup": "Rill-and-Spill Deeper Group A",
+    "Creature": "Lady of Shallows",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 221,
+    "CreatureGroup": "Poisonous Shambling Mound Group A",
+    "Creature": "Nixie Prankster",
+    "Quantity": 4,
+    "AdditonalItems": "Money and Valuables",
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 220,
+    "CreatureGroup": "Poisonous Shambling Mound Group A",
+    "Creature": "Poisonous Primal Doomhydra",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 219,
+    "CreatureGroup": "Poisonous Shambling Mound Group A",
+    "Creature": "Poisonous Shambling Mound",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 222,
+    "CreatureGroup": "Bridge Over The Gudrin River Grag Linnorm",
+    "Creature": "Grag Linnorm 16 Dragon",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 223,
+    "CreatureGroup": "Lizzard Skin Poacher Group",
+    "Creature": "Poacher Alchemist",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 224,
+    "CreatureGroup": "Lizzard Skin Poacher Group",
+    "Creature": "Poacher Brawler",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 225,
+    "CreatureGroup": "Six Bears Camp Fionn",
+    "Creature": "Fionn",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 226,
+    "CreatureGroup": "Six Bears Camp Fionn",
+    "Creature": "Nightmare Skeleton Soldier",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 227,
+    "CreatureGroup": "Sartayne",
+    "Creature": "Sartayne",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 228,
+    "CreatureGroup": "Sartayne",
+    "Creature": "Summoned Leopard",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 229,
+    "CreatureGroup": "Technic League Encampent Varrask Task\n",
+    "Creature": "Bandit 7 Transmuter",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 230,
+    "CreatureGroup": "Technic League Encampent Varrask Task\n",
+    "Creature": "Bandit 8 Fighter",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 231,
+    "CreatureGroup": "Technic League Encampent Varrask Task\n",
+    "Creature": "Bandit 8 Rogue",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 232,
+    "CreatureGroup": "Saint Galvan's Gullet Group A",
+    "Creature": "Greater Cyclops",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 234,
+    "CreatureGroup": "Brown Baldhead Group A",
+    "Creature": "Alpha Wolf",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 233,
+    "CreatureGroup": "Brown Baldhead Group A",
+    "Creature": "Dire Wolf",
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 235,
+    "CreatureGroup": "Tenacious Marsh Group A",
+    "Creature": "Acid-imbued Giant Slug",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 236,
+    "CreatureGroup": "Swamp Ruins Group A",
+    "Creature": "Ferocious Devourer",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 237,
+    "CreatureGroup": "Technic League Hideout Group A",
+    "Creature": "Technic League's Conjurer",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 238,
+    "CreatureGroup": "Technic League Hideout Group A",
+    "Creature": "Technic League's Alchemist",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 239,
+    "CreatureGroup": "Technic League Hideout Group B",
+    "Creature": "Technic League's Rogue",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 240,
+    "CreatureGroup": "Technic League Hideout Group B",
+    "Creature": "Technic League's Archer",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 241,
+    "CreatureGroup": "Technic League Hideout Group B",
+    "Creature": "Technic League's Fighter",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 242,
+    "CreatureGroup": "Technic League Hideout Group B",
+    "Creature": "Technic League's Cleric",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 243,
+    "CreatureGroup": "Technic League Hideout Group C",
+    "Creature": "Technic League's Fighter",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 244,
+    "CreatureGroup": "Technic League Hideout Group C",
+    "Creature": "Technic League's Archer",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 245,
+    "CreatureGroup": "Technic League Hideout Group C",
+    "Creature": "Technic League's Bard",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 246,
+    "CreatureGroup": "Technic League Hideout Group C",
+    "Creature": "Technic League's Rogue",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 247,
+    "CreatureGroup": "Technic League Hideout Group D",
+    "Creature": "Technic League's Fighter",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 248,
+    "CreatureGroup": "Technic League Hideout Group D",
+    "Creature": "Technic League's Rogue",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 249,
+    "CreatureGroup": "Technic League Hideout Group D",
+    "Creature": "Technic League's Bard",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 250,
+    "CreatureGroup": "Technic League Hideout Matsero Janush",
+    "Creature": "Matsero Janush",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 251,
+    "CreatureGroup": "Technic League Hideout Matsero Janush",
+    "Creature": "Technic League's Fighter",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 252,
+    "CreatureGroup": "Technic League Hideout Matsero Janush",
+    "Creature": "Technic League's Archer",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 253,
+    "CreatureGroup": "An Ancient Curse, Part Three Group A",
+    "Creature": "Venomanticore",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 254,
+    "CreatureGroup": "An Ancient Curse, Part Three Group A",
+    "Creature": "Green Dweomanticore",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 255,
+    "CreatureGroup": "An Ancient Curse, Part Three Group B",
+    "Creature": "Yellow Dweomerwyvern",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 256,
+    "CreatureGroup": "An Ancient Curse, Part Three Group C",
+    "Creature": "Moray",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 257,
+    "CreatureGroup": "An Ancient Curse, Part Three Group C",
+    "Creature": "Black Dweomerowlbear",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 258,
+    "CreatureGroup": "An Ancient Curse, Part Three Group C",
+    "Creature": "Purple Dweomerowlbear",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 259,
+    "CreatureGroup": "Empty Skull Rock Group B",
+    "Creature": "Ferocious Trollhound",
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 260,
+    "CreatureGroup": "Dragonleaf Gulch Ollie's Event",
+    "Creature": "Greater Tatzlwyrm",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 261,
+    "CreatureGroup": "Varnhold Group A",
+    "Creature": "Spriggan Savage",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 262,
+    "CreatureGroup": "Varnhold Group A",
+    "Creature": "Spriggan Rogue",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 263,
+    "CreatureGroup": "Varnhold Group B",
+    "Creature": "Ravan Swarm",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 265,
+    "CreatureGroup": "Varnhold Stockade Group A",
+    "Creature": "Alpha Worg",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 264,
+    "CreatureGroup": "Varnhold Stockade Group A",
+    "Creature": "Ferocious Worg",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 266,
+    "CreatureGroup": "Varnhold Stockade Group B",
+    "Creature": "Spriggan Raider",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 267,
+    "CreatureGroup": "Varnhold Stockade Group B",
+    "Creature": "Spriggan Rogue",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 268,
+    "CreatureGroup": "Varnhold Stockade Group B",
+    "Creature": "Spriggan Skilled Crossbowman",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 269,
+    "CreatureGroup": "Varnhold Stockade Group C",
+    "Creature": "Spriggan Savage",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 270,
+    "CreatureGroup": "Varnhold Stockade Group D",
+    "Creature": "Spriggan Raider",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 271,
+    "CreatureGroup": "Varnhold Stockade Group D",
+    "Creature": "Spriggan Dodgy Crossbowman",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 272,
+    "CreatureGroup": "Varnhold Stockade Group D",
+    "Creature": "Spriggan Fighter",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 273,
+    "CreatureGroup": "Varnhold Stockade Group D",
+    "Creature": "Spriggan Skilled Crossbowman",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 274,
+    "CreatureGroup": "Varnhold Stockade Group E",
+    "Creature": "Spriggan Raider",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 275,
+    "CreatureGroup": "Varnhold Stockade Group E",
+    "Creature": "Spriggan Dodgy Crossbowman",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 276,
+    "CreatureGroup": "Varnhold Stockade Group E",
+    "Creature": "Spriggan Crossbowman",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 277,
+    "CreatureGroup": "Varnhold Stockade Group E",
+    "Creature": "Spriggan Raider",
+    "Quantity": 1,
+    "AdditonalItems": "Sweet Syrup",
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 278,
+    "CreatureGroup": "Varnhold Stockade Group F",
+    "Creature": "Spriggan Skilled Crossbowman",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 279,
+    "CreatureGroup": "Varnhold Stockade Group F",
+    "Creature": "Spriggan Savage",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 280,
+    "CreatureGroup": "Varnhold Stockade Group F",
+    "Creature": "Spriggan Raider",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 281,
+    "CreatureGroup": "Varnhold Stockade Group F",
+    "Creature": "Spriggan Dodgy Crossbowman",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 282,
+    "CreatureGroup": "Varnhold Stockade Group G",
+    "Creature": "Spriggan Raider",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 283,
+    "CreatureGroup": "Varnhold Stockade Group G",
+    "Creature": "Spriggan Rogue",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 284,
+    "CreatureGroup": "Varnhold Stockade Group G",
+    "Creature": "Spriggan Skilled Crossbowman",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 285,
+    "CreatureGroup": "Varnhold Stockade Group G",
+    "Creature": "Spriggan Dodgy Crossbowman",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 286,
+    "CreatureGroup": "Varnhold Stockade Group H",
+    "Creature": "Spriggan Savage",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 287,
+    "CreatureGroup": "Varnhold Stockade Group H",
+    "Creature": "Spriggan Fighter",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 288,
+    "CreatureGroup": "Varnhold Stockade Group H",
+    "Creature": "Spriggan Rogue",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 289,
+    "CreatureGroup": "Varnhold Stockade Group H",
+    "Creature": "Spriggan Dodgy Crossbowman",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 290,
+    "CreatureGroup": "Varnhold Stockade Group I",
+    "Creature": "Spriggan Rogue",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 291,
+    "CreatureGroup": "Varnhold Stockade Group I",
+    "Creature": "Spriggan Dodgy Crossbowman",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 292,
+    "CreatureGroup": "Varnhold Stockade Group Agai",
+    "Creature": "Agai",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 293,
+    "CreatureGroup": "Varnhold Stockade Group Agai",
+    "Creature": "Spriggan Raider",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 294,
+    "CreatureGroup": "Varnhold Stockade Group Agai",
+    "Creature": "Spriggan Rogue",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 295,
+    "CreatureGroup": "Varnhold Stockade Group Agai",
+    "Creature": "Spriggan Dodgy Crossbowman",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  }
+]

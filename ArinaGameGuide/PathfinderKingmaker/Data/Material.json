@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 4,
+    "Name": "Normal",
+    "CName": "",
+    "Description": ""
+  },
+  {
+    "ID": 1,
+    "Name": "Cold Iron",
+    "CName": "",
+    "Description": ""
+  },
+  {
+    "ID": 2,
+    "Name": "Adamantine",
+    "CName": "",
+    "Description": ""
+  },
+  {
+    "ID": 3,
+    "Name": "Mithral",
+    "CName": "",
+    "Description": ""
+  }
+]

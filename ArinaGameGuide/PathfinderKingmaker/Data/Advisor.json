@@ -1,0 +1,102 @@
+[
+  {
+    "ID": 1,
+    "Name": "Regent",
+    "CName": "",
+    "KetAttribute": "Charisma",
+    "AffectedStats": "Community",
+    "AdaptedCompanion1": "Octavia",
+    "AdaptedCompanion2": "Valerie",
+    "AdaptedCompanion3": ""
+  },
+  {
+    "ID": 2,
+    "Name": "Councilor",
+    "CName": "",
+    "KetAttribute": "Wisdom",
+    "AffectedStats": "Loyalty",
+    "AdaptedCompanion1": "Tristian",
+    "AdaptedCompanion2": "",
+    "AdaptedCompanion3": ""
+  },
+  {
+    "ID": 3,
+    "Name": "General",
+    "CName": "",
+    "KetAttribute": "Strength",
+    "AffectedStats": "Military",
+    "AdaptedCompanion1": "Amiri",
+    "AdaptedCompanion2": "Regongar",
+    "AdaptedCompanion3": ""
+  },
+  {
+    "ID": 4,
+    "Name": "Treasurer",
+    "CName": "",
+    "KetAttribute": "Intelligence",
+    "AffectedStats": "Economy",
+    "AdaptedCompanion1": "Jubilost",
+    "AdaptedCompanion2": "Kanerah",
+    "AdaptedCompanion3": ""
+  },
+  {
+    "ID": 5,
+    "Name": "High Priest",
+    "CName": "",
+    "KetAttribute": "Wisdom",
+    "AffectedStats": "Divine",
+    "AdaptedCompanion1": "Harrim",
+    "AdaptedCompanion2": "",
+    "AdaptedCompanion3": ""
+  },
+  {
+    "ID": 6,
+    "Name": "Grand Diplomat",
+    "CName": "",
+    "KetAttribute": "Charisma",
+    "AffectedStats": "Relations",
+    "AdaptedCompanion1": "Linzi",
+    "AdaptedCompanion2": "Valerie",
+    "AdaptedCompanion3": ""
+  },
+  {
+    "ID": 7,
+    "Name": "Magister",
+    "CName": "",
+    "KetAttribute": "Intelligence",
+    "AffectedStats": "Arcane",
+    "AdaptedCompanion1": "Storyteller",
+    "AdaptedCompanion2": "Octavia",
+    "AdaptedCompanion3": ""
+  },
+  {
+    "ID": 8,
+    "Name": "Warden",
+    "CName": "",
+    "KetAttribute": "Consitution",
+    "AffectedStats": "Stability",
+    "AdaptedCompanion1": "Ekundayo",
+    "AdaptedCompanion2": "Regongar",
+    "AdaptedCompanion3": "Kesten Garess"
+  },
+  {
+    "ID": 9,
+    "Name": "Curator",
+    "CName": "",
+    "KetAttribute": "Charisma",
+    "AffectedStats": "Culture",
+    "AdaptedCompanion1": "Storyteller",
+    "AdaptedCompanion2": "Jaethal",
+    "AdaptedCompanion3": ""
+  },
+  {
+    "ID": 10,
+    "Name": "XX",
+    "CName": "",
+    "KetAttribute": "Dexterity",
+    "AffectedStats": "Espionage",
+    "AdaptedCompanion1": "",
+    "AdaptedCompanion2": "",
+    "AdaptedCompanion3": ""
+  }
+]

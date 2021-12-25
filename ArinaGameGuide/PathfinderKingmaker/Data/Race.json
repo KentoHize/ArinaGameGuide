@@ -1,0 +1,121 @@
+[
+  {
+    "ID": 1,
+    "Name": "Human",
+    "MainRace": "Human",
+    "SubRace": "Human",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 2,
+    "Name": "Animal",
+    "MainRace": "Animal",
+    "SubRace": "Animal",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 3,
+    "Name": "Construct",
+    "MainRace": "Construct",
+    "SubRace": "Construct",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 4,
+    "Name": "Magical Beast",
+    "MainRace": "Magical Beast",
+    "SubRace": "Magical Beast",
+    "KnowledgeSkill": "Knowledge(Arcana)"
+  },
+  {
+    "ID": 5,
+    "Name": "Goblin",
+    "MainRace": "Humanoid",
+    "SubRace": "Goblin",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 6,
+    "Name": "Dragon",
+    "MainRace": "Dragon",
+    "SubRace": "Dragon",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 7,
+    "Name": "Vermin",
+    "MainRace": "Vermin",
+    "SubRace": "Vermin",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 8,
+    "Name": "Fey",
+    "MainRace": "Fey",
+    "SubRace": "Fey",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 9,
+    "Name": "Plant",
+    "MainRace": "Plant",
+    "SubRace": "Plant",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 10,
+    "Name": "Weretiger",
+    "MainRace": "Human",
+    "SubRace": "Weretiger",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 11,
+    "Name": "Humanoid",
+    "MainRace": "Humanoid",
+    "SubRace": "Humanoid",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 12,
+    "Name": "Outsider",
+    "MainRace": "Outsider",
+    "SubRace": "Outsider",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 13,
+    "Name": "Gnome",
+    "MainRace": "Gnome",
+    "SubRace": "Gnome",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 14,
+    "Name": "Kobold",
+    "MainRace": "Kobold",
+    "SubRace": "Kobold",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 15,
+    "Name": "Monstrous Humanoid",
+    "MainRace": "Humanoid",
+    "SubRace": "Monstrous Humanoid",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 16,
+    "Name": "Undead",
+    "MainRace": "Undead",
+    "SubRace": "Undead",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 17,
+    "Name": "Half-Elf",
+    "MainRace": "Half-Elf",
+    "SubRace": "Half-Elf",
+    "KnowledgeSkill": null
+  }
+]

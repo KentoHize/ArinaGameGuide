@@ -1,0 +1,114 @@
+[
+  {
+    "ID": 1,
+    "Name": "Power Attack",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 2,
+    "Name": "Evasion",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 3,
+    "Name": "Blinding Beauty",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 4,
+    "Name": "Lunge",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 5,
+    "Name": "Wild Gaze",
+    "CName": "",
+    "DC": "28",
+    "Description": "Paralyzed Will DC 28"
+  },
+  {
+    "ID": 6,
+    "Name": "Aura of Madness",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 7,
+    "Name": "Regeneration",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 8,
+    "Name": "Rage",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 9,
+    "Name": "Inspire Ferocity",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 10,
+    "Name": "Beguiling Aura",
+    "CName": "",
+    "DC": "23",
+    "Description": "Fasinated Will DC 23"
+  },
+  {
+    "ID": 11,
+    "Name": "Poisonous Aura",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 12,
+    "Name": "Fast Healing",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 13,
+    "Name": "Rapid Shot",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 14,
+    "Name": "Deadly Aim",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 15,
+    "Name": "Bewildering Injury",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 16,
+    "Name": "Inspired Courage",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  }
+]

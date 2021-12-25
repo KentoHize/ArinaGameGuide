@@ -1,0 +1,52 @@
+[
+  {
+    "ID": 1,
+    "Name": "True Seeing",
+    "CName": ""
+  },
+  {
+    "ID": 2,
+    "Name": "Invisibility",
+    "CName": ""
+  },
+  {
+    "ID": 3,
+    "Name": "Acidic Creature",
+    "CName": ""
+  },
+  {
+    "ID": 4,
+    "Name": "Fiery Creature",
+    "CName": ""
+  },
+  {
+    "ID": 5,
+    "Name": "Cold Creature",
+    "CName": ""
+  },
+  {
+    "ID": 6,
+    "Name": "Combat Maneuver",
+    "CName": ""
+  },
+  {
+    "ID": 7,
+    "Name": "UndeadImmunities",
+    "CName": ""
+  },
+  {
+    "ID": 8,
+    "Name": "Diseased Creature",
+    "CName": ""
+  },
+  {
+    "ID": 9,
+    "Name": "Vermin Immunities",
+    "CName": ""
+  },
+  {
+    "ID": 10,
+    "Name": "Swarm Immunities",
+    "CName": ""
+  }
+]
