@@ -493,5 +493,16 @@
     "EnemyGroup2": "Bridge Over The Gudrin River Hill Giants Group B",
     "EnemyGroup3": null,
     "Memo": ""
+  },
+  {
+    "ID": 46,
+    "Name": "Ruined Watchtower Ntavi",
+    "Place": "Ruined Watchtower",
+    "Position": "North East",
+    "HasPlot": true,
+    "EnemyGroup1": "Ruined Watchtower Ntavi",
+    "EnemyGroup2": null,
+    "EnemyGroup3": null,
+    "Memo": ""
   }
 ]

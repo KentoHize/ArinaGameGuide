@@ -2774,5 +2774,133 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 348,
+    "ItemStack": "Calistrian Rogue RS",
+    "Item": "Dagger +1",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 349,
+    "ItemStack": "Calistrian Rogue RS",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 350,
+    "ItemStack": "Calistrian Rogue RS",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 351,
+    "ItemStack": "Calistrian Fighter Greataxe RS",
+    "Item": "Greataxe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 352,
+    "ItemStack": "Calistrian Fighter Greataxe RS",
+    "Item": "Breastplate +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 353,
+    "ItemStack": "Calistrian Fighter Longsword RS",
+    "Item": "Masterwork Longsword",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 354,
+    "ItemStack": "Calistrian Fighter Longsword RS",
+    "Item": "Heavy Shield",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 355,
+    "ItemStack": "Calistrian Fighter Longsword RS",
+    "Item": "Breastplate +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 356,
+    "ItemStack": "Calistrian Archer RS",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 357,
+    "ItemStack": "Calistrian Archer RS",
+    "Item": "Composite Longbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 358,
+    "ItemStack": "Calistrian Archer RS",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 359,
+    "ItemStack": "Ntavi RS",
+    "Item": "Kukri +1",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 360,
+    "ItemStack": "Ntavi RS",
+    "Item": "Scalemail +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 361,
+    "ItemStack": "Ntavi RS",
+    "Item": "Amulet of Natural Armor +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 362,
+    "ItemStack": "Ntavi RS",
+    "Item": "Ring of Protection +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 363,
+    "ItemStack": "Ntavi RS",
+    "Item": "Bracers of Armor +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

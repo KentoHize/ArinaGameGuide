@@ -688,5 +688,30 @@
     "ID": 139,
     "Name": "GC + HA",
     "Memo": "Greatclub + Hide Armor"
+  },
+  {
+    "ID": 140,
+    "Name": "Calistrian Rogue RS",
+    "Memo": ""
+  },
+  {
+    "ID": 141,
+    "Name": "Calistrian Fighter Greataxe RS",
+    "Memo": ""
+  },
+  {
+    "ID": 142,
+    "Name": "Calistrian Fighter Longsword RS",
+    "Memo": ""
+  },
+  {
+    "ID": 144,
+    "Name": "Calistrian Archer RS",
+    "Memo": ""
+  },
+  {
+    "ID": 145,
+    "Name": "Ntavi RS",
+    "Memo": ""
   }
 ]

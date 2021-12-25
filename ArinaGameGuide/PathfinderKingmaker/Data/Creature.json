@@ -7220,7 +7220,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 112,
-    "RemainItems": null,
+    "RemainItems": "Ntavi RS",
     "Memo": ""
   },
   {
@@ -7262,7 +7262,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 135,
-    "RemainItems": null,
+    "RemainItems": "Calistrian Fighter Greataxe RS",
     "Memo": ""
   },
   {
@@ -7304,7 +7304,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 135,
-    "RemainItems": null,
+    "RemainItems": "Calistrian Fighter Longsword RS",
     "Memo": ""
   },
   {
@@ -7346,7 +7346,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 135,
-    "RemainItems": null,
+    "RemainItems": "Calistrian Archer RS",
     "Memo": ""
   },
   {
@@ -7388,7 +7388,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 135,
-    "RemainItems": null,
+    "RemainItems": "Calistrian Rogue RS",
     "Memo": ""
   }
 ]

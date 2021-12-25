@@ -3326,5 +3326,37 @@
     "StoryItem": false,
     "Weight": 0.0,
     "Description": ""
+  },
+  {
+    "ID": 212,
+    "Name": "Scalemail +2",
+    "DisplayName": "Scalemail +2",
+    "DisplayCName": "",
+    "Type": "Medium Armor",
+    "BaseItem": "Scalemail",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 1050,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 30.0,
+    "Description": ""
+  },
+  {
+    "ID": 213,
+    "Name": "Bracers of Armor +2",
+    "DisplayName": "Bracers of Armor +2",
+    "DisplayCName": "",
+    "Type": "Bracers",
+    "BaseItem": "Bracers",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 1000,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": ""
   }
 ]
