@@ -3310,5 +3310,21 @@
     "StoryItem": false,
     "Weight": 0.0,
     "Description": ""
+  },
+  {
+    "ID": 211,
+    "Name": "Kukri +1",
+    "DisplayName": "Kukri +1",
+    "DisplayCName": "",
+    "Type": "Martial Weapon",
+    "BaseItem": "Kukri",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

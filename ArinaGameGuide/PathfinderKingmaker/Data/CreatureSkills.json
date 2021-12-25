@@ -508,5 +508,59 @@
     "Creature": "Hill Giant 12",
     "Skill": "Perception",
     "Bonus": 22
+  },
+  {
+    "ID": 86,
+    "Creature": "Ntavi",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 87,
+    "Creature": "Ntavi",
+    "Skill": "Athletics",
+    "Bonus": 17
+  },
+  {
+    "ID": 88,
+    "Creature": "Calistrian Fighter Greataxe",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 89,
+    "Creature": "Calistrian Fighter Longsword",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 90,
+    "Creature": "Calistrian Fighter Longsword",
+    "Skill": "Stealth",
+    "Bonus": 9
+  },
+  {
+    "ID": 91,
+    "Creature": "Calistrian Archer",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 92,
+    "Creature": "Calistrian Archer",
+    "Skill": "Stealth",
+    "Bonus": 13
+  },
+  {
+    "ID": 93,
+    "Creature": "Calistrian Rogue",
+    "Skill": "Perception",
+    "Bonus": 23
+  },
+  {
+    "ID": 94,
+    "Creature": "Calistrian Rogue",
+    "Skill": "Stealth",
+    "Bonus": 16
   }
 ]

@@ -48,5 +48,10 @@
     "ID": 10,
     "Name": "Swarm Immunities",
     "CName": ""
+  },
+  {
+    "ID": 11,
+    "Name": "Boss Immunities",
+    "CName": ""
   }
 ]

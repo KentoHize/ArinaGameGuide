@@ -153,5 +153,30 @@
     "ID": 31,
     "EffectOrConditionSet": "Swarm Immunities",
     "EffectOrConditon": "halves physical damage from slashing and piercing weapon"
+  },
+  {
+    "ID": 32,
+    "EffectOrConditionSet": "Boss Immunities",
+    "EffectOrConditon": "Poison"
+  },
+  {
+    "ID": 33,
+    "EffectOrConditionSet": "Boss Immunities",
+    "EffectOrConditon": "Death"
+  },
+  {
+    "ID": 34,
+    "EffectOrConditionSet": "Boss Immunities",
+    "EffectOrConditon": "ability score damage"
+  },
+  {
+    "ID": 35,
+    "EffectOrConditionSet": "Boss Immunities",
+    "EffectOrConditon": "drain"
+  },
+  {
+    "ID": 36,
+    "EffectOrConditionSet": "Boss Immunities",
+    "EffectOrConditon": "Petrified"
   }
 ]

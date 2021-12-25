@@ -490,5 +490,11 @@
     "Creature": "Morhalan",
     "Condition": "Petrified",
     "CondtionGroup": null
+  },
+  {
+    "ID": 83,
+    "Creature": "Ntavi",
+    "Condition": null,
+    "CondtionGroup": "Boss Immunities"
   }
 ]

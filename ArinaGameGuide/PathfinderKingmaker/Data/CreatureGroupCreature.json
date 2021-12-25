@@ -2398,5 +2398,45 @@
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 301,
+    "CreatureGroup": "Ruined Watchtower Ntavi",
+    "Creature": "Ntavi",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 302,
+    "CreatureGroup": "Ruined Watchtower Ntavi",
+    "Creature": "Calistrian Fighter Greataxe",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 303,
+    "CreatureGroup": "Ruined Watchtower Ntavi",
+    "Creature": "Calistrian Fighter Longsword",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 304,
+    "CreatureGroup": "Ruined Watchtower Ntavi",
+    "Creature": "Calistrian Archer",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 305,
+    "CreatureGroup": "Ruined Watchtower Ntavi",
+    "Creature": "Calistrian Rogue",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
   }
 ]

@@ -866,5 +866,12 @@
     "Place": "Bridge Over The Gudrin River",
     "Position": "West",
     "Memo": ""
+  },
+  {
+    "ID": 126,
+    "Name": "Ruined Watchtower Ntavi",
+    "Place": "Ruined Watchtower",
+    "Position": "North East",
+    "Memo": ""
   }
 ]
