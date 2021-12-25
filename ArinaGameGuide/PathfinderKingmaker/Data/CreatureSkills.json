@@ -496,5 +496,17 @@
     "Creature": "Morhalan",
     "Skill": "Trickery",
     "Bonus": 24
+  },
+  {
+    "ID": 84,
+    "Creature": "Hill Giant",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 85,
+    "Creature": "Hill Giant 12",
+    "Skill": "Perception",
+    "Bonus": 22
   }
 ]

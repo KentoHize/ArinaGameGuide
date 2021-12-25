@@ -1103,5 +1103,18 @@
     "DamageAdditiveBonus": 10,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 87,
+    "Creature": "Hill Giant",
+    "Form": "Bludgeoning Weapon",
+    "Type": "Primary",
+    "Range": 6,
+    "AttackBonus": "18",
+    "Weapon": "Greaterclub",
+    "BasicDamage": "2d8",
+    "DamageAdditiveBonus": 19,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

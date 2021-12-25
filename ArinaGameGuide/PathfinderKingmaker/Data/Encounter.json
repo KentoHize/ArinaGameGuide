@@ -482,5 +482,16 @@
     "EnemyGroup2": "An Ancient Curse, Part Three Group B",
     "EnemyGroup3": "An Ancient Curse, Part Three Group C",
     "Memo": ""
+  },
+  {
+    "ID": 45,
+    "Name": "Bridge Over The Gudrin River Hill Giants",
+    "Place": "Bridge Over The Gudrin River",
+    "Position": "West",
+    "HasPlot": false,
+    "EnemyGroup1": "Bridge Over The Gudrin River Hill Giants Group A",
+    "EnemyGroup2": "Bridge Over The Gudrin River Hill Giants Group B",
+    "EnemyGroup3": null,
+    "Memo": ""
   }
 ]

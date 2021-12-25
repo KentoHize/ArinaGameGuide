@@ -852,5 +852,19 @@
     "Place": "Poachers' Hideout",
     "Position": "Center",
     "Memo": ""
+  },
+  {
+    "ID": 124,
+    "Name": "Bridge Over The Gudrin River Hill Giants Group A",
+    "Place": "Bridge Over The Gudrin River",
+    "Position": "West",
+    "Memo": ""
+  },
+  {
+    "ID": 125,
+    "Name": "Bridge Over The Gudrin River Hill Giants Group B",
+    "Place": "Bridge Over The Gudrin River",
+    "Position": "West",
+    "Memo": ""
   }
 ]

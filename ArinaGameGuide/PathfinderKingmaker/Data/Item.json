@@ -3294,5 +3294,21 @@
     "StoryItem": false,
     "Weight": 7.0,
     "Description": ""
+  },
+  {
+    "ID": 210,
+    "Name": "Greaterclub",
+    "DisplayName": "Greaterclub",
+    "DisplayCName": "",
+    "Type": "Simple Weapon",
+    "BaseItem": "Greatclub",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

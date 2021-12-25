@@ -286,5 +286,37 @@
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null
+  },
+  {
+    "ID": 37,
+    "Creature": "Hill Giant",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 38,
+    "Creature": "Hill Giant 12",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 39,
+    "Creature": "Hill Giant 12",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 40,
+    "Creature": "Hill Giant 12",
+    "Ability": "Guarded Stance",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
   }
 ]

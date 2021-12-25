@@ -2382,5 +2382,21 @@
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 299,
+    "CreatureGroup": "Bridge Over The Gudrin River Hill Giants Group A",
+    "Creature": "Hill Giant",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 300,
+    "CreatureGroup": "Bridge Over The Gudrin River Hill Giants Group B",
+    "Creature": "Hill Giant 12",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
   }
 ]

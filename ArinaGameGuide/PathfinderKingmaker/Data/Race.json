@@ -117,5 +117,12 @@
     "MainRace": "Half-Elf",
     "SubRace": "Half-Elf",
     "KnowledgeSkill": null
+  },
+  {
+    "ID": 18,
+    "Name": "Giant",
+    "MainRace": "Humanoid",
+    "SubRace": "Giant",
+    "KnowledgeSkill": "Knowledge(Arcana)"
   }
 ]
