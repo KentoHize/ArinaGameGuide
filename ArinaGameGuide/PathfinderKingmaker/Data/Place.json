@@ -1090,5 +1090,33 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 80,
+    "Name": "Rotten Cave",
+    "DisplayName": "Rotten Cave",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 9,
+    "SuggestedLevelMax": 11,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 81,
+    "Name": "Unfinished Cleaning",
+    "DisplayName": "Unfinished Cleaning",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

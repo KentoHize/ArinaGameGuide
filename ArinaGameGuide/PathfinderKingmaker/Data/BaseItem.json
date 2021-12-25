@@ -1100,5 +1100,24 @@
     "FinesseWeapon": false,
     "Price": 0,
     "Weight": 0.0
+  },
+  {
+    "ID": 59,
+    "Name": "Light Hammer",
+    "CName": "",
+    "Type": "Martial Weapon",
+    "DamageType": null,
+    "ArmorClass": null,
+    "ArmorCheckPenalty": null,
+    "ArcaneSpellFailureChance": null,
+    "MaxDexterity": null,
+    "WeaponSize": "Light",
+    "Range": null,
+    "Damage": null,
+    "CriticalHitRange": null,
+    "CriticalHitMultiplier": null,
+    "FinesseWeapon": false,
+    "Price": 0,
+    "Weight": 2.0
   }
 ]

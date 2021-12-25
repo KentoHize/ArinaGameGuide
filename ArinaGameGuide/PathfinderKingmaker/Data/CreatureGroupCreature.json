@@ -2462,5 +2462,13 @@
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 309,
+    "CreatureGroup": "Crooked Teeth Rotten Cave Group A",
+    "Creature": "Primal Manticore",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
   }
 ]

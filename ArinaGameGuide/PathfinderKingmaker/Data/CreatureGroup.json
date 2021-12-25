@@ -887,5 +887,12 @@
     "Place": "Crooked Teeth Other World 3",
     "Position": "North East",
     "Memo": ""
+  },
+  {
+    "ID": 129,
+    "Name": "Crooked Teeth Rotten Cave Group A",
+    "Place": "Rotten Cave",
+    "Position": "Deep Floor 1",
+    "Memo": ""
   }
 ]

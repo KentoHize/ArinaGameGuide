@@ -460,5 +460,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 34,
+    "Name": "Crooked Teeth Other World 3 Treasure",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Crooked Teeth Other World 3",
+    "Position": "North West",
+    "ItemStack": "Crooked Teeth Other World 3 Treasure",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

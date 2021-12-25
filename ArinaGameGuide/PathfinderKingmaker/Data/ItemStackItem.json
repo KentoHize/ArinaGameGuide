@@ -2910,5 +2910,21 @@
     "RandomItem": null,
     "Quantity": null,
     "RandomQuantity": null
+  },
+  {
+    "ID": 365,
+    "ItemStack": "Crooked Teeth Other World 3 Treasure",
+    "Item": "Bracers of Armor +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 366,
+    "ItemStack": "Crooked Teeth Other World 3 Treasure",
+    "Item": "Meance Storm",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]
