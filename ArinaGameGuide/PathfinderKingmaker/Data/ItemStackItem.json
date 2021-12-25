@@ -2926,5 +2926,21 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 367,
+    "ItemStack": "Unfinished Cleaning Treasure",
+    "Item": "Enchanter's Cape",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 368,
+    "ItemStack": "Unfinished Cleaning Treasure",
+    "Item": "Punching Dagger +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

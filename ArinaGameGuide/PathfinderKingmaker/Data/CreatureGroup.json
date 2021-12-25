@@ -894,5 +894,12 @@
     "Place": "Rotten Cave",
     "Position": "Deep Floor 1",
     "Memo": ""
+  },
+  {
+    "ID": 130,
+    "Name": "Unfinished Cleaning Group A",
+    "Place": "Unfinished Cleaning",
+    "Position": "Deep Floor 1",
+    "Memo": ""
   }
 ]

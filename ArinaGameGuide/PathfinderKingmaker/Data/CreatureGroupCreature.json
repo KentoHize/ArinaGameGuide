@@ -2470,5 +2470,13 @@
     "Quantity": 3,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 310,
+    "CreatureGroup": "Unfinished Cleaning Group A",
+    "Creature": "Alpha Worg from Dunsward Pack",
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
   }
 ]

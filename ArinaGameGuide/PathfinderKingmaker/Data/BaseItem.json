@@ -1119,5 +1119,24 @@
     "FinesseWeapon": false,
     "Price": 0,
     "Weight": 2.0
+  },
+  {
+    "ID": 60,
+    "Name": "Punching Dagger",
+    "CName": "Punching Dagger",
+    "Type": "Simple Weapon",
+    "DamageType": "Pierce",
+    "ArmorClass": null,
+    "ArmorCheckPenalty": null,
+    "ArcaneSpellFailureChance": null,
+    "MaxDexterity": null,
+    "WeaponSize": "Light",
+    "Range": null,
+    "Damage": null,
+    "CriticalHitRange": null,
+    "CriticalHitMultiplier": null,
+    "FinesseWeapon": true,
+    "Price": 0,
+    "Weight": 1.0
   }
 ]

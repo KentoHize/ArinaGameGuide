@@ -580,5 +580,17 @@
     "Creature": "Thundervine",
     "Skill": "Stealth",
     "Bonus": 19
+  },
+  {
+    "ID": 98,
+    "Creature": "Alpha Worg from Dunsward Pack",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 99,
+    "Creature": "Alpha Worg from Dunsward Pack",
+    "Skill": "Stealth",
+    "Bonus": 13
   }
 ]

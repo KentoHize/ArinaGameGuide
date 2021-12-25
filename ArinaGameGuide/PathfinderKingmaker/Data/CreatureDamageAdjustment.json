@@ -628,5 +628,12 @@
     "Type": "Immunity",
     "DamageType": "Electricity",
     "Amount": null
+  },
+  {
+    "ID": 91,
+    "Creature": "Alpha Worg from Dunsward Pack",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 1
   }
 ]

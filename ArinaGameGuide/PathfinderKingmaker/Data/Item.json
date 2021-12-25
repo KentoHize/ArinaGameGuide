@@ -3406,5 +3406,37 @@
     "StoryItem": false,
     "Weight": 2.0,
     "Description": "+2 thundering light hammer\n10/sonic"
+  },
+  {
+    "ID": 217,
+    "Name": "Enchanter's Cape",
+    "DisplayName": "Enchanter's Cape",
+    "DisplayCName": "",
+    "Type": "Cloak",
+    "BaseItem": "Cloak",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 875,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 3.0,
+    "Description": "+1 Enchantment DC"
+  },
+  {
+    "ID": 218,
+    "Name": "Punching Dagger +2",
+    "DisplayName": "Punching Dagger +2",
+    "DisplayCName": "",
+    "Type": "Simple Weapon",
+    "BaseItem": "Punching Dagger",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 2075,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 2.0,
+    "Description": ""
   }
 ]
