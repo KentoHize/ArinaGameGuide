@@ -2438,5 +2438,29 @@
     "Quantity": 3,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 306,
+    "CreatureGroup": "Crooked Teeth Other World Group A",
+    "Creature": "Oakenhide, Poisonous Manticore-like Treant",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 307,
+    "CreatureGroup": "Crooked Teeth Other World Group A",
+    "Creature": "Poisonous Primal Manticore",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 308,
+    "CreatureGroup": "Crooked Teeth Other World 3 Thundervine",
+    "Creature": "Thundervine",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
   }
 ]

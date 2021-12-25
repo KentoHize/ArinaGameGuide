@@ -446,5 +446,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 33,
+    "Name": "Crooked Teeth Other World Treasure",
+    "CName": "",
+    "Type": "Corpse",
+    "Place": "Crooked Teeth Other World",
+    "Position": "North East",
+    "ItemStack": "Black Fur Cloak",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

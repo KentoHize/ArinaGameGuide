@@ -496,5 +496,53 @@
     "Creature": "Ntavi",
     "Condition": null,
     "CondtionGroup": "Boss Immunities"
+  },
+  {
+    "ID": 84,
+    "Creature": "Thundervine",
+    "Condition": "Mind-Affecting",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 85,
+    "Creature": "Thundervine",
+    "Condition": "Compulsion",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 86,
+    "Creature": "Thundervine",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 87,
+    "Creature": "Thundervine",
+    "Condition": "Charmed",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 88,
+    "Creature": "Thundervine",
+    "Condition": "Stunned",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 89,
+    "Creature": "Thundervine",
+    "Condition": "Polymorph",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 90,
+    "Creature": "Thundervine",
+    "Condition": "Paralyzed",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 91,
+    "Creature": "Thundervine",
+    "Condition": "Sleep",
+    "CondtionGroup": null
   }
 ]

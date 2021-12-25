@@ -372,5 +372,49 @@
     "Position": "Center",
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 41,
+    "Name": "Crooked Teeth Other World Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Crooked Teeth Other World",
+    "DisarmDC": 30,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 42,
+    "Name": "Crooked Teeth Other World Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Crooked Teeth Other World",
+    "DisarmDC": 30,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 43,
+    "Name": "Crooked Teeth Other World Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Crooked Teeth Other World",
+    "DisarmDC": 30,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 44,
+    "Name": "Crooked Teeth Other World Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Crooked Teeth Other World",
+    "DisarmDC": 30,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

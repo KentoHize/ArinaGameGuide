@@ -873,5 +873,19 @@
     "Place": "Ruined Watchtower",
     "Position": "North East",
     "Memo": ""
+  },
+  {
+    "ID": 127,
+    "Name": "Crooked Teeth Other World Group A",
+    "Place": "Crooked Teeth Other World",
+    "Position": "North East",
+    "Memo": ""
+  },
+  {
+    "ID": 128,
+    "Name": "Crooked Teeth Other World 3 Thundervine",
+    "Place": "Crooked Teeth Other World 3",
+    "Position": "North East",
+    "Memo": ""
   }
 ]

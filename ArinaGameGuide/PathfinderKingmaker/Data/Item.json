@@ -3358,5 +3358,21 @@
     "StoryItem": false,
     "Weight": 1.0,
     "Description": ""
+  },
+  {
+    "ID": 214,
+    "Name": "Black Fur Cloak",
+    "DisplayName": "Black Fur Cloak",
+    "DisplayCName": "",
+    "Type": "Cloak",
+    "BaseItem": "Cloak",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 8750,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": "+10 competence to Stealth\n30 Cold Resistance"
   }
 ]

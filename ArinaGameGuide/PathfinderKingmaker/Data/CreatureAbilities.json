@@ -366,5 +366,53 @@
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null
+  },
+  {
+    "ID": 47,
+    "Creature": "Oakenhide, Poisonous Manticore-like Treant",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 48,
+    "Creature": "Oakenhide, Poisonous Manticore-like Treant",
+    "Ability": "Regeneration",
+    "Amount": 5,
+    "DamageType1": "Cold Iron",
+    "DamageType2": "Fire"
+  },
+  {
+    "ID": 49,
+    "Creature": "Oakenhide, Poisonous Manticore-like Treant",
+    "Ability": "Stunning Blow",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 51,
+    "Creature": "Thundervine",
+    "Ability": "Poisonous Aura",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 50,
+    "Creature": "Thundervine",
+    "Ability": "Fast Healing",
+    "Amount": 10,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 52,
+    "Creature": "Thundervine",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
   }
 ]

@@ -562,5 +562,23 @@
     "Creature": "Calistrian Rogue",
     "Skill": "Stealth",
     "Bonus": 16
+  },
+  {
+    "ID": 95,
+    "Creature": "Oakenhide, Poisonous Manticore-like Treant",
+    "Skill": "Perception",
+    "Bonus": 24
+  },
+  {
+    "ID": 96,
+    "Creature": "Thundervine",
+    "Skill": "Perception",
+    "Bonus": 27
+  },
+  {
+    "ID": 97,
+    "Creature": "Thundervine",
+    "Skill": "Stealth",
+    "Bonus": 19
   }
 ]

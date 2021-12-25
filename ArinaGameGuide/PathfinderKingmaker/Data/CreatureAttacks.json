@@ -1207,5 +1207,44 @@
     "DamageAdditiveBonus": 4,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 95,
+    "Creature": "Oakenhide, Poisonous Manticore-like Treant",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 5,
+    "AttackBonus": "27",
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 24,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 96,
+    "Creature": "Oakenhide, Poisonous Manticore-like Treant",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 5,
+    "AttackBonus": "28",
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 24,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 97,
+    "Creature": "Oakenhide, Poisonous Manticore-like Treant",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 5,
+    "AttackBonus": "28",
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 24,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

@@ -2902,5 +2902,13 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 364,
+    "ItemStack": "Black Fur Cloak",
+    "Item": "Black Fur Cloak",
+    "RandomItem": null,
+    "Quantity": null,
+    "RandomQuantity": null
   }
 ]

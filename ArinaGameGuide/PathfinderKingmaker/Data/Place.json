@@ -1034,5 +1034,61 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 76,
+    "Name": "Crooked Teeth",
+    "DisplayName": "Crooked Teeth",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 77,
+    "Name": "Crooked Teeth Other World",
+    "DisplayName": "Other World",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 9,
+    "SuggestedLevelMax": 11,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 78,
+    "Name": "Crooked Teeth Other World 2",
+    "DisplayName": "Other World",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 79,
+    "Name": "Crooked Teeth Other World 3",
+    "DisplayName": "Other World",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 9,
+    "SuggestedLevelMax": 11,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]
