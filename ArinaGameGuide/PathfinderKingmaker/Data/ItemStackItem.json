@@ -2758,5 +2758,21 @@
     "RandomItem": null,
     "Quantity": 2,
     "RandomQuantity": null
+  },
+  {
+    "ID": 346,
+    "ItemStack": "GC + HA",
+    "Item": "Greatclub",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 347,
+    "ItemStack": "GC + HA",
+    "Item": "Hide Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

@@ -1111,7 +1111,7 @@
     "Type": "Primary",
     "Range": 6,
     "AttackBonus": "18",
-    "Weapon": "Greaterclub",
+    "Weapon": "Greatclub",
     "BasicDamage": "2d8",
     "DamageAdditiveBonus": 19,
     "OtherDamageBonus": null,

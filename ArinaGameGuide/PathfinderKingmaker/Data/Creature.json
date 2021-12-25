@@ -7136,7 +7136,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 67,
-    "RemainItems": null,
+    "RemainItems": "GC + HA",
     "Memo": ""
   },
   {
@@ -7178,7 +7178,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 112,
-    "RemainItems": null,
+    "RemainItems": "GC + HA",
     "Memo": ""
   }
 ]

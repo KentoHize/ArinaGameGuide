@@ -2388,7 +2388,7 @@
     "CreatureGroup": "Bridge Over The Gudrin River Hill Giants Group A",
     "Creature": "Hill Giant",
     "Quantity": 3,
-    "AdditonalItems": null,
+    "AdditonalItems": "Money and Valuables",
     "AddtionalEffectOrConditions": null
   },
   {

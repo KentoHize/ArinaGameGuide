@@ -683,5 +683,10 @@
     "ID": 138,
     "Name": "Poachers' Hideout Treasure",
     "Memo": ""
+  },
+  {
+    "ID": 139,
+    "Name": "GC + HA",
+    "Memo": "Greatclub + Hide Armor"
   }
 ]
