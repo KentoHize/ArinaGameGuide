@@ -2942,5 +2942,29 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 369,
+    "ItemStack": "Spider Lair Treasure",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 903,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 370,
+    "ItemStack": "Spider Lair Treasure",
+    "Item": "Arrowguard",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 371,
+    "ItemStack": "Spider Lair Treasure",
+    "Item": "Baked Spider Legs",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

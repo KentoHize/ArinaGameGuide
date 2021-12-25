@@ -2478,5 +2478,53 @@
     "Quantity": 5,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 311,
+    "CreatureGroup": "Spider Lair Group A",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 312,
+    "CreatureGroup": "Spider Lair Group B",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 313,
+    "CreatureGroup": "Spider Lair Group C",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 314,
+    "CreatureGroup": "Spider Lair Group D",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 315,
+    "CreatureGroup": "Spider Lair Group E",
+    "Creature": "Primal Giant Spider",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 316,
+    "CreatureGroup": "Spider Lair Group F",
+    "Creature": "Primal Spider Matriarch",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
   }
 ]

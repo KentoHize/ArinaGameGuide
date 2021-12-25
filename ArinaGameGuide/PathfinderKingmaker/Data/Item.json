@@ -3438,5 +3438,37 @@
     "StoryItem": false,
     "Weight": 2.0,
     "Description": ""
+  },
+  {
+    "ID": 219,
+    "Name": "Arrowguard",
+    "DisplayName": "Arrowguard",
+    "DisplayCName": "",
+    "Type": "Light Shield",
+    "BaseItem": "Buckler",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 11750,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 5.0,
+    "Description": "+4 buckler\n+3 dodge AC to range attack"
+  },
+  {
+    "ID": 220,
+    "Name": "Baked Spider Legs",
+    "DisplayName": "Baked Spider Legs",
+    "DisplayCName": "",
+    "Type": "Recipe",
+    "BaseItem": "Recipe",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 25,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.5,
+    "Description": "Flour\nVegetables\nGiant Spider Legs"
   }
 ]

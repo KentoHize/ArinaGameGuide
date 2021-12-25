@@ -254,7 +254,7 @@
   {
     "ID": 20,
     "Name": "Wererat Lair",
-    "DisplayName": "",
+    "DisplayName": "Wererat Lair",
     "CName": "",
     "Type": "Hunting Area",
     "SuggestedLevelMin": 7,
@@ -268,7 +268,7 @@
   {
     "ID": 21,
     "Name": "Lonlely Barrow",
-    "DisplayName": "",
+    "DisplayName": "Lonlely Barrow",
     "CName": "",
     "Type": "Dungeon",
     "SuggestedLevelMin": 0,
@@ -282,7 +282,7 @@
   {
     "ID": 22,
     "Name": "Old Oak",
-    "DisplayName": "",
+    "DisplayName": "Old Oak",
     "CName": "",
     "Type": "Habitat",
     "SuggestedLevelMin": 5,
@@ -296,7 +296,7 @@
   {
     "ID": 23,
     "Name": "Three-Pine Islet",
-    "DisplayName": "",
+    "DisplayName": "Three-Pine Islet",
     "CName": "",
     "Type": "Hunting Area",
     "SuggestedLevelMin": 3,
@@ -310,7 +310,7 @@
   {
     "ID": 24,
     "Name": "Secret Sanctum",
-    "DisplayName": "",
+    "DisplayName": "Secret Sanctum",
     "CName": "",
     "Type": "Hunting Area",
     "SuggestedLevelMin": 6,
@@ -324,7 +324,7 @@
   {
     "ID": 25,
     "Name": "Ratnook Hill",
-    "DisplayName": "",
+    "DisplayName": "Ratnook Hill",
     "CName": "",
     "Type": "Hunting Area",
     "SuggestedLevelMin": 7,
@@ -338,7 +338,7 @@
   {
     "ID": 26,
     "Name": "Arbor Rock",
-    "DisplayName": "",
+    "DisplayName": "Arbor Rock",
     "CName": "",
     "Type": "Habitat",
     "SuggestedLevelMin": 4,
@@ -352,7 +352,7 @@
   {
     "ID": 27,
     "Name": "Ancient Mine",
-    "DisplayName": "",
+    "DisplayName": "Ancient Mine",
     "CName": "",
     "Type": "Habitat",
     "SuggestedLevelMin": 7,
@@ -366,7 +366,7 @@
   {
     "ID": 28,
     "Name": "Lake Silverstep Village",
-    "DisplayName": "",
+    "DisplayName": "Lake Silverstep Village",
     "CName": "",
     "Type": "Village",
     "SuggestedLevelMin": 7,
@@ -380,7 +380,7 @@
   {
     "ID": 29,
     "Name": "Silverstep Grove",
-    "DisplayName": "",
+    "DisplayName": "Silverstep Grove",
     "CName": "",
     "Type": "Hunting Area",
     "SuggestedLevelMin": 7,
@@ -408,7 +408,7 @@
   {
     "ID": 31,
     "Name": "Ironstone Gully",
-    "DisplayName": "",
+    "DisplayName": "Ironstone Gully",
     "CName": "",
     "Type": "Dungeon",
     "SuggestedLevelMin": 6,
@@ -422,7 +422,7 @@
   {
     "ID": 32,
     "Name": "Bald Stone",
-    "DisplayName": "",
+    "DisplayName": "Bald Stone",
     "CName": "",
     "Type": "Habitat",
     "SuggestedLevelMin": 7,
@@ -436,7 +436,7 @@
   {
     "ID": 33,
     "Name": "Bald Hilltop",
-    "DisplayName": "",
+    "DisplayName": "Bald Hilltop",
     "CName": "",
     "Type": "Hunting Area",
     "SuggestedLevelMin": 0,
@@ -450,7 +450,7 @@
   {
     "ID": 34,
     "Name": "Hunting Grounds",
-    "DisplayName": "",
+    "DisplayName": "Hunting Grounds",
     "CName": "",
     "Type": "Hunting Area",
     "SuggestedLevelMin": 8,
@@ -464,7 +464,7 @@
   {
     "ID": 35,
     "Name": "Hunting Lodge",
-    "DisplayName": "",
+    "DisplayName": "Hunting Lodge",
     "CName": "",
     "Type": "Safe Area",
     "SuggestedLevelMin": 0,
@@ -478,7 +478,7 @@
   {
     "ID": 36,
     "Name": "Bridge Over The Gudrin River",
-    "DisplayName": "",
+    "DisplayName": "Bridge Over The Gudrin River",
     "CName": "",
     "Type": "Hunting Area",
     "SuggestedLevelMin": 6,
@@ -492,7 +492,7 @@
   {
     "ID": 37,
     "Name": "Hilltop Trail",
-    "DisplayName": "",
+    "DisplayName": "Hilltop Trail",
     "CName": "",
     "Type": "Dungeon",
     "SuggestedLevelMin": 5,
@@ -506,7 +506,7 @@
   {
     "ID": 38,
     "Name": "Talon Peak",
-    "DisplayName": "",
+    "DisplayName": "Talon Peak",
     "CName": "",
     "Type": "Hunting Area",
     "SuggestedLevelMin": 7,
@@ -520,7 +520,7 @@
   {
     "ID": 39,
     "Name": "Old Prison",
-    "DisplayName": "",
+    "DisplayName": "Old Prison",
     "CName": "",
     "Type": "Dungeon",
     "SuggestedLevelMin": 0,
@@ -534,7 +534,7 @@
   {
     "ID": 40,
     "Name": "Goblin Village",
-    "DisplayName": "",
+    "DisplayName": "Goblin Village",
     "CName": "",
     "Type": "Hunting Area",
     "SuggestedLevelMin": 7,
@@ -548,7 +548,7 @@
   {
     "ID": 41,
     "Name": "Shrine of Lamashtu",
-    "DisplayName": "",
+    "DisplayName": "Shrine of Lamashtu",
     "CName": "",
     "Type": "Hunting Area",
     "SuggestedLevelMin": 7,
@@ -562,7 +562,7 @@
   {
     "ID": 42,
     "Name": "Goblin Fort",
-    "DisplayName": "",
+    "DisplayName": "Goblin Fort",
     "CName": "",
     "Type": "Hunting Area",
     "SuggestedLevelMin": 8,
@@ -1109,6 +1109,20 @@
     "ID": 81,
     "Name": "Unfinished Cleaning",
     "DisplayName": "Unfinished Cleaning",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 8,
+    "SuggestedLevelMax": 10,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 82,
+    "Name": "Spider Lair",
+    "DisplayName": "Spider Lair",
     "CName": "",
     "Type": "Hunting Area",
     "SuggestedLevelMin": 0,

@@ -901,5 +901,47 @@
     "Place": "Unfinished Cleaning",
     "Position": "Deep Floor 1",
     "Memo": ""
+  },
+  {
+    "ID": 131,
+    "Name": "Spider Lair Group A",
+    "Place": "Spider Lair",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 132,
+    "Name": "Spider Lair Group B",
+    "Place": "Spider Lair",
+    "Position": "East",
+    "Memo": ""
+  },
+  {
+    "ID": 133,
+    "Name": "Spider Lair Group C",
+    "Place": "Spider Lair",
+    "Position": "East",
+    "Memo": ""
+  },
+  {
+    "ID": 134,
+    "Name": "Spider Lair Group D",
+    "Place": "Spider Lair",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 135,
+    "Name": "Spider Lair Group E",
+    "Place": "Spider Lair",
+    "Position": "West",
+    "Memo": ""
+  },
+  {
+    "ID": 136,
+    "Name": "Spider Lair Group F",
+    "Place": "Spider Lair",
+    "Position": "Center",
+    "Memo": ""
   }
 ]

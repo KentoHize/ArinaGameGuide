@@ -504,5 +504,16 @@
     "EnemyGroup2": null,
     "EnemyGroup3": null,
     "Memo": ""
+  },
+  {
+    "ID": 47,
+    "Name": "Spider Lair Group E",
+    "Place": "Spider Lair",
+    "Position": "Center",
+    "HasPlot": false,
+    "EnemyGroup1": "Spider Lair Group E",
+    "EnemyGroup2": "Spider Lair Group F",
+    "EnemyGroup3": null,
+    "Memo": ""
   }
 ]

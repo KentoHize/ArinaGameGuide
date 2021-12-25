@@ -488,5 +488,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 36,
+    "Name": "Spider Lair Treasure",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Spider Lair",
+    "Position": "West",
+    "ItemStack": "Spider Lair Treasure",
+    "PerceptionDC": 10,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": "Spider Lair Group E",
+    "Memo": ""
   }
 ]
