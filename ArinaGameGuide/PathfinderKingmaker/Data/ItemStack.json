@@ -668,5 +668,20 @@
     "ID": 135,
     "Name": "Varnhold Stockade Treasure Agai",
     "Memo": ""
+  },
+  {
+    "ID": 136,
+    "Name": "Random Potion",
+    "Memo": ""
+  },
+  {
+    "ID": 137,
+    "Name": "Lizardfolk Skins",
+    "Memo": ""
+  },
+  {
+    "ID": 138,
+    "Name": "Poachers' Hideout Treasure",
+    "Memo": ""
   }
 ]

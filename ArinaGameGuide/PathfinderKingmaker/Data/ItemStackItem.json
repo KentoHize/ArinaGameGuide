@@ -1746,16 +1746,8 @@
   {
     "ID": 218,
     "ItemStack": "Poacher Alchemist RS",
-    "Item": "Potion of Heroism",
-    "RandomItem": null,
-    "Quantity": 1,
-    "RandomQuantity": null
-  },
-  {
-    "ID": 219,
-    "ItemStack": "Poacher Alchemist RS",
-    "Item": "Lizardfolk Skins",
-    "RandomItem": null,
+    "Item": null,
+    "RandomItem": "Random Potion",
     "Quantity": 1,
     "RandomQuantity": null
   },
@@ -2693,6 +2685,78 @@
     "Item": "Fallen Warrior's Boot",
     "RandomItem": null,
     "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 337,
+    "ItemStack": "Random Potion",
+    "Item": "Potion of Heroism",
+    "RandomItem": null,
+    "Quantity": null,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 338,
+    "ItemStack": "Random Potion",
+    "Item": "Potion of Protection from Cold",
+    "RandomItem": null,
+    "Quantity": null,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 339,
+    "ItemStack": "Lizardfolk Skins",
+    "Item": "Lizardfolk Skins",
+    "RandomItem": null,
+    "Quantity": null,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 340,
+    "ItemStack": "Poachers' Hideout Treasure",
+    "Item": "Animal Hide",
+    "RandomItem": null,
+    "Quantity": 10,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 341,
+    "ItemStack": "Poachers' Hideout Treasure",
+    "Item": "Lizardfolk Skins",
+    "RandomItem": null,
+    "Quantity": 5,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 342,
+    "ItemStack": "Poachers' Hideout Treasure",
+    "Item": "Owlbear Pelt",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 343,
+    "ItemStack": "Poachers' Hideout Treasure",
+    "Item": "Winter Wolf Pelt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 344,
+    "ItemStack": "Poachers' Hideout Treasure",
+    "Item": "Bear Pelt",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 345,
+    "ItemStack": "Poachers' Hideout Treasure",
+    "Item": "Wyvern Scales",
+    "RandomItem": null,
+    "Quantity": 2,
     "RandomQuantity": null
   }
 ]

@@ -432,5 +432,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 32,
+    "Name": "Poachers' Hideout Treasure",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Poachers' Hideout",
+    "Position": "East",
+    "ItemStack": "Poachers' Hideout Treasure",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

@@ -1780,7 +1780,7 @@
     "CreatureGroup": "Lizzard Skin Poacher Group",
     "Creature": "Poacher Alchemist",
     "Quantity": 1,
-    "AdditonalItems": null,
+    "AdditonalItems": "Lizardfolk Skins",
     "AddtionalEffectOrConditions": null
   },
   {
