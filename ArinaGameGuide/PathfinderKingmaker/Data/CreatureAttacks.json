@@ -1077,5 +1077,31 @@
     "DamageAdditiveBonus": 17,
     "OtherDamageBonus": "Acid 1d6",
     "SneakDamage": null
+  },
+  {
+    "ID": 85,
+    "Creature": "Morhalan",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "20",
+    "Weapon": "Shortsword +1",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 16,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 86,
+    "Creature": "Morhalan",
+    "Form": "Piercing Weapon",
+    "Type": "Secondary",
+    "Range": 2,
+    "AttackBonus": "20",
+    "Weapon": "Masterwork Shortsword",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 10,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

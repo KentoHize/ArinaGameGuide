@@ -845,5 +845,12 @@
     "Place": "Varnhold Stockade",
     "Position": "Deep Floor 2",
     "Memo": ""
+  },
+  {
+    "ID": 123,
+    "Name": "Poachers' Hideout Morhalan",
+    "Place": "Poachers' Hideout",
+    "Position": "Center",
+    "Memo": ""
   }
 ]

@@ -2358,5 +2358,29 @@
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 296,
+    "CreatureGroup": "Poachers' Hideout Morhalan",
+    "Creature": "Morhalan",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 297,
+    "CreatureGroup": "Poachers' Hideout Morhalan",
+    "Creature": "Poacher Brawler",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 298,
+    "CreatureGroup": "Poachers' Hideout Morhalan",
+    "Creature": "Poacher Alchemist",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
   }
 ]

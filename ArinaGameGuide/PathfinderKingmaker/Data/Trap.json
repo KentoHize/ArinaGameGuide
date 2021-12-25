@@ -361,5 +361,16 @@
     "Position": "Deep Floor 1",
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 40,
+    "Name": "Poachers' Hideout Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Poachers' Hideout",
+    "DisarmDC": 27,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

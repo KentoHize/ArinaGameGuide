@@ -3230,5 +3230,21 @@
     "StoryItem": false,
     "Weight": 1.0,
     "Description": ""
+  },
+  {
+    "ID": 206,
+    "Name": "Shortsword +1",
+    "DisplayName": "Shortsword +1",
+    "DisplayCName": "",
+    "Type": "Simple Weapon",
+    "BaseItem": "Shortsword",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

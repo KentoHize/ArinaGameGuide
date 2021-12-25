@@ -478,5 +478,23 @@
     "Creature": "Agai",
     "Skill": "Trickery",
     "Bonus": 12
+  },
+  {
+    "ID": 81,
+    "Creature": "Morhalan",
+    "Skill": "Perception",
+    "Bonus": 27
+  },
+  {
+    "ID": 82,
+    "Creature": "Morhalan",
+    "Skill": "Stealth",
+    "Bonus": 24
+  },
+  {
+    "ID": 83,
+    "Creature": "Morhalan",
+    "Skill": "Trickery",
+    "Bonus": 24
   }
 ]

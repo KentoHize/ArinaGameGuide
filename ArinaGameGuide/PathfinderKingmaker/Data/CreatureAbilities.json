@@ -270,5 +270,21 @@
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null
+  },
+  {
+    "ID": 35,
+    "Creature": "Morhalan",
+    "Ability": "Piranha Strike",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 36,
+    "Creature": "Morhalan",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
   }
 ]

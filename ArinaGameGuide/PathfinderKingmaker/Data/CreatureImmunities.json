@@ -448,5 +448,47 @@
     "Creature": "Ravan Swarm",
     "Condition": null,
     "CondtionGroup": "Swarm Immunities"
+  },
+  {
+    "ID": 76,
+    "Creature": "Morhalan",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 77,
+    "Creature": "Morhalan",
+    "Condition": "Death",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 78,
+    "Creature": "Morhalan",
+    "Condition": "Sleep",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 79,
+    "Creature": "Morhalan",
+    "Condition": "ability score damage",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 80,
+    "Creature": "Morhalan",
+    "Condition": "drain",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 81,
+    "Creature": "Morhalan",
+    "Condition": "Spell - Magic Missile",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 82,
+    "Creature": "Morhalan",
+    "Condition": "Petrified",
+    "CondtionGroup": null
   }
 ]
