@@ -988,25 +988,6 @@
     "Weight": 3.0
   },
   {
-    "ID": 53,
-    "Name": "Greaterclub",
-    "CName": "Greaterclub",
-    "Type": "Simple Weapon",
-    "DamageType": "Bludgeon",
-    "ArmorClass": null,
-    "ArmorCheckPenalty": null,
-    "ArcaneSpellFailureChance": null,
-    "MaxDexterity": null,
-    "WeaponSize": "Two-handed",
-    "Range": null,
-    "Damage": null,
-    "CriticalHitRange": null,
-    "CriticalHitMultiplier": null,
-    "FinesseWeapon": false,
-    "Price": 0,
-    "Weight": 0.0
-  },
-  {
     "ID": 54,
     "Name": "Necklace",
     "CName": "",

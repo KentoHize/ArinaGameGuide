@@ -1188,5 +1188,33 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 87,
+    "Name": "Ruined Tower",
+    "DisplayName": "Ruined Tower",
+    "CName": "",
+    "Type": "Biography",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "Athletics 23\nAthletics 24\nKnowledge(Arcana)"
+  },
+  {
+    "ID": 88,
+    "Name": "Blood Furrows",
+    "DisplayName": "Blood Furrows",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

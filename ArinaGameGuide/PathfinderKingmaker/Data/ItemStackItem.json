@@ -2426,7 +2426,7 @@
   {
     "ID": 304,
     "ItemStack": "Spriggan Savage RS",
-    "Item": "Masterwork Greaterclub",
+    "Item": "Masterwork Greatclub",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
@@ -2522,7 +2522,7 @@
   {
     "ID": 316,
     "ItemStack": "Spriggan Raider RS",
-    "Item": "Masterwork Greaterclub",
+    "Item": "Greatclub",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
@@ -3011,6 +3011,54 @@
     "ID": 377,
     "ItemStack": "Mature Athach RS",
     "Item": "Belt of Physical Might +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 378,
+    "ItemStack": "Blood Furrows Treasure A",
+    "Item": "Belt of Physical Flow +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 379,
+    "ItemStack": "Blood Furrows Treasure A",
+    "Item": "Potion of Aid",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 380,
+    "ItemStack": "Blood Furrows Treasure A",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 381,
+    "ItemStack": "Blood Furrows Treasure A",
+    "Item": "Potion of Invisibility",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 382,
+    "ItemStack": "Blood Furrows Treasure A",
+    "Item": "Mastodon Meat",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 383,
+    "ItemStack": "Durance",
+    "Item": "Durance",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null

@@ -516,5 +516,33 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 38,
+    "Name": "Blood Furrows Treasure A",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Blood Furrows",
+    "Position": "Center",
+    "ItemStack": "Blood Furrows Treasure A",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 39,
+    "Name": "Blood Furrows Treasure B",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Blood Furrows",
+    "Position": "Center",
+    "ItemStack": "Durance",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]
