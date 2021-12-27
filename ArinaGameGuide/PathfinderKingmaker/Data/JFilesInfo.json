@@ -3074,7 +3074,7 @@
           "FKTable": "BaseItem",
           "FKColumn": "Name",
           "NumberOfRows": 1,
-          "Display": false,
+          "Display": true,
           "RegularExpression": "",
           "Description": "",
           "MinValue": "",

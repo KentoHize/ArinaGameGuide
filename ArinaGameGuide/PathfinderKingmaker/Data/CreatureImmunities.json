@@ -123,19 +123,19 @@
     "ID": 21,
     "Creature": "Ghost",
     "Condition": null,
-    "CondtionGroup": "UndeadImmunities"
+    "CondtionGroup": "Undead Immunities"
   },
   {
     "ID": 22,
     "Creature": "Ghostly Mage Guard",
     "Condition": null,
-    "CondtionGroup": "UndeadImmunities"
+    "CondtionGroup": "Undead Immunities"
   },
   {
     "ID": 23,
     "Creature": "Ghostly Guard",
     "Condition": null,
-    "CondtionGroup": "UndeadImmunities"
+    "CondtionGroup": "Undead Immunities"
   },
   {
     "ID": 24,
@@ -357,13 +357,13 @@
     "ID": 60,
     "Creature": "Nightmare Skeleton Soldier",
     "Condition": null,
-    "CondtionGroup": "UndeadImmunities"
+    "CondtionGroup": "Undead Immunities"
   },
   {
     "ID": 61,
     "Creature": "Fionn",
     "Condition": null,
-    "CondtionGroup": "UndeadImmunities"
+    "CondtionGroup": "Undead Immunities"
   },
   {
     "ID": 62,
@@ -544,5 +544,23 @@
     "Creature": "Thundervine",
     "Condition": "Sleep",
     "CondtionGroup": null
+  },
+  {
+    "ID": 92,
+    "Creature": "Elder Earth Elemental",
+    "Condition": null,
+    "CondtionGroup": "Elemental Immunities"
+  },
+  {
+    "ID": 93,
+    "Creature": "Ferocious Dread Zombie Cyclops",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 94,
+    "Creature": "Dread Zombie Cyclops",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]

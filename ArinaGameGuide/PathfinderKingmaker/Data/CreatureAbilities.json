@@ -430,5 +430,21 @@
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null
+  },
+  {
+    "ID": 55,
+    "Creature": "Elder Earth Elemental",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 56,
+    "Creature": "Elder Earth Elemental",
+    "Ability": "Sunder Armor",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
   }
 ]

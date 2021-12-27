@@ -26,92 +26,92 @@
   },
   {
     "ID": 6,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "Mind-Affecting"
   },
   {
     "ID": 7,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "Fear"
   },
   {
     "ID": 8,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "Compulsion"
   },
   {
     "ID": 9,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "Emotion"
   },
   {
     "ID": 10,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "Poison"
   },
   {
     "ID": 11,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "Disease"
   },
   {
     "ID": 12,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "Charmed"
   },
   {
     "ID": 13,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "Dazed"
   },
   {
     "ID": 14,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "Stunned"
   },
   {
     "ID": 15,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "Death"
   },
   {
     "ID": 16,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "Critical Hits"
   },
   {
     "ID": 17,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "damage from non-magical weapons"
   },
   {
     "ID": 18,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "ability score damage"
   },
   {
     "ID": 19,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "drain"
   },
   {
     "ID": 20,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "precision damage"
   },
   {
     "ID": 21,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "Nauseated"
   },
   {
     "ID": 22,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "Fatigued"
   },
   {
     "ID": 23,
-    "EffectOrConditionSet": "UndeadImmunities",
+    "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "Sickened"
   },
   {
@@ -178,5 +178,45 @@
     "ID": 36,
     "EffectOrConditionSet": "Boss Immunities",
     "EffectOrConditon": "Petrified"
+  },
+  {
+    "ID": 37,
+    "EffectOrConditionSet": "Elemental Immunities",
+    "EffectOrConditon": "Poison"
+  },
+  {
+    "ID": 38,
+    "EffectOrConditionSet": "Elemental Immunities",
+    "EffectOrConditon": "Stunned"
+  },
+  {
+    "ID": 39,
+    "EffectOrConditionSet": "Elemental Immunities",
+    "EffectOrConditon": "Critical Hits"
+  },
+  {
+    "ID": 40,
+    "EffectOrConditionSet": "Elemental Immunities",
+    "EffectOrConditon": "precision damage"
+  },
+  {
+    "ID": 41,
+    "EffectOrConditionSet": "Elemental Immunities",
+    "EffectOrConditon": "Sleep"
+  },
+  {
+    "ID": 42,
+    "EffectOrConditionSet": "Elemental Immunities",
+    "EffectOrConditon": "Paralyzed"
+  },
+  {
+    "ID": 43,
+    "EffectOrConditionSet": "Elemental Immunities",
+    "EffectOrConditon": "Stunned"
+  },
+  {
+    "ID": 44,
+    "EffectOrConditionSet": "Undead Immunities",
+    "EffectOrConditon": "Sleep"
   }
 ]

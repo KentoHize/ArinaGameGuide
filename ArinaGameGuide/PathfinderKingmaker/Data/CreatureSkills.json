@@ -592,5 +592,29 @@
     "Creature": "Alpha Worg from Dunsward Pack",
     "Skill": "Stealth",
     "Bonus": 13
+  },
+  {
+    "ID": 100,
+    "Creature": "Elder Earth Elemental",
+    "Skill": "Perception",
+    "Bonus": 25
+  },
+  {
+    "ID": 101,
+    "Creature": "Ferocious Dread Zombie Cyclops",
+    "Skill": "Perception",
+    "Bonus": 26
+  },
+  {
+    "ID": 102,
+    "Creature": "Dread Zombie Cyclops",
+    "Skill": "Lore(Nature)",
+    "Bonus": 17
+  },
+  {
+    "ID": 103,
+    "Creature": "Dread Zombie Cyclops",
+    "Skill": "Perception",
+    "Bonus": 28
   }
 ]

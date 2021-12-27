@@ -1259,5 +1259,70 @@
     "DamageAdditiveBonus": 18,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 99,
+    "Creature": "Elder Earth Elemental",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 9,
+    "AttackBonus": "27",
+    "Weapon": null,
+    "BasicDamage": "2d10",
+    "DamageAdditiveBonus": 24,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 100,
+    "Creature": "Ferocious Dread Zombie Cyclops",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 6,
+    "AttackBonus": "24",
+    "Weapon": "Masterwork Greataxe",
+    "BasicDamage": "3d6",
+    "DamageAdditiveBonus": 28,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 101,
+    "Creature": "Ferocious Dread Zombie Cyclops",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 6,
+    "AttackBonus": "17",
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 9,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 102,
+    "Creature": "Dread Zombie Cyclops",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 6,
+    "AttackBonus": "21",
+    "Weapon": "Masterwork Greataxe",
+    "BasicDamage": "3d6",
+    "DamageAdditiveBonus": 25,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 103,
+    "Creature": "Dread Zombie Cyclops",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 6,
+    "AttackBonus": "15",
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 8,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

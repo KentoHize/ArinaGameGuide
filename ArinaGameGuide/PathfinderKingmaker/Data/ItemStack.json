@@ -733,5 +733,10 @@
     "ID": 149,
     "Name": "Spider Lair Treasure",
     "Memo": ""
+  },
+  {
+    "ID": 150,
+    "Name": "MGA + HA",
+    "Memo": "Masterwork Greataxe + Hide Armor"
   }
 ]

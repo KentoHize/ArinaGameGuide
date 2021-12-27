@@ -2966,5 +2966,21 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 372,
+    "ItemStack": "MGA + HA",
+    "Item": "Masterwork Greataxe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 373,
+    "ItemStack": "MGA + HA",
+    "Item": "Hide Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]
