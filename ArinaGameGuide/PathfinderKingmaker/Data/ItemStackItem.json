@@ -1888,36 +1888,12 @@
     "RandomQuantity": null
   },
   {
-    "ID": 237,
-    "ItemStack": "Bandit 8 Fighter RS",
-    "Item": null,
-    "RandomItem": "Random Coins",
-    "Quantity": 1,
-    "RandomQuantity": null
-  },
-  {
     "ID": 238,
     "ItemStack": "Random Coins",
     "Item": "Gold Coin",
     "RandomItem": null,
     "Quantity": null,
     "RandomQuantity": "Some"
-  },
-  {
-    "ID": 239,
-    "ItemStack": "Bandit 8 Fighter RS",
-    "Item": "Composite Longbow",
-    "RandomItem": null,
-    "Quantity": 1,
-    "RandomQuantity": null
-  },
-  {
-    "ID": 240,
-    "ItemStack": "Bandit 8 Fighter RS",
-    "Item": "Chainshirt",
-    "RandomItem": null,
-    "Quantity": 1,
-    "RandomQuantity": null
   },
   {
     "ID": 241,
@@ -3265,7 +3241,7 @@
   },
   {
     "ID": 409,
-    "ItemStack": "MV + CL + CS",
+    "ItemStack": "MV + CLB + CS",
     "Item": null,
     "RandomItem": "Money and Valuables",
     "Quantity": 1,
@@ -3273,7 +3249,7 @@
   },
   {
     "ID": 410,
-    "ItemStack": "MV + CL + CS",
+    "ItemStack": "MV + CLB + CS",
     "Item": "Composite Longbow",
     "RandomItem": null,
     "Quantity": 1,
@@ -3281,7 +3257,7 @@
   },
   {
     "ID": 411,
-    "ItemStack": "MV + CL + CS",
+    "ItemStack": "MV + CLB + CS",
     "Item": "Chainshirt",
     "RandomItem": null,
     "Quantity": 1,
@@ -3355,6 +3331,94 @@
     "ID": 420,
     "ItemStack": "2D1 + CS + RoP1",
     "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 421,
+    "ItemStack": "RS + MLS + CS + RoP1",
+    "Item": null,
+    "RandomItem": "Random Scroll",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 422,
+    "ItemStack": "RS + MLS + CS + RoP1",
+    "Item": "Masterwork Longspear",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 423,
+    "ItemStack": "RS + MLS + CS + RoP1",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 424,
+    "ItemStack": "RS + MLS + CS + RoP1",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 425,
+    "ItemStack": "MC + BP + RoP1",
+    "Item": "Masterwork Club",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 426,
+    "ItemStack": "MC + BP + RoP1",
+    "Item": "Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 427,
+    "ItemStack": "MC + BP + RoP1",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 428,
+    "ItemStack": "Random Ingredient",
+    "Item": "Trount",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 429,
+    "ItemStack": "RI + CSB + CS",
+    "Item": null,
+    "RandomItem": "Random Ingredient",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 430,
+    "ItemStack": "RI + CSB + CS",
+    "Item": "Composite Shortbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 431,
+    "ItemStack": "RI + CSB + CS",
+    "Item": "Chainshirt",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null

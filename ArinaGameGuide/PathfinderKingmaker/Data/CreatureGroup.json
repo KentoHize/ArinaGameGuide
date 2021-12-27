@@ -1013,5 +1013,19 @@
     "Place": "City of Hollow Eyes",
     "Position": "Center",
     "Memo": ""
+  },
+  {
+    "ID": 147,
+    "Name": "City of Hollow Eyes Group G",
+    "Place": "City of Hollow Eyes",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 148,
+    "Name": "City of Hollow Eyes Group H",
+    "Place": "City of Hollow Eyes",
+    "Position": "South West",
+    "Memo": ""
   }
 ]

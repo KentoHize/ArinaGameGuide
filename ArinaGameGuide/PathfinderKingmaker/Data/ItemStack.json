@@ -510,11 +510,6 @@
     "Memo": "2 Masterwork Dagger + Chainshirt + Ring of Protection +1\n"
   },
   {
-    "ID": 103,
-    "Name": "Bandit 8 Fighter RS",
-    "Memo": "Some Coin + Composite Longbow + Chainshirt\n\n(6, 13)"
-  },
-  {
     "ID": 104,
     "Name": "RS + MLC",
     "Memo": "Random Scroll + Masterwork Light Crossbow\n\n(Protection from Cold, Invisibility)"
@@ -811,7 +806,7 @@
   },
   {
     "ID": 167,
-    "Name": "MV + CL + CS",
+    "Name": "MV + CLB + CS",
     "Memo": "Money and Valuables + Composite Longbow + Chainshirt"
   },
   {
@@ -827,6 +822,26 @@
   {
     "ID": 170,
     "Name": "2D1 + CS + RoP1",
+    "Memo": "2 Dagger +1  + Chainshirt + Ring of Protection +1"
+  },
+  {
+    "ID": 171,
+    "Name": "RS + MLS + CS + RoP1",
     "Memo": ""
+  },
+  {
+    "ID": 172,
+    "Name": "MC + BP + RoP1",
+    "Memo": ""
+  },
+  {
+    "ID": 173,
+    "Name": "Random Ingredient",
+    "Memo": ""
+  },
+  {
+    "ID": 174,
+    "Name": "RI + CSB + CS",
+    "Memo": "Random Ingredient + Composite Shortbow + Chainshirt"
   }
 ]

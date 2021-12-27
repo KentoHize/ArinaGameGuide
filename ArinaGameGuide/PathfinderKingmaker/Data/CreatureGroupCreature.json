@@ -3094,5 +3094,50 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 345,
+    "CreatureGroup": "City of Hollow Eyes Group F",
+    "Creature": "Bandit 7 Cleric",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 346,
+    "CreatureGroup": "City of Hollow Eyes Group G",
+    "Creature": "Greater Cyclops",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 347,
+    "CreatureGroup": "City of Hollow Eyes Group H",
+    "Creature": "Ferocious Worg",
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 348,
+    "CreatureGroup": "City of Hollow Eyes Group H",
+    "Creature": "Bandit 8 Rogue",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "2"
+  },
+  {
+    "ID": 349,
+    "CreatureGroup": "City of Hollow Eyes Group H",
+    "Creature": "Bandit 6 Bow Fighter",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "2"
   }
 ]

@@ -1662,5 +1662,18 @@
     "DamageAdditiveBonus": 20,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 130,
+    "Creature": "Bandit 7 Cleric",
+    "Form": "Bludgeoning Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "12",
+    "Weapon": "Masterwork Club",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 3,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

@@ -5750,7 +5750,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 67,
-    "RemainItems": "Bandit 8 Fighter RS",
+    "RemainItems": "MV + CLB + CS",
     "Memo": ""
   },
   {
@@ -8060,7 +8060,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 45,
-    "RemainItems": "MV + CL + CS",
+    "RemainItems": "MV + CLB + CS",
     "Memo": ""
   },
   {
@@ -8312,7 +8312,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 90,
-    "RemainItems": null,
+    "RemainItems": "RS + MLS + CS + RoP1",
     "Memo": ""
   },
   {
@@ -8354,7 +8354,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 56,
-    "RemainItems": null,
+    "RemainItems": "RI + CSB + CS",
     "Memo": ""
   },
   {
@@ -8397,6 +8397,48 @@
     "Swarm": false,
     "Exp": 112,
     "RemainItems": null,
+    "Memo": ""
+  },
+  {
+    "ID": 202,
+    "Name": "Bandit 7 Cleric",
+    "DisplayName": "Bandit Cleric",
+    "DisplayCName": "",
+    "Race": null,
+    "Alignment": "Chaotic Neutral",
+    "Size": "Medium",
+    "Speed": 20,
+    "Initialive": 3,
+    "Strength": 14,
+    "Dexterity": 16,
+    "Constitution": 19,
+    "Intelligence": 12,
+    "Wisdom": 18,
+    "Charisma": 21,
+    "Class1": "Cleric",
+    "Class1Level": 7,
+    "Class2": null,
+    "Class2Level": null,
+    "Class3": null,
+    "Class3Level": null,
+    "Class4": null,
+    "Class4Level": null,
+    "Hitpoint": 74,
+    "AC": 25,
+    "Falt-FootedAC": 21,
+    "TouchAC": 19,
+    "Fortitude": 9,
+    "Reflex": 5,
+    "Will": 9,
+    "BaseAttackBonus": 5,
+    "CombatManeuverBonus": 11,
+    "CombatManeuverDefense": 26,
+    "SpellResistance": null,
+    "SkinItem": null,
+    "SkinDC": null,
+    "Swarm": false,
+    "Exp": 56,
+    "RemainItems": "MC + BP + RoP1",
     "Memo": ""
   }
 ]

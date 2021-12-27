@@ -868,5 +868,17 @@
     "Creature": "Bandit Leader 10 Fighter",
     "Skill": "Athletics",
     "Bonus": 18
+  },
+  {
+    "ID": 146,
+    "Creature": "Bandit 7 Cleric",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 147,
+    "Creature": "Greater Cyclops",
+    "Skill": "Perception",
+    "Bonus": 28
   }
 ]
