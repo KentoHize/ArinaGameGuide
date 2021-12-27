@@ -5,7 +5,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 2,
@@ -13,15 +14,17 @@
     "Creature": "Spider Swarm",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 3,
     "CreatureGroup": "Talon Peak Bandit Group",
-    "Creature": "Bandit_TP_1",
+    "Creature": "Bandit 7 Fighter",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 4,
@@ -29,7 +32,8 @@
     "Creature": "Bandit_TP_2",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 5,
@@ -37,7 +41,8 @@
     "Creature": "Bandit_TP_3",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 6,
@@ -45,7 +50,8 @@
     "Creature": "Ancient Roc",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 7,
@@ -53,7 +59,8 @@
     "Creature": "Ancient Golem",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 8,
@@ -61,7 +68,8 @@
     "Creature": "Fake Stag Lord",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 9,
@@ -69,7 +77,8 @@
     "Creature": "Bandit_FSL_1",
     "Quantity": 5,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 10,
@@ -77,7 +86,8 @@
     "Creature": "Bandit_FSL_2",
     "Quantity": 5,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 11,
@@ -85,7 +95,8 @@
     "Creature": "Bandit_FSL_3",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 12,
@@ -93,7 +104,8 @@
     "Creature": "Bandit_FSL_4",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 13,
@@ -101,7 +113,8 @@
     "Creature": "Bandit_FSL_5",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 14,
@@ -109,7 +122,8 @@
     "Creature": "Goblin Horseslayer",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 15,
@@ -117,7 +131,8 @@
     "Creature": "Goblin Roc Eye",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 16,
@@ -125,7 +140,8 @@
     "Creature": "Goblin Sneak",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 17,
@@ -133,7 +149,8 @@
     "Creature": "Goblin Horsereaper",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 18,
@@ -141,7 +158,8 @@
     "Creature": "Goblin Arch-chemist",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 19,
@@ -149,7 +167,8 @@
     "Creature": "Priest of Lamashtu",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 20,
@@ -157,7 +176,8 @@
     "Creature": "Lamashtu_Cultist_1",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 21,
@@ -165,7 +185,8 @@
     "Creature": "Lamashtu_Cultist_2",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 22,
@@ -173,7 +194,8 @@
     "Creature": "Gobllin Sentry",
     "Quantity": 5,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 23,
@@ -181,7 +203,8 @@
     "Creature": "Gobllin Lynx Eye",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 24,
@@ -189,7 +212,8 @@
     "Creature": "Goblin Sneak",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 25,
@@ -197,7 +221,8 @@
     "Creature": "Goblin Horsereaper",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 26,
@@ -205,7 +230,8 @@
     "Creature": "Goblin Arch-chemist",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 27,
@@ -213,7 +239,8 @@
     "Creature": "Gobllin Commando Commander",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 28,
@@ -221,7 +248,8 @@
     "Creature": "Gobllin Sneakwhack",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 29,
@@ -229,7 +257,8 @@
     "Creature": "Goblin Dogreaper",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 30,
@@ -237,7 +266,8 @@
     "Creature": "Goblin Horsereaper",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 31,
@@ -245,7 +275,8 @@
     "Creature": "Goblin Soldier",
     "Quantity": 8,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 32,
@@ -253,7 +284,8 @@
     "Creature": "Goblin Smart Eye",
     "Quantity": 5,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 33,
@@ -261,7 +293,8 @@
     "Creature": "Goblin Alchemist",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 34,
@@ -269,7 +302,8 @@
     "Creature": "Goblin Roc Eye",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 35,
@@ -277,7 +311,8 @@
     "Creature": "Goblin Sneak",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 36,
@@ -285,7 +320,8 @@
     "Creature": "Goblin Roc Eye",
     "Quantity": 4,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 37,
@@ -293,7 +329,8 @@
     "Creature": "Goblin Sneak",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 38,
@@ -301,7 +338,8 @@
     "Creature": "Gobllin Commando Commander",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 39,
@@ -309,7 +347,8 @@
     "Creature": "Goblin Alchemist Master",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 40,
@@ -317,7 +356,8 @@
     "Creature": "Goblin Soldier",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 41,
@@ -325,7 +365,8 @@
     "Creature": "Goblin Alchemist Expert",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 42,
@@ -333,7 +374,8 @@
     "Creature": "Goblin Dogcutter",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 44,
@@ -341,7 +383,8 @@
     "Creature": "Dire Wolf",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 43,
@@ -349,7 +392,8 @@
     "Creature": "Goblin Dogcutter",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 45,
@@ -357,7 +401,8 @@
     "Creature": "Goblin Roc Eye",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 46,
@@ -365,7 +410,8 @@
     "Creature": "Gobllin Sneakwhack",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 47,
@@ -373,7 +419,8 @@
     "Creature": "Goblin Sneak",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 48,
@@ -381,7 +428,8 @@
     "Creature": "Goblin Horsereaper",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 49,
@@ -389,7 +437,8 @@
     "Creature": "Gobllin Commando Commander",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 50,
@@ -397,7 +446,8 @@
     "Creature": "Goblin Horsereaper",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 51,
@@ -405,7 +455,8 @@
     "Creature": "Goblin Sneak",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 52,
@@ -413,7 +464,8 @@
     "Creature": "Goblin Arch-chemist",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 53,
@@ -421,7 +473,8 @@
     "Creature": "Ferocious Worg",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 54,
@@ -429,7 +482,8 @@
     "Creature": "Gobllin Commando Commander",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 55,
@@ -437,7 +491,8 @@
     "Creature": "Gobllin Sly Eye",
     "Quantity": 5,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 56,
@@ -445,7 +500,8 @@
     "Creature": "Gobllin Sentry",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 57,
@@ -453,7 +509,8 @@
     "Creature": "Gobllin Sneakwhack",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 58,
@@ -461,7 +518,8 @@
     "Creature": "Goblin Horsereaper",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 59,
@@ -469,7 +527,8 @@
     "Creature": "Goblin Roc Eye",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 60,
@@ -477,7 +536,8 @@
     "Creature": "Goblin Shaman",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 61,
@@ -485,7 +545,8 @@
     "Creature": "Goblin King",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 62,
@@ -493,7 +554,8 @@
     "Creature": "Winter Wolf",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 63,
@@ -501,7 +563,8 @@
     "Creature": "Gobllin Sentry",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 64,
@@ -509,7 +572,8 @@
     "Creature": "Gobllin Sly Eye",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 65,
@@ -517,7 +581,8 @@
     "Creature": "Ferocious Wyvern",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 66,
@@ -525,7 +590,8 @@
     "Creature": "Primal Manticore",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 67,
@@ -533,7 +599,8 @@
     "Creature": "Goblin Dogcutter",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 68,
@@ -541,7 +608,8 @@
     "Creature": "Goblin Sneak",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 69,
@@ -549,7 +617,8 @@
     "Creature": "Goblin Soldier",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 70,
@@ -557,7 +626,8 @@
     "Creature": "Goblin Smart Eye",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 71,
@@ -565,7 +635,8 @@
     "Creature": "Gobllin Falcon Eye",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 72,
@@ -573,7 +644,8 @@
     "Creature": "Greater Enraged Owlbear",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 73,
@@ -581,7 +653,8 @@
     "Creature": "Dire Venomwolf",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 74,
@@ -589,7 +662,8 @@
     "Creature": "Owlbear",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 75,
@@ -597,7 +671,8 @@
     "Creature": "Yellow Dweomaticore",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 76,
@@ -605,7 +680,8 @@
     "Creature": "Yellow Dweomerwyvern",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 77,
@@ -613,7 +689,8 @@
     "Creature": "Owlbear",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 78,
@@ -621,7 +698,8 @@
     "Creature": "Ferocious Wyvern",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 79,
@@ -629,7 +707,8 @@
     "Creature": "Purple Dweomerowlbear",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 80,
@@ -637,7 +716,8 @@
     "Creature": "Red Dweomerwyvern",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 81,
@@ -645,7 +725,8 @@
     "Creature": "Greater Primal Owlbear",
     "Quantity": 0,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 82,
@@ -653,7 +734,8 @@
     "Creature": "Ferocious Owlbear",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 83,
@@ -661,7 +743,8 @@
     "Creature": "Ferocious Hydra",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 84,
@@ -669,7 +752,8 @@
     "Creature": "Ferocious Wyvern",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 85,
@@ -677,7 +761,8 @@
     "Creature": "Quickhydra",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 86,
@@ -685,7 +770,8 @@
     "Creature": "Quickbear",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 87,
@@ -693,7 +779,8 @@
     "Creature": "Black Dweomerowlbear",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 88,
@@ -701,7 +788,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 4,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 89,
@@ -709,7 +797,8 @@
     "Creature": "Giant Slug",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 90,
@@ -717,7 +806,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 4,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 91,
@@ -725,7 +815,8 @@
     "Creature": "Redcap Trickster",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 92,
@@ -733,7 +824,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 5,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 93,
@@ -741,7 +833,8 @@
     "Creature": "Quickspider",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 94,
@@ -749,7 +842,8 @@
     "Creature": "Giant Slug",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 95,
@@ -757,7 +851,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 8,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 96,
@@ -765,7 +860,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 5,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 97,
@@ -773,7 +869,8 @@
     "Creature": "Redcap Trickster",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 98,
@@ -781,7 +878,8 @@
     "Creature": "Redcap",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 99,
@@ -789,7 +887,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 4,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 100,
@@ -797,7 +896,8 @@
     "Creature": "Doomspider",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 101,
@@ -805,7 +905,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 6,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 102,
@@ -813,7 +914,8 @@
     "Creature": "Primal Spider Matriarch",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 103,
@@ -821,7 +923,8 @@
     "Creature": "Quickspider Swarm",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 104,
@@ -829,7 +932,8 @@
     "Creature": "Spider Swarm",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 105,
@@ -837,7 +941,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 4,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 106,
@@ -845,7 +950,8 @@
     "Creature": "Doomspider",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 107,
@@ -853,7 +959,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 6,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 108,
@@ -861,7 +968,8 @@
     "Creature": "Doomspider",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 109,
@@ -869,7 +977,8 @@
     "Creature": "Primal Spider Matriarch",
     "Quantity": 2,
     "AdditonalItems": "Melted Shard of a Ring",
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 110,
@@ -877,7 +986,8 @@
     "Creature": "Spider Swarm",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 111,
@@ -885,7 +995,8 @@
     "Creature": "Quickspider Swarm",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 112,
@@ -893,7 +1004,8 @@
     "Creature": "Quickspider",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 114,
@@ -901,7 +1013,8 @@
     "Creature": "Doomspider",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 113,
@@ -909,7 +1022,8 @@
     "Creature": "Quickspider",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 115,
@@ -917,7 +1031,8 @@
     "Creature": "Doomspider",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 116,
@@ -925,7 +1040,8 @@
     "Creature": "Black Dweomerowlbear",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 117,
@@ -933,7 +1049,8 @@
     "Creature": "Black Dweomerowlbear",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 118,
@@ -941,7 +1058,8 @@
     "Creature": "Greater Enraged Owlbear",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 119,
@@ -949,7 +1067,8 @@
     "Creature": "Quickspider Swarm",
     "Quantity": 7,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 120,
@@ -957,7 +1076,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 121,
@@ -965,7 +1085,8 @@
     "Creature": "Doomspider",
     "Quantity": 4,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 122,
@@ -973,7 +1094,8 @@
     "Creature": "Poisonous Primal Manticore",
     "Quantity": 2,
     "AdditonalItems": "1d3 Fruits",
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 123,
@@ -981,7 +1103,8 @@
     "Creature": "Ancient Wyvern",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 124,
@@ -989,7 +1112,8 @@
     "Creature": "Yellow Dweomerwyvern",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "True Seeing"
+    "AddtionalEffectOrConditions": "True Seeing",
+    "Team": "1"
   },
   {
     "ID": 125,
@@ -997,7 +1121,8 @@
     "Creature": "Red Dweomerwyvern",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "True Seeing"
+    "AddtionalEffectOrConditions": "True Seeing",
+    "Team": "1"
   },
   {
     "ID": 126,
@@ -1005,7 +1130,8 @@
     "Creature": "Primal Manticore",
     "Quantity": 2,
     "AdditonalItems": "1d3 Fruits",
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 127,
@@ -1013,7 +1139,8 @@
     "Creature": "Doomspider",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 128,
@@ -1021,7 +1148,8 @@
     "Creature": "Quickspider",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 129,
@@ -1029,7 +1157,8 @@
     "Creature": "Doomspider",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 130,
@@ -1037,7 +1166,8 @@
     "Creature": "Primal Spider Matriarch",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 131,
@@ -1045,7 +1175,8 @@
     "Creature": "Enlarged Owlbear-Like Treant",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 132,
@@ -1053,7 +1184,8 @@
     "Creature": "Black Dweomerowlbear",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 133,
@@ -1061,7 +1193,8 @@
     "Creature": "Purple Dweomerowlbear",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 134,
@@ -1069,7 +1202,8 @@
     "Creature": "Dire Venomwolf",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 135,
@@ -1077,7 +1211,8 @@
     "Creature": "Greater Owlbear-like Treant",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 136,
@@ -1085,7 +1220,8 @@
     "Creature": "Giant Flytrap",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 137,
@@ -1093,7 +1229,8 @@
     "Creature": "Everblooming Flower",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 138,
@@ -1101,7 +1238,8 @@
     "Creature": "Primal Manticore",
     "Quantity": 1,
     "AdditonalItems": "Cypress Queen's Crown",
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 139,
@@ -1109,7 +1247,8 @@
     "Creature": "Primal Hydra",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 140,
@@ -1117,7 +1256,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 141,
@@ -1125,7 +1265,8 @@
     "Creature": "Primal Spider Matriarch",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 142,
@@ -1133,7 +1274,8 @@
     "Creature": "Ferocious Dweomercat",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 143,
@@ -1141,7 +1283,8 @@
     "Creature": "Weretiger",
     "Quantity": 4,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 145,
@@ -1149,7 +1292,8 @@
     "Creature": "Greater Werewolf",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 144,
@@ -1157,7 +1301,8 @@
     "Creature": "Wolf",
     "Quantity": 4,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 146,
@@ -1165,7 +1310,8 @@
     "Creature": "Ferocious Wolf",
     "Quantity": 5,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 147,
@@ -1173,7 +1319,8 @@
     "Creature": "Dire Venomwolf",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Invisibility"
+    "AddtionalEffectOrConditions": "Invisibility",
+    "Team": "1"
   },
   {
     "ID": 148,
@@ -1181,7 +1328,8 @@
     "Creature": "Weretiger_Inquisitor",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Acidic Creature"
+    "AddtionalEffectOrConditions": "Acidic Creature",
+    "Team": "1"
   },
   {
     "ID": 149,
@@ -1189,7 +1337,8 @@
     "Creature": "Weretiger",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Acidic Creature"
+    "AddtionalEffectOrConditions": "Acidic Creature",
+    "Team": "1"
   },
   {
     "ID": 150,
@@ -1197,7 +1346,8 @@
     "Creature": "Alpha Wolf",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Acidic Creature"
+    "AddtionalEffectOrConditions": "Acidic Creature",
+    "Team": "1"
   },
   {
     "ID": 151,
@@ -1205,7 +1355,8 @@
     "Creature": "Wererat_8_Alchemist",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Acidic Creature"
+    "AddtionalEffectOrConditions": "Acidic Creature",
+    "Team": "1"
   },
   {
     "ID": 152,
@@ -1213,7 +1364,8 @@
     "Creature": "Wererat",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Acidic Creature"
+    "AddtionalEffectOrConditions": "Acidic Creature",
+    "Team": "1"
   },
   {
     "ID": 153,
@@ -1221,7 +1373,8 @@
     "Creature": "Raging Cyclops",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Fiery Creature"
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
   },
   {
     "ID": 154,
@@ -1229,7 +1382,8 @@
     "Creature": "Cyclops Cleric",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Fiery Creature"
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
   },
   {
     "ID": 155,
@@ -1237,7 +1391,8 @@
     "Creature": "Raging Cyclops",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Fiery Creature"
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
   },
   {
     "ID": 157,
@@ -1245,7 +1400,8 @@
     "Creature": "Cyclops Cleric",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Fiery Creature"
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
   },
   {
     "ID": 156,
@@ -1253,7 +1409,8 @@
     "Creature": "Cyclops",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Fiery Creature"
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
   },
   {
     "ID": 158,
@@ -1261,7 +1418,8 @@
     "Creature": "Cyclops Cleric 19 Cleric",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Fiery Creature"
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
   },
   {
     "ID": 159,
@@ -1269,7 +1427,8 @@
     "Creature": "Cyclops",
     "Quantity": 4,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Fiery Creature"
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
   },
   {
     "ID": 160,
@@ -1277,7 +1436,8 @@
     "Creature": "Raging Cyclops",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Fiery Creature"
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
   },
   {
     "ID": 161,
@@ -1285,7 +1445,8 @@
     "Creature": "Cyclops",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Fiery Creature"
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
   },
   {
     "ID": 162,
@@ -1293,7 +1454,8 @@
     "Creature": "Greater Giant Spider",
     "Quantity": 4,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 163,
@@ -1301,7 +1463,8 @@
     "Creature": "Goblin Alchemist Master",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 164,
@@ -1309,7 +1472,8 @@
     "Creature": "Goblin Roc Eye",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 165,
@@ -1317,7 +1481,8 @@
     "Creature": "Doomspider",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 167,
@@ -1325,7 +1490,8 @@
     "Creature": "Elder Water Elemental",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 166,
@@ -1333,7 +1499,8 @@
     "Creature": "Huge Water Elemental",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 169,
@@ -1341,7 +1508,8 @@
     "Creature": "Gobllin Falcon Eye",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 168,
@@ -1349,7 +1517,8 @@
     "Creature": "Quickspider",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 170,
@@ -1357,7 +1526,8 @@
     "Creature": "The Weary Traveler",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 171,
@@ -1365,7 +1535,8 @@
     "Creature": "Movanic Deva",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 172,
@@ -1373,7 +1544,8 @@
     "Creature": "Reckless Satyr Bowman",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 173,
@@ -1381,7 +1553,8 @@
     "Creature": "Goblin Alchemist Master",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 174,
@@ -1389,7 +1562,8 @@
     "Creature": "Goblin Dead Eye",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 175,
@@ -1397,7 +1571,8 @@
     "Creature": "Goblin Dogreaper",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 176,
@@ -1405,7 +1580,8 @@
     "Creature": "Scythe Tree",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Cold Creature"
+    "AddtionalEffectOrConditions": "Cold Creature",
+    "Team": "1"
   },
   {
     "ID": 177,
@@ -1413,7 +1589,8 @@
     "Creature": "Satyr",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Cold Creature"
+    "AddtionalEffectOrConditions": "Cold Creature",
+    "Team": "1"
   },
   {
     "ID": 178,
@@ -1421,7 +1598,8 @@
     "Creature": "Satyr Archer",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Cold Creature"
+    "AddtionalEffectOrConditions": "Cold Creature",
+    "Team": "1"
   },
   {
     "ID": 179,
@@ -1429,7 +1607,8 @@
     "Creature": "Dryad",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Cold Creature"
+    "AddtionalEffectOrConditions": "Cold Creature",
+    "Team": "1"
   },
   {
     "ID": 180,
@@ -1437,7 +1616,8 @@
     "Creature": "Bear-like Treant",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Cold Creature"
+    "AddtionalEffectOrConditions": "Cold Creature",
+    "Team": "1"
   },
   {
     "ID": 181,
@@ -1445,7 +1625,8 @@
     "Creature": "Quickwood",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Cold Creature"
+    "AddtionalEffectOrConditions": "Cold Creature",
+    "Team": "1"
   },
   {
     "ID": 182,
@@ -1453,7 +1634,8 @@
     "Creature": "Nympth",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Cold Creature"
+    "AddtionalEffectOrConditions": "Cold Creature",
+    "Team": "1"
   },
   {
     "ID": 183,
@@ -1461,7 +1643,8 @@
     "Creature": "Giant Flytrap",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Cold Creature"
+    "AddtionalEffectOrConditions": "Cold Creature",
+    "Team": "1"
   },
   {
     "ID": 184,
@@ -1469,7 +1652,8 @@
     "Creature": "Greater Dire Bear",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Fiery Creature"
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
   },
   {
     "ID": 185,
@@ -1477,7 +1661,8 @@
     "Creature": "Ferocious Dweomercat",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Fiery Creature"
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
   },
   {
     "ID": 187,
@@ -1485,7 +1670,8 @@
     "Creature": "Wild Hunt Archer",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Fiery Creature"
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
   },
   {
     "ID": 186,
@@ -1493,7 +1679,8 @@
     "Creature": "Ferocious Smilodon",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Fiery Creature"
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
   },
   {
     "ID": 188,
@@ -1501,7 +1688,8 @@
     "Creature": "Recap Savage",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Fiery Creature"
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
   },
   {
     "ID": 189,
@@ -1509,7 +1697,8 @@
     "Creature": "Redcap Trickster",
     "Quantity": 1,
     "AdditonalItems": "Money and Valuables",
-    "AddtionalEffectOrConditions": "Fiery Creature"
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
   },
   {
     "ID": 190,
@@ -1517,7 +1706,8 @@
     "Creature": "Redcap",
     "Quantity": 5,
     "AdditonalItems": "Money and Valuables",
-    "AddtionalEffectOrConditions": "Fiery Creature"
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
   },
   {
     "ID": 191,
@@ -1525,7 +1715,8 @@
     "Creature": "Primal Manticore",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 192,
@@ -1533,7 +1724,8 @@
     "Creature": "Venomhodag",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 193,
@@ -1541,7 +1733,8 @@
     "Creature": "Hodag-like Treant",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 194,
@@ -1549,7 +1742,8 @@
     "Creature": "Grag Linnorm",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 195,
@@ -1557,7 +1751,8 @@
     "Creature": "Kobold Dragon Shaman",
     "Quantity": 2,
     "AdditonalItems": "Money and Valuables",
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 196,
@@ -1565,7 +1760,8 @@
     "Creature": "Kobold Boomsayer",
     "Quantity": 2,
     "AdditonalItems": "Money and Valuables",
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 197,
@@ -1573,7 +1769,8 @@
     "Creature": "Kobold Blade",
     "Quantity": 4,
     "AdditonalItems": "Money and Valuables",
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 198,
@@ -1581,7 +1778,8 @@
     "Creature": "Medusa",
     "Quantity": 4,
     "AdditonalItems": "Money and Valuables",
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 199,
@@ -1589,7 +1787,8 @@
     "Creature": "Gargoyle",
     "Quantity": 8,
     "AdditonalItems": "Money and Valuables",
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 200,
@@ -1597,7 +1796,8 @@
     "Creature": "Ghostly Mage Guard",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 201,
@@ -1605,7 +1805,8 @@
     "Creature": "Ghost",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 202,
@@ -1613,7 +1814,8 @@
     "Creature": "Goblin Death Eye",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Diseased Creature"
+    "AddtionalEffectOrConditions": "Diseased Creature",
+    "Team": "1"
   },
   {
     "ID": 203,
@@ -1621,7 +1823,8 @@
     "Creature": "Goblin Arch-chemist",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Diseased Creature"
+    "AddtionalEffectOrConditions": "Diseased Creature",
+    "Team": "1"
   },
   {
     "ID": 204,
@@ -1629,7 +1832,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Diseased Creature"
+    "AddtionalEffectOrConditions": "Diseased Creature",
+    "Team": "1"
   },
   {
     "ID": 205,
@@ -1637,7 +1841,8 @@
     "Creature": "Doomspider",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Diseased Creature"
+    "AddtionalEffectOrConditions": "Diseased Creature",
+    "Team": "1"
   },
   {
     "ID": 206,
@@ -1645,7 +1850,8 @@
     "Creature": "Quickspider",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Diseased Creature"
+    "AddtionalEffectOrConditions": "Diseased Creature",
+    "Team": "1"
   },
   {
     "ID": 207,
@@ -1653,7 +1859,8 @@
     "Creature": "Primal Spider Matriarch",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Diseased Creature"
+    "AddtionalEffectOrConditions": "Diseased Creature",
+    "Team": "1"
   },
   {
     "ID": 208,
@@ -1661,7 +1868,8 @@
     "Creature": "Gobllin Commando Commander",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Diseased Creature"
+    "AddtionalEffectOrConditions": "Diseased Creature",
+    "Team": "1"
   },
   {
     "ID": 209,
@@ -1669,7 +1877,8 @@
     "Creature": "Goblin Death Eye",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Diseased Creature"
+    "AddtionalEffectOrConditions": "Diseased Creature",
+    "Team": "1"
   },
   {
     "ID": 210,
@@ -1677,7 +1886,8 @@
     "Creature": "Gobllin Sneakwhack",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Diseased Creature"
+    "AddtionalEffectOrConditions": "Diseased Creature",
+    "Team": "1"
   },
   {
     "ID": 211,
@@ -1685,7 +1895,8 @@
     "Creature": "The Fallen Priestess",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Diseased Creature"
+    "AddtionalEffectOrConditions": "Diseased Creature",
+    "Team": "1"
   },
   {
     "ID": 212,
@@ -1693,7 +1904,8 @@
     "Creature": "Spider Swarm",
     "Quantity": 8,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Diseased Creature"
+    "AddtionalEffectOrConditions": "Diseased Creature",
+    "Team": "1"
   },
   {
     "ID": 213,
@@ -1701,7 +1913,8 @@
     "Creature": "Quickspider",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Diseased Creature"
+    "AddtionalEffectOrConditions": "Diseased Creature",
+    "Team": "1"
   },
   {
     "ID": 214,
@@ -1709,7 +1922,8 @@
     "Creature": "Primal Spider Matriarch",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": "Diseased Creature"
+    "AddtionalEffectOrConditions": "Diseased Creature",
+    "Team": "1"
   },
   {
     "ID": 215,
@@ -1717,7 +1931,8 @@
     "Creature": "Thickskin Tribe King Itshar",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 216,
@@ -1725,7 +1940,8 @@
     "Creature": "Thickskin Tribe Queen Reshia",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 217,
@@ -1733,7 +1949,8 @@
     "Creature": "Thickskin Lizardfolk",
     "Quantity": 5,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 218,
@@ -1741,7 +1958,8 @@
     "Creature": "Lady of Shallows",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 221,
@@ -1749,7 +1967,8 @@
     "Creature": "Nixie Prankster",
     "Quantity": 4,
     "AdditonalItems": "Money and Valuables",
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 220,
@@ -1757,7 +1976,8 @@
     "Creature": "Poisonous Primal Doomhydra",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 219,
@@ -1765,7 +1985,8 @@
     "Creature": "Poisonous Shambling Mound",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 222,
@@ -1773,7 +1994,8 @@
     "Creature": "Grag Linnorm 16 Dragon",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 223,
@@ -1781,7 +2003,8 @@
     "Creature": "Poacher Alchemist",
     "Quantity": 1,
     "AdditonalItems": "Lizardfolk Skins",
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 224,
@@ -1789,7 +2012,8 @@
     "Creature": "Poacher Brawler",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 225,
@@ -1797,7 +2021,8 @@
     "Creature": "Fionn",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 226,
@@ -1805,7 +2030,8 @@
     "Creature": "Nightmare Skeleton Soldier",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 227,
@@ -1813,7 +2039,8 @@
     "Creature": "Sartayne",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 228,
@@ -1821,7 +2048,8 @@
     "Creature": "Summoned Leopard",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 229,
@@ -1829,7 +2057,8 @@
     "Creature": "Bandit 7 Transmuter",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 230,
@@ -1837,7 +2066,8 @@
     "Creature": "Bandit 8 Fighter",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 231,
@@ -1845,7 +2075,8 @@
     "Creature": "Bandit 8 Rogue",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 232,
@@ -1853,7 +2084,8 @@
     "Creature": "Greater Cyclops",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 234,
@@ -1861,7 +2093,8 @@
     "Creature": "Alpha Wolf",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 233,
@@ -1869,7 +2102,8 @@
     "Creature": "Dire Wolf",
     "Quantity": 5,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 235,
@@ -1877,7 +2111,8 @@
     "Creature": "Acid-imbued Giant Slug",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 236,
@@ -1885,7 +2120,8 @@
     "Creature": "Ferocious Devourer",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 237,
@@ -1893,7 +2129,8 @@
     "Creature": "Technic League's Conjurer",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 238,
@@ -1901,7 +2138,8 @@
     "Creature": "Technic League's Alchemist",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 239,
@@ -1909,7 +2147,8 @@
     "Creature": "Technic League's Rogue",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 240,
@@ -1917,7 +2156,8 @@
     "Creature": "Technic League's Archer",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 241,
@@ -1925,7 +2165,8 @@
     "Creature": "Technic League's Fighter",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 242,
@@ -1933,7 +2174,8 @@
     "Creature": "Technic League's Cleric",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 243,
@@ -1941,7 +2183,8 @@
     "Creature": "Technic League's Fighter",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 244,
@@ -1949,7 +2192,8 @@
     "Creature": "Technic League's Archer",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 245,
@@ -1957,7 +2201,8 @@
     "Creature": "Technic League's Bard",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 246,
@@ -1965,7 +2210,8 @@
     "Creature": "Technic League's Rogue",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 247,
@@ -1973,7 +2219,8 @@
     "Creature": "Technic League's Fighter",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 248,
@@ -1981,7 +2228,8 @@
     "Creature": "Technic League's Rogue",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 249,
@@ -1989,7 +2237,8 @@
     "Creature": "Technic League's Bard",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 250,
@@ -1997,7 +2246,8 @@
     "Creature": "Matsero Janush",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 251,
@@ -2005,7 +2255,8 @@
     "Creature": "Technic League's Fighter",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 252,
@@ -2013,7 +2264,8 @@
     "Creature": "Technic League's Archer",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 253,
@@ -2021,7 +2273,8 @@
     "Creature": "Venomanticore",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 254,
@@ -2029,7 +2282,8 @@
     "Creature": "Green Dweomanticore",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 255,
@@ -2037,7 +2291,8 @@
     "Creature": "Yellow Dweomerwyvern",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 256,
@@ -2045,7 +2300,8 @@
     "Creature": "Moray",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 257,
@@ -2053,7 +2309,8 @@
     "Creature": "Black Dweomerowlbear",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 258,
@@ -2061,7 +2318,8 @@
     "Creature": "Purple Dweomerowlbear",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 259,
@@ -2069,7 +2327,8 @@
     "Creature": "Ferocious Trollhound",
     "Quantity": 4,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 260,
@@ -2077,7 +2336,8 @@
     "Creature": "Greater Tatzlwyrm",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 261,
@@ -2085,7 +2345,8 @@
     "Creature": "Spriggan Savage",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 262,
@@ -2093,7 +2354,8 @@
     "Creature": "Spriggan Rogue",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 263,
@@ -2101,7 +2363,8 @@
     "Creature": "Ravan Swarm",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 265,
@@ -2109,7 +2372,8 @@
     "Creature": "Alpha Worg",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 264,
@@ -2117,7 +2381,8 @@
     "Creature": "Ferocious Worg",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 266,
@@ -2125,7 +2390,8 @@
     "Creature": "Spriggan Raider",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 267,
@@ -2133,7 +2399,8 @@
     "Creature": "Spriggan Rogue",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 268,
@@ -2141,7 +2408,8 @@
     "Creature": "Spriggan Skilled Crossbowman",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 269,
@@ -2149,7 +2417,8 @@
     "Creature": "Spriggan Savage",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 270,
@@ -2157,7 +2426,8 @@
     "Creature": "Spriggan Raider",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 271,
@@ -2165,7 +2435,8 @@
     "Creature": "Spriggan Dodgy Crossbowman",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 272,
@@ -2173,7 +2444,8 @@
     "Creature": "Spriggan Fighter",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 273,
@@ -2181,7 +2453,8 @@
     "Creature": "Spriggan Skilled Crossbowman",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 274,
@@ -2189,7 +2462,8 @@
     "Creature": "Spriggan Raider",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 275,
@@ -2197,7 +2471,8 @@
     "Creature": "Spriggan Dodgy Crossbowman",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 276,
@@ -2205,7 +2480,8 @@
     "Creature": "Spriggan Crossbowman",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 277,
@@ -2213,7 +2489,8 @@
     "Creature": "Spriggan Raider",
     "Quantity": 1,
     "AdditonalItems": "Sweet Syrup",
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 278,
@@ -2221,7 +2498,8 @@
     "Creature": "Spriggan Skilled Crossbowman",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 279,
@@ -2229,7 +2507,8 @@
     "Creature": "Spriggan Savage",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 280,
@@ -2237,7 +2516,8 @@
     "Creature": "Spriggan Raider",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 281,
@@ -2245,7 +2525,8 @@
     "Creature": "Spriggan Dodgy Crossbowman",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 282,
@@ -2253,7 +2534,8 @@
     "Creature": "Spriggan Raider",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 283,
@@ -2261,7 +2543,8 @@
     "Creature": "Spriggan Rogue",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 284,
@@ -2269,7 +2552,8 @@
     "Creature": "Spriggan Skilled Crossbowman",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 285,
@@ -2277,7 +2561,8 @@
     "Creature": "Spriggan Dodgy Crossbowman",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 286,
@@ -2285,7 +2570,8 @@
     "Creature": "Spriggan Savage",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 287,
@@ -2293,7 +2579,8 @@
     "Creature": "Spriggan Fighter",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 288,
@@ -2301,7 +2588,8 @@
     "Creature": "Spriggan Rogue",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 289,
@@ -2309,7 +2597,8 @@
     "Creature": "Spriggan Dodgy Crossbowman",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 290,
@@ -2317,7 +2606,8 @@
     "Creature": "Spriggan Rogue",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 291,
@@ -2325,7 +2615,8 @@
     "Creature": "Spriggan Dodgy Crossbowman",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 292,
@@ -2333,7 +2624,8 @@
     "Creature": "Agai",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 293,
@@ -2341,7 +2633,8 @@
     "Creature": "Spriggan Raider",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 294,
@@ -2349,7 +2642,8 @@
     "Creature": "Spriggan Rogue",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 295,
@@ -2357,7 +2651,8 @@
     "Creature": "Spriggan Dodgy Crossbowman",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 296,
@@ -2365,7 +2660,8 @@
     "Creature": "Morhalan",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 297,
@@ -2373,7 +2669,8 @@
     "Creature": "Poacher Brawler",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 298,
@@ -2381,7 +2678,8 @@
     "Creature": "Poacher Alchemist",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 299,
@@ -2389,7 +2687,8 @@
     "Creature": "Hill Giant",
     "Quantity": 3,
     "AdditonalItems": "Money and Valuables",
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 300,
@@ -2397,7 +2696,8 @@
     "Creature": "Hill Giant 12",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 301,
@@ -2405,7 +2705,8 @@
     "Creature": "Ntavi",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 302,
@@ -2413,7 +2714,8 @@
     "Creature": "Calistrian Fighter Greataxe",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 303,
@@ -2421,7 +2723,8 @@
     "Creature": "Calistrian Fighter Longsword",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 304,
@@ -2429,7 +2732,8 @@
     "Creature": "Calistrian Archer",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 305,
@@ -2437,7 +2741,8 @@
     "Creature": "Calistrian Rogue",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 306,
@@ -2445,7 +2750,8 @@
     "Creature": "Oakenhide, Poisonous Manticore-like Treant",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 307,
@@ -2453,7 +2759,8 @@
     "Creature": "Poisonous Primal Manticore",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 308,
@@ -2461,7 +2768,8 @@
     "Creature": "Thundervine",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 309,
@@ -2469,7 +2777,8 @@
     "Creature": "Primal Manticore",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 310,
@@ -2477,7 +2786,8 @@
     "Creature": "Alpha Worg from Dunsward Pack",
     "Quantity": 5,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 311,
@@ -2485,7 +2795,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 312,
@@ -2493,7 +2804,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 313,
@@ -2501,7 +2813,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 314,
@@ -2509,7 +2822,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 315,
@@ -2517,7 +2831,8 @@
     "Creature": "Primal Giant Spider",
     "Quantity": 3,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 316,
@@ -2525,7 +2840,8 @@
     "Creature": "Primal Spider Matriarch",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 317,
@@ -2533,7 +2849,8 @@
     "Creature": "Mature Athach",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 318,
@@ -2541,7 +2858,8 @@
     "Creature": "Ancient Bulette",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 319,
@@ -2549,7 +2867,8 @@
     "Creature": "Sneaky Mite",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 320,
@@ -2557,7 +2876,8 @@
     "Creature": "Mite Sentinel",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 321,
@@ -2565,7 +2885,8 @@
     "Creature": "Mite Yearling",
     "Quantity": 1,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   },
   {
     "ID": 322,
@@ -2573,6 +2894,79 @@
     "Creature": "Restless Spectre",
     "Quantity": 4,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 323,
+    "CreatureGroup": "City of Hollow Eyes Group A",
+    "Creature": "Dread Zombie Cyclops",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 324,
+    "CreatureGroup": "City of Hollow Eyes Group A",
+    "Creature": "Zombie Cyclops",
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 325,
+    "CreatureGroup": "City of Hollow Eyes Group A",
+    "Creature": "Zombie Cyclops",
+    "Quantity": 1,
+    "AdditonalItems": "Ancient Cyclops Coin",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 326,
+    "CreatureGroup": "City of Hollow Eyes Group B",
+    "Creature": "Ferocious Dread Zombie Cyclops",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 327,
+    "CreatureGroup": "City of Hollow Eyes Group B",
+    "Creature": "Zombie Cyclops",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 328,
+    "CreatureGroup": "City of Hollow Eyes Group C",
+    "Creature": "Ferocious Worg",
+    "Quantity": 8,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 329,
+    "CreatureGroup": "City of Hollow Eyes Group C",
+    "Creature": "Bandit 7 Fighter",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "2"
+  },
+  {
+    "ID": 330,
+    "CreatureGroup": "City of Hollow Eyes Group C",
+    "Creature": "Bandit 6 Barbarian",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "2"
   }
 ]

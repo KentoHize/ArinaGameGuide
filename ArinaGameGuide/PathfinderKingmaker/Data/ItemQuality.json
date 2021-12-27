@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "ID": 1,
+    "Item": "Nobleman's Amusement",
+    "Quality": "Elite Expertise",
+    "Rank": null
+  },
+  {
+    "ID": 2,
+    "Item": "Nobleman's Amusement",
+    "Quality": "Enhancement",
+    "Rank": 1
+  }
+]

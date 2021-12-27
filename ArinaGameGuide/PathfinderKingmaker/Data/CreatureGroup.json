@@ -971,5 +971,26 @@
     "Place": "Rinderpest Burial Ground",
     "Position": "Center",
     "Memo": ""
+  },
+  {
+    "ID": 141,
+    "Name": "City of Hollow Eyes Group A",
+    "Place": "City of Hollow Eyes",
+    "Position": "South",
+    "Memo": ""
+  },
+  {
+    "ID": 142,
+    "Name": "City of Hollow Eyes Group B",
+    "Place": "City of Hollow Eyes",
+    "Position": "East",
+    "Memo": ""
+  },
+  {
+    "ID": 143,
+    "Name": "City of Hollow Eyes Group C",
+    "Place": "City of Hollow Eyes",
+    "Position": "North East",
+    "Memo": ""
   }
 ]

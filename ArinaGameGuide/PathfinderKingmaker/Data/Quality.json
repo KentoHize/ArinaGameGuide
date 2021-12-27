@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "ID": 1,
+    "Name": "Elite Expertise",
+    "CName": "",
+    "Description": "Point-Blank Shot and Precise Shot feats"
+  },
+  {
+    "ID": 2,
+    "Name": "Enhancement",
+    "CName": "",
+    "Description": ""
+  }
+]

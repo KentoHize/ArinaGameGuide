@@ -3190,5 +3190,37 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 400,
+    "ItemStack": "City of Hollow Eyes Treasure A",
+    "Item": "Onions",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 401,
+    "ItemStack": "City of Hollow Eyes Treasure A",
+    "Item": "Vegetables",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 402,
+    "ItemStack": "City of Hollow Eyes Treasure A",
+    "Item": "Kameberry Pie",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 403,
+    "ItemStack": "Nobleman's Amusement",
+    "Item": "Nobleman's Amusement",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

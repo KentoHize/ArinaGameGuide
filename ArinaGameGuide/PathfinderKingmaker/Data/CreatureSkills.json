@@ -724,5 +724,35 @@
     "Creature": "Restless Spectre",
     "Skill": "Stealth",
     "Bonus": 26
+  },
+  {
+    "ID": 122,
+    "Creature": "Zombie Cyclops",
+    "Skill": "Perception",
+    "Bonus": 26
+  },
+  {
+    "ID": 123,
+    "Creature": "Bandit 7 Fighter",
+    "Skill": "Perception",
+    "Bonus": 14
+  },
+  {
+    "ID": 124,
+    "Creature": "Bandit 7 Fighter",
+    "Skill": "Stealth",
+    "Bonus": 6
+  },
+  {
+    "ID": 125,
+    "Creature": "Bandit 6 Barbarian",
+    "Skill": "Perception",
+    "Bonus": 16
+  },
+  {
+    "ID": 126,
+    "Creature": "Bandit 6 Barbarian",
+    "Skill": "Stealth",
+    "Bonus": 6
   }
 ]

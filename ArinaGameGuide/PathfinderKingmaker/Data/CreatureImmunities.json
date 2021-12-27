@@ -123,19 +123,19 @@
     "ID": 21,
     "Creature": "Ghost",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "CondtionGroup": "Incorporeal Immunities"
   },
   {
     "ID": 22,
     "Creature": "Ghostly Mage Guard",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "CondtionGroup": "Incorporeal Immunities"
   },
   {
     "ID": 23,
     "Creature": "Ghostly Guard",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "CondtionGroup": "Incorporeal Immunities"
   },
   {
     "ID": 24,
@@ -567,12 +567,18 @@
     "ID": 95,
     "Creature": "Restless Spectre",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "CondtionGroup": "Incorporeal Immunities"
   },
   {
     "ID": 96,
     "Creature": "Restless Spectre",
     "Condition": "Prone",
     "CondtionGroup": null
+  },
+  {
+    "ID": 97,
+    "Creature": "Zombie Cyclops",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]

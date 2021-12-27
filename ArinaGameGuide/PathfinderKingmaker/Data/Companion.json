@@ -2,41 +2,49 @@
   {
     "ID": 1,
     "Name": "Tristian",
-    "CName": ""
+    "CName": "",
+    "BaseCreature": null
   },
   {
     "ID": 2,
     "Name": "Valerie",
-    "CName": ""
+    "CName": "",
+    "BaseCreature": null
   },
   {
     "ID": 3,
     "Name": "Linzi",
-    "CName": ""
+    "CName": "",
+    "BaseCreature": null
   },
   {
     "ID": 4,
     "Name": "Storyteller",
-    "CName": ""
+    "CName": "",
+    "BaseCreature": null
   },
   {
     "ID": 5,
     "Name": "Regongar",
-    "CName": ""
+    "CName": "",
+    "BaseCreature": null
   },
   {
     "ID": 6,
     "Name": "Harrim",
-    "CName": ""
+    "CName": "",
+    "BaseCreature": null
   },
   {
     "ID": 7,
     "Name": "Ekundayo",
-    "CName": ""
+    "CName": "",
+    "BaseCreature": null
   },
   {
     "ID": 8,
     "Name": "Jubilost",
-    "CName": ""
+    "CName": "",
+    "BaseCreature": null
   }
 ]

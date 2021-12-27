@@ -1309,5 +1309,24 @@
     "FinesseWeapon": false,
     "Price": 0,
     "Weight": 10.0
+  },
+  {
+    "ID": 71,
+    "Name": "Longbow",
+    "CName": "Longbow",
+    "Type": "Martial Weapon",
+    "DamageType": "Pierce",
+    "ArmorClass": null,
+    "ArmorCheckPenalty": null,
+    "ArcaneSpellFailureChance": null,
+    "MaxDexterity": null,
+    "WeaponSize": "Two-handed",
+    "Range": null,
+    "Damage": null,
+    "CriticalHitRange": null,
+    "CriticalHitMultiplier": null,
+    "FinesseWeapon": false,
+    "Price": 0,
+    "Weight": 3.0
   }
 ]

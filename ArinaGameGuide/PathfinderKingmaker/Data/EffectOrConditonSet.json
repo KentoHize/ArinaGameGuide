@@ -58,5 +58,10 @@
     "ID": 12,
     "Name": "Elemental Immunities",
     "CName": ""
+  },
+  {
+    "ID": 13,
+    "Name": "Incorporeal Immunities",
+    "CName": ""
   }
 ]

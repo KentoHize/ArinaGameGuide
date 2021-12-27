@@ -677,5 +677,40 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 98,
+    "Creature": "Zombie Cyclops",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 99,
+    "Creature": "Zombie Cyclops",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 5
+  },
+  {
+    "ID": 100,
+    "Creature": "Dread Zombie Cyclops",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 101,
+    "Creature": "Ferocious Dread Zombie Cyclops",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 102,
+    "Creature": "Dread Zombie Cyclops",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 5
   }
 ]

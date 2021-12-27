@@ -1230,5 +1230,33 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 90,
+    "Name": "Kellid Barbarian Camp",
+    "DisplayName": "Kellid Barbarian Camp",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "Diplomacy 21\nAthletics 20"
+  },
+  {
+    "ID": 91,
+    "Name": "City of Hollow Eyes",
+    "DisplayName": "City of Hollow Eyes",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 10,
+    "SuggestedLevelMax": 12,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

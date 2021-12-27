@@ -494,5 +494,53 @@
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null
+  },
+  {
+    "ID": 63,
+    "Creature": "Zombie Cyclops",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 64,
+    "Creature": "Dread Zombie Cyclops",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 65,
+    "Creature": "Bandit 7 Fighter",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 66,
+    "Creature": "Bandit 6 Barbarian",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 67,
+    "Creature": "Bandit 6 Barbarian",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 68,
+    "Creature": "Bandit 6 Barbarian",
+    "Ability": "Reckless Stance",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
   }
 ]
