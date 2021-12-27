@@ -754,5 +754,41 @@
     "Creature": "Bandit 6 Barbarian",
     "Skill": "Stealth",
     "Bonus": 6
+  },
+  {
+    "ID": 127,
+    "Creature": "Greater Worg",
+    "Skill": "Perception",
+    "Bonus": 25
+  },
+  {
+    "ID": 128,
+    "Creature": "Greater Worg",
+    "Skill": "Stealth",
+    "Bonus": 13
+  },
+  {
+    "ID": 129,
+    "Creature": "Bandit 6 Bow Fighter",
+    "Skill": "Perception",
+    "Bonus": 13
+  },
+  {
+    "ID": 130,
+    "Creature": "Bandit 6 Bow Fighter",
+    "Skill": "Stealth",
+    "Bonus": 11
+  },
+  {
+    "ID": 131,
+    "Creature": "Bandit 6 Sword Fighter",
+    "Skill": "Perception",
+    "Bonus": 13
+  },
+  {
+    "ID": 132,
+    "Creature": "Bandit 6 Sword Fighter",
+    "Skill": "Stealth",
+    "Bonus": 4
   }
 ]

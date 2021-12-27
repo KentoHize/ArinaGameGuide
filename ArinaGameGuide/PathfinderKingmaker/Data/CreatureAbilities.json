@@ -542,5 +542,29 @@
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null
+  },
+  {
+    "ID": 69,
+    "Creature": "Bandit 6 Bow Fighter",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 70,
+    "Creature": "Bandit 6 Bow Fighter",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 71,
+    "Creature": "Bandit 6 Sword Fighter",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
   }
 ]

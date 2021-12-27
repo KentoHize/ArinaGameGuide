@@ -3222,5 +3222,69 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 404,
+    "ItemStack": "GS + HA",
+    "Item": "Greatsword",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 405,
+    "ItemStack": "GS + HA",
+    "Item": "Hide Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 406,
+    "ItemStack": "MLS + HS + SM",
+    "Item": "Masterwork Longsword",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 407,
+    "ItemStack": "MLS + HS + SM",
+    "Item": "Heavy Shield",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 408,
+    "ItemStack": "MLS + HS + SM",
+    "Item": "Scalemail",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 409,
+    "ItemStack": "MV + CL + CS",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 410,
+    "ItemStack": "MV + CL + CS",
+    "Item": "Composite Longbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 411,
+    "ItemStack": "MV + CL + CS",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

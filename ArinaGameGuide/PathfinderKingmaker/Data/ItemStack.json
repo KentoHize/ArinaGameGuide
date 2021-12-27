@@ -517,7 +517,7 @@
   {
     "ID": 104,
     "Name": "RS + MLC",
-    "Memo": "Random Scroll + Masterwork Light Crossbow\n\n(Protection from Cold)"
+    "Memo": "Random Scroll + Masterwork Light Crossbow\n\n(Protection from Cold, Invisibility)"
   },
   {
     "ID": 105,
@@ -798,5 +798,20 @@
     "ID": 164,
     "Name": "Nobleman's Amusement",
     "Memo": ""
+  },
+  {
+    "ID": 165,
+    "Name": "GS + HA",
+    "Memo": "Greatsword + Hide Armor"
+  },
+  {
+    "ID": 166,
+    "Name": "MLS + HS + SM",
+    "Memo": "Masterwork Longsword + Heavy Shield + Scalemail"
+  },
+  {
+    "ID": 167,
+    "Name": "MV + CL + CS",
+    "Memo": "Money and Valuables + Composite Longbow + Chainshirt"
   }
 ]

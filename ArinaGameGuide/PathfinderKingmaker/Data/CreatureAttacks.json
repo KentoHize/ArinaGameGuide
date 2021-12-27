@@ -1519,5 +1519,57 @@
     "DamageAdditiveBonus": 15,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 119,
+    "Creature": "Greater Worg",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 2,
+    "AttackBonus": "21",
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 10,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 120,
+    "Creature": "Bandit 6 Bow Fighter",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AttackBonus": "14",
+    "Weapon": "Composite Longbow",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 11,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 121,
+    "Creature": "Bandit 6 Bow Fighter",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "17",
+    "Weapon": "Masterwork Longsword",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 13,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 122,
+    "Creature": "Bandit 5 Transmuter",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AttackBonus": "10",
+    "Weapon": "Masterwork Light Crossbow",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": null,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

@@ -286,5 +286,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 34,
+    "Creature": "Bandit 5 Transmuter",
+    "EffectOrCondition": "Bear's Endurance",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

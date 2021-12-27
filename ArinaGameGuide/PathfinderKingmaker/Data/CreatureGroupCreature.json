@@ -2943,10 +2943,19 @@
     "Team": "1"
   },
   {
+    "ID": 331,
+    "CreatureGroup": "City of Hollow Eyes Group C",
+    "Creature": "Greater Worg",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
     "ID": 328,
     "CreatureGroup": "City of Hollow Eyes Group C",
     "Creature": "Ferocious Worg",
-    "Quantity": 8,
+    "Quantity": 7,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
@@ -2968,5 +2977,32 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "2"
+  },
+  {
+    "ID": 332,
+    "CreatureGroup": "City of Hollow Eyes Group D",
+    "Creature": "Bandit 6 Bow Fighter",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 333,
+    "CreatureGroup": "City of Hollow Eyes Group D",
+    "Creature": "Bandit 6 Sword Fighter",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 334,
+    "CreatureGroup": "City of Hollow Eyes Group D",
+    "Creature": "Bandit 5 Transmuter",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

@@ -992,5 +992,12 @@
     "Place": "City of Hollow Eyes",
     "Position": "North East",
     "Memo": ""
+  },
+  {
+    "ID": 144,
+    "Name": "City of Hollow Eyes Group D",
+    "Place": "City of Hollow Eyes",
+    "Position": "Center",
+    "Memo": ""
   }
 ]
