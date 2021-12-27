@@ -3004,5 +3004,41 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 335,
+    "CreatureGroup": "City of Hollow Eyes Group E",
+    "Creature": "Bandit 5 Alchemist",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 336,
+    "CreatureGroup": "City of Hollow Eyes Group E",
+    "Creature": "Bandit 6 Bow Fighter",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 337,
+    "CreatureGroup": "City of Hollow Eyes Group E",
+    "Creature": "Bandit 8 Fighter 2",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 338,
+    "CreatureGroup": "City of Hollow Eyes Group E",
+    "Creature": "Bandit 9 Rouge",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

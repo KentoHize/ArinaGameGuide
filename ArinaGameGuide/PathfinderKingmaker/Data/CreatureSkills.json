@@ -790,5 +790,47 @@
     "Creature": "Bandit 6 Sword Fighter",
     "Skill": "Stealth",
     "Bonus": 4
+  },
+  {
+    "ID": 133,
+    "Creature": "Bandit 5 Alchemist",
+    "Skill": "Perception",
+    "Bonus": 13
+  },
+  {
+    "ID": 134,
+    "Creature": "Bandit 5 Alchemist",
+    "Skill": "Stealth",
+    "Bonus": 9
+  },
+  {
+    "ID": 135,
+    "Creature": "Bandit 5 Alchemist",
+    "Skill": "Trickery",
+    "Bonus": 14
+  },
+  {
+    "ID": 136,
+    "Creature": "Bandit 8 Fighter 2",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 137,
+    "Creature": "Bandit 8 Fighter 2",
+    "Skill": "Stealth",
+    "Bonus": 8
+  },
+  {
+    "ID": 138,
+    "Creature": "Bandit 9 Rouge",
+    "Skill": "Perception",
+    "Bonus": 23
+  },
+  {
+    "ID": 139,
+    "Creature": "Bandit 9 Rouge",
+    "Skill": "Stealth",
+    "Bonus": 16
   }
 ]
