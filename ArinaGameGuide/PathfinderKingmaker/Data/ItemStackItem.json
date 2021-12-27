@@ -3118,5 +3118,53 @@
     "RandomItem": null,
     "Quantity": 2,
     "RandomQuantity": null
+  },
+  {
+    "ID": 391,
+    "ItemStack": "MV + SC + LA",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 392,
+    "ItemStack": "MV + SC + LA",
+    "Item": "Sickle",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 393,
+    "ItemStack": "MV + SC + LA",
+    "Item": "Leather Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 394,
+    "ItemStack": "MV + D + PA",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 395,
+    "ItemStack": "MV + D + PA",
+    "Item": "Dagger",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 396,
+    "ItemStack": "MV + D + PA",
+    "Item": "Padded Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

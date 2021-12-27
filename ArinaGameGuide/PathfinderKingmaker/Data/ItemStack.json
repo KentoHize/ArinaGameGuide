@@ -768,5 +768,15 @@
     "ID": 156,
     "Name": "Blood Furrows Treasure C",
     "Memo": ""
+  },
+  {
+    "ID": 157,
+    "Name": "MV + SC + LA",
+    "Memo": "Money and Valuables + Sickle + Leather Armor"
+  },
+  {
+    "ID": 160,
+    "Name": "MV + D + PA",
+    "Memo": "Money and Valuables + Dagger + Padded Armor"
   }
 ]

@@ -634,5 +634,77 @@
     "Creature": "Ancient Bulette",
     "Skill": "Perception",
     "Bonus": 26
+  },
+  {
+    "ID": 107,
+    "Creature": "Mite Sentinel",
+    "Skill": "Mobility",
+    "Bonus": 22
+  },
+  {
+    "ID": 108,
+    "Creature": "Mite Sentinel",
+    "Skill": "Perception",
+    "Bonus": 23
+  },
+  {
+    "ID": 109,
+    "Creature": "Mite Sentinel",
+    "Skill": "Persuasion",
+    "Bonus": 16
+  },
+  {
+    "ID": 110,
+    "Creature": "Mite Sentinel",
+    "Skill": "Stealth",
+    "Bonus": 30
+  },
+  {
+    "ID": 111,
+    "Creature": "Mite Yearling",
+    "Skill": "Mobility",
+    "Bonus": 22
+  },
+  {
+    "ID": 112,
+    "Creature": "Mite Yearling",
+    "Skill": "Perception",
+    "Bonus": 23
+  },
+  {
+    "ID": 113,
+    "Creature": "Mite Yearling",
+    "Skill": "Persuasion",
+    "Bonus": 16
+  },
+  {
+    "ID": 114,
+    "Creature": "Mite Yearling",
+    "Skill": "Stealth",
+    "Bonus": 30
+  },
+  {
+    "ID": 115,
+    "Creature": "Sneaky Mite",
+    "Skill": "Mobility",
+    "Bonus": 23
+  },
+  {
+    "ID": 116,
+    "Creature": "Sneaky Mite",
+    "Skill": "Perception",
+    "Bonus": 24
+  },
+  {
+    "ID": 117,
+    "Creature": "Sneaky Mite",
+    "Skill": "Persuasion",
+    "Bonus": 16
+  },
+  {
+    "ID": 118,
+    "Creature": "Sneaky Mite",
+    "Skill": "Stealth",
+    "Bonus": 31
   }
 ]

@@ -207,5 +207,24 @@
     "OtherConsequence": "None",
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 12,
+    "Event": "River Gold",
+    "Advisor": "Treasurer",
+    "Companion": "Jubilost",
+    "Result": "Triumph",
+    "Stat1": "Loyalty",
+    "Stat1Adjustment": -2,
+    "Stat2": "Economy",
+    "Stat2Adjustment": 3,
+    "Stat3": "Stability",
+    "Stat3Adjustment": 2,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
   }
 ]

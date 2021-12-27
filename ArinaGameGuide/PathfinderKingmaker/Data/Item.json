@@ -3694,5 +3694,21 @@
     "StoryItem": false,
     "Weight": 0.25,
     "Description": ""
+  },
+  {
+    "ID": 235,
+    "Name": "Sickle",
+    "DisplayName": "Sickle",
+    "DisplayCName": "",
+    "Type": "Simple Weapon",
+    "BaseItem": "Sickle",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

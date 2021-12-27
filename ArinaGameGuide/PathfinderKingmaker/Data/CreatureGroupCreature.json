@@ -2542,5 +2542,29 @@
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 319,
+    "CreatureGroup": "Old Sycamore Sneaky Mite Group",
+    "Creature": "Sneaky Mite",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 320,
+    "CreatureGroup": "Old Sycamore Sneaky Mite Group",
+    "Creature": "Mite Sentinel",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 321,
+    "CreatureGroup": "Old Sycamore Sneaky Mite Group",
+    "Creature": "Mite Yearling",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
   }
 ]

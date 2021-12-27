@@ -366,5 +366,21 @@
     "RandomEvent": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 24,
+    "Name": "River Gold",
+    "CName": "",
+    "Type": "Opportunity",
+    "RequiredDays": 0,
+    "DC": 0,
+    "AdaptedAdvisor1": "Treasurer",
+    "AdaptedAdvisor2": null,
+    "AdaptedAdvisor3": null,
+    "HaveAdvantage": null,
+    "HaveDisadvantage": null,
+    "RandomEvent": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

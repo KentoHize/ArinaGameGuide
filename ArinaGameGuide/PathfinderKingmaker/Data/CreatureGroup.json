@@ -957,5 +957,12 @@
     "Place": "Blood Furrows",
     "Position": "Center",
     "Memo": ""
+  },
+  {
+    "ID": 139,
+    "Name": "Old Sycamore Sneaky Mite Group",
+    "Place": "Old Sycamore",
+    "Position": "South West",
+    "Memo": ""
   }
 ]

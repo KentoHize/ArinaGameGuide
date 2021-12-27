@@ -656,5 +656,19 @@
     "Type": "Resistance",
     "DamageType": "Cold",
     "Amount": 10
+  },
+  {
+    "ID": 95,
+    "Creature": "Mite Sentinel",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 2
+  },
+  {
+    "ID": 96,
+    "Creature": "Mite Yearling",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 2
   }
 ]
