@@ -813,5 +813,20 @@
     "ID": 167,
     "Name": "MV + CL + CS",
     "Memo": "Money and Valuables + Composite Longbow + Chainshirt"
+  },
+  {
+    "ID": 168,
+    "Name": "Fruits",
+    "Memo": ""
+  },
+  {
+    "ID": 169,
+    "Name": "RP + LC + 2AF + 2AF + CS",
+    "Memo": "Random Potion + Light Crossbow + 2 Acid Flask + 2  Alchemist's Fire + Chainshirt\n\n(Remove Blindness)"
+  },
+  {
+    "ID": 170,
+    "Name": "2D1 + CS + RoP1",
+    "Memo": ""
   }
 ]

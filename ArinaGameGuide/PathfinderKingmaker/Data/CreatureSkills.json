@@ -115,13 +115,13 @@
   },
   {
     "ID": 20,
-    "Creature": "Bandit 8 Fighter",
+    "Creature": "Bandit 8 Bow Fighter",
     "Skill": "Perception",
     "Bonus": 15
   },
   {
     "ID": 21,
-    "Creature": "Bandit 8 Fighter",
+    "Creature": "Bandit 8 Bow Fighter",
     "Skill": "Stealth",
     "Bonus": 14
   },
@@ -832,5 +832,41 @@
     "Creature": "Bandit 9 Rouge",
     "Skill": "Stealth",
     "Bonus": 16
+  },
+  {
+    "ID": 140,
+    "Creature": "Bandit 9 Bard",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 141,
+    "Creature": "Bandit 9 Bard",
+    "Skill": "Stealth",
+    "Bonus": 16
+  },
+  {
+    "ID": 142,
+    "Creature": "Bandit 7 Rouge",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 143,
+    "Creature": "Bandit 7 Rouge",
+    "Skill": "Stealth",
+    "Bonus": 14
+  },
+  {
+    "ID": 144,
+    "Creature": "Bandit Leader 10 Fighter",
+    "Skill": "Perception",
+    "Bonus": 16
+  },
+  {
+    "ID": 145,
+    "Creature": "Bandit Leader 10 Fighter",
+    "Skill": "Athletics",
+    "Bonus": 18
   }
 ]

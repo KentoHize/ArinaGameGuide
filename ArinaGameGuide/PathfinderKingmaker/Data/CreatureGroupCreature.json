@@ -2063,7 +2063,7 @@
   {
     "ID": 230,
     "CreatureGroup": "Technic League Encampent Varrask Task\n",
-    "Creature": "Bandit 8 Fighter",
+    "Creature": "Bandit 8 Bow Fighter",
     "Quantity": 2,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
@@ -3006,13 +3006,22 @@
     "Team": "1"
   },
   {
+    "ID": 339,
+    "CreatureGroup": "City of Hollow Eyes Group E",
+    "Creature": "Zombie Cyclops",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
     "ID": 335,
     "CreatureGroup": "City of Hollow Eyes Group E",
     "Creature": "Bandit 5 Alchemist",
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
-    "Team": "1"
+    "Team": "2"
   },
   {
     "ID": 336,
@@ -3021,21 +3030,66 @@
     "Quantity": 2,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
-    "Team": "1"
+    "Team": "2"
   },
   {
     "ID": 337,
     "CreatureGroup": "City of Hollow Eyes Group E",
     "Creature": "Bandit 8 Fighter 2",
     "Quantity": 1,
-    "AdditonalItems": null,
+    "AdditonalItems": "Fruits",
     "AddtionalEffectOrConditions": null,
-    "Team": "1"
+    "Team": "2"
   },
   {
     "ID": 338,
     "CreatureGroup": "City of Hollow Eyes Group E",
     "Creature": "Bandit 9 Rouge",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "2"
+  },
+  {
+    "ID": 344,
+    "CreatureGroup": "City of Hollow Eyes Group F",
+    "Creature": "Bandit Leader 10 Fighter",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 340,
+    "CreatureGroup": "City of Hollow Eyes Group F",
+    "Creature": "Bandit 9 Rouge",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 341,
+    "CreatureGroup": "City of Hollow Eyes Group F",
+    "Creature": "Bandit 8 Bow Fighter",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 342,
+    "CreatureGroup": "City of Hollow Eyes Group F",
+    "Creature": "Bandit 9 Bard",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 343,
+    "CreatureGroup": "City of Hollow Eyes Group F",
+    "Creature": "Bandit 7 Rouge",
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,

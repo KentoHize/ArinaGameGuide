@@ -612,7 +612,7 @@
   },
   {
     "ID": 49,
-    "Creature": "Bandit 8 Fighter",
+    "Creature": "Bandit 8 Bow Fighter",
     "Form": "Piercing Weapon",
     "Type": "Primary",
     "Range": 50,
@@ -1621,6 +1621,45 @@
     "Weapon": "Dagger +1",
     "BasicDamage": "1d4",
     "DamageAdditiveBonus": 4,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 127,
+    "Creature": "Bandit 9 Bard",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 6,
+    "AttackBonus": "18",
+    "Weapon": "Masterwork Longspear",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 6,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 128,
+    "Creature": "Bandit 7 Rouge",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 40,
+    "AttackBonus": "14",
+    "Weapon": "Composite Shortbow",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 4,
+    "OtherDamageBonus": null,
+    "SneakDamage": "4d6"
+  },
+  {
+    "ID": 129,
+    "Creature": "Bandit Leader 10 Fighter",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "20",
+    "Weapon": "Masterwork Falchion",
+    "BasicDamage": "2d4",
+    "DamageAdditiveBonus": 20,
     "OtherDamageBonus": null,
     "SneakDamage": null
   }

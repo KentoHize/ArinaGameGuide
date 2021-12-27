@@ -3286,5 +3286,77 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 412,
+    "ItemStack": "Fruits",
+    "Item": "Fruits",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 413,
+    "ItemStack": "RP + LC + 2AF + 2AF + CS",
+    "Item": null,
+    "RandomItem": "Random Potion",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 414,
+    "ItemStack": "RP + LC + 2AF + 2AF + CS",
+    "Item": "Light Crossbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 415,
+    "ItemStack": "RP + LC + 2AF + 2AF + CS",
+    "Item": "Acid Flask",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 416,
+    "ItemStack": "RP + LC + 2AF + 2AF + CS",
+    "Item": "Alchemist's Fire",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 417,
+    "ItemStack": "RP + LC + 2AF + 2AF + CS",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 418,
+    "ItemStack": "2D1 + CS + RoP1",
+    "Item": "Dagger +1",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 419,
+    "ItemStack": "2D1 + CS + RoP1",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 420,
+    "ItemStack": "2D1 + CS + RoP1",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

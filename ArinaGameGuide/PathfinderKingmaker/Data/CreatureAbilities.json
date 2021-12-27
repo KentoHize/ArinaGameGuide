@@ -81,7 +81,7 @@
   },
   {
     "ID": 11,
-    "Creature": "Bandit 8 Fighter",
+    "Creature": "Bandit 8 Bow Fighter",
     "Ability": "Rapid Shot",
     "Amount": null,
     "DamageType1": null,
@@ -89,7 +89,7 @@
   },
   {
     "ID": 12,
-    "Creature": "Bandit 8 Fighter",
+    "Creature": "Bandit 8 Bow Fighter",
     "Ability": "Deadly Aim",
     "Amount": null,
     "DamageType1": null,
@@ -579,6 +579,38 @@
     "ID": 73,
     "Creature": "Bandit 9 Rouge",
     "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 74,
+    "Creature": "Bandit 9 Bard",
+    "Ability": "Inspired Courage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 76,
+    "Creature": "Bandit 7 Rouge",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 75,
+    "Creature": "Bandit 7 Rouge",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 77,
+    "Creature": "Bandit Leader 10 Fighter",
+    "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null
