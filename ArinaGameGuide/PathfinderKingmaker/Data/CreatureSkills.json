@@ -139,13 +139,13 @@
   },
   {
     "ID": 24,
-    "Creature": "Greater Cyclops",
+    "Creature": "Greater Cyclops 24",
     "Skill": "Perception",
     "Bonus": 28
   },
   {
     "ID": 25,
-    "Creature": "Greater Cyclops",
+    "Creature": "Greater Cyclops 24",
     "Skill": "Persuasion",
     "Bonus": 28
   },
@@ -877,7 +877,7 @@
   },
   {
     "ID": 147,
-    "Creature": "Greater Cyclops",
+    "Creature": "Greater Cyclops 17",
     "Skill": "Perception",
     "Bonus": 28
   }

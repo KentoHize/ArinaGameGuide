@@ -664,7 +664,7 @@
   },
   {
     "ID": 53,
-    "Creature": "Greater Cyclops",
+    "Creature": "Greater Cyclops 24",
     "Form": "Bludgeoning Weapon",
     "Type": "Primary",
     "Range": 9,
@@ -1673,6 +1673,19 @@
     "Weapon": "Masterwork Club",
     "BasicDamage": "1d6",
     "DamageAdditiveBonus": 3,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 131,
+    "Creature": "Greater Cyclops 17",
+    "Form": "Bludgeoning Weapon",
+    "Type": "Primary",
+    "Range": 9,
+    "AttackBonus": "27",
+    "Weapon": "Masterwork Greatclub",
+    "BasicDamage": "3d8",
+    "DamageAdditiveBonus": 34,
     "OtherDamageBonus": null,
     "SneakDamage": null
   }

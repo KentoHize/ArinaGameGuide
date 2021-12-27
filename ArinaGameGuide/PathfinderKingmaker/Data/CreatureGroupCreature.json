@@ -2081,7 +2081,7 @@
   {
     "ID": 232,
     "CreatureGroup": "Saint Galvan's Gullet Group A",
-    "Creature": "Greater Cyclops",
+    "Creature": "Greater Cyclops 24",
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
@@ -3107,7 +3107,7 @@
   {
     "ID": 346,
     "CreatureGroup": "City of Hollow Eyes Group G",
-    "Creature": "Greater Cyclops",
+    "Creature": "Greater Cyclops 17",
     "Quantity": 2,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
