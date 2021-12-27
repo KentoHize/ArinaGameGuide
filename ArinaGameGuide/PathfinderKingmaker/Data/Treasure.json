@@ -544,5 +544,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 40,
+    "Name": "Blood Furrows Treasure C",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Blood Furrows",
+    "Position": "South West",
+    "ItemStack": "Blood Furrows Treasure C",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

@@ -3646,5 +3646,53 @@
     "StoryItem": false,
     "Weight": 15.0,
     "Description": ""
+  },
+  {
+    "ID": 232,
+    "Name": "Broiled Tuskwater Oysters",
+    "DisplayName": "Broiled Tuskwater Oysters",
+    "DisplayCName": "",
+    "Type": "Recipe",
+    "BaseItem": "Recipe",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 25,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.5,
+    "Description": "Butter\nSoft Cheese\nTuskwater Oyster"
+  },
+  {
+    "ID": 233,
+    "Name": "Butter",
+    "DisplayName": "Butter",
+    "DisplayCName": "",
+    "Type": "Ingredient",
+    "BaseItem": "Ingredient",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 5,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.25,
+    "Description": ""
+  },
+  {
+    "ID": 234,
+    "Name": "Flour",
+    "DisplayName": "Flour",
+    "DisplayCName": "",
+    "Type": "Ingredient",
+    "BaseItem": "Ingredient",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 2,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.25,
+    "Description": ""
   }
 ]

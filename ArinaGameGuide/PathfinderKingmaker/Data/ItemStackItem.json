@@ -3086,5 +3086,37 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 387,
+    "ItemStack": "Blood Furrows Treasure C",
+    "Item": "Broiled Tuskwater Oysters",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 388,
+    "ItemStack": "Blood Furrows Treasure C",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 62,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 389,
+    "ItemStack": "Blood Furrows Treasure C",
+    "Item": "Butter",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 390,
+    "ItemStack": "Blood Furrows Treasure C",
+    "Item": "Flour",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
   }
 ]
