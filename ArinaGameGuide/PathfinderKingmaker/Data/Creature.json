@@ -7720,11 +7720,11 @@
     "CombatManeuverBonus": 37,
     "CombatManeuverDefense": 55,
     "SpellResistance": null,
-    "SkinItem": null,
-    "SkinDC": null,
+    "SkinItem": "Bulette Bone Plates",
+    "SkinDC": 30,
     "Swarm": false,
     "Exp": 2880,
-    "RemainItems": null,
+    "RemainItems": "Ancient Bulette RS",
     "Memo": ""
   }
 ]

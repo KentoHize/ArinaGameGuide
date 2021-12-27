@@ -3062,5 +3062,29 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 384,
+    "ItemStack": "Ancient Bulette RS",
+    "Item": "Meat",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 385,
+    "ItemStack": "Ancient Bulette RS",
+    "Item": "Taldan Warrior's Dog Tag",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 386,
+    "ItemStack": "Ancient Bulette RS",
+    "Item": "Amulet of Might Fists +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

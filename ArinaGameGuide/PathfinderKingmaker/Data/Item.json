@@ -3630,5 +3630,21 @@
     "StoryItem": false,
     "Weight": 8.0,
     "Description": "+3 greatclub\nimmunity to shaken and sickened"
+  },
+  {
+    "ID": 231,
+    "Name": "Bulette Bone Plates",
+    "DisplayName": "Bulette Bone Plates",
+    "DisplayCName": "",
+    "Type": "Skin",
+    "BaseItem": "Skin",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 100,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 15.0,
+    "Description": ""
   }
 ]
