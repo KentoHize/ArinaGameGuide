@@ -502,5 +502,19 @@
     "LockDC": null,
     "RelatedEncounter": "Spider Lair Group E",
     "Memo": ""
+  },
+  {
+    "ID": 37,
+    "Name": "Ghost Stone Treasure A",
+    "CName": "",
+    "Type": "Stone",
+    "Place": "Ghost Stone",
+    "Position": "West",
+    "ItemStack": "Ghost Stone Treasure A",
+    "PerceptionDC": 25,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

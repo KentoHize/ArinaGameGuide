@@ -1160,5 +1160,33 @@
     "HasPlot": false,
     "Description": "",
     "Memo": "Diplomacy 20\nIntimidate 25"
+  },
+  {
+    "ID": 85,
+    "Name": "Ghost Stone",
+    "DisplayName": "Ghost Stone",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "Wisdom 10 Check\nPerception 27"
+  },
+  {
+    "ID": 86,
+    "Name": "Precipice Trail",
+    "DisplayName": "Precipice Trail",
+    "CName": "",
+    "Type": "Habitat",
+    "SuggestedLevelMin": 7,
+    "SuggestedLevelMax": 9,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

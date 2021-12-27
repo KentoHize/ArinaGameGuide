@@ -1324,5 +1324,57 @@
     "DamageAdditiveBonus": 8,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 104,
+    "Creature": "Mature Athach",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 14,
+    "AttackBonus": "26",
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 23,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 105,
+    "Creature": "Mature Athach",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 14,
+    "AttackBonus": "26",
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 23,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 106,
+    "Creature": "Mature Athach",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 14,
+    "AttackBonus": "26",
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 23,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 107,
+    "Creature": "Mature Athach",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 14,
+    "AttackBonus": "26",
+    "Weapon": null,
+    "BasicDamage": "1d10",
+    "DamageAdditiveBonus": 23,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

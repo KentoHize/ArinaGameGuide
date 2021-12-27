@@ -3502,5 +3502,53 @@
     "StoryItem": false,
     "Weight": 0.0,
     "Description": ""
+  },
+  {
+    "ID": 223,
+    "Name": "Wand of Restoration, Lesser",
+    "DisplayName": "Wand of Restoration, Lesser",
+    "DisplayCName": "",
+    "Type": "Wand",
+    "BaseItem": "Wand",
+    "SpecialMaterial": null,
+    "CasterLevel": 3,
+    "Charges": 22,
+    "SellPrice": 495,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": ""
+  },
+  {
+    "ID": 224,
+    "Name": "Compisite Shortbow +2",
+    "DisplayName": "Compisite Shortbow +2",
+    "DisplayCName": "",
+    "Type": "Martial Weapon",
+    "BaseItem": "Compisite Shortbow",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 2075,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 2.0,
+    "Description": ""
+  },
+  {
+    "ID": 225,
+    "Name": "Belt of Physical Might +4",
+    "DisplayName": "Belt of Physical Might +4",
+    "DisplayCName": "",
+    "Type": "Belt",
+    "BaseItem": "Belt",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 16250,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": "+4 Strength and Constitution"
   }
 ]

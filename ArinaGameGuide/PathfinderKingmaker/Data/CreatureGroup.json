@@ -943,5 +943,12 @@
     "Place": "Spider Lair",
     "Position": "Center",
     "Memo": ""
+  },
+  {
+    "ID": 137,
+    "Name": "Precipice Trail Group A",
+    "Place": "Precipice Trail",
+    "Position": "Deep Floor 1",
+    "Memo": ""
   }
 ]

@@ -649,5 +649,12 @@
     "Type": "DamageReduction",
     "DamageType": "Slash",
     "Amount": 5
+  },
+  {
+    "ID": 94,
+    "Creature": "Mature Athach",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
   }
 ]

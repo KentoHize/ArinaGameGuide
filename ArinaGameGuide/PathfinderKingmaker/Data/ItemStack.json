@@ -738,5 +738,15 @@
     "ID": 150,
     "Name": "MGA + HA",
     "Memo": "Masterwork Greataxe + Hide Armor"
+  },
+  {
+    "ID": 151,
+    "Name": "Ghost Stone Treasure A",
+    "Memo": ""
+  },
+  {
+    "ID": 152,
+    "Name": "Mature Athach RS",
+    "Memo": ""
   }
 ]

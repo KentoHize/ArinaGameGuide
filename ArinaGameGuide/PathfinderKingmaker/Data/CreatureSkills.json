@@ -616,5 +616,17 @@
     "Creature": "Dread Zombie Cyclops",
     "Skill": "Perception",
     "Bonus": 28
+  },
+  {
+    "ID": 104,
+    "Creature": "Mature Athach",
+    "Skill": "Perception",
+    "Bonus": 26
+  },
+  {
+    "ID": 105,
+    "Creature": "Mature Athach",
+    "Skill": "Stealth",
+    "Bonus": 11
   }
 ]

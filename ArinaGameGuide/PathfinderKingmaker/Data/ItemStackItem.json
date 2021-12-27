@@ -2982,5 +2982,37 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 374,
+    "ItemStack": "Ghost Stone Treasure A",
+    "Item": "Wand of Restoration, Lesser",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 375,
+    "ItemStack": "Ghost Stone Treasure A",
+    "Item": "Compisite Shortbow +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 376,
+    "ItemStack": "Mature Athach RS",
+    "Item": "Leather Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 377,
+    "ItemStack": "Mature Athach RS",
+    "Item": "Belt of Physical Might +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

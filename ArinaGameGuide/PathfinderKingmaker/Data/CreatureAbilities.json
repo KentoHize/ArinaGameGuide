@@ -446,5 +446,21 @@
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null
+  },
+  {
+    "ID": 57,
+    "Creature": "Mature Athach",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 58,
+    "Creature": "Mature Athach",
+    "Ability": "Lunge",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
   }
 ]
