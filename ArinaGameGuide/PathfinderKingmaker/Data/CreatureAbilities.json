@@ -462,5 +462,29 @@
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null
+  },
+  {
+    "ID": 59,
+    "Creature": "Ancient Bulette",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 60,
+    "Creature": "Ancient Bulette",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 61,
+    "Creature": "Ancient Bulette",
+    "Ability": "Lethal Stance",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
   }
 ]

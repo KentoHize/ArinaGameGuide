@@ -2534,5 +2534,13 @@
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 318,
+    "CreatureGroup": "Blood Furrows Group Ancient Bulette",
+    "Creature": "Ancient Bulette",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
   }
 ]

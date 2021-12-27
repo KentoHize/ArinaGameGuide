@@ -1376,5 +1376,44 @@
     "DamageAdditiveBonus": 23,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 108,
+    "Creature": "Ancient Bulette",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 5,
+    "AttackBonus": "32",
+    "Weapon": null,
+    "BasicDamage": "3d6",
+    "DamageAdditiveBonus": 36,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 109,
+    "Creature": "Ancient Bulette",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 5,
+    "AttackBonus": "31",
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 25,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 110,
+    "Creature": "Ancient Bulette",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 5,
+    "AttackBonus": "31",
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 25,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

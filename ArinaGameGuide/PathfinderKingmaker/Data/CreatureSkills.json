@@ -628,5 +628,11 @@
     "Creature": "Mature Athach",
     "Skill": "Stealth",
     "Bonus": 11
+  },
+  {
+    "ID": 106,
+    "Creature": "Ancient Bulette",
+    "Skill": "Perception",
+    "Bonus": 26
   }
 ]
