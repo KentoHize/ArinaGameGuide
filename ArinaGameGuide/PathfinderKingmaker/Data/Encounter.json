@@ -515,5 +515,16 @@
     "EnemyGroup2": "Spider Lair Group F",
     "EnemyGroup3": null,
     "Memo": ""
+  },
+  {
+    "ID": 48,
+    "Name": "Old Sycamore Eobald",
+    "Place": "Old Sycamore",
+    "Position": "North West",
+    "HasPlot": true,
+    "EnemyGroup1": null,
+    "EnemyGroup2": null,
+    "EnemyGroup3": null,
+    "Memo": "Bluff 30\nDiplomacy 19 10 Rations\nIntimidate 28"
   }
 ]

@@ -453,7 +453,7 @@
     "ID": 52,
     "Name": "spell with a target",
     "CName": "",
-    "IsCondition": false,
+    "IsCondition": true,
     "IsGroup": false,
     "Description": "",
     "Memo": ""
@@ -462,7 +462,7 @@
     "ID": 53,
     "Name": "halves physical damage from slashing and piercing weapon",
     "CName": "",
-    "IsCondition": false,
+    "IsCondition": true,
     "IsGroup": false,
     "Description": "",
     "Memo": ""

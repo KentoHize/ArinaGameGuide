@@ -778,5 +778,15 @@
     "ID": 160,
     "Name": "MV + D + PA",
     "Memo": "Money and Valuables + Dagger + Padded Armor"
+  },
+  {
+    "ID": 161,
+    "Name": "Rinderpest Burial Ground Treasure A",
+    "Memo": ""
+  },
+  {
+    "ID": 162,
+    "Name": "Fauchard +3",
+    "Memo": ""
   }
 ]

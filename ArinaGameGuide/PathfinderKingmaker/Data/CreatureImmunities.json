@@ -562,5 +562,17 @@
     "Creature": "Dread Zombie Cyclops",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 95,
+    "Creature": "Restless Spectre",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 96,
+    "Creature": "Restless Spectre",
+    "Condition": "Prone",
+    "CondtionGroup": null
   }
 ]

@@ -706,5 +706,23 @@
     "Creature": "Sneaky Mite",
     "Skill": "Stealth",
     "Bonus": 31
+  },
+  {
+    "ID": 119,
+    "Creature": "Restless Spectre",
+    "Skill": "Lore(Nature)",
+    "Bonus": 18
+  },
+  {
+    "ID": 121,
+    "Creature": "Restless Spectre",
+    "Skill": "Perception",
+    "Bonus": 25
+  },
+  {
+    "ID": 120,
+    "Creature": "Restless Spectre",
+    "Skill": "Stealth",
+    "Bonus": 26
   }
 ]

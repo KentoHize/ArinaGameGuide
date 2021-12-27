@@ -670,5 +670,12 @@
     "Type": "DamageReduction",
     "DamageType": "Cold Iron",
     "Amount": 2
+  },
+  {
+    "ID": 97,
+    "Creature": "Restless Spectre",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

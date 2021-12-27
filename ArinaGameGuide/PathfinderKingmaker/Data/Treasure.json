@@ -558,5 +558,33 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 41,
+    "Name": "Rinderpest Burial Ground Treasure A",
+    "CName": "",
+    "Type": "Corpse",
+    "Place": "Rinderpest Burial Ground",
+    "Position": "Center",
+    "ItemStack": "Rinderpest Burial Ground Treasure A",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 42,
+    "Name": "Rinderpest Burial Ground Treasure B",
+    "CName": "",
+    "Type": "Void",
+    "Place": "Rinderpest Burial Ground",
+    "Position": "Center",
+    "ItemStack": "Fauchard +3",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

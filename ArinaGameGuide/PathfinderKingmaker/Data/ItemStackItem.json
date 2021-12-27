@@ -3166,5 +3166,29 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 397,
+    "ItemStack": "Rinderpest Burial Ground Treasure A",
+    "Item": "Jester's Vest",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 398,
+    "ItemStack": "Rinderpest Burial Ground Treasure A",
+    "Item": "Ring of Protection +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 399,
+    "ItemStack": "Fauchard +3",
+    "Item": "Fauchard +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

@@ -3710,5 +3710,37 @@
     "StoryItem": false,
     "Weight": 0.0,
     "Description": ""
+  },
+  {
+    "ID": 236,
+    "Name": "Jester's Vest",
+    "DisplayName": "Jester's Vest",
+    "DisplayCName": "",
+    "Type": "Light Armor",
+    "BaseItem": "Padded Armor",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 1000,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 10.0,
+    "Description": "+1 Light Armor\n+2 Hideous Laughter DC"
+  },
+  {
+    "ID": 237,
+    "Name": "Fauchard +3",
+    "DisplayName": "Fauchard +3",
+    "DisplayCName": "",
+    "Type": "Exotic Weapon",
+    "BaseItem": "Fauchard",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 4625,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 10.0,
+    "Description": ""
   }
 ]

@@ -2566,5 +2566,13 @@
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null
+  },
+  {
+    "ID": 322,
+    "CreatureGroup": "Rinderpest Burial Ground Group A",
+    "Creature": "Restless Spectre",
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null
   }
 ]

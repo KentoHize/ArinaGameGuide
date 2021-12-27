@@ -1216,5 +1216,19 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 89,
+    "Name": "Rinderpest Burial Ground",
+    "DisplayName": "Rinderpest Burial Ground",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 9,
+    "SuggestedLevelMax": 11,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]
