@@ -934,5 +934,35 @@
     "Creature": "Barbarian 7 Barbarian",
     "Skill": "Stealth",
     "Bonus": 7
+  },
+  {
+    "ID": 157,
+    "Creature": "Soul Eater",
+    "Skill": "Perception",
+    "Bonus": 13
+  },
+  {
+    "ID": 158,
+    "Creature": "Soul Eater",
+    "Skill": "Stealth",
+    "Bonus": 17
+  },
+  {
+    "ID": 159,
+    "Creature": "Spectre",
+    "Skill": "Lore(Religion)",
+    "Bonus": 16
+  },
+  {
+    "ID": 160,
+    "Creature": "Spectre",
+    "Skill": "Perception",
+    "Bonus": 25
+  },
+  {
+    "ID": 161,
+    "Creature": "Spectre",
+    "Skill": "Stealth",
+    "Bonus": 16
   }
 ]

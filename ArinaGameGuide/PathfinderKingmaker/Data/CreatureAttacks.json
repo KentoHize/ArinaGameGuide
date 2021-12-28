@@ -1740,5 +1740,31 @@
     "DamageAdditiveBonus": 15,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 136,
+    "Creature": "Soul Eater",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 2,
+    "AttackBonus": "24",
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 3,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 137,
+    "Creature": "Spectre",
+    "Form": "Touch",
+    "Type": "Other",
+    "Range": 2,
+    "AttackBonus": "16",
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": null,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

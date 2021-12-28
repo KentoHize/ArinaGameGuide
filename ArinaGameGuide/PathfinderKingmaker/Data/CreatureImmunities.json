@@ -592,5 +592,47 @@
     "Creature": "Dread Zombie Cyclops Priest",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 100,
+    "Creature": "Soul Eater",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 101,
+    "Creature": "Soul Eater",
+    "Condition": "Stunned",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 102,
+    "Creature": "Soul Eater",
+    "Condition": "Critical Hits",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 103,
+    "Creature": "Soul Eater",
+    "Condition": "Sleep",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 104,
+    "Creature": "Soul Eater",
+    "Condition": "Paralyzed",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 105,
+    "Creature": "Soul Eater",
+    "Condition": "Prone",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 106,
+    "Creature": "Spectre",
+    "Condition": null,
+    "CondtionGroup": "Incorporeal Immunities"
   }
 ]

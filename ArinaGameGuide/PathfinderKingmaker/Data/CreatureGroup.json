@@ -4,6 +4,7 @@
     "Name": "Primal Giant Spider + Spider Swarm",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -11,6 +12,7 @@
     "Name": "Talon Peak Bandit Group",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -18,6 +20,7 @@
     "Name": "Talon Boss",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -25,6 +28,7 @@
     "Name": "Lonely Barrow Ancient Golems",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -32,6 +36,7 @@
     "Name": "Fake Stag Lord and His Companion",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -39,6 +44,7 @@
     "Name": "Gurdin River Goblin Group A",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -46,6 +52,7 @@
     "Name": "Goblin Village Goblin Guards",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -53,6 +60,7 @@
     "Name": "Lamashtu's Cultist Group At Shrine",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -60,6 +68,7 @@
     "Name": "Goblin Fort Group A",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -67,6 +76,7 @@
     "Name": "Goblin Fort Group B",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -74,6 +84,7 @@
     "Name": "Goblin Fort Group C",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -81,6 +92,7 @@
     "Name": "Goblin Fort Group D",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -88,6 +100,7 @@
     "Name": "Goblin Fort Group E",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -95,6 +108,7 @@
     "Name": "Goblin Fort Group F",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -102,6 +116,7 @@
     "Name": "Goblin Fort Group G",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -109,6 +124,7 @@
     "Name": "Goblin Fort Group H",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -116,6 +132,7 @@
     "Name": "Goblin Fort Group Boss",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -123,6 +140,7 @@
     "Name": "Goblin Fort Group Bloom",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -130,6 +148,7 @@
     "Name": "Womb of Lamashtu Goblin Group",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -137,6 +156,7 @@
     "Name": "Capital Square Bloom Group A",
     "Place": "Capital Square B",
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -144,6 +164,7 @@
     "Name": "Capital Square Bloom Group B",
     "Place": "Capital Square B",
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -151,6 +172,7 @@
     "Name": "Capital Square Bloom Group C",
     "Place": "Capital Square B",
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -158,6 +180,7 @@
     "Name": "Capital Square Bloom Greater Primal Owlbear",
     "Place": "Capital Square B",
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -165,6 +188,7 @@
     "Name": "Capital Square Bloom Group D",
     "Place": "Capital Square B",
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -172,6 +196,7 @@
     "Name": "Capital Square Bloom Group E",
     "Place": "Capital Square B",
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -179,6 +204,7 @@
     "Name": "Womb of Lamashtu Group A",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -186,6 +212,7 @@
     "Name": "Womb of Lamashtu Group B",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -193,6 +220,7 @@
     "Name": "Womb of Lamashtu Group C",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -200,6 +228,7 @@
     "Name": "Womb of Lamashtu Group D",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -207,6 +236,7 @@
     "Name": "Womb of Lamashtu Group E",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -214,6 +244,7 @@
     "Name": "Womb of Lamashtu Group F",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -221,6 +252,7 @@
     "Name": "Womb of Lamashtu Group G",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -228,6 +260,7 @@
     "Name": "Womb of Lamashtu Group H",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -235,6 +268,7 @@
     "Name": "Womb of Lamashtu Group I",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -242,6 +276,7 @@
     "Name": "Other World A Group A",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -249,6 +284,7 @@
     "Name": "Other World A Group B",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -256,6 +292,7 @@
     "Name": "Other World A Group C",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -263,6 +300,7 @@
     "Name": "Other World A Group D",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -270,6 +308,7 @@
     "Name": "Other World A Group E",
     "Place": "Other World A",
     "Position": "South",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -277,6 +316,7 @@
     "Name": "Other World A Group F",
     "Place": "Other World A",
     "Position": "North West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -284,6 +324,7 @@
     "Name": "Other World A Group G",
     "Place": "Other World A",
     "Position": "East",
+    "Stage": 0,
     "Memo": "2 Doomspider will appear after"
   },
   {
@@ -291,6 +332,7 @@
     "Name": "Other World A Group H",
     "Place": "Other World A",
     "Position": "North",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -298,6 +340,7 @@
     "Name": "Other World B Group A",
     "Place": "Other World B",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -305,6 +348,7 @@
     "Name": "Other World B Group B",
     "Place": "Other World B",
     "Position": "East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -312,6 +356,7 @@
     "Name": "Other World B Group C",
     "Place": "Other World B",
     "Position": "West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -319,6 +364,7 @@
     "Name": "Other World B Boss",
     "Place": "Other World B",
     "Position": "West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -326,6 +372,7 @@
     "Name": "Other World A Boss",
     "Place": "Other World A",
     "Position": "North",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -333,6 +380,7 @@
     "Name": "Other World Flower Fight",
     "Place": "Other World A",
     "Position": "North",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -340,6 +388,7 @@
     "Name": "Womb of Lamashtu Flower Fight Wave 1",
     "Place": "Womb of Lamashtu",
     "Position": "South",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -347,6 +396,7 @@
     "Name": "Womb of Lamashtu Flower Fight Wave 2",
     "Place": "Womb of Lamashtu",
     "Position": "South",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -354,6 +404,7 @@
     "Name": "Womb of Lamashtu Flower Fight Wave 3",
     "Place": "Womb of Lamashtu",
     "Position": "South",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -361,6 +412,7 @@
     "Name": "Tenebrous Depth II Group A",
     "Place": "Tenebrous Depth II",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -368,6 +420,7 @@
     "Name": "Tenebrous Depth II Group B",
     "Place": "Tenebrous Depth II",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -375,6 +428,7 @@
     "Name": "Tenebrous Depth II Group C",
     "Place": "Tenebrous Depth II",
     "Position": "North East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -382,6 +436,7 @@
     "Name": "Tenebrous Depth II Group D",
     "Place": "Tenebrous Depth II",
     "Position": "North East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -389,6 +444,7 @@
     "Name": "Tenebrous Depth II Group E",
     "Place": "Tenebrous Depth II",
     "Position": "North",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -396,6 +452,7 @@
     "Name": "Tenebrous Depth II Group F",
     "Place": "Tenebrous Depth II",
     "Position": "East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -403,6 +460,7 @@
     "Name": "Tenebrous Depth III Group A",
     "Place": "Tenebrous Depth III",
     "Position": "South West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -410,6 +468,7 @@
     "Name": "Tenebrous Depth III Group B",
     "Place": "Tenebrous Depth III",
     "Position": "North West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -417,6 +476,7 @@
     "Name": "Tenebrous Depth III Group C",
     "Place": "Tenebrous Depth III",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -424,6 +484,7 @@
     "Name": "Tenebrous Depth III Group D",
     "Place": "Tenebrous Depth III",
     "Position": "South East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -431,6 +492,7 @@
     "Name": "Tenebrous Depth III Group E",
     "Place": "Tenebrous Depth III",
     "Position": "South",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -438,6 +500,7 @@
     "Name": "Tenebrous Depth IV Group A",
     "Place": "Tenebrous Depth IV",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -445,6 +508,7 @@
     "Name": "Tenebrous Depth IV Group B",
     "Place": "Tenebrous Depth IV",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -452,6 +516,7 @@
     "Name": "Tenebrous Depth IV Group C",
     "Place": "Tenebrous Depth IV",
     "Position": "North",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -459,6 +524,7 @@
     "Name": "Tenebrous Depth IV Group D",
     "Place": "Tenebrous Depth IV",
     "Position": "North",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -466,6 +532,7 @@
     "Name": "Tenebrous Depth IV The Weary Traveler",
     "Place": "Tenebrous Depth IV",
     "Position": "North",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -473,6 +540,7 @@
     "Name": "Tenebrous Depth IV Group E",
     "Place": "Tenebrous Depth IV",
     "Position": "North East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -480,6 +548,7 @@
     "Name": "Tenebrous Depth V Group A",
     "Place": "Tenebrous Depth V",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -487,6 +556,7 @@
     "Name": "Tenebrous Depth V Group B",
     "Place": "Tenebrous Depth V",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -494,6 +564,7 @@
     "Name": "Tenebrous Depth V Group C",
     "Place": "Tenebrous Depth V",
     "Position": "North East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -501,6 +572,7 @@
     "Name": "Tenebrous Depth V Group D",
     "Place": "Tenebrous Depth V",
     "Position": "North East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -508,6 +580,7 @@
     "Name": "Tenebrous Depth VI Group A",
     "Place": "Tenebrous Depth VI",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -515,6 +588,7 @@
     "Name": "Tenebrous Depth VI Group B",
     "Place": "Tenebrous Depth VI",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -522,6 +596,7 @@
     "Name": "Tenebrous Depth VI Group C",
     "Place": "Tenebrous Depth VI",
     "Position": "West",
+    "Stage": 0,
     "Memo": "Very Hard(Wild Gaze)"
   },
   {
@@ -529,6 +604,7 @@
     "Name": "Tenebrous Depth VI Group D",
     "Place": "Tenebrous Depth VI",
     "Position": "South",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -536,6 +612,7 @@
     "Name": "Tenebrous Depth VI Group E",
     "Place": "Tenebrous Depth VI",
     "Position": "South West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -543,6 +620,7 @@
     "Name": "Tenebrous Depth VII Group A",
     "Place": "Tenebrous Depth VII",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -550,6 +628,7 @@
     "Name": "Tenebrous Depth VII Group B",
     "Place": "Tenebrous Depth VII",
     "Position": "North",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -557,6 +636,7 @@
     "Name": "Tenebrous Depth VII Group C",
     "Place": "Tenebrous Depth VII",
     "Position": "West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -564,6 +644,7 @@
     "Name": "Tenebrous Depth VII Group D",
     "Place": "Tenebrous Depth VII",
     "Position": "East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -571,6 +652,7 @@
     "Name": "Tenebrous Depth VII Group E",
     "Place": "Tenebrous Depth VII",
     "Position": "South West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -578,6 +660,7 @@
     "Name": "Tenebrous Depth VIII Group A",
     "Place": "Tenebrous Depth VIII",
     "Position": "North",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -585,6 +668,7 @@
     "Name": "Tenebrous Depth VIII Group B",
     "Place": "Tenebrous Depth VIII",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -592,6 +676,7 @@
     "Name": "Tenebrous Depth VIII Group C",
     "Place": "Tenebrous Depth VIII",
     "Position": "South East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -599,6 +684,7 @@
     "Name": "Tenebrous Depth VIII The Fallen Priestess",
     "Place": "Tenebrous Depth VIII",
     "Position": "South West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -606,6 +692,7 @@
     "Name": "Tenebrous Depth VIII Group D",
     "Place": "Tenebrous Depth VIII",
     "Position": "North West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -613,6 +700,7 @@
     "Name": "Baneful Bog Group A",
     "Place": "Baneful Bog",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -620,6 +708,7 @@
     "Name": "Rill-and-Spill Deeper Group A",
     "Place": "Rill-and-Spill Deeper",
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -627,6 +716,7 @@
     "Name": "Poisonous Shambling Mound Group A",
     "Place": "Dappled Qugmire",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -634,6 +724,7 @@
     "Name": "Bridge Over The Gudrin River Grag Linnorm",
     "Place": "Bridge Over The Gudrin River",
     "Position": "Deep Floor 1",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -641,6 +732,7 @@
     "Name": "Lizzard Skin Poacher Group",
     "Place": "Poacher's Hideout",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -648,6 +740,7 @@
     "Name": "Six Bears Camp Fionn",
     "Place": "Six Bears Camp",
     "Position": "North East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -655,6 +748,7 @@
     "Name": "Sartayne",
     "Place": "Capital Square A",
     "Position": "Deep Floor 1",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -662,6 +756,7 @@
     "Name": "Technic League Encampent Varrask Task\n",
     "Place": null,
     "Position": null,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -669,6 +764,7 @@
     "Name": "Saint Galvan's Gullet Group A",
     "Place": "Saint Galvan's Gullet",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -676,6 +772,7 @@
     "Name": "Brown Baldhead Group A",
     "Place": "Brown Baldhead",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -683,6 +780,7 @@
     "Name": "Tenacious Marsh Group A",
     "Place": "Tenacious Marsh",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -690,6 +788,7 @@
     "Name": "Swamp Ruins Group A",
     "Place": "Swamp Ruins",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -697,6 +796,7 @@
     "Name": "Technic League Hideout Group A",
     "Place": "Technic League Hideout",
     "Position": "North East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -704,6 +804,7 @@
     "Name": "Technic League Hideout Group B",
     "Place": "Technic League Hideout",
     "Position": "North West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -711,6 +812,7 @@
     "Name": "Technic League Hideout Group C",
     "Place": "Technic League Hideout",
     "Position": "West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -718,6 +820,7 @@
     "Name": "Technic League Hideout Group D",
     "Place": "Technic League Hideout",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -725,6 +828,7 @@
     "Name": "Technic League Hideout Matsero Janush",
     "Place": "Technic League Hideout",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -732,6 +836,7 @@
     "Name": "An Ancient Curse, Part Three Group A",
     "Place": "Bald Hilltop",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -739,6 +844,7 @@
     "Name": "An Ancient Curse, Part Three Group B",
     "Place": "Bald Hilltop",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -746,6 +852,7 @@
     "Name": "An Ancient Curse, Part Three Group C",
     "Place": "Bald Hilltop",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -753,6 +860,7 @@
     "Name": "Empty Skull Rock Group B",
     "Place": "Empty Skull Rock",
     "Position": "Deep Floor 1",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -760,6 +868,7 @@
     "Name": "Dragonleaf Gulch Ollie's Event",
     "Place": "Dragonleaf Gulch",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -767,6 +876,7 @@
     "Name": "Varnhold Group A",
     "Place": "Varnhold",
     "Position": "North West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -774,6 +884,7 @@
     "Name": "Varnhold Group B",
     "Place": "Varnhold",
     "Position": "East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -781,6 +892,7 @@
     "Name": "Varnhold Stockade Group A",
     "Place": "Varnhold Stockade",
     "Position": "South",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -788,6 +900,7 @@
     "Name": "Varnhold Stockade Group B",
     "Place": "Varnhold Stockade",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -795,6 +908,7 @@
     "Name": "Varnhold Stockade Group C",
     "Place": "Varnhold Stockade",
     "Position": "South East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -802,6 +916,7 @@
     "Name": "Varnhold Stockade Group D",
     "Place": "Varnhold Stockade",
     "Position": "North East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -809,6 +924,7 @@
     "Name": "Varnhold Stockade Group E",
     "Place": "Varnhold Stockade",
     "Position": "North West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -816,6 +932,7 @@
     "Name": "Varnhold Stockade Group F",
     "Place": "Varnhold Stockade",
     "Position": "Deep Floor 1",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -823,6 +940,7 @@
     "Name": "Varnhold Stockade Group G",
     "Place": "Varnhold Stockade",
     "Position": "Deep Floor 1",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -830,6 +948,7 @@
     "Name": "Varnhold Stockade Group H",
     "Place": "Varnhold Stockade",
     "Position": "Deep Floor 1",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -837,6 +956,7 @@
     "Name": "Varnhold Stockade Group I",
     "Place": "Varnhold Stockade",
     "Position": "Deep Floor 1",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -844,6 +964,7 @@
     "Name": "Varnhold Stockade Group Agai",
     "Place": "Varnhold Stockade",
     "Position": "Deep Floor 2",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -851,6 +972,7 @@
     "Name": "Poachers' Hideout Morhalan",
     "Place": "Poachers' Hideout",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -858,6 +980,7 @@
     "Name": "Bridge Over The Gudrin River Hill Giants Group A",
     "Place": "Bridge Over The Gudrin River",
     "Position": "West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -865,6 +988,7 @@
     "Name": "Bridge Over The Gudrin River Hill Giants Group B",
     "Place": "Bridge Over The Gudrin River",
     "Position": "West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -872,6 +996,7 @@
     "Name": "Ruined Watchtower Ntavi",
     "Place": "Ruined Watchtower",
     "Position": "North East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -879,6 +1004,7 @@
     "Name": "Crooked Teeth Other World Group A",
     "Place": "Crooked Teeth Other World",
     "Position": "North East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -886,6 +1012,7 @@
     "Name": "Crooked Teeth Other World 3 Thundervine",
     "Place": "Crooked Teeth Other World 3",
     "Position": "North East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -893,6 +1020,7 @@
     "Name": "Crooked Teeth Rotten Cave Group A",
     "Place": "Rotten Cave",
     "Position": "Deep Floor 1",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -900,6 +1028,7 @@
     "Name": "Unfinished Cleaning Group A",
     "Place": "Unfinished Cleaning",
     "Position": "Deep Floor 1",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -907,6 +1036,7 @@
     "Name": "Spider Lair Group A",
     "Place": "Spider Lair",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -914,6 +1044,7 @@
     "Name": "Spider Lair Group B",
     "Place": "Spider Lair",
     "Position": "East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -921,6 +1052,7 @@
     "Name": "Spider Lair Group C",
     "Place": "Spider Lair",
     "Position": "East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -928,6 +1060,7 @@
     "Name": "Spider Lair Group D",
     "Place": "Spider Lair",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -935,6 +1068,7 @@
     "Name": "Spider Lair Group E",
     "Place": "Spider Lair",
     "Position": "West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -942,6 +1076,7 @@
     "Name": "Spider Lair Group F",
     "Place": "Spider Lair",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -949,6 +1084,7 @@
     "Name": "Precipice Trail Group A",
     "Place": "Precipice Trail",
     "Position": "Deep Floor 1",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -956,6 +1092,7 @@
     "Name": "Blood Furrows Group Ancient Bulette",
     "Place": "Blood Furrows",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -963,6 +1100,7 @@
     "Name": "Old Sycamore Sneaky Mite Group",
     "Place": "Old Sycamore",
     "Position": "South West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -970,6 +1108,7 @@
     "Name": "Rinderpest Burial Ground Group A",
     "Place": "Rinderpest Burial Ground",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -977,6 +1116,7 @@
     "Name": "City of Hollow Eyes Group A",
     "Place": "City of Hollow Eyes",
     "Position": "South",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -984,6 +1124,7 @@
     "Name": "City of Hollow Eyes Group B",
     "Place": "City of Hollow Eyes",
     "Position": "East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -991,6 +1132,7 @@
     "Name": "City of Hollow Eyes Group C",
     "Place": "City of Hollow Eyes",
     "Position": "North East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -998,6 +1140,7 @@
     "Name": "City of Hollow Eyes Group D",
     "Place": "City of Hollow Eyes",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -1005,6 +1148,7 @@
     "Name": "City of Hollow Eyes Group E",
     "Place": "City of Hollow Eyes",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -1012,6 +1156,7 @@
     "Name": "City of Hollow Eyes Group F",
     "Place": "City of Hollow Eyes",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -1019,6 +1164,7 @@
     "Name": "City of Hollow Eyes Group G",
     "Place": "City of Hollow Eyes",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -1026,6 +1172,7 @@
     "Name": "City of Hollow Eyes Group H",
     "Place": "City of Hollow Eyes",
     "Position": "South West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -1033,6 +1180,7 @@
     "Name": "City of Hollow Eyes Group I",
     "Place": "City of Hollow Eyes",
     "Position": "West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -1040,6 +1188,7 @@
     "Name": "City of Hollow Eyes Group J",
     "Place": "City of Hollow Eyes",
     "Position": "North East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -1047,6 +1196,7 @@
     "Name": "City of Hollow Eyes Group J 2",
     "Place": "City of Hollow Eyes",
     "Position": "North East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -1054,6 +1204,7 @@
     "Name": "City of Hollow Eyes Group K",
     "Place": "City of Hollow Eyes",
     "Position": "North West",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -1061,6 +1212,7 @@
     "Name": "City of Hollow Eyes Group L",
     "Place": "City of Hollow Eyes",
     "Position": "North",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -1068,6 +1220,7 @@
     "Name": "Forsaken Mound Group A",
     "Place": "Forsaken Mound",
     "Position": "South East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -1075,6 +1228,7 @@
     "Name": "Sepulcher of Forgotten Heroes Group A",
     "Place": "Sepulcher of Forgotten Heroes",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -1082,6 +1236,7 @@
     "Name": "Sepulcher of Forgotten Heroes Group B",
     "Place": "Sepulcher of Forgotten Heroes",
     "Position": "Center",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -1089,6 +1244,7 @@
     "Name": "Sepulcher of Forgotten Heroes Group C",
     "Place": "Sepulcher of Forgotten Heroes",
     "Position": "North East",
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -1096,6 +1252,7 @@
     "Name": "Sepulcher of Forgotten Heroes Group D",
     "Place": "Sepulcher of Forgotten Heroes",
     "Position": "South East",
+    "Stage": 0,
     "Memo": "Priest Display as Zombie Cyclops"
   },
   {
@@ -1103,6 +1260,23 @@
     "Name": "Sepulcher of Forgotten Heroes Group E",
     "Place": "Sepulcher of Forgotten Heroes",
     "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 160,
+    "Name": "Sepulcher of Forgotten Heroes Group F",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 161,
+    "Name": "Sepulcher of Forgotten Heroes Group G",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "Position": "North East",
+    "Stage": 0,
     "Memo": ""
   }
 ]

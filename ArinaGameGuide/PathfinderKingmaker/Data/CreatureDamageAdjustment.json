@@ -747,5 +747,19 @@
     "Type": "DamageReduction",
     "DamageType": "None",
     "Amount": 1
+  },
+  {
+    "ID": 108,
+    "Creature": "Soul Eater",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
+  },
+  {
+    "ID": 109,
+    "Creature": "Spectre",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

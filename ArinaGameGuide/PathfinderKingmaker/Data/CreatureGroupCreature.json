@@ -3725,6 +3725,56 @@
     "Creature": "Bandit 8 Fighter",
     "DisplayName": "Barbarian",
     "Quantity": 1,
+    "AdditonalItems": "Random Ingredient",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 376,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group E",
+    "Creature": "Bandit 8 Fighter",
+    "DisplayName": "Barbarian",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 374,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group E",
+    "Creature": "Bandit 6 Archer",
+    "DisplayName": "Barbarian",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 375,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group E",
+    "Creature": "Barbarian 7 Barbarian",
+    "DisplayName": "Barbarian",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 377,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group F",
+    "Creature": "Soul Eater",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 378,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group G",
+    "Creature": "Spectre",
+    "DisplayName": null,
+    "Quantity": 4,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
