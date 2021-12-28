@@ -4094,5 +4094,21 @@
     "StoryItem": false,
     "Weight": 6.0,
     "Description": ""
+  },
+  {
+    "ID": 260,
+    "Name": "Endless War",
+    "DisplayName": "Endless War",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": null,
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

@@ -3918,5 +3918,105 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 393,
+    "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
+    "Creature": "Dugath",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 394,
+    "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
+    "Creature": "Bolga",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 395,
+    "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
+    "Creature": "Nober",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 396,
+    "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
+    "Creature": "Dug the Merchant",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 397,
+    "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
+    "Creature": "Hilla",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 398,
+    "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
+    "Creature": "Defaced Sister",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 399,
+    "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
+    "Creature": "Barbarian 8 Archer",
+    "DisplayName": null,
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 400,
+    "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
+    "Creature": "Barbarian 8 Barbarian",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 401,
+    "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
+    "Creature": "Barbarian 7 Fighter",
+    "DisplayName": null,
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 402,
+    "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
+    "Creature": "Barbarian 7 Ranger",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

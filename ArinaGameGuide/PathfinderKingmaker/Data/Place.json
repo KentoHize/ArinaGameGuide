@@ -1243,7 +1243,7 @@
     "HardSpotLevelMax": null,
     "HasPlot": false,
     "Description": "",
-    "Memo": "Diplomacy 21\nAthletics 20"
+    "Memo": "Diplomacy 21\nAthletics 20\n\n-----\nNot all Live-> Battle"
   },
   {
     "ID": 91,
@@ -1271,6 +1271,6 @@
     "HardSpotLevelMax": null,
     "HasPlot": true,
     "Description": "",
-    "Memo": ""
+    "Memo": "Story Mode\nLore(Nature) 22\nPerception 23\nKnowledge(World) 21\n\nDeface Dead?"
   }
 ]

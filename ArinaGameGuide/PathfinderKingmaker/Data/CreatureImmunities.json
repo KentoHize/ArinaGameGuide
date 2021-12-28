@@ -670,5 +670,11 @@
     "Creature": "Bloody Bones Beast",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 113,
+    "Creature": "Dugath",
+    "Condition": null,
+    "CondtionGroup": "Boss Immunities"
   }
 ]

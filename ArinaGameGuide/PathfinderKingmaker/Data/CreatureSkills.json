@@ -1036,5 +1036,11 @@
     "Creature": "Bloody Bones Beast",
     "Skill": "Stealth",
     "Bonus": 29
+  },
+  {
+    "ID": 174,
+    "Creature": "Dugath",
+    "Skill": "Lore(Religion)",
+    "Bonus": 21
   }
 ]

@@ -166,5 +166,12 @@
     "CName": "",
     "DC": "",
     "Description": ""
+  },
+  {
+    "ID": 25,
+    "Name": "Baleful Gaze",
+    "CName": "",
+    "DC": "20",
+    "Description": "Fort DC 20 1d4 Str Con Cha dmg"
   }
 ]

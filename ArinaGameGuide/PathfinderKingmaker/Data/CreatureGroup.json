@@ -1326,5 +1326,13 @@
     "Position": "North",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 168,
+    "Name": "Kellid Barbarian Camp Tiger Lords",
+    "Place": "Kellid Barbarian Camp",
+    "Position": "Center",
+    "Stage": 1,
+    "Memo": ""
   }
 ]

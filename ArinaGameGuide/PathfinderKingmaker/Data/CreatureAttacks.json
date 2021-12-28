@@ -1870,5 +1870,18 @@
     "DamageAdditiveBonus": 22,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 146,
+    "Creature": "Dugath",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "25",
+    "Weapon": "Endless War",
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 29,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]
