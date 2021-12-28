@@ -25,21 +25,21 @@
     "Name": "Rogue",
     "CName": "",
     "ChanllegeRateMultiplier": 0.75,
-    "PlayerClass": false
+    "PlayerClass": true
   },
   {
     "ID": 5,
     "Name": "Fighter",
     "CName": "",
     "ChanllegeRateMultiplier": 1.0,
-    "PlayerClass": false
+    "PlayerClass": true
   },
   {
     "ID": 6,
     "Name": "Alchemist",
     "CName": "",
     "ChanllegeRateMultiplier": 1.0,
-    "PlayerClass": false
+    "PlayerClass": true
   },
   {
     "ID": 7,
@@ -53,28 +53,28 @@
     "Name": "Bard",
     "CName": "",
     "ChanllegeRateMultiplier": 1.0,
-    "PlayerClass": false
+    "PlayerClass": true
   },
   {
     "ID": 9,
     "Name": "Wizard",
     "CName": "",
     "ChanllegeRateMultiplier": 1.0,
-    "PlayerClass": false
+    "PlayerClass": true
   },
   {
     "ID": 10,
     "Name": "Cleric",
     "CName": "",
     "ChanllegeRateMultiplier": 1.0,
-    "PlayerClass": false
+    "PlayerClass": true
   },
   {
     "ID": 11,
     "Name": "Barbarian",
     "CName": "Barbarian",
     "ChanllegeRateMultiplier": 1.0,
-    "PlayerClass": false
+    "PlayerClass": true
   },
   {
     "ID": 12,
@@ -102,7 +102,7 @@
     "Name": "Inquisitor",
     "CName": "",
     "ChanllegeRateMultiplier": 1.0,
-    "PlayerClass": false
+    "PlayerClass": true
   },
   {
     "ID": 16,
@@ -130,7 +130,7 @@
     "Name": "Sorcerer",
     "CName": "",
     "ChanllegeRateMultiplier": 1.0,
-    "PlayerClass": false
+    "PlayerClass": true
   },
   {
     "ID": 20,
@@ -152,5 +152,12 @@
     "CName": "",
     "ChanllegeRateMultiplier": 0.75,
     "PlayerClass": false
+  },
+  {
+    "ID": 23,
+    "Name": "Ranger",
+    "CName": "",
+    "ChanllegeRateMultiplier": 1.0,
+    "PlayerClass": true
   }
 ]

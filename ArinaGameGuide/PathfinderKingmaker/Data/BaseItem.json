@@ -1478,5 +1478,25 @@
     "Strength": false,
     "Price": 0,
     "Weight": 6.0
+  },
+  {
+    "ID": 76,
+    "Name": "Handaxe",
+    "CName": "",
+    "Type": "Martial Weapon",
+    "DamageType": "Slash",
+    "ArmorClass": null,
+    "ArmorCheckPenalty": null,
+    "ArcaneSpellFailureChance": null,
+    "MaxDexterity": null,
+    "WeaponSize": "Light",
+    "Range": null,
+    "Damage": null,
+    "CriticalHitRange": null,
+    "CriticalHitMultiplier": null,
+    "FinesseWeapon": false,
+    "Strength": false,
+    "Price": 0,
+    "Weight": 0.0
   }
 ]

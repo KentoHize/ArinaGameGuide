@@ -1987,5 +1987,31 @@
     "DamageAdditiveBonus": 18,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 155,
+    "Creature": "Barbarian 7 Ranger",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "15",
+    "Weapon": "Masterwork Handaxe",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 4,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 156,
+    "Creature": "Barbarian 7 Ranger",
+    "Form": "Slashing Weapon",
+    "Type": "Secondary",
+    "Range": 2,
+    "AttackBonus": "15",
+    "Weapon": "Masterwork Handaxe",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 2,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]
