@@ -3283,5 +3283,14 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 366,
+    "CreatureGroup": "Forsaken Mound Group A",
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

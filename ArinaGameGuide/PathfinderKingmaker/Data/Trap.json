@@ -438,5 +438,16 @@
     "Position": "North",
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 47,
+    "Name": "City of Hollow Eyes Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Forsaken Mound",
+    "DisarmDC": 25,
+    "Position": "South East",
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

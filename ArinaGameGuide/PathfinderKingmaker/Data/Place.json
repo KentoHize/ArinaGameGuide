@@ -1255,8 +1255,22 @@
     "SuggestedLevelMax": 12,
     "HardSpotLevelMin": null,
     "HardSpotLevelMax": null,
-    "HasPlot": false,
+    "HasPlot": true,
     "Description": "",
     "Memo": "Knowledge(World) 30"
+  },
+  {
+    "ID": 92,
+    "Name": "Forsaken Mound",
+    "DisplayName": "Forsaken Mound",
+    "CName": "",
+    "Type": "CanNotRest",
+    "SuggestedLevelMin": 11,
+    "SuggestedLevelMax": 13,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": ""
   }
 ]

@@ -1062,5 +1062,12 @@
     "Place": "City of Hollow Eyes",
     "Position": "North",
     "Memo": ""
+  },
+  {
+    "ID": 154,
+    "Name": "Forsaken Mound Group A",
+    "Place": "Forsaken Mound",
+    "Position": "South East",
+    "Memo": ""
   }
 ]
