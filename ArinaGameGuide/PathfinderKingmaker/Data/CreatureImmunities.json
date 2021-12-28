@@ -634,5 +634,23 @@
     "Creature": "Spectre",
     "Condition": null,
     "CondtionGroup": "Incorporeal Immunities"
+  },
+  {
+    "ID": 107,
+    "Creature": "Surrenedered Fighter Zombie",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 108,
+    "Creature": "Enervated Sorcerer Zombie",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 109,
+    "Creature": "Unlucky Ranger Zombie",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]

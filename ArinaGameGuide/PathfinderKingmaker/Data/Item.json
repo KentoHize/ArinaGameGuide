@@ -3982,5 +3982,37 @@
     "StoryItem": false,
     "Weight": 4.0,
     "Description": "+2 Furious Adamantine Longsword"
+  },
+  {
+    "ID": 253,
+    "Name": "Masterwork Scimitar",
+    "DisplayName": "Masterwork Scimitar",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Scimitar",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
+  },
+  {
+    "ID": 254,
+    "Name": "Composite Longbow +1",
+    "DisplayName": "Composite Longbow +1",
+    "DisplayCName": "",
+    "Type": "Martial Weapon",
+    "BaseItem": "Composite Longbow",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 3.0,
+    "Description": ""
   }
 ]

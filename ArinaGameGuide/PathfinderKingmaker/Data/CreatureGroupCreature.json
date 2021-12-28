@@ -3828,5 +3828,45 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 384,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group J",
+    "Creature": "Zombie Cyclops",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 385,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group K",
+    "Creature": "Surrenedered Fighter Zombie",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 386,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group K",
+    "Creature": "Enervated Sorcerer Zombie",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 387,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group K",
+    "Creature": "Unlucky Ranger Zombie",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

@@ -964,5 +964,41 @@
     "Creature": "Spectre",
     "Skill": "Stealth",
     "Bonus": 16
+  },
+  {
+    "ID": 162,
+    "Creature": "Surrenedered Fighter Zombie",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 163,
+    "Creature": "Surrenedered Fighter Zombie",
+    "Skill": "Stealth",
+    "Bonus": 5
+  },
+  {
+    "ID": 164,
+    "Creature": "Enervated Sorcerer Zombie",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 165,
+    "Creature": "Enervated Sorcerer Zombie",
+    "Skill": "Stealth",
+    "Bonus": 18
+  },
+  {
+    "ID": 166,
+    "Creature": "Unlucky Ranger Zombie",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 167,
+    "Creature": "Unlucky Ranger Zombie",
+    "Skill": "Stealth",
+    "Bonus": 18
   }
 ]

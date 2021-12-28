@@ -581,5 +581,16 @@
     "Position": "West",
     "RelatedEncounter": null,
     "Memo": "Special"
+  },
+  {
+    "ID": 60,
+    "Name": "Sepulcher of Forgotten Heroes Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "DisarmDC": 26,
+    "Position": "West",
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

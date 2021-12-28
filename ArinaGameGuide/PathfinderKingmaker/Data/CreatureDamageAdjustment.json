@@ -761,5 +761,47 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 110,
+    "Creature": "Surrenedered Fighter Zombie",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 5
+  },
+  {
+    "ID": 111,
+    "Creature": "Surrenedered Fighter Zombie",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 112,
+    "Creature": "Enervated Sorcerer Zombie",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 5
+  },
+  {
+    "ID": 113,
+    "Creature": "Enervated Sorcerer Zombie",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 114,
+    "Creature": "Unlucky Ranger Zombie",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 5
+  },
+  {
+    "ID": 115,
+    "Creature": "Unlucky Ranger Zombie",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

@@ -1766,5 +1766,44 @@
     "DamageAdditiveBonus": null,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 138,
+    "Creature": "Surrenedered Fighter Zombie",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "17",
+    "Weapon": "Masterwork Scimitar",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": null,
+    "OtherDamageBonus": "13",
+    "SneakDamage": null
+  },
+  {
+    "ID": 139,
+    "Creature": "Enervated Sorcerer Zombie",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AttackBonus": "15",
+    "Weapon": "Masterwork Light Crossbow",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": null,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 140,
+    "Creature": "Unlucky Ranger Zombie",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AttackBonus": "17",
+    "Weapon": "Composite Longbow",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 13,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]
