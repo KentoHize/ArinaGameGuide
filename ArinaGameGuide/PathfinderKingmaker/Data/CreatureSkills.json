@@ -1102,5 +1102,23 @@
     "Creature": "Hilla",
     "Skill": "Perception",
     "Bonus": 20
+  },
+  {
+    "ID": 185,
+    "Creature": "Barbarian 8 Barbarian",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 186,
+    "Creature": "Barbarian 8 Archer",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 187,
+    "Creature": "Barbarian 7 Fighter",
+    "Skill": "Perception",
+    "Bonus": 14
   }
 ]

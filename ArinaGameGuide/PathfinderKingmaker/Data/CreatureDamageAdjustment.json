@@ -943,5 +943,12 @@
     "Type": "Resistance",
     "DamageType": "Electricity",
     "Amount": 5
+  },
+  {
+    "ID": 136,
+    "Creature": "Barbarian 8 Barbarian",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 1
   }
 ]

@@ -1948,5 +1948,44 @@
     "DamageAdditiveBonus": 15,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 152,
+    "Creature": "Barbarian 8 Barbarian",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "15",
+    "Weapon": "Masterwork Falchion",
+    "BasicDamage": "2d4",
+    "DamageAdditiveBonus": 15,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 153,
+    "Creature": "Barbarian 8 Archer",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AttackBonus": "15",
+    "Weapon": "Composite Longbow",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 13,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 154,
+    "Creature": "Barbarian 7 Fighter",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "18",
+    "Weapon": "Masterwork Greatsword",
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 18,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]
