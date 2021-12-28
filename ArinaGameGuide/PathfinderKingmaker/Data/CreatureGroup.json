@@ -1069,5 +1069,33 @@
     "Place": "Forsaken Mound",
     "Position": "South East",
     "Memo": ""
+  },
+  {
+    "ID": 155,
+    "Name": "Sepulcher of Forgotten Heroes Group A",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 156,
+    "Name": "Sepulcher of Forgotten Heroes Group B",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "Position": "Center",
+    "Memo": ""
+  },
+  {
+    "ID": 157,
+    "Name": "Sepulcher of Forgotten Heroes Group C",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "Position": "North East",
+    "Memo": ""
+  },
+  {
+    "ID": 158,
+    "Name": "Sepulcher of Forgotten Heroes Group D",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "Position": "South East",
+    "Memo": ""
   }
 ]

@@ -1727,5 +1727,18 @@
     "DamageAdditiveBonus": 20,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 135,
+    "Creature": "Barbarian 7 Barbarian",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "16",
+    "Weapon": "Greatsword",
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 15,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

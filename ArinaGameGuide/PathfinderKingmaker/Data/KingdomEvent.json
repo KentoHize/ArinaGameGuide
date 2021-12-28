@@ -382,5 +382,53 @@
     "RandomEvent": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 25,
+    "Name": "Kellid Scouts",
+    "CName": "",
+    "Type": "Problem",
+    "RequiredDays": 16,
+    "DC": 24,
+    "AdaptedAdvisor1": "General",
+    "AdaptedAdvisor2": "Warden",
+    "AdaptedAdvisor3": null,
+    "HaveAdvantage": null,
+    "HaveDisadvantage": null,
+    "RandomEvent": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 26,
+    "Name": "Extortionist Guards",
+    "CName": "",
+    "Type": "Problem",
+    "RequiredDays": 14,
+    "DC": 21,
+    "AdaptedAdvisor1": "General",
+    "AdaptedAdvisor2": null,
+    "AdaptedAdvisor3": null,
+    "HaveAdvantage": null,
+    "HaveDisadvantage": null,
+    "RandomEvent": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 27,
+    "Name": "Undead Cyclopes Attack",
+    "CName": "",
+    "Type": "Problem",
+    "RequiredDays": 28,
+    "DC": 23,
+    "AdaptedAdvisor1": "General",
+    "AdaptedAdvisor2": "High Priest",
+    "AdaptedAdvisor3": "Warden",
+    "HaveAdvantage": null,
+    "HaveDisadvantage": null,
+    "RandomEvent": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

@@ -740,5 +740,12 @@
     "Type": "DamageReduction",
     "DamageType": "Slash",
     "Amount": 5
+  },
+  {
+    "ID": 107,
+    "Creature": "Barbarian 7 Barbarian",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 1
   }
 ]

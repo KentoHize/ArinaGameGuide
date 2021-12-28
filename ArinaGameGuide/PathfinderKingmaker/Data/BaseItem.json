@@ -1347,5 +1347,24 @@
     "FinesseWeapon": false,
     "Price": 0,
     "Weight": 4.0
+  },
+  {
+    "ID": 73,
+    "Name": "Earth Breaker",
+    "CName": "",
+    "Type": "Martial Weapon",
+    "DamageType": "Bludgeon",
+    "ArmorClass": null,
+    "ArmorCheckPenalty": null,
+    "ArcaneSpellFailureChance": null,
+    "MaxDexterity": null,
+    "WeaponSize": "Two-handed",
+    "Range": 2,
+    "Damage": "2d6",
+    "CriticalHitRange": 1,
+    "CriticalHitMultiplier": 3,
+    "FinesseWeapon": false,
+    "Price": 10,
+    "Weight": 14.0
   }
 ]

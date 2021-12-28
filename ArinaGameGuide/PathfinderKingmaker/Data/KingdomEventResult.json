@@ -226,5 +226,24 @@
     "OtherConsequence": null,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 13,
+    "Event": "Undead Sightings",
+    "Advisor": "General",
+    "Companion": "Regongar",
+    "Result": "Triumph",
+    "Stat1": "Military",
+    "Stat1Adjustment": 3,
+    "Stat2": null,
+    "Stat2Adjustment": null,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": "None",
+    "Description": "",
+    "Memo": ""
   }
 ]

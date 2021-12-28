@@ -3292,5 +3292,41 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 368,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group A",
+    "Creature": "Dread Zombie Cyclops Priest",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 367,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group A",
+    "Creature": "Zombie Cyclops",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 369,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group B",
+    "Creature": "Barbarian 7 Barbarian",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 370,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group C",
+    "Creature": "Zombie Cyclops",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

@@ -8,5 +8,15 @@
     "BaseCreature": null,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 2,
+    "Name": "Brag",
+    "CName": "",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "Position": "South",
+    "BaseCreature": null,
+    "Description": "Tiger Lords member",
+    "Memo": ""
   }
 ]

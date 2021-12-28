@@ -638,5 +638,29 @@
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null
+  },
+  {
+    "ID": 81,
+    "Creature": "Barbarian 7 Barbarian",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 82,
+    "Creature": "Barbarian 7 Barbarian",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 83,
+    "Creature": "Barbarian 7 Barbarian",
+    "Ability": "Reckless Stance",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
   }
 ]

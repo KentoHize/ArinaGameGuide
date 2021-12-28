@@ -922,5 +922,17 @@
     "Creature": "Bandit Chastener 10 Fighter",
     "Skill": "Athletics",
     "Bonus": 18
+  },
+  {
+    "ID": 155,
+    "Creature": "Barbarian 7 Barbarian",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 156,
+    "Creature": "Barbarian 7 Barbarian",
+    "Skill": "Stealth",
+    "Bonus": 7
   }
 ]
