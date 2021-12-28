@@ -3868,5 +3868,25 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 388,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group K",
+    "Creature": "Hopeless Cleric Zombie",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 389,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group K",
+    "Creature": "Anguished Barbarian Zombie",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

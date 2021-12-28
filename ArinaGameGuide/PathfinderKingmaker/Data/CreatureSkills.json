@@ -1000,5 +1000,29 @@
     "Creature": "Unlucky Ranger Zombie",
     "Skill": "Stealth",
     "Bonus": 18
+  },
+  {
+    "ID": 168,
+    "Creature": "Hopeless Cleric Zombie",
+    "Skill": "Perception",
+    "Bonus": 24
+  },
+  {
+    "ID": 169,
+    "Creature": "Hopeless Cleric Zombie",
+    "Skill": "Stealth",
+    "Bonus": 10
+  },
+  {
+    "ID": 170,
+    "Creature": "Anguished Barbarian Zombie",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 171,
+    "Creature": "Anguished Barbarian Zombie",
+    "Skill": "Stealth",
+    "Bonus": 14
   }
 ]

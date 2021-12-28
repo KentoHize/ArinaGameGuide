@@ -803,5 +803,40 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 116,
+    "Creature": "Hopeless Cleric Zombie",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 5
+  },
+  {
+    "ID": 117,
+    "Creature": "Hopeless Cleric Zombie",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 118,
+    "Creature": "Anguished Barbarian Zombie",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 5
+  },
+  {
+    "ID": 119,
+    "Creature": "Anguished Barbarian Zombie",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 3
+  },
+  {
+    "ID": 120,
+    "Creature": "Anguished Barbarian Zombie",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

@@ -1805,5 +1805,31 @@
     "DamageAdditiveBonus": 13,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 141,
+    "Creature": "Hopeless Cleric Zombie",
+    "Form": "Bludgeoning Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "17",
+    "Weapon": "Masterwork Heavy Mace",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 5,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 142,
+    "Creature": "Anguished Barbarian Zombie",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "20",
+    "Weapon": "Masterwork Falchion",
+    "BasicDamage": "2d4",
+    "DamageAdditiveBonus": 21,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

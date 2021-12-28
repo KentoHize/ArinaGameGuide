@@ -652,5 +652,17 @@
     "Creature": "Unlucky Ranger Zombie",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 110,
+    "Creature": "Hopeless Cleric Zombie",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 111,
+    "Creature": "Anguished Barbarian Zombie",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]
