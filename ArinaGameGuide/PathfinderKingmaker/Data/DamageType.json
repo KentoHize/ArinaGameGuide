@@ -66,6 +66,12 @@
     "AdeptToDamgeReduction": true
   },
   {
+    "ID": 19,
+    "Name": "Chaotic",
+    "CName": "",
+    "AdeptToDamgeReduction": false
+  },
+  {
     "ID": 7,
     "Name": "Silver",
     "CName": "",
@@ -108,6 +114,12 @@
     "AdeptToDamgeReduction": false
   },
   {
+    "ID": 22,
+    "Name": "Sonic",
+    "CName": "",
+    "AdeptToDamgeReduction": false
+  },
+  {
     "ID": 17,
     "Name": "Positive",
     "CName": "",
@@ -116,12 +128,6 @@
   {
     "ID": 18,
     "Name": "Negative",
-    "CName": "",
-    "AdeptToDamgeReduction": false
-  },
-  {
-    "ID": 19,
-    "Name": "Chaotic",
     "CName": "",
     "AdeptToDamgeReduction": false
   }

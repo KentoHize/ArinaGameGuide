@@ -1042,5 +1042,47 @@
     "Creature": "Dugath",
     "Skill": "Lore(Religion)",
     "Bonus": 21
+  },
+  {
+    "ID": 175,
+    "Creature": "Defaced Sister",
+    "Skill": "Mobility",
+    "Bonus": 27
+  },
+  {
+    "ID": 176,
+    "Creature": "Defaced Sister",
+    "Skill": "Persuasion",
+    "Bonus": 24
+  },
+  {
+    "ID": 177,
+    "Creature": "Defaced Sister",
+    "Skill": "Lore(Nature)",
+    "Bonus": 17
+  },
+  {
+    "ID": 178,
+    "Creature": "Defaced Sister",
+    "Skill": "Perception",
+    "Bonus": 25
+  },
+  {
+    "ID": 179,
+    "Creature": "Defaced Sister",
+    "Skill": "Athletics",
+    "Bonus": 15
+  },
+  {
+    "ID": 180,
+    "Creature": "Defaced Sister",
+    "Skill": "Stealth",
+    "Bonus": 31
+  },
+  {
+    "ID": 181,
+    "Creature": "Bolga",
+    "Skill": "Perception",
+    "Bonus": 18
   }
 ]

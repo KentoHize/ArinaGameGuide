@@ -4018,5 +4018,15 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 403,
+    "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
+    "Creature": "Wolf Partener",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

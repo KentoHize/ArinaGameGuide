@@ -1883,5 +1883,31 @@
     "DamageAdditiveBonus": 29,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 147,
+    "Creature": "Defaced Sister",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "17",
+    "Weapon": "Torturous Touch",
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": null,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 148,
+    "Creature": "Bolga",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "15",
+    "Weapon": "Masterwork Falchion",
+    "BasicDamage": "2d4",
+    "DamageAdditiveBonus": 15,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]
