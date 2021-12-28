@@ -908,5 +908,40 @@
     "Type": "DamageReduction",
     "DamageType": "None",
     "Amount": 1
+  },
+  {
+    "ID": 131,
+    "Creature": "Nober",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 2
+  },
+  {
+    "ID": 132,
+    "Creature": "Hilla",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 2
+  },
+  {
+    "ID": 133,
+    "Creature": "Hilla",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 5
+  },
+  {
+    "ID": 134,
+    "Creature": "Hilla",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 5
+  },
+  {
+    "ID": 135,
+    "Creature": "Hilla",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 5
   }
 ]

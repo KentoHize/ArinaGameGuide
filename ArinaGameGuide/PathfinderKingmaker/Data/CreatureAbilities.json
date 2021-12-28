@@ -758,5 +758,69 @@
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null
+  },
+  {
+    "ID": 96,
+    "Creature": "Nober",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 97,
+    "Creature": "Nober",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 98,
+    "Creature": "Nober",
+    "Ability": "Guarded Stance",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 99,
+    "Creature": "Dug the Merchant",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 100,
+    "Creature": "Hilla",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 101,
+    "Creature": "Hilla",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 102,
+    "Creature": "Hilla",
+    "Ability": "Guarded Stance",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 103,
+    "Creature": "Hilla",
+    "Ability": "Pounce",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
   }
 ]

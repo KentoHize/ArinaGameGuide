@@ -1909,5 +1909,44 @@
     "DamageAdditiveBonus": 15,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 149,
+    "Creature": "Nober",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "17",
+    "Weapon": "Masterwork Falchion",
+    "BasicDamage": "2d4",
+    "DamageAdditiveBonus": 15,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 150,
+    "Creature": "Dug the Merchant",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "19",
+    "Weapon": "Masterwork Greataxe",
+    "BasicDamage": "1d12",
+    "DamageAdditiveBonus": 21,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 151,
+    "Creature": "Hilla",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "17",
+    "Weapon": "Masterwork Falchion",
+    "BasicDamage": "2d4",
+    "DamageAdditiveBonus": 15,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

@@ -124,5 +124,12 @@
     "MainRace": "Humanoid",
     "SubRace": "Giant",
     "KnowledgeSkill": "Knowledge(Arcana)"
+  },
+  {
+    "ID": 19,
+    "Name": "Aasimar",
+    "MainRace": "Humanoid",
+    "SubRace": "Aasimar",
+    "KnowledgeSkill": null
   }
 ]

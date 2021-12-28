@@ -1084,5 +1084,23 @@
     "Creature": "Bolga",
     "Skill": "Perception",
     "Bonus": 18
+  },
+  {
+    "ID": 182,
+    "Creature": "Nober",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 183,
+    "Creature": "Dug the Merchant",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 184,
+    "Creature": "Hilla",
+    "Skill": "Perception",
+    "Bonus": 20
   }
 ]
