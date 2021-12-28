@@ -3778,5 +3778,55 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 379,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group H",
+    "Creature": "Barbarian 7 Barbarian",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 380,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group H",
+    "Creature": "Bandit 8 Fighter",
+    "DisplayName": "Barbarian",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 381,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group H",
+    "Creature": "Bandit 6 Archer",
+    "DisplayName": "Barbarian",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 383,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group I",
+    "Creature": "Dread Zombie Cyclops Priest",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 382,
+    "CreatureGroup": "Sepulcher of Forgotten Heroes Group I",
+    "Creature": "Zombie Cyclops",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

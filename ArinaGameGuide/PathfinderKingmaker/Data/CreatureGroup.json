@@ -1278,5 +1278,21 @@
     "Position": "North East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 162,
+    "Name": "Sepulcher of Forgotten Heroes Group H",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 163,
+    "Name": "Sepulcher of Forgotten Heroes Group I",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

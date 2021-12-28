@@ -2,16 +2,25 @@
   {
     "ID": 1,
     "Name": "Unknown Trap",
-    "CName": ""
+    "CName": "",
+    "Special": false
   },
   {
     "ID": 2,
     "Name": "Blooming Mushroom Spores",
-    "CName": ""
+    "CName": "",
+    "Special": false
   },
   {
     "ID": 3,
     "Name": "Resonating Word",
-    "CName": ""
+    "CName": "",
+    "Special": false
+  },
+  {
+    "ID": 4,
+    "Name": "Channel Negative Energy",
+    "CName": "",
+    "Special": true
   }
 ]

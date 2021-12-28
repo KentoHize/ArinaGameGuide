@@ -570,5 +570,16 @@
     "Position": "North West",
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 59,
+    "Name": "Sepulcher of Forgotten Heroes Trap",
+    "CName": "",
+    "Type": "Channel Negative Energy",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "DisarmDC": null,
+    "Position": "West",
+    "RelatedEncounter": null,
+    "Memo": "Special"
   }
 ]
