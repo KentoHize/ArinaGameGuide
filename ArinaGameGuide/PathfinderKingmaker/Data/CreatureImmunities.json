@@ -586,5 +586,11 @@
     "Creature": "Thick-skinned Dread Zombie Cyclops",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 99,
+    "Creature": "Dread Zombie Cyclops Priest",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]

@@ -848,5 +848,20 @@
     "ID": 175,
     "Name": "MV + MGC + HA",
     "Memo": ""
+  },
+  {
+    "ID": 176,
+    "Name": "GA1 + HA",
+    "Memo": ""
+  },
+  {
+    "ID": 177,
+    "Name": "BP1 + RoP1 + CoR1",
+    "Memo": ""
+  },
+  {
+    "ID": 178,
+    "Name": "City of Hollow Eyes Treasure C",
+    "Memo": ""
   }
 ]

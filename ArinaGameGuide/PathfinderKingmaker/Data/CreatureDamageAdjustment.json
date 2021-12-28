@@ -726,5 +726,19 @@
     "Type": "DamageReduction",
     "DamageType": "Slash",
     "Amount": 5
+  },
+  {
+    "ID": 105,
+    "Creature": "Dread Zombie Cyclops Priest",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 106,
+    "Creature": "Dread Zombie Cyclops Priest",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 5
   }
 ]

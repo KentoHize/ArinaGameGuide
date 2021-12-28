@@ -3446,5 +3446,61 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 435,
+    "ItemStack": "GA1 + HA",
+    "Item": "Greataxe +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 436,
+    "ItemStack": "GA1 + HA",
+    "Item": "Hide Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 437,
+    "ItemStack": "BP1 + RoP1 + CoR1",
+    "Item": "Breastplate +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 438,
+    "ItemStack": "BP1 + RoP1 + CoR1",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 439,
+    "ItemStack": "BP1 + RoP1 + CoR1",
+    "Item": "Cloak of Resistance +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 440,
+    "ItemStack": "City of Hollow Eyes Treasure C",
+    "Item": "Fallen Warrior's Sheath",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 441,
+    "ItemStack": "City of Hollow Eyes Treasure C",
+    "Item": "Headband of Vast Intelligence +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

@@ -892,5 +892,23 @@
     "Creature": "Thick-skinned Dread Zombie Cyclops",
     "Skill": "Perception",
     "Bonus": 28
+  },
+  {
+    "ID": 150,
+    "Creature": "Dread Zombie Cyclops Priest",
+    "Skill": "Lore(Nature)",
+    "Bonus": 19
+  },
+  {
+    "ID": 151,
+    "Creature": "Dread Zombie Cyclops Priest",
+    "Skill": "Lore(Religion)",
+    "Bonus": 17
+  },
+  {
+    "ID": 152,
+    "Creature": "Dread Zombie Cyclops Priest",
+    "Skill": "Perception",
+    "Bonus": 37
   }
 ]

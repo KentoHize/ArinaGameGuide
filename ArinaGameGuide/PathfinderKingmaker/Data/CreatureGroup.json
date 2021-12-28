@@ -1034,5 +1034,26 @@
     "Place": "City of Hollow Eyes",
     "Position": "West",
     "Memo": ""
+  },
+  {
+    "ID": 150,
+    "Name": "City of Hollow Eyes Group J",
+    "Place": "City of Hollow Eyes",
+    "Position": "North East",
+    "Memo": ""
+  },
+  {
+    "ID": 151,
+    "Name": "City of Hollow Eyes Group J 2",
+    "Place": "City of Hollow Eyes",
+    "Position": "North East",
+    "Memo": ""
+  },
+  {
+    "ID": 152,
+    "Name": "City of Hollow Eyes Group K",
+    "Place": "City of Hollow Eyes",
+    "Position": "North West",
+    "Memo": ""
   }
 ]

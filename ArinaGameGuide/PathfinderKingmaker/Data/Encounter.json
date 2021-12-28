@@ -526,5 +526,16 @@
     "EnemyGroup2": null,
     "EnemyGroup3": null,
     "Memo": "Bluff 30\nDiplomacy 19 10 Rations\nIntimidate 28"
+  },
+  {
+    "ID": 49,
+    "Name": "City of Hollow Eyes Group J",
+    "Place": "City of Hollow Eyes",
+    "Position": "North East",
+    "HasPlot": false,
+    "EnemyGroup1": "City of Hollow Eyes Group J",
+    "EnemyGroup2": "City of Hollow Eyes Group J 2",
+    "EnemyGroup3": null,
+    "Memo": ""
   }
 ]

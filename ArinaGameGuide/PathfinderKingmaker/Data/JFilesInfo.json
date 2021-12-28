@@ -3078,7 +3078,7 @@
         {
           "Name": "Type",
           "IsKey": false,
-          "IsNullable": false,
+          "IsNullable": true,
           "Type": "String",
           "Choices": [
             "None",

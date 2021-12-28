@@ -614,5 +614,19 @@
     "LockDC": 28,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 45,
+    "Name": "City of Hollow Eyes Treasure C",
+    "CName": "",
+    "Type": "Corpse",
+    "Place": "City of Hollow Eyes",
+    "Position": "North East",
+    "ItemStack": "City of Hollow Eyes Treasure C",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": "City of Hollow Eyes Group J",
+    "Memo": ""
   }
 ]
