@@ -1027,5 +1027,12 @@
     "Place": "City of Hollow Eyes",
     "Position": "South West",
     "Memo": ""
+  },
+  {
+    "ID": 149,
+    "Name": "City of Hollow Eyes Group I",
+    "Place": "City of Hollow Eyes",
+    "Position": "West",
+    "Memo": ""
   }
 ]

@@ -712,5 +712,19 @@
     "Type": "DamageReduction",
     "DamageType": "Slash",
     "Amount": 5
+  },
+  {
+    "ID": 104,
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 103,
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 5
   }
 ]

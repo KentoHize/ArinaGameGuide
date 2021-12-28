@@ -880,5 +880,17 @@
     "Creature": "Greater Cyclops 17",
     "Skill": "Perception",
     "Bonus": 28
+  },
+  {
+    "ID": 148,
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "Skill": "Lore(Nature)",
+    "Bonus": 20
+  },
+  {
+    "ID": 149,
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "Skill": "Perception",
+    "Bonus": 28
   }
 ]

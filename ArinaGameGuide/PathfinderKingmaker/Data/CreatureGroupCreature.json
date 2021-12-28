@@ -3123,6 +3123,15 @@
     "Team": "1"
   },
   {
+    "ID": 350,
+    "CreatureGroup": "City of Hollow Eyes Group H",
+    "Creature": "Alpha Worg",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
     "ID": 348,
     "CreatureGroup": "City of Hollow Eyes Group H",
     "Creature": "Bandit 8 Rogue",
@@ -3139,5 +3148,32 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "2"
+  },
+  {
+    "ID": 351,
+    "CreatureGroup": "City of Hollow Eyes Group I",
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 352,
+    "CreatureGroup": "City of Hollow Eyes Group I",
+    "Creature": "Alpha Worg",
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 353,
+    "CreatureGroup": "City of Hollow Eyes Group I",
+    "Creature": "Ferocious Worg",
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

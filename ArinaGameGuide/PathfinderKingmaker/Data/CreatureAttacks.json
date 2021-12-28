@@ -1688,5 +1688,31 @@
     "DamageAdditiveBonus": 34,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 132,
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 6,
+    "AttackBonus": "26",
+    "Weapon": "Greataxe +1",
+    "BasicDamage": "3d6",
+    "DamageAdditiveBonus": 32,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 133,
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 6,
+    "AttackBonus": "19",
+    "Weapon": "Greataxe +1",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 10,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

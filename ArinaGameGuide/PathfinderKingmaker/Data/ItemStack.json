@@ -843,5 +843,10 @@
     "ID": 174,
     "Name": "RI + CSB + CS",
     "Memo": "Random Ingredient + Composite Shortbow + Chainshirt"
+  },
+  {
+    "ID": 175,
+    "Name": "MV + MGC + HA",
+    "Memo": ""
   }
 ]

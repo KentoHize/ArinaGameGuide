@@ -3838,5 +3838,21 @@
     "StoryItem": false,
     "Weight": 0.0,
     "Description": ""
+  },
+  {
+    "ID": 244,
+    "Name": "Greataxe +1",
+    "DisplayName": "Greataxe +1",
+    "DisplayCName": "",
+    "Type": "Martial Weapon",
+    "BaseItem": "Greataxe",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]
