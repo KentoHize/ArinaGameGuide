@@ -628,5 +628,33 @@
     "LockDC": null,
     "RelatedEncounter": "City of Hollow Eyes Group J",
     "Memo": ""
+  },
+  {
+    "ID": 46,
+    "Name": "City of Hollow Eyes Treasure D",
+    "CName": "",
+    "Type": "Box",
+    "Place": "City of Hollow Eyes",
+    "Position": "North",
+    "ItemStack": "City of Hollow Eyes Treasure D",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 47,
+    "Name": "City of Hollow Eyes Treasure E",
+    "CName": "",
+    "Type": "Other",
+    "Place": "City of Hollow Eyes",
+    "Position": "North West",
+    "ItemStack": "Rageclaw",
+    "PerceptionDC": 30,
+    "TrapDC": null,
+    "LockDC": 29,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

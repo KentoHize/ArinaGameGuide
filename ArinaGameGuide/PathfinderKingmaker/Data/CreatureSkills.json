@@ -769,13 +769,13 @@
   },
   {
     "ID": 129,
-    "Creature": "Bandit 6 Bow Fighter",
+    "Creature": "Bandit 6 Archer",
     "Skill": "Perception",
     "Bonus": 13
   },
   {
     "ID": 130,
-    "Creature": "Bandit 6 Bow Fighter",
+    "Creature": "Bandit 6 Archer",
     "Skill": "Stealth",
     "Bonus": 11
   },
@@ -910,5 +910,17 @@
     "Creature": "Dread Zombie Cyclops Priest",
     "Skill": "Perception",
     "Bonus": 37
+  },
+  {
+    "ID": 153,
+    "Creature": "Bandit Chastener 10 Fighter",
+    "Skill": "Perception",
+    "Bonus": 16
+  },
+  {
+    "ID": 154,
+    "Creature": "Bandit Chastener 10 Fighter",
+    "Skill": "Athletics",
+    "Bonus": 18
   }
 ]

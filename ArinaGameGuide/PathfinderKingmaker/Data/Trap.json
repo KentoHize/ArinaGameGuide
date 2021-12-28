@@ -416,5 +416,27 @@
     "Position": "Center",
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 45,
+    "Name": "City of Hollow Eyes Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "City of Hollow Eyes",
+    "DisarmDC": 28,
+    "Position": "North West",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 46,
+    "Name": "City of Hollow Eyes Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "City of Hollow Eyes",
+    "DisarmDC": 28,
+    "Position": "North",
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

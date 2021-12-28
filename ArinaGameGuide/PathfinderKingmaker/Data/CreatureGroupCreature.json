@@ -2981,7 +2981,7 @@
   {
     "ID": 332,
     "CreatureGroup": "City of Hollow Eyes Group D",
-    "Creature": "Bandit 6 Bow Fighter",
+    "Creature": "Bandit 6 Archer",
     "Quantity": 2,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
@@ -3026,7 +3026,7 @@
   {
     "ID": 336,
     "CreatureGroup": "City of Hollow Eyes Group E",
-    "Creature": "Bandit 6 Bow Fighter",
+    "Creature": "Bandit 6 Archer",
     "Quantity": 2,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
@@ -3143,7 +3143,7 @@
   {
     "ID": 349,
     "CreatureGroup": "City of Hollow Eyes Group H",
-    "Creature": "Bandit 6 Bow Fighter",
+    "Creature": "Bandit 6 Archer",
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
@@ -3234,6 +3234,51 @@
     "ID": 360,
     "CreatureGroup": "City of Hollow Eyes Group K",
     "Creature": "Ferocious Dread Zombie Cyclops",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 361,
+    "CreatureGroup": "City of Hollow Eyes Group K",
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "Quantity": 1,
+    "AdditonalItems": "Ancient Scrap of Script-Covered Leather",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 362,
+    "CreatureGroup": "City of Hollow Eyes Group L",
+    "Creature": "Bandit 9 Bard",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 363,
+    "CreatureGroup": "City of Hollow Eyes Group L",
+    "Creature": "Bandit 6 Archer",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 364,
+    "CreatureGroup": "City of Hollow Eyes Group L",
+    "Creature": "Bandit 9 Rouge",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 365,
+    "CreatureGroup": "City of Hollow Eyes Group L",
+    "Creature": "Bandit Chastener 10 Fighter",
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,

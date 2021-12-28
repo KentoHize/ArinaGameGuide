@@ -545,7 +545,7 @@
   },
   {
     "ID": 69,
-    "Creature": "Bandit 6 Bow Fighter",
+    "Creature": "Bandit 6 Archer",
     "Ability": "Rapid Shot",
     "Amount": null,
     "DamageType1": null,
@@ -553,7 +553,7 @@
   },
   {
     "ID": 70,
-    "Creature": "Bandit 6 Bow Fighter",
+    "Creature": "Bandit 6 Archer",
     "Ability": "Deadly Aim",
     "Amount": null,
     "DamageType1": null,
@@ -626,6 +626,14 @@
   {
     "ID": 79,
     "Creature": "Dread Zombie Cyclops Priest",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 80,
+    "Creature": "Bandit Chastener 10 Fighter",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,

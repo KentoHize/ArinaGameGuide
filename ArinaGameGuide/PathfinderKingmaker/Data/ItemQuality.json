@@ -1,14 +1,26 @@
 [
   {
+    "ID": 2,
+    "Item": "Nobleman's Amusement",
+    "Quality": "Enhancement",
+    "Rank": 1
+  },
+  {
     "ID": 1,
     "Item": "Nobleman's Amusement",
     "Quality": "Elite Expertise",
     "Rank": null
   },
   {
-    "ID": 2,
-    "Item": "Nobleman's Amusement",
+    "ID": 3,
+    "Item": "Rageclaw",
     "Quality": "Enhancement",
-    "Rank": 1
+    "Rank": 2
+  },
+  {
+    "ID": 4,
+    "Item": "Rageclaw",
+    "Quality": "Furious",
+    "Rank": null
   }
 ]

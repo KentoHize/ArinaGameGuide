@@ -3337,7 +3337,7 @@
   },
   {
     "ID": 421,
-    "ItemStack": "RS + MLS + CS + RoP1",
+    "ItemStack": "RS + MLS + CS1 + RoP1",
     "Item": null,
     "RandomItem": "Random Scroll",
     "Quantity": 1,
@@ -3345,7 +3345,7 @@
   },
   {
     "ID": 422,
-    "ItemStack": "RS + MLS + CS + RoP1",
+    "ItemStack": "RS + MLS + CS1 + RoP1",
     "Item": "Masterwork Longspear",
     "RandomItem": null,
     "Quantity": 1,
@@ -3353,15 +3353,15 @@
   },
   {
     "ID": 423,
-    "ItemStack": "RS + MLS + CS + RoP1",
-    "Item": "Chainshirt",
+    "ItemStack": "RS + MLS + CS1 + RoP1",
+    "Item": "Chainshirt +1",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
   },
   {
     "ID": 424,
-    "ItemStack": "RS + MLS + CS + RoP1",
+    "ItemStack": "RS + MLS + CS1 + RoP1",
     "Item": "Ring of Protection +1",
     "RandomItem": null,
     "Quantity": 1,
@@ -3499,6 +3499,54 @@
     "ID": 441,
     "ItemStack": "City of Hollow Eyes Treasure C",
     "Item": "Headband of Vast Intelligence +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 442,
+    "ItemStack": "Ancient Scrap of Script-Covered Leather",
+    "Item": "Ancient Scrap of Script-Covered Leather",
+    "RandomItem": null,
+    "Quantity": null,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 443,
+    "ItemStack": "MF + BP",
+    "Item": "Masterwork Falchion",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 444,
+    "ItemStack": "MF + BP",
+    "Item": "Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 445,
+    "ItemStack": "City of Hollow Eyes Treasure D",
+    "Item": "Leather Armor +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 446,
+    "ItemStack": "City of Hollow Eyes Treasure D",
+    "Item": "Adamantine Falcata +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 447,
+    "ItemStack": "Rageclaw",
+    "Item": "Rageclaw",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null

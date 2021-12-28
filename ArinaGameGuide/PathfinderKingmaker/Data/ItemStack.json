@@ -826,7 +826,7 @@
   },
   {
     "ID": 171,
-    "Name": "RS + MLS + CS + RoP1",
+    "Name": "RS + MLS + CS1 + RoP1",
     "Memo": ""
   },
   {
@@ -862,6 +862,26 @@
   {
     "ID": 178,
     "Name": "City of Hollow Eyes Treasure C",
+    "Memo": ""
+  },
+  {
+    "ID": 179,
+    "Name": "Ancient Scrap of Script-Covered Leather",
+    "Memo": ""
+  },
+  {
+    "ID": 180,
+    "Name": "MF + BP",
+    "Memo": ""
+  },
+  {
+    "ID": 181,
+    "Name": "City of Hollow Eyes Treasure D",
+    "Memo": ""
+  },
+  {
+    "ID": 182,
+    "Name": "Rageclaw",
     "Memo": ""
   }
 ]
