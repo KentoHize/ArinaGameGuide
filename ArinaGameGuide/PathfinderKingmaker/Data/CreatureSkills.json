@@ -811,13 +811,13 @@
   },
   {
     "ID": 136,
-    "Creature": "Bandit 8 Fighter 2",
+    "Creature": "Bandit 8 Fighter",
     "Skill": "Perception",
     "Bonus": 15
   },
   {
     "ID": 137,
-    "Creature": "Bandit 8 Fighter 2",
+    "Creature": "Bandit 8 Fighter",
     "Skill": "Stealth",
     "Bonus": 8
   },

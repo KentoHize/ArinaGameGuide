@@ -1587,7 +1587,7 @@
   },
   {
     "ID": 124,
-    "Creature": "Bandit 8 Fighter 2",
+    "Creature": "Bandit 8 Fighter",
     "Form": "Slashing Weapon",
     "Type": "Primary",
     "Range": 2,

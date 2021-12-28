@@ -457,7 +457,51 @@
     "Type": "Unknown Trap",
     "Place": "Sepulcher of Forgotten Heroes",
     "DisarmDC": 34,
-    "Position": "North East",
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 49,
+    "Name": "Sepulcher of Forgotten Heroes Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "DisarmDC": 25,
+    "Position": "East",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 50,
+    "Name": "Sepulcher of Forgotten Heroes Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "DisarmDC": 25,
+    "Position": "East",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 51,
+    "Name": "Sepulcher of Forgotten Heroes Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "DisarmDC": 25,
+    "Position": "East",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 52,
+    "Name": "Sepulcher of Forgotten Heroes Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "DisarmDC": 27,
+    "Position": "East",
     "RelatedEncounter": null,
     "Memo": ""
   }

@@ -569,7 +569,7 @@
   },
   {
     "ID": 72,
-    "Creature": "Bandit 8 Fighter 2",
+    "Creature": "Bandit 8 Fighter",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,

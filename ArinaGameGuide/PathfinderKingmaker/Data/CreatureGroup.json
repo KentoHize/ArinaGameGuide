@@ -1096,6 +1096,13 @@
     "Name": "Sepulcher of Forgotten Heroes Group D",
     "Place": "Sepulcher of Forgotten Heroes",
     "Position": "South East",
+    "Memo": "Priest Display as Zombie Cyclops"
+  },
+  {
+    "ID": 159,
+    "Name": "Sepulcher of Forgotten Heroes Group E",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "Position": "East",
     "Memo": ""
   }
 ]
