@@ -430,5 +430,21 @@
     "RandomEvent": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 28,
+    "Name": "Praise Zyphus!",
+    "CName": "",
+    "Type": "Problem",
+    "RequiredDays": 20,
+    "DC": 28,
+    "AdaptedAdvisor1": "High Priest",
+    "AdaptedAdvisor2": "Magister",
+    "AdaptedAdvisor3": null,
+    "HaveAdvantage": null,
+    "HaveDisadvantage": null,
+    "RandomEvent": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

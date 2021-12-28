@@ -1024,5 +1024,17 @@
     "Creature": "Anguished Barbarian Zombie",
     "Skill": "Stealth",
     "Bonus": 14
+  },
+  {
+    "ID": 172,
+    "Creature": "Bloody Bones Beast",
+    "Skill": "Perception",
+    "Bonus": 28
+  },
+  {
+    "ID": 173,
+    "Creature": "Bloody Bones Beast",
+    "Skill": "Stealth",
+    "Bonus": 29
   }
 ]

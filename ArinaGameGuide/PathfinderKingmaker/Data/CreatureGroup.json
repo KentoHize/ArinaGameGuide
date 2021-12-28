@@ -1310,5 +1310,21 @@
     "Position": "West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 166,
+    "Name": "Sepulcher of Forgotten Heroes Group L",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 167,
+    "Name": "Sepulcher of Forgotten Heroes Group Boss",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

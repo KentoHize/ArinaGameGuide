@@ -838,5 +838,19 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 121,
+    "Creature": "Bloody Bones Beast",
+    "Type": "DamageReduction",
+    "DamageType": "Bludgeon",
+    "Amount": 10
+  },
+  {
+    "ID": 122,
+    "Creature": "Bloody Bones Beast",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

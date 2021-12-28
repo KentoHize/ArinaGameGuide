@@ -4062,5 +4062,37 @@
     "StoryItem": false,
     "Weight": 45.0,
     "Description": ""
+  },
+  {
+    "ID": 258,
+    "Name": "Light Shield +3",
+    "DisplayName": "Light Shield +3",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Light Shield",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 2290,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 6.0,
+    "Description": ""
+  },
+  {
+    "ID": 259,
+    "Name": "Battleaxe +3",
+    "DisplayName": "Battleaxe +3",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Battleaxe",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 4625,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 6.0,
+    "Description": ""
   }
 ]

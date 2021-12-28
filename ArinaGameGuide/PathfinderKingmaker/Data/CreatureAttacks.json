@@ -1831,5 +1831,44 @@
     "DamageAdditiveBonus": 21,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 143,
+    "Creature": "Bloody Bones Beast",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 2,
+    "AttackBonus": "27",
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 22,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 144,
+    "Creature": "Bloody Bones Beast",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 2,
+    "AttackBonus": "28",
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 22,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 145,
+    "Creature": "Bloody Bones Beast",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 2,
+    "AttackBonus": "28",
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 22,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

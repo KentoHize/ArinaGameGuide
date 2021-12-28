@@ -656,5 +656,19 @@
     "LockDC": 29,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 48,
+    "Name": "Sepulcher of Forgotten Heroes Treasure Boss",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Sepulcher of Forgotten Heroes",
+    "Position": "North",
+    "ItemStack": "LS3 + BA3",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

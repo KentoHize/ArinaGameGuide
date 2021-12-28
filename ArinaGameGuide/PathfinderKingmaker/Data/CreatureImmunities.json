@@ -664,5 +664,11 @@
     "Creature": "Anguished Barbarian Zombie",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 112,
+    "Creature": "Bloody Bones Beast",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]

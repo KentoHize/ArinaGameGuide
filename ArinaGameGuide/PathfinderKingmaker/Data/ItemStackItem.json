@@ -3686,5 +3686,29 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 465,
+    "ItemStack": "LS3 + BA3",
+    "Item": "Light Shield +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 466,
+    "ItemStack": "LS3 + BA3",
+    "Item": "Battleaxe +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 467,
+    "ItemStack": "Belt of Giant Strength +4",
+    "Item": "Belt of Giant Strength +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]
