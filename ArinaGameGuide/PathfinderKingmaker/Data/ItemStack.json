@@ -888,5 +888,30 @@
     "ID": 183,
     "Name": "MV + GS + HA",
     "Memo": ""
+  },
+  {
+    "ID": 184,
+    "Name": "Masterwork Light Crossbow",
+    "Memo": ""
+  },
+  {
+    "ID": 185,
+    "Name": "CL1 + BP",
+    "Memo": ""
+  },
+  {
+    "ID": 186,
+    "Name": "Anguished Barbarian Zombie RS",
+    "Memo": ""
+  },
+  {
+    "ID": 187,
+    "Name": "MHM + HS + BP",
+    "Memo": ""
+  },
+  {
+    "ID": 188,
+    "Name": "Surrenedered Fighter Zombie RS",
+    "Memo": ""
   }
 ]

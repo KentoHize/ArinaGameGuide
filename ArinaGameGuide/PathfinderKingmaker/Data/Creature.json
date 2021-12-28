@@ -8774,7 +8774,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 67,
-    "RemainItems": null,
+    "RemainItems": "Surrenedered Fighter Zombie RS",
     "Memo": ""
   },
   {
@@ -8816,7 +8816,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 67,
-    "RemainItems": null,
+    "RemainItems": "Masterwork Light Crossbow",
     "Memo": ""
   },
   {
@@ -8858,7 +8858,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 67,
-    "RemainItems": null,
+    "RemainItems": "CL1 + BP",
     "Memo": ""
   },
   {
@@ -8900,7 +8900,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 67,
-    "RemainItems": null,
+    "RemainItems": "MHM + HS + BP",
     "Memo": ""
   },
   {
@@ -8942,7 +8942,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 67,
-    "RemainItems": null,
+    "RemainItems": "Anguished Barbarian Zombie RS",
     "Memo": ""
   }
 ]

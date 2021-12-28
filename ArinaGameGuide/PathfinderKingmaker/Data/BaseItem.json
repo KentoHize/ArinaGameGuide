@@ -15,6 +15,7 @@
     "CriticalHitRange": 1,
     "CriticalHitMultiplier": 2,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 1,
     "Weight": 3.0
   },
@@ -34,6 +35,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -53,6 +55,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -72,6 +75,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -91,6 +95,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -110,6 +115,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -129,6 +135,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -148,6 +155,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -167,6 +175,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -186,6 +195,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -205,6 +215,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -224,6 +235,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -243,6 +255,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -262,6 +275,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -281,6 +295,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -300,6 +315,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -319,6 +335,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -338,6 +355,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -357,6 +375,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -376,6 +395,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -395,6 +415,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -414,6 +435,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -433,6 +455,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -452,6 +475,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -471,6 +495,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -490,6 +515,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -509,6 +535,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -528,6 +555,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -547,6 +575,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -566,6 +595,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -585,6 +615,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -604,6 +635,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -623,6 +655,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -642,6 +675,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -661,6 +695,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -680,6 +715,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -699,6 +735,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -718,6 +755,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -737,6 +775,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -756,6 +795,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -775,6 +815,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -794,6 +835,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -813,6 +855,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.05
   },
@@ -832,6 +875,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -851,6 +895,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -870,6 +915,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -889,6 +935,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -908,6 +955,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -927,6 +975,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -946,6 +995,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -965,6 +1015,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -984,6 +1035,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 3.0
   },
@@ -1003,6 +1055,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.1
   },
@@ -1022,6 +1075,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -1041,6 +1095,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": true,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -1060,6 +1115,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -1079,6 +1135,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -1098,6 +1155,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 2.0
   },
@@ -1117,6 +1175,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": true,
+    "Strength": false,
     "Price": 0,
     "Weight": 1.0
   },
@@ -1136,6 +1195,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -1155,6 +1215,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -1174,6 +1235,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -1193,6 +1255,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -1212,6 +1275,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -1231,6 +1295,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -1250,6 +1315,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -1269,6 +1335,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 0.0
   },
@@ -1288,6 +1355,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 10.0
   },
@@ -1307,6 +1375,7 @@
     "CriticalHitRange": 3,
     "CriticalHitMultiplier": 2,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 10.0
   },
@@ -1326,6 +1395,7 @@
     "CriticalHitRange": null,
     "CriticalHitMultiplier": null,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 3.0
   },
@@ -1345,6 +1415,7 @@
     "CriticalHitRange": 2,
     "CriticalHitMultiplier": 3,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 0,
     "Weight": 4.0
   },
@@ -1364,7 +1435,28 @@
     "CriticalHitRange": 1,
     "CriticalHitMultiplier": 3,
     "FinesseWeapon": false,
+    "Strength": false,
     "Price": 10,
     "Weight": 14.0
+  },
+  {
+    "ID": 74,
+    "Name": "Throwing Axe",
+    "CName": "",
+    "Type": "Martial Weapon",
+    "DamageType": "Slash",
+    "ArmorClass": null,
+    "ArmorCheckPenalty": null,
+    "ArcaneSpellFailureChance": null,
+    "MaxDexterity": null,
+    "WeaponSize": "One-handed",
+    "Range": 30,
+    "Damage": null,
+    "CriticalHitRange": null,
+    "CriticalHitMultiplier": null,
+    "FinesseWeapon": false,
+    "Strength": true,
+    "Price": 0,
+    "Weight": 0.0
   }
 ]

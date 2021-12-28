@@ -3574,5 +3574,117 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 451,
+    "ItemStack": "Masterwork Light Crossbow",
+    "Item": "Masterwork Light Crossbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 452,
+    "ItemStack": "CL1 + BP",
+    "Item": "Composite Longbow +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 453,
+    "ItemStack": "CL1 + BP",
+    "Item": "Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 454,
+    "ItemStack": "Anguished Barbarian Zombie RS",
+    "Item": "Ornery",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 455,
+    "ItemStack": "Anguished Barbarian Zombie RS",
+    "Item": "Masterwork Falchion",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 456,
+    "ItemStack": "Anguished Barbarian Zombie RS",
+    "Item": "Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 457,
+    "ItemStack": "Anguished Barbarian Zombie RS",
+    "Item": "Belt of Giant Strength +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 458,
+    "ItemStack": "MHM + HS + BP",
+    "Item": "Masterwork Heavy Mace",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 459,
+    "ItemStack": "MHM + HS + BP",
+    "Item": "Heavy Shield",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 460,
+    "ItemStack": "MHM + HS + BP",
+    "Item": "Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 461,
+    "ItemStack": "Surrenedered Fighter Zombie RS",
+    "Item": "Penrod Hanvaki's Letter",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 462,
+    "ItemStack": "Surrenedered Fighter Zombie RS",
+    "Item": "Masterwork Scimitar",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 463,
+    "ItemStack": "Surrenedered Fighter Zombie RS",
+    "Item": "Tower Shield +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 464,
+    "ItemStack": "Surrenedered Fighter Zombie RS",
+    "Item": "Full Plate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]
