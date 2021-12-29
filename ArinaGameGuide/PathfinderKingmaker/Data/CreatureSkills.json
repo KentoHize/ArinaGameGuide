@@ -1162,5 +1162,47 @@
     "Creature": "Ferocious Soul Eater",
     "Skill": "Persuasion",
     "Bonus": 17
+  },
+  {
+    "ID": 195,
+    "Creature": "Ancient Soul Eater 12",
+    "Skill": "Mobility",
+    "Bonus": 25
+  },
+  {
+    "ID": 196,
+    "Creature": "Ancient Soul Eater 12",
+    "Skill": "Persuasion",
+    "Bonus": 16
+  },
+  {
+    "ID": 197,
+    "Creature": "Ancient Soul Eater 12",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 11
+  },
+  {
+    "ID": 198,
+    "Creature": "Ancient Soul Eater 12",
+    "Skill": "Stealth",
+    "Bonus": 53
+  },
+  {
+    "ID": 199,
+    "Creature": "Ancient Soul Eater 15",
+    "Skill": "Mobility",
+    "Bonus": 21
+  },
+  {
+    "ID": 200,
+    "Creature": "Ancient Soul Eater 15",
+    "Skill": "Persuasion",
+    "Bonus": 19
+  },
+  {
+    "ID": 201,
+    "Creature": "Ancient Soul Eater 15",
+    "Skill": "Stealth",
+    "Bonus": 28
   }
 ]

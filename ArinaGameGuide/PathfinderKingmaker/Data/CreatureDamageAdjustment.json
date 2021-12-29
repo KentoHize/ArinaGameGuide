@@ -971,5 +971,19 @@
     "Type": "DamageReduction",
     "DamageType": "Magic",
     "Amount": 10
+  },
+  {
+    "ID": 140,
+    "Creature": "Ancient Soul Eater 12",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
+  },
+  {
+    "ID": 141,
+    "Creature": "Ancient Soul Eater 15",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
   }
 ]

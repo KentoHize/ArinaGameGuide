@@ -1404,7 +1404,7 @@
     "Name": "Vordakai's Tomb Group F",
     "Place": "Vordakai's Tomb",
     "Position": "East",
-    "Stage": 1,
+    "Stage": 0,
     "Memo": ""
   },
   {
@@ -1412,12 +1412,20 @@
     "Name": "Vordakai's Tomb Group G",
     "Place": "Vordakai's Tomb",
     "Position": "North East",
-    "Stage": 1,
+    "Stage": 0,
     "Memo": ""
   },
   {
     "ID": 179,
-    "Name": "Vordakai's Tomb Ancient Soul Eater",
+    "Name": "Vordakai's Tomb Ancient Soul Eater Group A",
+    "Place": "Vordakai's Tomb",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 180,
+    "Name": "Vordakai's Tomb Ancient Soul Eater Group B",
     "Place": "Vordakai's Tomb",
     "Position": "North",
     "Stage": 1,

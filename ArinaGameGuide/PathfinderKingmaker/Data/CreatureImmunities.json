@@ -664,5 +664,17 @@
     "Creature": "Ferocious Soul Eater",
     "Condition": null,
     "CondtionGroup": "Soul Eater Immunities"
+  },
+  {
+    "ID": 118,
+    "Creature": "Ancient Soul Eater 12",
+    "Condition": null,
+    "CondtionGroup": "Soul Eater Immunities"
+  },
+  {
+    "ID": 119,
+    "Creature": "Ancient Soul Eater 15",
+    "Condition": null,
+    "CondtionGroup": "Soul Eater Immunities"
   }
 ]

@@ -537,5 +537,16 @@
     "EnemyGroup2": "City of Hollow Eyes Group J 2",
     "EnemyGroup3": null,
     "Memo": ""
+  },
+  {
+    "ID": 50,
+    "Name": "Vordakai's Tomb Ancient Soul Eater",
+    "Place": "Vordakai's Tomb",
+    "Position": "North",
+    "HasPlot": false,
+    "EnemyGroup1": "Vordakai's Tomb Ancient Soul Eater Group A",
+    "EnemyGroup2": "Vordakai's Tomb Ancient Soul Eater Group B",
+    "EnemyGroup3": null,
+    "Memo": ""
   }
 ]
