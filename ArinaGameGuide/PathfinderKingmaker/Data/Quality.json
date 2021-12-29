@@ -16,5 +16,11 @@
     "Name": "Furious",
     "CName": "",
     "Description": "Rage +2 Better"
+  },
+  {
+    "ID": 4,
+    "Name": "Vicious",
+    "CName": "",
+    "Description": "Hit\n2d6 to enemy\n1d6 to self"
   }
 ]

@@ -3894,5 +3894,53 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 491,
+    "ItemStack": "Dugath RS",
+    "Item": "Scroll of Haste",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 492,
+    "ItemStack": "Dugath RS",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 493,
+    "ItemStack": "Dugath RS",
+    "Item": "Endless War",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 494,
+    "ItemStack": "Dugath RS",
+    "Item": "Breastplate +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 495,
+    "ItemStack": "Dugath RS",
+    "Item": "Belt of Physical Perfection +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 496,
+    "ItemStack": "Dugath RS",
+    "Item": "Cloak of Resistance +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

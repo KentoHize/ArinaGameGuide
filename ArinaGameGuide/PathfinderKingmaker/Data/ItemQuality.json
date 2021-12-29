@@ -22,5 +22,17 @@
     "Item": "Rageclaw",
     "Quality": "Furious",
     "Rank": null
+  },
+  {
+    "ID": 5,
+    "Item": "Endless War",
+    "Quality": "Enhancement",
+    "Rank": 5
+  },
+  {
+    "ID": 6,
+    "Item": "Endless War",
+    "Quality": "Vicious",
+    "Rank": null
   }
 ]

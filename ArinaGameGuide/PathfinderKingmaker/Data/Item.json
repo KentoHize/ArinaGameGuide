@@ -4101,15 +4101,15 @@
     "DisplayName": "Endless War",
     "DisplayCName": "",
     "Type": null,
-    "BaseItem": null,
+    "BaseItem": "Greatsword",
     "SpecialMaterial": null,
     "CasterLevel": null,
     "Charges": null,
-    "SellPrice": 0,
+    "SellPrice": 22250,
     "ChangePrice": 0,
     "StoryItem": false,
-    "Weight": 0.0,
-    "Description": ""
+    "Weight": 0.5,
+    "Description": "+5 Vicious"
   },
   {
     "ID": 261,
@@ -4190,5 +4190,21 @@
     "StoryItem": false,
     "Weight": 0.5,
     "Description": ""
+  },
+  {
+    "ID": 267,
+    "Name": "Belt of Physical Perfection +4",
+    "DisplayName": "Belt of Physical Perfection +4",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Belt",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 16000,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": "+4 Strength, Dexterity and Constitution "
   }
 ]
