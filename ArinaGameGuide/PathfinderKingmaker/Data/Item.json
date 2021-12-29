@@ -4158,5 +4158,37 @@
     "StoryItem": false,
     "Weight": 0.0,
     "Description": ""
+  },
+  {
+    "ID": 265,
+    "Name": "Cyclops Incense Burner",
+    "DisplayName": "Cyclops Incense Burner",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Story Item",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 25,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
+  },
+  {
+    "ID": 266,
+    "Name": "Potion of Cure Light Wounds",
+    "DisplayName": "Potion of Cure Light Wounds",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Potion",
+    "SpecialMaterial": null,
+    "CasterLevel": 1,
+    "Charges": 1,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.5,
+    "Description": ""
   }
 ]

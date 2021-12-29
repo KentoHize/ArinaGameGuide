@@ -2013,5 +2013,18 @@
     "DamageAdditiveBonus": 2,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 157,
+    "Creature": "Barbarian 7 Fighter Greataxe",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": "18",
+    "Weapon": "Masterwork Greataxe",
+    "BasicDamage": "1d12",
+    "DamageAdditiveBonus": 18,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

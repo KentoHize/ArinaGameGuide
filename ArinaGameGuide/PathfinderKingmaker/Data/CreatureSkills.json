@@ -1126,5 +1126,11 @@
     "Creature": "Barbarian 7 Ranger",
     "Skill": "Perception",
     "Bonus": 17
+  },
+  {
+    "ID": 189,
+    "Creature": "Barbarian 7 Fighter Greataxe",
+    "Skill": "Perception",
+    "Bonus": 14
   }
 ]

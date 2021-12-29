@@ -3710,5 +3710,157 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 468,
+    "ItemStack": "MV + MGA + PoCM + HA",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 469,
+    "ItemStack": "MV + MGA + PoCM + HA",
+    "Item": "Masterwork Greataxe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 470,
+    "ItemStack": "MV + MGA + PoCM + HA",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 471,
+    "ItemStack": "MV + MGA + PoCM + HA",
+    "Item": "Hide Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 472,
+    "ItemStack": "MV + MFC + PoCM + HA",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 473,
+    "ItemStack": "MV + MFC + PoCM + HA",
+    "Item": "Masterwork Falchion",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 474,
+    "ItemStack": "MV + MFC + PoCM + HA",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 475,
+    "ItemStack": "MV + MFC + PoCM + HA",
+    "Item": "Hide Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 476,
+    "ItemStack": "MV + MGS + PoCM + HA",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 477,
+    "ItemStack": "MV + MGS + PoCM + HA",
+    "Item": "Masterwork Greatsword",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 478,
+    "ItemStack": "MV + MGS + PoCM + HA",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 479,
+    "ItemStack": "MV + MGS + PoCM + HA",
+    "Item": "Hide Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 480,
+    "ItemStack": "Defaced Sister RS",
+    "Item": "Scroll of Haste",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 481,
+    "ItemStack": "Defaced Sister RS",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 482,
+    "ItemStack": "Defaced Sister RS",
+    "Item": "Cyclops Incense Burner",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 483,
+    "ItemStack": "MV + 2MHA + PoCL + HA",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 484,
+    "ItemStack": "MV + 2MHA + PoCL + HA",
+    "Item": "Masterwork Handaxe",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 485,
+    "ItemStack": "MV + 2MHA + PoCL + HA",
+    "Item": "Potion of Cure Light Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 486,
+    "ItemStack": "MV + 2MHA + PoCL + HA",
+    "Item": "Hide Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

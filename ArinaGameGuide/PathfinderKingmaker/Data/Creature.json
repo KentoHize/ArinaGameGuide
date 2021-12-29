@@ -9069,7 +9069,7 @@
     "Swarm": false,
     "Exp": 135,
     "RemainItems": null,
-    "Memo": ""
+    "Memo": "Agnoized Wail"
   },
   {
     "ID": 218,
@@ -9152,7 +9152,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 67,
-    "RemainItems": null,
+    "RemainItems": "MV + MFC + PoCM + HA",
     "Memo": ""
   },
   {
@@ -9194,7 +9194,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 112,
-    "RemainItems": null,
+    "RemainItems": "MV + MFC + PoCM + HA",
     "Memo": ""
   },
   {
@@ -9236,7 +9236,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 67,
-    "RemainItems": null,
+    "RemainItems": "MV + MGA + PoCM + HA",
     "Memo": ""
   },
   {
@@ -9278,7 +9278,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 112,
-    "RemainItems": null,
+    "RemainItems": "MV + MFC + PoCM + HA",
     "Memo": ""
   },
   {
@@ -9320,7 +9320,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 0,
-    "RemainItems": null,
+    "RemainItems": "MV + MFC + PoCM + HA",
     "Memo": ""
   },
   {
@@ -9404,7 +9404,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 56,
-    "RemainItems": null,
+    "RemainItems": "MV + MGS + PoCM + HA",
     "Memo": ""
   },
   {
@@ -9446,7 +9446,49 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 56,
-    "RemainItems": null,
+    "RemainItems": "MV + 2MHA + PoCL + HA",
+    "Memo": ""
+  },
+  {
+    "ID": 227,
+    "Name": "Barbarian 7 Fighter Greataxe",
+    "DisplayName": "Barbarian",
+    "DisplayCName": "",
+    "Race": "Human",
+    "Alignment": "Chaotic Neutral",
+    "Size": "Medium",
+    "Speed": 30,
+    "Initialive": 7,
+    "Strength": 22,
+    "Dexterity": 17,
+    "Constitution": 18,
+    "Intelligence": 12,
+    "Wisdom": 16,
+    "Charisma": 14,
+    "Class1": "Fighter",
+    "Class1Level": 7,
+    "Class2": null,
+    "Class2Level": null,
+    "Class3": null,
+    "Class3Level": null,
+    "Class4": null,
+    "Class4Level": null,
+    "Hitpoint": 81,
+    "AC": 21,
+    "Falt-FootedAC": 18,
+    "TouchAC": 17,
+    "Fortitude": 9,
+    "Reflex": 5,
+    "Will": 7,
+    "BaseAttackBonus": 7,
+    "CombatManeuverBonus": 17,
+    "CombatManeuverDefense": 30,
+    "SpellResistance": null,
+    "SkinItem": null,
+    "SkinDC": null,
+    "Swarm": false,
+    "Exp": 56,
+    "RemainItems": "MV + MGA + PoCM + HA",
     "Memo": ""
   }
 ]

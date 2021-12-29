@@ -3974,8 +3974,18 @@
     "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
     "Creature": "Defaced Sister",
     "DisplayName": null,
-    "Quantity": 3,
+    "Quantity": 1,
     "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 404,
+    "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
+    "Creature": "Defaced Sister",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": "Defaced Sister RS",
     "AddtionalEffectOrConditions": null,
     "Team": "1"
   },
@@ -4004,7 +4014,17 @@
     "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
     "Creature": "Barbarian 7 Fighter",
     "DisplayName": null,
-    "Quantity": 5,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 405,
+    "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
+    "Creature": "Barbarian 7 Fighter Greataxe",
+    "DisplayName": null,
+    "Quantity": 3,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"

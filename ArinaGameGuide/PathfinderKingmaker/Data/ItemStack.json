@@ -923,5 +923,30 @@
     "ID": 190,
     "Name": "Belt of Giant Strength +4",
     "Memo": ""
+  },
+  {
+    "ID": 191,
+    "Name": "MV + MGA + PoCM + HA",
+    "Memo": ""
+  },
+  {
+    "ID": 192,
+    "Name": "MV + MFC + PoCM + HA",
+    "Memo": ""
+  },
+  {
+    "ID": 193,
+    "Name": "MV + MGS + PoCM + HA",
+    "Memo": ""
+  },
+  {
+    "ID": 194,
+    "Name": "Defaced Sister RS",
+    "Memo": ""
+  },
+  {
+    "ID": 195,
+    "Name": "MV + 2MHA + PoCL + HA",
+    "Memo": ""
   }
 ]
