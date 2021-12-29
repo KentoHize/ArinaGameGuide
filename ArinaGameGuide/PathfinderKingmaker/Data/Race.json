@@ -109,7 +109,7 @@
     "Name": "Undead",
     "MainRace": "Undead",
     "SubRace": "Undead",
-    "KnowledgeSkill": null
+    "KnowledgeSkill": "Lore(Religion)"
   },
   {
     "ID": 17,

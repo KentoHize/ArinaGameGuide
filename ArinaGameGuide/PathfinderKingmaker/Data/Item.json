@@ -4302,5 +4302,21 @@
     "StoryItem": false,
     "Weight": 0.0,
     "Description": ""
+  },
+  {
+    "ID": 275,
+    "Name": "Masterwork Shortspear",
+    "DisplayName": "Masterwork Shortspear",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Shortspear",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

@@ -1252,5 +1252,41 @@
     "Creature": "Cephal Lorentus",
     "Skill": "Athletics",
     "Bonus": 6
+  },
+  {
+    "ID": 210,
+    "Creature": "Ferocious Zombie Lord Axeman",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 211,
+    "Creature": "Ferocious Zombie Lord Axeman",
+    "Skill": "Stealth",
+    "Bonus": 11
+  },
+  {
+    "ID": 212,
+    "Creature": "Dread Zombie Lord",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 213,
+    "Creature": "Dread Zombie Lord",
+    "Skill": "Stealth",
+    "Bonus": 12
+  },
+  {
+    "ID": 214,
+    "Creature": "Nightmare Zombie Lord Spearman",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 215,
+    "Creature": "Nightmare Zombie Lord Spearman",
+    "Skill": "Stealth",
+    "Bonus": 12
   }
 ]

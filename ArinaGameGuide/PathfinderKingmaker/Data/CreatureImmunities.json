@@ -694,5 +694,29 @@
     "Creature": "Cephal Lorentus",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 123,
+    "Creature": "Ferocious Zombie Lord Axeman",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 124,
+    "Creature": "Dread Zombie Lord",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 125,
+    "Creature": "Zombie",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 126,
+    "Creature": "Nightmare Zombie Lord Spearman",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]

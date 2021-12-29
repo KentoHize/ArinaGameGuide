@@ -37,6 +37,7 @@
     "SkinItem": "Owlbear Pelt",
     "SkinDC": 23,
     "Swarm": false,
+    "Undead": false,
     "Exp": 90,
     "RemainItems": null,
     "Memo": ""
@@ -79,6 +80,7 @@
     "SkinItem": "Dweomercat Pelt",
     "SkinDC": 22,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": null,
     "Memo": ""
@@ -121,6 +123,7 @@
     "SkinItem": "Dweomerlion Hide",
     "SkinDC": 27,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": null,
     "Memo": ""
@@ -163,6 +166,7 @@
     "SkinItem": "Wolf Pelt",
     "SkinDC": 20,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": null,
     "Memo": ""
@@ -205,6 +209,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": null,
     "Memo": ""
@@ -247,6 +252,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": null,
     "Memo": ""
@@ -289,6 +295,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": true,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": null,
     "Memo": ""
@@ -331,6 +338,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": null,
     "Memo": ""
@@ -373,6 +381,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": null,
     "Memo": ""
@@ -415,6 +424,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": "Ancient Roc RS",
     "Memo": ""
@@ -457,6 +467,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 360,
     "RemainItems": null,
     "Memo": "Spell Immunity\nBreath Weapon Poison"
@@ -499,6 +510,7 @@
     "SkinItem": null,
     "SkinDC": 24,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": null,
     "Memo": ""
@@ -541,6 +553,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": "Fake Stag Lord RS",
     "Memo": ""
@@ -583,6 +596,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 36,
     "RemainItems": "Fake Stag Lord Comrade Fighter RS",
     "Memo": ""
@@ -625,6 +639,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 45,
     "RemainItems": "Fake Stag Lord Comrade Rogue RS",
     "Memo": ""
@@ -667,6 +682,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 36,
     "RemainItems": "Fake Stag Lord Comrade Wizard RS",
     "Memo": ""
@@ -709,6 +725,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Fake Stag Lord Comrade Fighter RS",
     "Memo": ""
@@ -751,6 +768,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Fake Stag Lord Comrade Cleric RS",
     "Memo": ""
@@ -793,6 +811,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": "Golbin Horseslayer RS",
     "Memo": ""
@@ -835,6 +854,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Golbin Roc Eye RS",
     "Memo": ""
@@ -877,6 +897,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Golbin Sneak RS",
     "Memo": ""
@@ -919,6 +940,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 240,
     "RemainItems": "1d4 Hydra Eyes",
     "Memo": ""
@@ -961,6 +983,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 9,
     "RemainItems": "1d4 Hydra Eyes",
     "Memo": ""
@@ -1003,6 +1026,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Golbin Horsereaper RS",
     "Memo": ""
@@ -1045,6 +1069,7 @@
     "SkinItem": "Manticore Pelt",
     "SkinDC": 24,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": null,
     "Memo": ""
@@ -1087,6 +1112,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Goblin Arch-chemist RS",
     "Memo": ""
@@ -1129,6 +1155,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Lamashtu_Cultist_1 RS",
     "Memo": ""
@@ -1171,6 +1198,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": "Lamashtu_Cultist_2 RS",
     "Memo": ""
@@ -1213,6 +1241,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Priest of Lamashtu RS",
     "Memo": ""
@@ -1255,6 +1284,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 270,
     "RemainItems": null,
     "Memo": ""
@@ -1297,6 +1327,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 19,
     "RemainItems": "Gobllin Sentry RS",
     "Memo": ""
@@ -1339,6 +1370,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 19,
     "RemainItems": "Gobllin Lynx Eye RS",
     "Memo": ""
@@ -1381,6 +1413,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": "Gobllin Commando Commander RS",
     "Memo": ""
@@ -1423,6 +1456,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": "Gobllin Sneakwhack RS",
     "Memo": ""
@@ -1465,6 +1499,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 45,
     "RemainItems": "Goblin Dogreaper RS",
     "Memo": ""
@@ -1507,6 +1542,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 22,
     "RemainItems": "Goblin Soldier RS",
     "Memo": ""
@@ -1549,6 +1585,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 22,
     "RemainItems": "Goblin Smart Eye RS",
     "Memo": ""
@@ -1591,6 +1628,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 36,
     "RemainItems": "Goblin Alchemist RS",
     "Memo": ""
@@ -1633,6 +1671,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": "Goblin Alchemist Master RS",
     "Memo": ""
@@ -1675,6 +1714,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 45,
     "RemainItems": "Goblin Alchemist Expert RS",
     "Memo": ""
@@ -1717,6 +1757,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 27,
     "RemainItems": "Goblin Dogcutter RS",
     "Memo": ""
@@ -1759,6 +1800,7 @@
     "SkinItem": "Wolf Pelt",
     "SkinDC": 18,
     "Swarm": false,
+    "Undead": false,
     "Exp": 27,
     "RemainItems": null,
     "Memo": ""
@@ -1801,6 +1843,7 @@
     "SkinItem": "Worg Pelt",
     "SkinDC": 21,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": null,
     "Memo": ""
@@ -1843,6 +1886,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 18,
     "RemainItems": "Gobllin Sly Eye RS",
     "Memo": ""
@@ -1885,6 +1929,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": "Goblin Shaman RS",
     "Memo": "Freedom of Movement\n\nVulnerability: Fire"
@@ -1927,6 +1972,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Goblin King RS",
     "Memo": ""
@@ -1969,6 +2015,7 @@
     "SkinItem": "Worg Pelt",
     "SkinDC": 23,
     "Swarm": false,
+    "Undead": false,
     "Exp": 360,
     "RemainItems": null,
     "Memo": "Cold Breath Weapon"
@@ -2011,6 +2058,7 @@
     "SkinItem": "Wyvern Scales",
     "SkinDC": 22,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Wyvern Meat",
     "Memo": ""
@@ -2053,6 +2101,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": "Guard 1 RS",
     "Memo": ""
@@ -2095,6 +2144,7 @@
     "SkinItem": "Mastodon Hide",
     "SkinDC": 24,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": "Meat",
     "Memo": ""
@@ -2137,6 +2187,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 45,
     "RemainItems": "Gobllin Falcon Eye RS",
     "Memo": ""
@@ -2179,6 +2230,7 @@
     "SkinItem": "Owlbear Pelt",
     "SkinDC": 27,
     "Swarm": false,
+    "Undead": false,
     "Exp": 240,
     "RemainItems": null,
     "Memo": ""
@@ -2221,6 +2273,7 @@
     "SkinItem": "Wolf Pelt",
     "SkinDC": 21,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": null,
     "Memo": ""
@@ -2263,6 +2316,7 @@
     "SkinItem": "Manticore Pelt",
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": null,
     "Memo": ""
@@ -2305,6 +2359,7 @@
     "SkinItem": "Wyvern Scales",
     "SkinDC": 23,
     "Swarm": false,
+    "Undead": false,
     "Exp": 90,
     "RemainItems": "Wyvern Meat",
     "Memo": ""
@@ -2347,6 +2402,7 @@
     "SkinItem": "Owlbear Pelt",
     "SkinDC": 26,
     "Swarm": false,
+    "Undead": false,
     "Exp": 180,
     "RemainItems": null,
     "Memo": ""
@@ -2389,6 +2445,7 @@
     "SkinItem": "Wyvern Scales",
     "SkinDC": 23,
     "Swarm": false,
+    "Undead": false,
     "Exp": 90,
     "RemainItems": "Wyvern Meat",
     "Memo": ""
@@ -2431,6 +2488,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 450,
     "RemainItems": null,
     "Memo": "Power Attack"
@@ -2473,6 +2531,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "1d6 Hydra Eyes",
     "Memo": ""
@@ -2515,6 +2574,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": "Hydra Eye",
     "Memo": ""
@@ -2557,6 +2617,7 @@
     "SkinItem": "Bear Pelt",
     "SkinDC": 22,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": null,
     "Memo": ""
@@ -2599,6 +2660,7 @@
     "SkinItem": "Owlbear Pelt",
     "SkinDC": 26,
     "Swarm": false,
+    "Undead": false,
     "Exp": 180,
     "RemainItems": null,
     "Memo": ""
@@ -2641,6 +2703,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": null,
     "Memo": "To be build"
@@ -2683,6 +2746,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 45,
     "RemainItems": "1d6 Hydra Eyes",
     "Memo": ""
@@ -2725,6 +2789,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 90,
     "RemainItems": null,
     "Memo": ""
@@ -2767,6 +2832,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 180,
     "RemainItems": "Redcap Trickster RS",
     "Memo": ""
@@ -2809,6 +2875,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "1d3-1 Giant Spider Lag",
     "Memo": ""
@@ -2851,6 +2918,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": "Redcap RS",
     "Memo": ""
@@ -2893,6 +2961,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "1d3-1 Giant Spider Lag",
     "Memo": ""
@@ -2935,6 +3004,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 180,
     "RemainItems": "1d3-1 Giant Spider Lag",
     "Memo": ""
@@ -2977,6 +3047,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": true,
+    "Undead": false,
     "Exp": 45,
     "RemainItems": null,
     "Memo": ""
@@ -3019,6 +3090,7 @@
     "SkinItem": "Manticore Pelt",
     "SkinDC": 27,
     "Swarm": false,
+    "Undead": false,
     "Exp": 240,
     "RemainItems": null,
     "Memo": ""
@@ -3061,6 +3133,7 @@
     "SkinItem": "Wyvern Scales",
     "SkinDC": 27,
     "Swarm": false,
+    "Undead": false,
     "Exp": 240,
     "RemainItems": "Wyvern Meat",
     "Memo": ""
@@ -3103,6 +3176,7 @@
     "SkinItem": "Owlbear Pelt",
     "SkinDC": 29,
     "Swarm": false,
+    "Undead": false,
     "Exp": 480,
     "RemainItems": "Enlarged Owlbear-Like Treant RS",
     "Memo": ""
@@ -3145,6 +3219,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": null,
     "Memo": ""
@@ -3187,6 +3262,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 135,
     "RemainItems": null,
     "Memo": ""
@@ -3229,6 +3305,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": null,
     "Memo": ""
@@ -3271,6 +3348,7 @@
     "SkinItem": "Dweomercat Pelt",
     "SkinDC": 23,
     "Swarm": false,
+    "Undead": false,
     "Exp": 90,
     "RemainItems": null,
     "Memo": ""
@@ -3313,6 +3391,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Chainshirt",
     "Memo": ""
@@ -3355,6 +3434,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "MLS + BP",
     "Memo": ""
@@ -3397,6 +3477,7 @@
     "SkinItem": "Wolf Pelt",
     "SkinDC": 16,
     "Swarm": false,
+    "Undead": false,
     "Exp": 18,
     "RemainItems": null,
     "Memo": ""
@@ -3439,6 +3520,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 18,
     "RemainItems": null,
     "Memo": ""
@@ -3481,6 +3563,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 450,
     "RemainItems": "Weretiger_Inquisitor RS",
     "Memo": ""
@@ -3523,6 +3606,7 @@
     "SkinItem": "Worg Pelt",
     "SkinDC": 25,
     "Swarm": false,
+    "Undead": false,
     "Exp": 135,
     "RemainItems": null,
     "Memo": ""
@@ -3565,6 +3649,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 22,
     "RemainItems": "SS + LA",
     "Memo": ""
@@ -3607,6 +3692,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 90,
     "RemainItems": "Wererat_8_Alchemist RS",
     "Memo": ""
@@ -3649,6 +3735,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Cyclops RS",
     "Memo": ""
@@ -3691,6 +3778,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 135,
     "RemainItems": "Cyclops RS",
     "Memo": ""
@@ -3733,6 +3821,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 45,
     "RemainItems": "Cyclops RS",
     "Memo": ""
@@ -3775,6 +3864,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 180,
     "RemainItems": "Cyclops RS",
     "Memo": ""
@@ -3817,6 +3907,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": null,
     "Memo": ""
@@ -3859,6 +3950,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 180,
     "RemainItems": null,
     "Memo": ""
@@ -3901,6 +3993,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": null,
     "Memo": ""
@@ -3943,6 +4036,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 135,
     "RemainItems": null,
     "Memo": ""
@@ -3985,6 +4079,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 1440,
     "RemainItems": "The Weary Traveler RS",
     "Memo": ""
@@ -4027,6 +4122,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 90,
     "RemainItems": "CSB + D + SL",
     "Memo": ""
@@ -4069,6 +4165,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": null,
     "Memo": ""
@@ -4111,6 +4208,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 36,
     "RemainItems": "Satyr RS",
     "Memo": ""
@@ -4153,6 +4251,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 36,
     "RemainItems": "Satyr Archer RS",
     "Memo": ""
@@ -4195,6 +4294,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 27,
     "RemainItems": "Dyrad RS",
     "Memo": ""
@@ -4237,6 +4337,7 @@
     "SkinItem": "Bear Pelt",
     "SkinDC": 22,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": null,
     "Memo": ""
@@ -4279,6 +4380,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 90,
     "RemainItems": "4 Random Jewelry",
     "Memo": ""
@@ -4321,6 +4423,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Masterwork Dagger",
     "Memo": ""
@@ -4363,6 +4466,7 @@
     "SkinItem": "Bear Pelt",
     "SkinDC": 23,
     "Swarm": false,
+    "Undead": false,
     "Exp": 90,
     "RemainItems": null,
     "Memo": ""
@@ -4405,6 +4509,7 @@
     "SkinItem": "Smilodom Pelt",
     "SkinDC": 24,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": null,
     "Memo": ""
@@ -4447,6 +4552,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 360,
     "RemainItems": "Composite Longbow",
     "Memo": "Immunity to Cold"
@@ -4489,6 +4595,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 180,
     "RemainItems": null,
     "Memo": ""
@@ -4531,6 +4638,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 240,
     "RemainItems": null,
     "Memo": ""
@@ -4573,6 +4681,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": null,
     "Memo": ""
@@ -4615,6 +4724,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": null,
     "Memo": ""
@@ -4657,6 +4767,7 @@
     "SkinItem": "Linnorm Scales",
     "SkinDC": 30,
     "Swarm": false,
+    "Undead": false,
     "Exp": 720,
     "RemainItems": null,
     "Memo": "Turn1 Breath Weapon Fire\nTurn 2 Bull Rush"
@@ -4699,6 +4810,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 27,
     "RemainItems": "MSS + LS + BP",
     "Memo": ""
@@ -4741,6 +4853,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 36,
     "RemainItems": "Kobold Dragon Shaman RS",
     "Memo": ""
@@ -4783,6 +4896,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 36,
     "RemainItems": "Kobold Boomsayer RS",
     "Memo": ""
@@ -4825,6 +4939,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 36,
     "RemainItems": null,
     "Memo": ""
@@ -4867,6 +4982,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Masterwork Longbow",
     "Memo": ""
@@ -4909,6 +5025,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 360,
     "RemainItems": null,
     "Memo": ""
@@ -4951,6 +5068,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": null,
     "Memo": ""
@@ -4993,6 +5111,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 360,
     "RemainItems": null,
     "Memo": ""
@@ -5035,6 +5154,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": "CSB + D + SL",
     "Memo": ""
@@ -5077,6 +5197,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 3840,
     "RemainItems": "The Fallen Priestess RS",
     "Memo": "Aura of Madness -> Confusion Aura\n\nRift of Ruin -> 6d6 dmg/round hole 施法者死亡不會消失 幾乎必殺 (Mobility DC 35)\n\n\nDestruction 285 dmg"
@@ -5119,6 +5240,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 27,
     "RemainItems": null,
     "Memo": ""
@@ -5161,6 +5283,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "MSS + LS + LA",
     "Memo": ""
@@ -5203,6 +5326,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 480,
     "RemainItems": "Thickskin Tribe King Itshar RS",
     "Memo": ""
@@ -5245,6 +5369,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": "Thickskin Tribe Queen Reshia RS",
     "Memo": ""
@@ -5287,6 +5412,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 480,
     "RemainItems": "Lady of Shallows RS",
     "Memo": ""
@@ -5329,6 +5455,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": null,
     "Memo": ""
@@ -5371,6 +5498,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": "Dagger",
     "Memo": "Spell Immue:Magic Missile"
@@ -5413,6 +5541,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 1920,
     "RemainItems": "3 Hydra Eye",
     "Memo": ""
@@ -5455,6 +5584,7 @@
     "SkinItem": "Linnorm Scales",
     "SkinDC": 28,
     "Swarm": false,
+    "Undead": false,
     "Exp": 1440,
     "RemainItems": "Money and Valuables",
     "Memo": "Turn1 Breath Weapon Fire\nTurn 2 Bull Rush"
@@ -5497,6 +5627,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 90,
     "RemainItems": "Poacher Brawler RS",
     "Memo": ""
@@ -5539,6 +5670,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": "Poacher Alchemist RS",
     "Memo": ""
@@ -5581,6 +5713,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 45,
     "RemainItems": null,
     "Memo": ""
@@ -5623,6 +5756,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 270,
     "RemainItems": "Fionn RS",
     "Memo": ""
@@ -5665,6 +5799,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Sartayne RS",
     "Memo": ""
@@ -5707,6 +5842,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": null,
     "Memo": ""
@@ -5749,6 +5885,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "MV + CLB + CS",
     "Memo": ""
@@ -5791,6 +5928,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "2 MD + CS + RP1",
     "Memo": ""
@@ -5833,6 +5971,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": "RS + MLC",
     "Memo": ""
@@ -5875,6 +6014,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 1440,
     "RemainItems": "Greater Cyclops RS",
     "Memo": ""
@@ -5917,6 +6057,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": null,
     "Memo": "Acid Breath Weapon DC 27\n\nSuccess -> Sicked\nFailed -> Nauseated"
@@ -5959,6 +6100,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 180,
     "RemainItems": null,
     "Memo": ""
@@ -6001,6 +6143,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 1440,
     "RemainItems": "Ferocious Devourer RS",
     "Memo": "Hit -1 level"
@@ -6043,6 +6186,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": "Technic League's Conjurer RS",
     "Memo": ""
@@ -6085,6 +6229,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 90,
     "RemainItems": "Technic League's Alchemist RS",
     "Memo": ""
@@ -6127,6 +6272,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 90,
     "RemainItems": null,
     "Memo": ""
@@ -6169,6 +6315,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Technic League's Archer RS",
     "Memo": ""
@@ -6211,6 +6358,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "MLS + HS + BP",
     "Memo": ""
@@ -6253,6 +6401,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": "Technic League's Cleric RS",
     "Memo": ""
@@ -6295,6 +6444,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 90,
     "RemainItems": "Technic League's Bard RS",
     "Memo": ""
@@ -6337,6 +6487,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": null,
     "Memo": ""
@@ -6379,6 +6530,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": null,
     "Memo": ""
@@ -6421,6 +6573,7 @@
     "SkinItem": "Manticore Pelt",
     "SkinDC": 22,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": null,
     "Memo": ""
@@ -6463,6 +6616,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 480,
     "RemainItems": "Moray RS",
     "Memo": ""
@@ -6505,6 +6659,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 2880,
     "RemainItems": null,
     "Memo": ""
@@ -6547,6 +6702,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 36,
     "RemainItems": null,
     "Memo": ""
@@ -6589,6 +6745,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 240,
     "RemainItems": "Leather Armor",
     "Memo": ""
@@ -6631,6 +6788,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Money and Valuables",
     "Memo": "80 17"
@@ -6673,6 +6831,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": "Spriggan Savage RS",
     "Memo": ""
@@ -6715,6 +6874,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Spriggan Rogue RS",
     "Memo": ""
@@ -6757,6 +6917,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": true,
+    "Undead": false,
     "Exp": 27,
     "RemainItems": null,
     "Memo": ""
@@ -6799,6 +6960,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Spriggan Raider RS",
     "Memo": ""
@@ -6841,6 +7003,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": "Spriggan Skilled Crossbowman RS",
     "Memo": ""
@@ -6883,6 +7046,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 36,
     "RemainItems": "Spriggan Fighter RS",
     "Memo": ""
@@ -6925,6 +7089,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Spriggan Dodgy Crossbowman RS",
     "Memo": ""
@@ -6967,6 +7132,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 27,
     "RemainItems": "Spriggan Crossbowman RS",
     "Memo": ""
@@ -7009,6 +7175,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 450,
     "RemainItems": null,
     "Memo": ""
@@ -7051,6 +7218,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 180,
     "RemainItems": null,
     "Memo": ""
@@ -7093,6 +7261,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "GC + HA",
     "Memo": ""
@@ -7135,6 +7304,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": "GC + HA",
     "Memo": ""
@@ -7177,6 +7347,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": "Ntavi RS",
     "Memo": ""
@@ -7219,6 +7390,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 135,
     "RemainItems": "Calistrian Fighter Greataxe RS",
     "Memo": ""
@@ -7261,6 +7433,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 135,
     "RemainItems": "Calistrian Fighter Longsword RS",
     "Memo": ""
@@ -7303,6 +7476,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 135,
     "RemainItems": "Calistrian Archer RS",
     "Memo": ""
@@ -7345,6 +7519,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 135,
     "RemainItems": "Calistrian Rogue RS",
     "Memo": ""
@@ -7387,6 +7562,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 480,
     "RemainItems": null,
     "Memo": ""
@@ -7429,6 +7605,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 480,
     "RemainItems": null,
     "Memo": ""
@@ -7471,6 +7648,7 @@
     "SkinItem": "Worg Pelt",
     "SkinDC": 25,
     "Swarm": false,
+    "Undead": false,
     "Exp": 135,
     "RemainItems": null,
     "Memo": ""
@@ -7513,6 +7691,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 180,
     "RemainItems": null,
     "Memo": ""
@@ -7555,6 +7734,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 135,
     "RemainItems": "MGA + HA",
     "Memo": ""
@@ -7597,6 +7777,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": "MGA + HA",
     "Memo": ""
@@ -7639,6 +7820,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 360,
     "RemainItems": "Mature Athach RS",
     "Memo": ""
@@ -7681,6 +7863,7 @@
     "SkinItem": "Bulette Bone Plates",
     "SkinDC": 30,
     "Swarm": false,
+    "Undead": false,
     "Exp": 2880,
     "RemainItems": "Ancient Bulette RS",
     "Memo": ""
@@ -7723,6 +7906,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 22,
     "RemainItems": "MV + SC + LA",
     "Memo": ""
@@ -7765,6 +7949,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 18,
     "RemainItems": "MV + SC + LA",
     "Memo": ""
@@ -7807,6 +7992,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 18,
     "RemainItems": "MV + D + PA",
     "Memo": ""
@@ -7849,6 +8035,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 135,
     "RemainItems": null,
     "Memo": "-2 Level"
@@ -7891,6 +8078,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 90,
     "RemainItems": "MGA + HA",
     "Memo": ""
@@ -7933,6 +8121,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": "MLS + HS + SM",
     "Memo": ""
@@ -7975,6 +8164,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 45,
     "RemainItems": "GS + HA",
     "Memo": ""
@@ -8017,6 +8207,7 @@
     "SkinItem": "Worg Pelt",
     "SkinDC": 22,
     "Swarm": false,
+    "Undead": false,
     "Exp": 270,
     "RemainItems": "Meat",
     "Memo": ""
@@ -8059,6 +8250,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 45,
     "RemainItems": "MV + CLB + CS",
     "Memo": ""
@@ -8101,6 +8293,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 45,
     "RemainItems": "MLS + HS + SM",
     "Memo": ""
@@ -8143,6 +8336,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 36,
     "RemainItems": "RS + MLC",
     "Memo": ""
@@ -8185,6 +8379,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 45,
     "RemainItems": "RP + LC + 2AF + 2AF + CS",
     "Memo": ""
@@ -8227,6 +8422,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "MLS + HS + BP",
     "Memo": ""
@@ -8269,6 +8465,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 90,
     "RemainItems": "2D1 + CS + RoP1",
     "Memo": ""
@@ -8311,6 +8508,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 90,
     "RemainItems": "RS + MLS + CS1 + RoP1",
     "Memo": ""
@@ -8353,6 +8551,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": "RI + CSB + CS",
     "Memo": ""
@@ -8395,6 +8594,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": null,
     "Memo": ""
@@ -8437,6 +8637,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": "MC + BP + RoP1",
     "Memo": ""
@@ -8479,6 +8680,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 240,
     "RemainItems": "MV + MGC + HA",
     "Memo": ""
@@ -8521,6 +8723,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 180,
     "RemainItems": "GA1 + HA",
     "Memo": ""
@@ -8563,6 +8766,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 240,
     "RemainItems": "BP1 + RoP1 + CoR1",
     "Memo": ""
@@ -8605,6 +8809,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": "MF + BP",
     "Memo": ""
@@ -8647,6 +8852,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": "MV + GS + HA",
     "Memo": ""
@@ -8689,6 +8895,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": null,
     "Memo": ""
@@ -8731,6 +8938,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": null,
     "Memo": ""
@@ -8773,6 +8981,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Surrenedered Fighter Zombie RS",
     "Memo": ""
@@ -8815,6 +9024,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Masterwork Light Crossbow",
     "Memo": ""
@@ -8857,6 +9067,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "CL1 + BP",
     "Memo": ""
@@ -8899,6 +9110,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "MHM + HS + BP",
     "Memo": ""
@@ -8941,6 +9153,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "Anguished Barbarian Zombie RS",
     "Memo": ""
@@ -8983,6 +9196,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 360,
     "RemainItems": "Belt of Giant Strength +4",
     "Memo": ""
@@ -9025,6 +9239,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 45,
     "RemainItems": "Dugath RS",
     "Memo": ""
@@ -9067,6 +9282,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 135,
     "RemainItems": null,
     "Memo": "Agnoized Wail\nFrame Strike"
@@ -9109,6 +9325,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": null,
     "Memo": ""
@@ -9151,6 +9368,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "MV + MFC + PoCM + HA",
     "Memo": ""
@@ -9193,6 +9411,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": "MV + MFC + PoCM + HA",
     "Memo": ""
@@ -9235,6 +9454,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "MV + MGA + PoCM + HA",
     "Memo": ""
@@ -9277,6 +9497,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": "MV + MFC + PoCM + HA",
     "Memo": ""
@@ -9319,6 +9540,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 0,
     "RemainItems": "MV + MFC + PoCM + HA",
     "Memo": ""
@@ -9361,6 +9583,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 67,
     "RemainItems": "MV + CL + PoCL + CS",
     "Memo": ""
@@ -9403,6 +9626,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": "MV + MGS + PoCM + HA",
     "Memo": ""
@@ -9445,6 +9669,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": "MV + 2MHA + PoCL + HA",
     "Memo": ""
@@ -9487,6 +9712,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 56,
     "RemainItems": "MV + MGA + PoCM + HA",
     "Memo": ""
@@ -9529,6 +9755,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 480,
     "RemainItems": "MV + GS2 + FP2",
     "Memo": ""
@@ -9571,6 +9798,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 112,
     "RemainItems": null,
     "Memo": "1d5 Wisdom dmg\nOnly Target can deal dmg"
@@ -9613,6 +9841,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 720,
     "RemainItems": null,
     "Memo": "10 Wisdom dmg!"
@@ -9655,6 +9884,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 360,
     "RemainItems": null,
     "Memo": "10 Wisdom dmg!"
@@ -9697,6 +9927,7 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 960,
     "RemainItems": null,
     "Memo": ""
@@ -9739,7 +9970,180 @@
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
+    "Undead": false,
     "Exp": 450,
+    "RemainItems": null,
+    "Memo": ""
+  },
+  {
+    "ID": 234,
+    "Name": "Ferocious Zombie Lord Axeman",
+    "DisplayName": "Ferocious Zombie Lord Axeman",
+    "DisplayCName": "",
+    "Race": "Human",
+    "Alignment": "Neutral Evil",
+    "Size": "Medium",
+    "Speed": 30,
+    "Initialive": 9,
+    "Strength": 22,
+    "Dexterity": 20,
+    "Constitution": 10,
+    "Intelligence": 16,
+    "Wisdom": 19,
+    "Charisma": 14,
+    "Class1": "Fighter",
+    "Class1Level": 5,
+    "Class2": "Undead",
+    "Class2Level": 2,
+    "Class3": null,
+    "Class3Level": null,
+    "Class4": null,
+    "Class4Level": null,
+    "Hitpoint": 63,
+    "AC": 24,
+    "Falt-FootedAC": 20,
+    "TouchAC": 18,
+    "Fortitude": 6,
+    "Reflex": 6,
+    "Will": 10,
+    "BaseAttackBonus": 6,
+    "CombatManeuverBonus": 16,
+    "CombatManeuverDefense": 32,
+    "SpellResistance": null,
+    "SkinItem": null,
+    "SkinDC": null,
+    "Swarm": false,
+    "Undead": true,
+    "Exp": 56,
+    "RemainItems": null,
+    "Memo": ""
+  },
+  {
+    "ID": 235,
+    "Name": "Dread Zombie Lord",
+    "DisplayName": "Dread Zombie Lord",
+    "DisplayCName": "",
+    "Race": "Human",
+    "Alignment": "Neutral Evil",
+    "Size": "Medium",
+    "Speed": 30,
+    "Initialive": 9,
+    "Strength": 22,
+    "Dexterity": 20,
+    "Constitution": 10,
+    "Intelligence": 16,
+    "Wisdom": 19,
+    "Charisma": 14,
+    "Class1": "Fighter",
+    "Class1Level": 4,
+    "Class2": "Undead",
+    "Class2Level": 2,
+    "Class3": null,
+    "Class3Level": null,
+    "Class4": null,
+    "Class4Level": null,
+    "Hitpoint": 53,
+    "AC": 23,
+    "Falt-FootedAC": 17,
+    "TouchAC": 20,
+    "Fortitude": 6,
+    "Reflex": 6,
+    "Will": 8,
+    "BaseAttackBonus": 5,
+    "CombatManeuverBonus": 15,
+    "CombatManeuverDefense": 31,
+    "SpellResistance": null,
+    "SkinItem": null,
+    "SkinDC": null,
+    "Swarm": false,
+    "Undead": true,
+    "Exp": 67,
+    "RemainItems": null,
+    "Memo": ""
+  },
+  {
+    "ID": 236,
+    "Name": "Zombie",
+    "DisplayName": "Zombie",
+    "DisplayCName": "",
+    "Race": "Undead",
+    "Alignment": "Neutral Evil",
+    "Size": "Medium",
+    "Speed": 30,
+    "Initialive": 6,
+    "Strength": 21,
+    "Dexterity": 14,
+    "Constitution": 10,
+    "Intelligence": 14,
+    "Wisdom": 14,
+    "Charisma": 14,
+    "Class1": "Undead",
+    "Class1Level": 2,
+    "Class2": null,
+    "Class2Level": null,
+    "Class3": null,
+    "Class3Level": null,
+    "Class4": null,
+    "Class4Level": null,
+    "Hitpoint": 16,
+    "AC": 18,
+    "Falt-FootedAC": 16,
+    "TouchAC": 16,
+    "Fortitude": 2,
+    "Reflex": 2,
+    "Will": 5,
+    "BaseAttackBonus": 1,
+    "CombatManeuverBonus": 10,
+    "CombatManeuverDefense": 22,
+    "SpellResistance": null,
+    "SkinItem": null,
+    "SkinDC": null,
+    "Swarm": false,
+    "Undead": true,
+    "Exp": 18,
+    "RemainItems": null,
+    "Memo": ""
+  },
+  {
+    "ID": 237,
+    "Name": "Nightmare Zombie Lord Spearman",
+    "DisplayName": "Nightmare Zombie Lord Spearman",
+    "DisplayCName": "",
+    "Race": "Undead",
+    "Alignment": "Neutral",
+    "Size": "Medium",
+    "Speed": 30,
+    "Initialive": 9,
+    "Strength": 22,
+    "Dexterity": 20,
+    "Constitution": 10,
+    "Intelligence": 16,
+    "Wisdom": 19,
+    "Charisma": 14,
+    "Class1": "Fighter",
+    "Class1Level": 6,
+    "Class2": "Undead",
+    "Class2Level": 2,
+    "Class3": null,
+    "Class3Level": null,
+    "Class4": null,
+    "Class4Level": null,
+    "Hitpoint": 72,
+    "AC": 27,
+    "Falt-FootedAC": 22,
+    "TouchAC": 19,
+    "Fortitude": 7,
+    "Reflex": 7,
+    "Will": 11,
+    "BaseAttackBonus": 7,
+    "CombatManeuverBonus": 17,
+    "CombatManeuverDefense": 33,
+    "SpellResistance": null,
+    "SkinItem": null,
+    "SkinDC": null,
+    "Swarm": false,
+    "Undead": true,
+    "Exp": 112,
     "RemainItems": null,
     "Memo": ""
   }

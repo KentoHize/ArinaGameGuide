@@ -2182,5 +2182,44 @@
     "DamageAdditiveBonus": 3,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 170,
+    "Creature": "Ferocious Zombie Lord Axeman",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": 17,
+    "Weapon": "Masterwork Handaxe",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 9,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 171,
+    "Creature": "Dread Zombie Lord",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": 15,
+    "Weapon": "Masterwork Scimitar",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 10,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 172,
+    "Creature": "Nightmare Zombie Lord Spearman",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": 18,
+    "Weapon": "Masterwork Shortspear",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 11,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

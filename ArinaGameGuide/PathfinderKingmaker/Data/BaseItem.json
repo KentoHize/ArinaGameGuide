@@ -1538,5 +1538,25 @@
     "Strength": false,
     "Price": 0,
     "Weight": 4.0
+  },
+  {
+    "ID": 79,
+    "Name": "Shortspear",
+    "CName": "Shortspear",
+    "Type": "Simple Weapon",
+    "DamageType": "Pierce",
+    "ArmorClass": null,
+    "ArmorCheckPenalty": null,
+    "ArcaneSpellFailureChance": null,
+    "MaxDexterity": null,
+    "WeaponSize": "One-handed",
+    "Range": null,
+    "Damage": null,
+    "CriticalHitRange": null,
+    "CriticalHitMultiplier": null,
+    "FinesseWeapon": false,
+    "Strength": false,
+    "Price": 0,
+    "Weight": 0.0
   }
 ]
