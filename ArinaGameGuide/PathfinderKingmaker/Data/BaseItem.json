@@ -1518,5 +1518,25 @@
     "Strength": false,
     "Price": 0,
     "Weight": 10.0
+  },
+  {
+    "ID": 78,
+    "Name": "Estoc",
+    "CName": "",
+    "Type": "Exotic Weapon",
+    "DamageType": "Pierce",
+    "ArmorClass": null,
+    "ArmorCheckPenalty": null,
+    "ArcaneSpellFailureChance": null,
+    "MaxDexterity": null,
+    "WeaponSize": "One-handed",
+    "Range": null,
+    "Damage": null,
+    "CriticalHitRange": null,
+    "CriticalHitMultiplier": null,
+    "FinesseWeapon": true,
+    "Strength": false,
+    "Price": 0,
+    "Weight": 4.0
   }
 ]

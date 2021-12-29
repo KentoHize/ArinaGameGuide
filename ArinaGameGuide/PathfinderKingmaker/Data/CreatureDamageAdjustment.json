@@ -946,9 +946,23 @@
   },
   {
     "ID": 136,
-    "Creature": "Barbarian 8 Barbarian",
+    "Creature": "Greater Dread Zombie Cyclops",
     "Type": "DamageReduction",
-    "DamageType": "None",
-    "Amount": 1
+    "DamageType": "Slash",
+    "Amount": 10
+  },
+  {
+    "ID": 137,
+    "Creature": "Greater Dread Zombie Cyclops",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
+  },
+  {
+    "ID": 138,
+    "Creature": "Greater Dread Zombie Cyclops",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

@@ -2091,5 +2091,18 @@
     "DamageAdditiveBonus": 8,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 163,
+    "Creature": "Greater Dread Zombie Cyclops",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 9,
+    "AttackBonus": "32",
+    "Weapon": "Greatsword +2",
+    "BasicDamage": "4d6",
+    "DamageAdditiveBonus": 39,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

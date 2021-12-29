@@ -698,5 +698,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 51,
+    "Name": "Vordakai's Tomb Treasure A",
+    "CName": "",
+    "Type": "Crate",
+    "Place": "Vordakai's Tomb",
+    "Position": "North East",
+    "ItemStack": "Forsaken Edge",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

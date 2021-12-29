@@ -130,5 +130,11 @@
     "Name": "Negative",
     "CName": "",
     "AdeptToDamgeReduction": false
+  },
+  {
+    "ID": 23,
+    "Name": "Slash and Magic",
+    "CName": "",
+    "AdeptToDamgeReduction": true
   }
 ]

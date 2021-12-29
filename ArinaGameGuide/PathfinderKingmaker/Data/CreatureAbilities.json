@@ -894,5 +894,13 @@
     "Amount": 12,
     "DamageType1": null,
     "DamageType2": null
+  },
+  {
+    "ID": 113,
+    "Creature": "Greater Dread Zombie Cyclops",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
   }
 ]

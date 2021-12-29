@@ -28,5 +28,11 @@
     "Name": "Cloudkill",
     "CName": "",
     "Special": true
+  },
+  {
+    "ID": 6,
+    "Name": "Altar",
+    "CName": "",
+    "Special": true
   }
 ]

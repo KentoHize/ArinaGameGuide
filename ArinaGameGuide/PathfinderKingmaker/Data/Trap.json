@@ -636,5 +636,192 @@
     "Position": "Center",
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 65,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "South",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 66,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "South",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 67,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "South",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 68,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 69,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Altar",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": null,
+    "Position": "East",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 70,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Altar",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": null,
+    "Position": "East",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 71,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "North East",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 72,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "North East",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 73,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "North East",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 74,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "North East",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 75,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "North East",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 76,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "North East",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 77,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "North East",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 78,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "North East",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 79,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "North East",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 80,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "North East",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 81,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "North East",
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

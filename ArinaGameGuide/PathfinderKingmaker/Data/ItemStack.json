@@ -963,5 +963,15 @@
     "ID": 199,
     "Name": "Eteral Conduit",
     "Memo": ""
+  },
+  {
+    "ID": 200,
+    "Name": "Forsaken Edge",
+    "Memo": ""
+  },
+  {
+    "ID": 201,
+    "Name": "MV + GS2 + FP2",
+    "Memo": ""
   }
 ]

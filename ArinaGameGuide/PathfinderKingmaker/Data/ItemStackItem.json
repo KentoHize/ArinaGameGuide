@@ -3950,5 +3950,37 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 499,
+    "ItemStack": "Forsaken Edge",
+    "Item": "Forsaken Edge",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 500,
+    "ItemStack": "MV + GS2 + FP2",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 501,
+    "ItemStack": "MV + GS2 + FP2",
+    "Item": "Greatsword +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 502,
+    "ItemStack": "MV + GS2 + FP2",
+    "Item": "Full Plate +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

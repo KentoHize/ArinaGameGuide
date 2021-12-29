@@ -682,5 +682,11 @@
     "Creature": "Poisonous Hydra",
     "Condition": "Prone",
     "CondtionGroup": null
+  },
+  {
+    "ID": 115,
+    "Creature": "Greater Dread Zombie Cyclops",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]

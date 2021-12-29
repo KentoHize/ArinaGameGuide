@@ -1138,5 +1138,11 @@
     "Creature": "Poisonous Hydra",
     "Skill": "Perception",
     "Bonus": 22
+  },
+  {
+    "ID": 191,
+    "Creature": "Greater Dread Zombie Cyclops",
+    "Skill": "Perception",
+    "Bonus": 28
   }
 ]
