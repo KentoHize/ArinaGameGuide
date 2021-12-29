@@ -4293,15 +4293,15 @@
     "DisplayName": "Staff of the Whispering Souls",
     "DisplayCName": "",
     "Type": null,
-    "BaseItem": null,
+    "BaseItem": "Quarterstaff",
     "SpecialMaterial": null,
     "CasterLevel": null,
     "Charges": null,
-    "SellPrice": 0,
+    "SellPrice": 8000,
     "ChangePrice": 0,
     "StoryItem": false,
-    "Weight": 0.0,
-    "Description": ""
+    "Weight": 4.0,
+    "Description": "+2 \n+4 profane bonus to Intelligence\nEvil Only"
   },
   {
     "ID": 275,
@@ -4317,6 +4317,22 @@
     "ChangePrice": 0,
     "StoryItem": false,
     "Weight": 0.0,
+    "Description": ""
+  },
+  {
+    "ID": 276,
+    "Name": "Camping supplies and rations",
+    "DisplayName": "Camping supplies and rations",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Ration",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 1,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 10.0,
     "Description": ""
   }
 ]

@@ -3982,5 +3982,133 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 503,
+    "ItemStack": "MSP + LS + BP",
+    "Item": "Masterwork Shortspear",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 504,
+    "ItemStack": "MSP + LS + BP",
+    "Item": "Light Shield",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 505,
+    "ItemStack": "MSP + LS + BP",
+    "Item": "Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 506,
+    "ItemStack": "MSM + HS + BP",
+    "Item": "Masterwork Scimitar",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 507,
+    "ItemStack": "MSM + HS + BP",
+    "Item": "Heavy Shield",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 508,
+    "ItemStack": "MSM + HS + BP",
+    "Item": "Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 509,
+    "ItemStack": "MHA + CM",
+    "Item": "Masterwork Handaxe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 510,
+    "ItemStack": "MHA + CM",
+    "Item": "Chainmail",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 511,
+    "ItemStack": "MSM + HS",
+    "Item": "Masterwork Scimitar",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 512,
+    "ItemStack": "MSM + HS",
+    "Item": "Heavy Shield",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 513,
+    "ItemStack": "Ration",
+    "Item": "Camping supplies and rations",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 514,
+    "ItemStack": "Cephal Lorentus RS",
+    "Item": "Camping supplies and rations",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 515,
+    "ItemStack": "Cephal Lorentus RS",
+    "Item": "Staff of the Whispering Souls",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 516,
+    "ItemStack": "Cephal Lorentus RS",
+    "Item": "Headband of Vast Intelligence +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 517,
+    "ItemStack": "Cephal Lorentus RS",
+    "Item": "Amulet of Natural Armor +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 518,
+    "ItemStack": "Cephal Lorentus RS",
+    "Item": "Ring of Protection +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

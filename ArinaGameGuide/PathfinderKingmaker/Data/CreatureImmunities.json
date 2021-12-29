@@ -724,5 +724,11 @@
     "Creature": "Greater Zombie Lord",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 128,
+    "Creature": "Nightmare Zombie Lord",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]

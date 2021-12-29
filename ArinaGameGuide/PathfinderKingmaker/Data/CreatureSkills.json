@@ -1300,5 +1300,29 @@
     "Creature": "Greater Zombie Lord",
     "Skill": "Stealth",
     "Bonus": 13
+  },
+  {
+    "ID": 218,
+    "Creature": "Nightmare Zombie Lord",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 219,
+    "Creature": "Nightmare Zombie Lord",
+    "Skill": "Stealth",
+    "Bonus": 11
+  },
+  {
+    "ID": 220,
+    "Creature": "Grand Zombie Lord",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 221,
+    "Creature": "Grand Zombie Lord",
+    "Skill": "Stealth",
+    "Bonus": 14
   }
 ]

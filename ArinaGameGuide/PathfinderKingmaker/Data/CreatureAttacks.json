@@ -2234,5 +2234,44 @@
     "DamageAdditiveBonus": 13,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 174,
+    "Creature": "Nightmare Zombie Lord",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": 18,
+    "Weapon": "Masterwork Scimitar",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 11,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 175,
+    "Creature": "Grand Zombie Lord",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": 15,
+    "Weapon": "Masterwork Scimitar",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 13,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 176,
+    "Creature": "Grand Zombie Lord",
+    "Form": "Bludgeoning Weapon",
+    "Type": "Secondary",
+    "Range": 2,
+    "AttackBonus": 8,
+    "Weapon": "Heavy Shield",
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 9,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]
