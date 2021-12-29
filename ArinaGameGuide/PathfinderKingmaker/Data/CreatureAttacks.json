@@ -2221,5 +2221,18 @@
     "DamageAdditiveBonus": 11,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 173,
+    "Creature": "Greater Zombie Lord",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": 18,
+    "Weapon": "Masterwork Scimitar",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 13,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

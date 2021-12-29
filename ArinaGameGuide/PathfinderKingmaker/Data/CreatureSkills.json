@@ -1288,5 +1288,17 @@
     "Creature": "Nightmare Zombie Lord Spearman",
     "Skill": "Stealth",
     "Bonus": 12
+  },
+  {
+    "ID": 216,
+    "Creature": "Greater Zombie Lord",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 217,
+    "Creature": "Greater Zombie Lord",
+    "Skill": "Stealth",
+    "Bonus": 13
   }
 ]

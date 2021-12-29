@@ -1097,5 +1097,19 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 158,
+    "Creature": "Greater Zombie Lord",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 5
+  },
+  {
+    "ID": 159,
+    "Creature": "Greater Zombie Lord",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

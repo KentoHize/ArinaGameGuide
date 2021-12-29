@@ -718,5 +718,11 @@
     "Creature": "Nightmare Zombie Lord Spearman",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 127,
+    "Creature": "Greater Zombie Lord",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]

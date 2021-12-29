@@ -4290,6 +4290,26 @@
     "Team": "1"
   },
   {
+    "ID": 431,
+    "CreatureGroup": "Vordakai's Tomb 2 Group A",
+    "Creature": "Nightmare Zombie Lord Spearman",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 432,
+    "CreatureGroup": "Vordakai's Tomb 2 Group A",
+    "Creature": "Greater Zombie Lord",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
     "ID": 430,
     "CreatureGroup": "Vordakai's Tomb 2 Group A",
     "Creature": "Zombie",
