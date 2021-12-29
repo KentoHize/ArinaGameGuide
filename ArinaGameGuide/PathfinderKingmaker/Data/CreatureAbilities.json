@@ -865,7 +865,7 @@
   },
   {
     "ID": 109,
-    "Creature": "Barbarian 7 Fighter",
+    "Creature": "Barbarian 7 Fighter Greatsword",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,

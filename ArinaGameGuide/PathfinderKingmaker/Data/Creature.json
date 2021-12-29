@@ -9069,7 +9069,7 @@
     "Swarm": false,
     "Exp": 135,
     "RemainItems": null,
-    "Memo": "Agnoized Wail"
+    "Memo": "Agnoized Wail\nFrame Strike"
   },
   {
     "ID": 218,
@@ -9362,12 +9362,12 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 67,
-    "RemainItems": null,
+    "RemainItems": "MV + CL + PoCL + CS",
     "Memo": ""
   },
   {
     "ID": 225,
-    "Name": "Barbarian 7 Fighter",
+    "Name": "Barbarian 7 Fighter Greatsword",
     "DisplayName": "Barbarian",
     "DisplayCName": "",
     "Race": "Human",
