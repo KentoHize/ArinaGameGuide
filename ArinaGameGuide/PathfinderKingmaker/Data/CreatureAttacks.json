@@ -1887,11 +1887,11 @@
   {
     "ID": 147,
     "Creature": "Defaced Sister",
-    "Form": "Slashing Weapon",
-    "Type": "Primary",
+    "Form": "Torturous Touch",
+    "Type": "Other",
     "Range": 2,
     "AttackBonus": 17,
-    "Weapon": "Torturous Touch",
+    "Weapon": null,
     "BasicDamage": "2d6",
     "DamageAdditiveBonus": null,
     "OtherDamageBonus": null,
@@ -2167,6 +2167,19 @@
     "Weapon": null,
     "BasicDamage": "2d6",
     "DamageAdditiveBonus": null,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 169,
+    "Creature": "Cephal Lorentus",
+    "Form": "Bludgeoning Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": 18,
+    "Weapon": "Staff of the Whispering Souls",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 3,
     "OtherDamageBonus": null,
     "SneakDamage": null
   }

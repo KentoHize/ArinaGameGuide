@@ -1430,5 +1430,21 @@
     "Position": "North",
     "Stage": 1,
     "Memo": ""
+  },
+  {
+    "ID": 181,
+    "Name": "Vordakai's Tomb Astradaemon",
+    "Place": "Vordakai's Tomb",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 182,
+    "Name": "Vordakai's Tomb 2 Group A",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

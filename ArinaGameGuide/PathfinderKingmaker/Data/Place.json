@@ -1327,6 +1327,20 @@
     "HardSpotLevelMax": null,
     "HasPlot": false,
     "Description": "",
-    "Memo": "Athletics 29\n\nStory Mode->\nTrickey 30\nPerception 26 (O) 240 + 1920 exp\nStrenngth 21\n\nMobility 23"
+    "Memo": "Athletics 29\n\nStory Mode->\nTrickey 30\nPerception 26 (O) 240 + 1920 exp\nStrenngth 21\n\nMobility 23\nKnowledge(Arcana) 28"
+  },
+  {
+    "ID": 97,
+    "Name": "Vordakai's Tomb 2",
+    "DisplayName": "Vordakai's Tomb",
+    "CName": "",
+    "Type": "Dungeon",
+    "SuggestedLevelMin": 10,
+    "SuggestedLevelMax": 12,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

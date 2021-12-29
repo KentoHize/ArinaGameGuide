@@ -902,5 +902,21 @@
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null
+  },
+  {
+    "ID": 114,
+    "Creature": "Astradaemon",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 115,
+    "Creature": "Cephal Lorentus",
+    "Ability": "Lifesense",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
   }
 ]

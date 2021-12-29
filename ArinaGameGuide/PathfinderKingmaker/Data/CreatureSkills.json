@@ -1204,5 +1204,53 @@
     "Creature": "Ancient Soul Eater 15",
     "Skill": "Stealth",
     "Bonus": 28
+  },
+  {
+    "ID": 202,
+    "Creature": "Astradaemon",
+    "Skill": "Mobility",
+    "Bonus": 33
+  },
+  {
+    "ID": 203,
+    "Creature": "Astradaemon",
+    "Skill": "Persuasion",
+    "Bonus": 31
+  },
+  {
+    "ID": 204,
+    "Creature": "Astradaemon",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 18
+  },
+  {
+    "ID": 205,
+    "Creature": "Astradaemon",
+    "Skill": "Lore(Nature)",
+    "Bonus": 21
+  },
+  {
+    "ID": 206,
+    "Creature": "Astradaemon",
+    "Skill": "Perception",
+    "Bonus": 36
+  },
+  {
+    "ID": 207,
+    "Creature": "Astradaemon",
+    "Skill": "Stealth",
+    "Bonus": 25
+  },
+  {
+    "ID": 208,
+    "Creature": "Cephal Lorentus",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 209,
+    "Creature": "Cephal Lorentus",
+    "Skill": "Athletics",
+    "Bonus": 6
   }
 ]

@@ -985,5 +985,61 @@
     "Type": "DamageReduction",
     "DamageType": "Magic",
     "Amount": 10
+  },
+  {
+    "ID": 142,
+    "Creature": "Astradaemon",
+    "Type": "DamageReduction",
+    "DamageType": "Sliver and Magic",
+    "Amount": 10
+  },
+  {
+    "ID": 143,
+    "Creature": "Astradaemon",
+    "Type": "DamageReduction",
+    "DamageType": "Good",
+    "Amount": 10
+  },
+  {
+    "ID": 144,
+    "Creature": "Astradaemon",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 145,
+    "Creature": "Astradaemon",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 146,
+    "Creature": "Astradaemon",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 10
+  },
+  {
+    "ID": 147,
+    "Creature": "Astradaemon",
+    "Type": "Immunity",
+    "DamageType": "Acid",
+    "Amount": null
+  },
+  {
+    "ID": 148,
+    "Creature": "Cephal Lorentus",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 10
+  },
+  {
+    "ID": 149,
+    "Creature": "Cephal Lorentus",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

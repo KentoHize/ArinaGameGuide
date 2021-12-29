@@ -64,5 +64,11 @@
     "Name": "Touch",
     "CName": "",
     "DamageType": "None"
+  },
+  {
+    "ID": 12,
+    "Name": "Torturous Touch",
+    "CName": "",
+    "DamageType": "Ability Damage"
   }
 ]

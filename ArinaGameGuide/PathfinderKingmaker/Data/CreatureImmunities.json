@@ -676,5 +676,23 @@
     "Creature": "Ancient Soul Eater 15",
     "Condition": null,
     "CondtionGroup": "Soul Eater Immunities"
+  },
+  {
+    "ID": 120,
+    "Creature": "Astradaemon",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 121,
+    "Creature": "Astradaemon",
+    "Condition": "Death",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 122,
+    "Creature": "Cephal Lorentus",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]

@@ -136,5 +136,17 @@
     "Name": "Slash and Magic",
     "CName": "",
     "AdeptToDamgeReduction": true
+  },
+  {
+    "ID": 24,
+    "Name": "Sliver and Magic",
+    "CName": "",
+    "AdeptToDamgeReduction": true
+  },
+  {
+    "ID": 25,
+    "Name": "Ability Damage",
+    "CName": "",
+    "AdeptToDamgeReduction": false
   }
 ]

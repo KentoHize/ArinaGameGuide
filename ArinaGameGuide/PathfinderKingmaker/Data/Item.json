@@ -4112,22 +4112,6 @@
     "Description": "+5 Vicious"
   },
   {
-    "ID": 261,
-    "Name": "Torturous Touch",
-    "DisplayName": "Torturous Touch",
-    "DisplayCName": "",
-    "Type": null,
-    "BaseItem": null,
-    "SpecialMaterial": null,
-    "CasterLevel": null,
-    "Charges": null,
-    "SellPrice": 0,
-    "ChangePrice": 0,
-    "StoryItem": false,
-    "Weight": 0.0,
-    "Description": ""
-  },
-  {
     "ID": 262,
     "Name": "Masterwork Greatsword",
     "DisplayName": "Masterwork Greatsword",
@@ -4285,6 +4269,38 @@
     "ChangePrice": 0,
     "StoryItem": false,
     "Weight": 50.0,
+    "Description": ""
+  },
+  {
+    "ID": 273,
+    "Name": "Hand of Damnation",
+    "DisplayName": "Hand of Damnation",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Scythe",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 4500,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 10.0,
+    "Description": ""
+  },
+  {
+    "ID": 274,
+    "Name": "Staff of the Whispering Souls",
+    "DisplayName": "Staff of the Whispering Souls",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": null,
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
     "Description": ""
   }
 ]

@@ -4248,5 +4248,25 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 426,
+    "CreatureGroup": "Vordakai's Tomb Astradaemon",
+    "Creature": "Astradaemon",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 427,
+    "CreatureGroup": "Vordakai's Tomb 2 Group A",
+    "Creature": "Cephal Lorentus",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]
