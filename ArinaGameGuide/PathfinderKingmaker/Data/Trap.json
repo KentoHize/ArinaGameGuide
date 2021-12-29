@@ -592,5 +592,49 @@
     "Position": "West",
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 61,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Cloudkill",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": null,
+    "Position": "West",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 62,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "West",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 63,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "West",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 64,
+    "Name": "Vordakai's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb",
+    "DisarmDC": 28,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

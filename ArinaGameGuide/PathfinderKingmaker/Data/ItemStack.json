@@ -45,11 +45,6 @@
     "Memo": ""
   },
   {
-    "ID": 10,
-    "Name": "Poisonous Hydra Standard RS",
-    "Memo": ""
-  },
-  {
     "ID": 11,
     "Name": "Primal Hydra Standard RS",
     "Memo": ""
@@ -241,7 +236,7 @@
   },
   {
     "ID": 49,
-    "Name": "1d3 Hydra Eyes",
+    "Name": "1d4 Hydra Eyes",
     "Memo": ""
   },
   {

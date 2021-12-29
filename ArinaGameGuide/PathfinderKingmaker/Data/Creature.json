@@ -920,7 +920,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 240,
-    "RemainItems": "Poisonous Hydra Standard RS",
+    "RemainItems": "1d4 Hydra Eyes",
     "Memo": ""
   },
   {
@@ -962,7 +962,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Exp": 9,
-    "RemainItems": "1d3 Hydra Eyes",
+    "RemainItems": "1d4 Hydra Eyes",
     "Memo": ""
   },
   {

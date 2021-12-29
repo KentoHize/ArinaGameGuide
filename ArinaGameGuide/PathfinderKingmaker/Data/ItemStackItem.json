@@ -184,14 +184,6 @@
     "RandomQuantity": null
   },
   {
-    "ID": 23,
-    "ItemStack": "Poisonous Hydra Standard RS",
-    "Item": "Hydra Eye",
-    "RandomItem": null,
-    "Quantity": 0,
-    "RandomQuantity": null
-  },
-  {
     "ID": 24,
     "ItemStack": "Primal Hydra Standard RS",
     "Item": "Hydra Eye",
@@ -897,11 +889,11 @@
   },
   {
     "ID": 112,
-    "ItemStack": "1d3 Hydra Eyes",
+    "ItemStack": "1d4 Hydra Eyes",
     "Item": "Hydra Eye",
     "RandomItem": null,
-    "Quantity": 0,
-    "RandomQuantity": "1d3"
+    "Quantity": null,
+    "RandomQuantity": "1d4"
   },
   {
     "ID": 113,

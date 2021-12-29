@@ -4078,5 +4078,55 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 409,
+    "CreatureGroup": "Vordakai's Tomb Group A",
+    "Creature": "Ferocious Dread Zombie Cyclops",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 410,
+    "CreatureGroup": "Vordakai's Tomb Group A",
+    "Creature": "Zombie Cyclops",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 411,
+    "CreatureGroup": "Vordakai's Tomb Group A",
+    "Creature": "Dread Zombie Cyclops",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 412,
+    "CreatureGroup": "Vordakai's Tomb Group B",
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 413,
+    "CreatureGroup": "Vordakai's Tomb Group C",
+    "Creature": "Poisonous Hydra",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

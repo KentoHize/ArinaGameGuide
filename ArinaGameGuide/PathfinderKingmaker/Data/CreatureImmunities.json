@@ -676,5 +676,11 @@
     "Creature": "Dugath",
     "Condition": null,
     "CondtionGroup": "Boss Immunities"
+  },
+  {
+    "ID": 114,
+    "Creature": "Poisonous Hydra",
+    "Condition": "Prone",
+    "CondtionGroup": null
   }
 ]

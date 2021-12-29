@@ -2026,5 +2026,70 @@
     "DamageAdditiveBonus": 18,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 158,
+    "Creature": "Poisonous Hydra",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 5,
+    "AttackBonus": "22",
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 8,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 159,
+    "Creature": "Poisonous Hydra",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 5,
+    "AttackBonus": "22",
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 8,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 160,
+    "Creature": "Poisonous Hydra",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 5,
+    "AttackBonus": "22",
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 8,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 161,
+    "Creature": "Poisonous Hydra",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 5,
+    "AttackBonus": "22",
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 8,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 162,
+    "Creature": "Poisonous Hydra",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 5,
+    "AttackBonus": "22",
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 8,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

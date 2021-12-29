@@ -22,5 +22,11 @@
     "Name": "Channel Negative Energy",
     "CName": "",
     "Special": true
+  },
+  {
+    "ID": 5,
+    "Name": "Cloudkill",
+    "CName": "",
+    "Special": true
   }
 ]

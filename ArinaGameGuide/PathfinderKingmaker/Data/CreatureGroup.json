@@ -1358,5 +1358,29 @@
     "Position": "North West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 172,
+    "Name": "Vordakai's Tomb Group A",
+    "Place": "Vordakai's Tomb",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 173,
+    "Name": "Vordakai's Tomb Group B",
+    "Place": "Vordakai's Tomb",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 174,
+    "Name": "Vordakai's Tomb Group C",
+    "Place": "Vordakai's Tomb",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

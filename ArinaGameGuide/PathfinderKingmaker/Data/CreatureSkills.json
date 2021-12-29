@@ -1132,5 +1132,11 @@
     "Creature": "Barbarian 7 Fighter Greataxe",
     "Skill": "Perception",
     "Bonus": 14
+  },
+  {
+    "ID": 190,
+    "Creature": "Poisonous Hydra",
+    "Skill": "Perception",
+    "Bonus": 22
   }
 ]
