@@ -1414,5 +1414,13 @@
     "Position": "North East",
     "Stage": 1,
     "Memo": ""
+  },
+  {
+    "ID": 179,
+    "Name": "Vordakai's Tomb Ancient Soul Eater",
+    "Place": "Vordakai's Tomb",
+    "Position": "North",
+    "Stage": 1,
+    "Memo": ""
   }
 ]

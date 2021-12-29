@@ -298,5 +298,40 @@
     "ID": 60,
     "EffectOrConditionSet": "Undead Immunities",
     "EffectOrConditon": "Sickened"
+  },
+  {
+    "ID": 61,
+    "EffectOrConditionSet": "Soul Eater Immunities",
+    "EffectOrConditon": "Poison"
+  },
+  {
+    "ID": 62,
+    "EffectOrConditionSet": "Soul Eater Immunities",
+    "EffectOrConditon": "Stunned"
+  },
+  {
+    "ID": 63,
+    "EffectOrConditionSet": "Soul Eater Immunities",
+    "EffectOrConditon": "Critical Hits"
+  },
+  {
+    "ID": 64,
+    "EffectOrConditionSet": "Soul Eater Immunities",
+    "EffectOrConditon": "Sleep"
+  },
+  {
+    "ID": 65,
+    "EffectOrConditionSet": "Soul Eater Immunities",
+    "EffectOrConditon": "Paralyzed"
+  },
+  {
+    "ID": 66,
+    "EffectOrConditionSet": "Soul Eater Immunities",
+    "EffectOrConditon": "Stunned"
+  },
+  {
+    "ID": 67,
+    "EffectOrConditionSet": "Soul Eater Immunities",
+    "EffectOrConditon": "Prone"
   }
 ]

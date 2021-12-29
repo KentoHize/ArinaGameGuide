@@ -964,5 +964,12 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 139,
+    "Creature": "Ferocious Soul Eater",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
   }
 ]

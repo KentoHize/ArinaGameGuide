@@ -63,5 +63,10 @@
     "ID": 13,
     "Name": "Incorporeal Immunities",
     "CName": ""
+  },
+  {
+    "ID": 14,
+    "Name": "Soul Eater Immunities",
+    "CName": ""
   }
 ]

@@ -1144,5 +1144,23 @@
     "Creature": "Greater Dread Zombie Cyclops",
     "Skill": "Perception",
     "Bonus": 28
+  },
+  {
+    "ID": 192,
+    "Creature": "Ferocious Soul Eater",
+    "Skill": "Mobility",
+    "Bonus": 20
+  },
+  {
+    "ID": 193,
+    "Creature": "Ferocious Soul Eater",
+    "Skill": "Stealth",
+    "Bonus": 26
+  },
+  {
+    "ID": 194,
+    "Creature": "Ferocious Soul Eater",
+    "Skill": "Persuasion",
+    "Bonus": 17
   }
 ]
