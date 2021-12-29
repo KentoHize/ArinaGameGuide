@@ -1498,5 +1498,25 @@
     "Strength": false,
     "Price": 0,
     "Weight": 0.0
+  },
+  {
+    "ID": 77,
+    "Name": "Scythe",
+    "CName": "",
+    "Type": "Martial Weapon",
+    "DamageType": "Slash",
+    "ArmorClass": null,
+    "ArmorCheckPenalty": null,
+    "ArcaneSpellFailureChance": null,
+    "MaxDexterity": null,
+    "WeaponSize": "Two-handed",
+    "Range": 2,
+    "Damage": "2d4",
+    "CriticalHitRange": 1,
+    "CriticalHitMultiplier": 4,
+    "FinesseWeapon": false,
+    "Strength": false,
+    "Price": 0,
+    "Weight": 10.0
   }
 ]

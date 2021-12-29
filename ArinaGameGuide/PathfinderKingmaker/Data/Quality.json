@@ -22,5 +22,11 @@
     "Name": "Vicious",
     "CName": "",
     "Description": "Hit\n2d6 to enemy\n1d6 to self"
+  },
+  {
+    "ID": 5,
+    "Name": "Arcane inscriptions",
+    "CName": "",
+    "Description": "+2 Enhancement bonus to attak with touch spell"
   }
 ]

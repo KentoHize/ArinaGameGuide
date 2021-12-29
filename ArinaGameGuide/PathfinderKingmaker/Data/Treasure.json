@@ -670,5 +670,33 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 49,
+    "Name": "Ancient Cemetery Treasure A",
+    "CName": "",
+    "Type": "Crate",
+    "Place": "Ancient Cemetery",
+    "Position": "South West",
+    "ItemStack": "Eteral Conduit",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 50,
+    "Name": "Ancient Cemetery Treasure B",
+    "CName": "",
+    "Type": "Void",
+    "Place": "Ancient Cemetery",
+    "Position": "East",
+    "ItemStack": "Harbinger",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

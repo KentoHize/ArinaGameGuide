@@ -4206,5 +4206,37 @@
     "StoryItem": false,
     "Weight": 1.0,
     "Description": "+4 Strength, Dexterity and Constitution "
+  },
+  {
+    "ID": 268,
+    "Name": "Harbinger",
+    "DisplayName": "Harbinger",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Earth Breaker",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 14250,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 14.0,
+    "Description": "+4 Giant Bane\n+3 insight to AC vs Giant"
+  },
+  {
+    "ID": 269,
+    "Name": "Eteral Conduit",
+    "DisplayName": "Eteral Conduit",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Scythe",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 4500,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 10.0,
+    "Description": ""
   }
 ]

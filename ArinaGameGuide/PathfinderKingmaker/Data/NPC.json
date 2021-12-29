@@ -18,5 +18,15 @@
     "BaseCreature": null,
     "Description": "Tiger Lords member",
     "Memo": ""
+  },
+  {
+    "ID": 3,
+    "Name": "Edrist Hanvaki",
+    "CName": "",
+    "Place": null,
+    "Position": null,
+    "BaseCreature": null,
+    "Description": "",
+    "Memo": "The Lost Brother"
   }
 ]

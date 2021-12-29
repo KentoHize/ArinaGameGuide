@@ -1334,5 +1334,29 @@
     "Position": "Center",
     "Stage": 1,
     "Memo": ""
+  },
+  {
+    "ID": 169,
+    "Name": "Ancient Cemetery Group A",
+    "Place": "Ancient Cemetery",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 170,
+    "Name": "Ancient Cemetery Group B",
+    "Place": "Ancient Cemetery",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 171,
+    "Name": "Ancient Cemetery Group C",
+    "Place": "Ancient Cemetery",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

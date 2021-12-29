@@ -4048,5 +4048,35 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 406,
+    "CreatureGroup": "Ancient Cemetery Group A",
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 407,
+    "CreatureGroup": "Ancient Cemetery Group A",
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 408,
+    "CreatureGroup": "Ancient Cemetery Group A",
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

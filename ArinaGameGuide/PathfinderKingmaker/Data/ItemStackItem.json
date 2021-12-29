@@ -3942,5 +3942,21 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 497,
+    "ItemStack": "Harbinger",
+    "Item": "Harbinger",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 498,
+    "ItemStack": "Eteral Conduit",
+    "Item": "Eteral Conduit",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]
