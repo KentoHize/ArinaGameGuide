@@ -772,5 +772,17 @@
     "Creature": "Vordakai",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 136,
+    "Creature": "Vordakai's Raven",
+    "Condition": "Fear",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 137,
+    "Creature": "Vordakai's Raven",
+    "Condition": "Frightened",
+    "CondtionGroup": null
   }
 ]

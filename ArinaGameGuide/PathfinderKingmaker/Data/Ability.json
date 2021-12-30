@@ -201,5 +201,26 @@
     "CName": "",
     "DC": "",
     "Description": ""
+  },
+  {
+    "ID": 30,
+    "Name": "Paralyzing Touch",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 31,
+    "Name": "Brain Consumption",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 32,
+    "Name": "Improved Evasion",
+    "CName": "",
+    "DC": "",
+    "Description": ""
   }
 ]

@@ -1132,5 +1132,32 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 127,
+    "Creature": "Vordakai",
+    "Ability": "Paralyzing Touch",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 128,
+    "Creature": "Vordakai",
+    "Ability": "Brain Consumption",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 129,
+    "Creature": "Vordakai's Raven",
+    "Ability": "Improved Evasion",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

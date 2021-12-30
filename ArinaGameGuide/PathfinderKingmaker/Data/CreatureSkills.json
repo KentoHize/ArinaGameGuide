@@ -1414,5 +1414,35 @@
     "Creature": "Vordakai",
     "Skill": "Use Magic Device",
     "Bonus": 23
+  },
+  {
+    "ID": 237,
+    "Creature": "Vordakai's Raven",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 4
+  },
+  {
+    "ID": 238,
+    "Creature": "Vordakai's Raven",
+    "Skill": "Lore(Religion)",
+    "Bonus": 5
+  },
+  {
+    "ID": 239,
+    "Creature": "Vordakai's Raven",
+    "Skill": "Perception",
+    "Bonus": 35
+  },
+  {
+    "ID": 240,
+    "Creature": "Vordakai's Raven",
+    "Skill": "Athletics",
+    "Bonus": 3
+  },
+  {
+    "ID": 241,
+    "Creature": "Vordakai's Raven",
+    "Skill": "Use Magic Device",
+    "Bonus": 24
   }
 ]

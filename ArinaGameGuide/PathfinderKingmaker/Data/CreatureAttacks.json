@@ -2403,5 +2403,18 @@
     "DamageAdditiveBonus": 7,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 187,
+    "Creature": "Vordakai's Raven",
+    "Form": "Bite",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": 5,
+    "Weapon": null,
+    "BasicDamage": "1d3",
+    "DamageAdditiveBonus": -1,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

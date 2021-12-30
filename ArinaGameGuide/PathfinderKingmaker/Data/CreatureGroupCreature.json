@@ -4778,5 +4778,25 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 479,
+    "CreatureGroup": "Vordakai's Tomb 2 Vordakai",
+    "Creature": "Vordakai",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 480,
+    "CreatureGroup": "Vordakai's Tomb 2 Vordakai",
+    "Creature": "Vordakai's Raven",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]
