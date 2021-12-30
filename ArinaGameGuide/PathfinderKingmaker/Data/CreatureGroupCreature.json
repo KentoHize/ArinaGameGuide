@@ -4728,5 +4728,25 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 474,
+    "CreatureGroup": "Vordakai's Tomb 2 Golden Golem",
+    "Creature": "Golden Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 475,
+    "CreatureGroup": "Vordakai's Tomb 2 Golden Golem",
+    "Creature": "Iron Golem",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

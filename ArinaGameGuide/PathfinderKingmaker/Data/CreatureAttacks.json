@@ -2312,5 +2312,57 @@
     "DamageAdditiveBonus": 19,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 180,
+    "Creature": "Golden Golem",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 6,
+    "AttackBonus": 40,
+    "Weapon": null,
+    "BasicDamage": "4d8",
+    "DamageAdditiveBonus": 14,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 181,
+    "Creature": "Golden Golem",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 6,
+    "AttackBonus": 40,
+    "Weapon": null,
+    "BasicDamage": "4d8",
+    "DamageAdditiveBonus": 14,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 182,
+    "Creature": "Iron Golem",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 6,
+    "AttackBonus": 34,
+    "Weapon": null,
+    "BasicDamage": "2d10",
+    "DamageAdditiveBonus": 13,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 183,
+    "Creature": "Iron Golem",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 6,
+    "AttackBonus": 34,
+    "Weapon": null,
+    "BasicDamage": "2d10",
+    "DamageAdditiveBonus": 13,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

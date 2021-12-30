@@ -1437,7 +1437,7 @@
     "Place": "Vordakai's Tomb",
     "Position": "Center",
     "Stage": 0,
-    "Memo": ""
+    "Memo": "Can't attack him at first"
   },
   {
     "ID": 182,
@@ -1556,6 +1556,14 @@
     "Name": "Vordakai's Tomb 2 Zombie Hall",
     "Place": "Vordakai's Tomb 2",
     "Position": "South East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 197,
+    "Name": "Vordakai's Tomb 2 Golden Golem",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "North West",
     "Stage": 0,
     "Memo": ""
   }

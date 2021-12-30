@@ -748,5 +748,17 @@
     "Creature": "Greater Zombie Lord Axeman",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 132,
+    "Creature": "Golden Golem",
+    "Condition": null,
+    "CondtionGroup": "Construct Immunities"
+  },
+  {
+    "ID": 133,
+    "Creature": "Iron Golem",
+    "Condition": null,
+    "CondtionGroup": "Construct Immunities"
   }
 ]

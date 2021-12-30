@@ -333,5 +333,65 @@
     "ID": 67,
     "EffectOrConditionSet": "Soul Eater Immunities",
     "EffectOrConditon": "Prone"
+  },
+  {
+    "ID": 68,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Fear"
+  },
+  {
+    "ID": 69,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Compulsion"
+  },
+  {
+    "ID": 70,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Poison"
+  },
+  {
+    "ID": 71,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Charmed"
+  },
+  {
+    "ID": 72,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Stunned"
+  },
+  {
+    "ID": 73,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Death"
+  },
+  {
+    "ID": 74,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "ability score damage"
+  },
+  {
+    "ID": 75,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "drain"
+  },
+  {
+    "ID": 76,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Magic"
+  },
+  {
+    "ID": 77,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Sleep"
+  },
+  {
+    "ID": 78,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Paralyzed"
+  },
+  {
+    "ID": 79,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Frightened"
   }
 ]

@@ -1174,5 +1174,26 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 169,
+    "Creature": "Golden Golem",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 15
+  },
+  {
+    "ID": 170,
+    "Creature": "Golden Golem",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 5
+  },
+  {
+    "ID": 171,
+    "Creature": "Iron Golem",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 15
   }
 ]

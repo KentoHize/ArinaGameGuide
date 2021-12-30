@@ -1018,5 +1018,17 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 92,
+    "Name": "Vordakai's Tomb 2 Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb 2",
+    "DisarmDC": 30,
+    "Position": "East",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

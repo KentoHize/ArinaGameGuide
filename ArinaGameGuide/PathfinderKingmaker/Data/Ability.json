@@ -187,5 +187,12 @@
     "CName": "",
     "DC": "",
     "Description": ""
+  },
+  {
+    "ID": 28,
+    "Name": "Death Throes",
+    "CName": "",
+    "DC": "21",
+    "Description": "Fort 21 to 1d4 con"
   }
 ]

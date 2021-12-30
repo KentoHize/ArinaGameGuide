@@ -466,5 +466,23 @@
     "IsGroup": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 54,
+    "Name": "Magic",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 55,
+    "Name": "Frightened",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
   }
 ]
