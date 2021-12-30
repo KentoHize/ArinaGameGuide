@@ -4518,5 +4518,215 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 453,
+    "CreatureGroup": "Vordakai's Tomb 2 Group J",
+    "Creature": "Dread Zombie Lord",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 454,
+    "CreatureGroup": "Vordakai's Tomb 2 Group J",
+    "Creature": "Nightmare Zombie Lord Spearman",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 455,
+    "CreatureGroup": "Vordakai's Tomb 2 Group J",
+    "Creature": "Ferocious Zombie Lord Axeman",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 456,
+    "CreatureGroup": "Vordakai's Tomb 2 Group J 2",
+    "Creature": "Dread Zombie Lord",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 457,
+    "CreatureGroup": "Vordakai's Tomb 2 Group J 2",
+    "Creature": "Nightmare Zombie Lord",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 458,
+    "CreatureGroup": "Vordakai's Tomb 2 Group J 2",
+    "Creature": "Ferocious Zombie Lord Axeman",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 459,
+    "CreatureGroup": "Vordakai's Tomb 2 Group J 2",
+    "Creature": "Spectre",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 460,
+    "CreatureGroup": "Vordakai's Tomb 2 Group K",
+    "Creature": "Dread Zombie Lord",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 461,
+    "CreatureGroup": "Vordakai's Tomb 2 Group K",
+    "Creature": "Nightmare Zombie Lord",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 462,
+    "CreatureGroup": "Vordakai's Tomb 2 Group K",
+    "Creature": "Nightmare Zombie Lord Spearman",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 463,
+    "CreatureGroup": "Vordakai's Tomb 2 Group K",
+    "Creature": "Ferocious Zombie Lord Axeman",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 464,
+    "CreatureGroup": "Vordakai's Tomb 2 Group K",
+    "Creature": "Spectre",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 465,
+    "CreatureGroup": "Vordakai's Tomb 2 Group L",
+    "Creature": "Nightmare Zombie Lord Spearman",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 466,
+    "CreatureGroup": "Vordakai's Tomb 2 Group L",
+    "Creature": "Dread Zombie Lord",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 467,
+    "CreatureGroup": "Vordakai's Tomb 2 Group L",
+    "Creature": "Ferocious Zombie Lord Axeman",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 468,
+    "CreatureGroup": "Vordakai's Tomb 2 Group L",
+    "Creature": "Spectre",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 472,
+    "CreatureGroup": "Vordakai's Tomb 2 Zombie Hall",
+    "Creature": "Greater Zombie Lord",
+    "DisplayName": null,
+    "Quantity": 10,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 473,
+    "CreatureGroup": "Vordakai's Tomb 2 Zombie Hall",
+    "Creature": "Greater Zombie Lord",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": "2 Ration",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 470,
+    "CreatureGroup": "Vordakai's Tomb 2 Zombie Hall",
+    "Creature": "Greater Zombie Lord Spearman",
+    "DisplayName": null,
+    "Quantity": 8,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 471,
+    "CreatureGroup": "Vordakai's Tomb 2 Zombie Hall",
+    "Creature": "Greater Zombie Lord Axeman",
+    "DisplayName": null,
+    "Quantity": 7,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 469,
+    "CreatureGroup": "Vordakai's Tomb 2 Zombie Hall",
+    "Creature": "Zombie",
+    "DisplayName": null,
+    "Quantity": 13,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

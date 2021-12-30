@@ -1146,5 +1146,33 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 165,
+    "Creature": "Greater Zombie Lord Spearman",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 5
+  },
+  {
+    "ID": 166,
+    "Creature": "Greater Zombie Lord Spearman",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 167,
+    "Creature": "Greater Zombie Lord Axeman",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 5
+  },
+  {
+    "ID": 168,
+    "Creature": "Greater Zombie Lord Axeman",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

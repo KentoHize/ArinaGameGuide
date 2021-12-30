@@ -4118,5 +4118,21 @@
     "RandomItem": null,
     "Quantity": 2,
     "RandomQuantity": null
+  },
+  {
+    "ID": 520,
+    "ItemStack": "Vordakai's Tomb 2 Treasure A",
+    "Item": "Fallen Warrior's Flint",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 521,
+    "ItemStack": "Vordakai's Tomb 2 Treasure A",
+    "Item": "Necromancer's Staff",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

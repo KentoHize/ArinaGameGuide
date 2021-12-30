@@ -966,5 +966,21 @@
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null
+  },
+  {
+    "ID": 122,
+    "Creature": "Greater Zombie Lord Spearman",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
+  },
+  {
+    "ID": 123,
+    "Creature": "Greater Zombie Lord Axeman",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null
   }
 ]

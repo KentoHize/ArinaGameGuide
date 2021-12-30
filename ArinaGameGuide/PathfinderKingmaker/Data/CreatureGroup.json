@@ -1518,5 +1518,45 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 192,
+    "Name": "Vordakai's Tomb 2 Group J",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 193,
+    "Name": "Vordakai's Tomb 2 Group J 2",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 194,
+    "Name": "Vordakai's Tomb 2 Group K",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 195,
+    "Name": "Vordakai's Tomb 2 Group L",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 196,
+    "Name": "Vordakai's Tomb 2 Zombie Hall",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "South East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

@@ -1342,5 +1342,29 @@
     "Creature": "Willas Gunderson",
     "Skill": "Stealth",
     "Bonus": 18
+  },
+  {
+    "ID": 225,
+    "Creature": "Greater Zombie Lord Spearman",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 226,
+    "Creature": "Greater Zombie Lord Spearman",
+    "Skill": "Stealth",
+    "Bonus": 14
+  },
+  {
+    "ID": 227,
+    "Creature": "Greater Zombie Lord Axeman",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 228,
+    "Creature": "Greater Zombie Lord Axeman",
+    "Skill": "Stealth",
+    "Bonus": 14
   }
 ]

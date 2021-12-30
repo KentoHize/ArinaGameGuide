@@ -736,5 +736,17 @@
     "Creature": "Willas Gunderson",
     "Condition": null,
     "CondtionGroup": "Incorporeal Immunities"
+  },
+  {
+    "ID": 130,
+    "Creature": "Greater Zombie Lord Spearman",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 131,
+    "Creature": "Greater Zombie Lord Axeman",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]

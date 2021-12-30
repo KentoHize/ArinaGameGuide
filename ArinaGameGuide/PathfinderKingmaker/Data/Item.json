@@ -4334,5 +4334,53 @@
     "StoryItem": false,
     "Weight": 10.0,
     "Description": ""
+  },
+  {
+    "ID": 277,
+    "Name": "Fallen Warrior's Flint",
+    "DisplayName": "Fallen Warrior's Flint",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Collectable Item",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 100,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": ""
+  },
+  {
+    "ID": 278,
+    "Name": "Necromancer's Staff",
+    "DisplayName": "Necromancer's Staff",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Quarterstaff",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 7500,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 4.0,
+    "Description": "+1\n+3 enhancement bonus to the weapons of summoned monster(animate dead and create undead)"
+  },
+  {
+    "ID": 279,
+    "Name": "Masterwork Battleaxe",
+    "DisplayName": "Masterwork Battleaxe",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Battleaxe",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]
