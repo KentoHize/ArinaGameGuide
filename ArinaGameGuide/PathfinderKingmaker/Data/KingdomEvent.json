@@ -446,5 +446,37 @@
     "RandomEvent": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 29,
+    "Name": "Combat Priests",
+    "CName": "",
+    "Type": "Opportunity",
+    "RequiredDays": 14,
+    "DC": 19,
+    "AdaptedAdvisor1": "General",
+    "AdaptedAdvisor2": "High Priest",
+    "AdaptedAdvisor3": null,
+    "HaveAdvantage": null,
+    "HaveDisadvantage": null,
+    "RandomEvent": true,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 30,
+    "Name": "Arrears",
+    "CName": "",
+    "Type": "Problem",
+    "RequiredDays": 20,
+    "DC": 24,
+    "AdaptedAdvisor1": "Councilor",
+    "AdaptedAdvisor2": "Treasurer",
+    "AdaptedAdvisor3": "Grand Diplomat",
+    "HaveAdvantage": null,
+    "HaveDisadvantage": null,
+    "RandomEvent": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

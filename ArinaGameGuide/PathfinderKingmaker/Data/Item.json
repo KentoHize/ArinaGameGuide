@@ -4758,5 +4758,39 @@
     "StoryItem": false,
     "Weight": 6.0,
     "Description": "+2 resistance save\n15 resistance to fire, cold, acid, electricity"
+  },
+  {
+    "ID": 286,
+    "Name": "Arcane Enforcer",
+    "DisplayName": "Arcane Enforcer",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Dueling Sword",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 8250,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 3.0,
+    "Description": "+3\n+1d6 dmg"
+  },
+  {
+    "ID": 287,
+    "Name": "Fallen Warrior's Flask",
+    "DisplayName": "Fallen Warrior's Flask",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Collectable Item",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 62,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": ""
   }
 ]

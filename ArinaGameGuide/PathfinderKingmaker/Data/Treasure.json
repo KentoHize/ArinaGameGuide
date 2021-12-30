@@ -754,5 +754,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 55,
+    "Name": "Vordakai's Tomb 2 Treasure D",
+    "CName": "",
+    "Type": "Crate",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "North",
+    "ItemStack": "Vordakai's Tomb 2 Treasure C",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

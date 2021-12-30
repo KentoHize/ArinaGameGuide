@@ -4198,5 +4198,21 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 530,
+    "ItemStack": "Vordakai's Tomb 2 Treasure C",
+    "Item": "Arcane Enforcer",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 531,
+    "ItemStack": "Vordakai's Tomb 2 Treasure C",
+    "Item": "Fallen Warrior's Flask",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]
