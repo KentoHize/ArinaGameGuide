@@ -730,5 +730,11 @@
     "Creature": "Nightmare Zombie Lord",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 129,
+    "Creature": "Willas Gunderson",
+    "Condition": null,
+    "CondtionGroup": "Incorporeal Immunities"
   }
 ]

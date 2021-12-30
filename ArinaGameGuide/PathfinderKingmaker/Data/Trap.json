@@ -8,6 +8,7 @@
     "DisarmDC": 27,
     "Position": "Center",
     "RelatedEncounter": "Womb of Lamashtu Group G",
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -19,6 +20,7 @@
     "DisarmDC": 25,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -30,6 +32,7 @@
     "DisarmDC": 25,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -41,6 +44,7 @@
     "DisarmDC": 25,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -52,6 +56,7 @@
     "DisarmDC": 25,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -63,6 +68,7 @@
     "DisarmDC": 25,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -74,6 +80,7 @@
     "DisarmDC": 25,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -85,6 +92,7 @@
     "DisarmDC": 25,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -96,6 +104,7 @@
     "DisarmDC": 25,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -107,6 +116,7 @@
     "DisarmDC": 25,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -118,6 +128,7 @@
     "DisarmDC": 18,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -129,6 +140,7 @@
     "DisarmDC": 18,
     "Position": "North East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -140,6 +152,7 @@
     "DisarmDC": 20,
     "Position": "South East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -151,6 +164,7 @@
     "DisarmDC": 27,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -162,6 +176,7 @@
     "DisarmDC": 20,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -173,6 +188,7 @@
     "DisarmDC": 17,
     "Position": "North",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -184,6 +200,7 @@
     "DisarmDC": 20,
     "Position": "East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -195,6 +212,7 @@
     "DisarmDC": 20,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -206,6 +224,7 @@
     "DisarmDC": 17,
     "Position": "East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -217,6 +236,7 @@
     "DisarmDC": 20,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -228,6 +248,7 @@
     "DisarmDC": 25,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -239,6 +260,7 @@
     "DisarmDC": 25,
     "Position": "North",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -250,6 +272,7 @@
     "DisarmDC": 27,
     "Position": "West",
     "RelatedEncounter": "Tenebrous Depth VII Group C",
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -261,6 +284,7 @@
     "DisarmDC": 20,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -272,6 +296,7 @@
     "DisarmDC": 30,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -283,6 +308,7 @@
     "DisarmDC": 20,
     "Position": "South West",
     "RelatedEncounter": "Tenebrous Depth VIII The Fallen Priestess",
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -294,6 +320,7 @@
     "DisarmDC": 27,
     "Position": "West",
     "RelatedEncounter": "Tenebrous Depth VIII The Fallen Priestess",
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -305,6 +332,7 @@
     "DisarmDC": 29,
     "Position": null,
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -316,6 +344,7 @@
     "DisarmDC": 29,
     "Position": null,
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -327,6 +356,7 @@
     "DisarmDC": 29,
     "Position": null,
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -338,6 +368,7 @@
     "DisarmDC": 29,
     "Position": null,
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -349,6 +380,7 @@
     "DisarmDC": 25,
     "Position": "Deep Floor 1",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -360,6 +392,7 @@
     "DisarmDC": 25,
     "Position": "Deep Floor 1",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -371,6 +404,7 @@
     "DisarmDC": 27,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -382,6 +416,7 @@
     "DisarmDC": 30,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -393,6 +428,7 @@
     "DisarmDC": 30,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -404,6 +440,7 @@
     "DisarmDC": 30,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -415,6 +452,7 @@
     "DisarmDC": 30,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -426,6 +464,7 @@
     "DisarmDC": 28,
     "Position": "North West",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -437,6 +476,7 @@
     "DisarmDC": 28,
     "Position": "North",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -448,6 +488,7 @@
     "DisarmDC": 25,
     "Position": "South East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -459,6 +500,7 @@
     "DisarmDC": 34,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -470,6 +512,7 @@
     "DisarmDC": 25,
     "Position": "East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -481,6 +524,7 @@
     "DisarmDC": 25,
     "Position": "East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -492,6 +536,7 @@
     "DisarmDC": 25,
     "Position": "East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -503,6 +548,7 @@
     "DisarmDC": 27,
     "Position": "East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -514,6 +560,7 @@
     "DisarmDC": 26,
     "Position": "West",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -525,6 +572,7 @@
     "DisarmDC": 26,
     "Position": "West",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -536,6 +584,7 @@
     "DisarmDC": 26,
     "Position": "West",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -547,6 +596,7 @@
     "DisarmDC": 25,
     "Position": "North West",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -558,6 +608,7 @@
     "DisarmDC": 24,
     "Position": "North West",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -569,6 +620,7 @@
     "DisarmDC": 25,
     "Position": "North West",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -580,6 +632,7 @@
     "DisarmDC": null,
     "Position": "West",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": "Special"
   },
   {
@@ -591,6 +644,7 @@
     "DisarmDC": 26,
     "Position": "West",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -602,6 +656,7 @@
     "DisarmDC": null,
     "Position": "West",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -613,6 +668,7 @@
     "DisarmDC": 28,
     "Position": "West",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -624,6 +680,7 @@
     "DisarmDC": 28,
     "Position": "West",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -635,6 +692,7 @@
     "DisarmDC": 28,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -646,6 +704,7 @@
     "DisarmDC": 28,
     "Position": "South",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -657,6 +716,7 @@
     "DisarmDC": 28,
     "Position": "South",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -668,6 +728,7 @@
     "DisarmDC": 28,
     "Position": "South",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -679,6 +740,7 @@
     "DisarmDC": 28,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -690,6 +752,7 @@
     "DisarmDC": null,
     "Position": "East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -701,6 +764,7 @@
     "DisarmDC": null,
     "Position": "East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -712,6 +776,7 @@
     "DisarmDC": 28,
     "Position": "North East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -723,6 +788,7 @@
     "DisarmDC": 28,
     "Position": "North East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -734,6 +800,7 @@
     "DisarmDC": 28,
     "Position": "North East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -745,6 +812,7 @@
     "DisarmDC": 28,
     "Position": "North East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -756,6 +824,7 @@
     "DisarmDC": 28,
     "Position": "North East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -767,6 +836,7 @@
     "DisarmDC": 28,
     "Position": "North East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -778,6 +848,7 @@
     "DisarmDC": 28,
     "Position": "North East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -789,6 +860,7 @@
     "DisarmDC": 28,
     "Position": "North East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -800,6 +872,7 @@
     "DisarmDC": 28,
     "Position": "North East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -811,6 +884,7 @@
     "DisarmDC": 28,
     "Position": "North East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -822,6 +896,7 @@
     "DisarmDC": 28,
     "Position": "North East",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -833,6 +908,7 @@
     "DisarmDC": 28,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -844,6 +920,7 @@
     "DisarmDC": 28,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -855,6 +932,7 @@
     "DisarmDC": 28,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
     "Memo": ""
   },
   {
@@ -866,6 +944,79 @@
     "DisarmDC": 28,
     "Position": "Center",
     "RelatedEncounter": null,
+    "Damage": "",
+    "Memo": ""
+  },
+  {
+    "ID": 86,
+    "Name": "Vordakai's Tomb 2 Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb 2",
+    "DisarmDC": 27,
+    "Position": "West",
+    "RelatedEncounter": null,
+    "Damage": "",
+    "Memo": ""
+  },
+  {
+    "ID": 87,
+    "Name": "Vordakai's Tomb 2 Trap",
+    "CName": "",
+    "Type": "Channel Negative Energy",
+    "Place": "Vordakai's Tomb 2",
+    "DisarmDC": 27,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": "1d6",
+    "Memo": ""
+  },
+  {
+    "ID": 88,
+    "Name": "Vordakai's Tomb 2 Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb 2",
+    "DisarmDC": 27,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 89,
+    "Name": "Vordakai's Tomb 2 Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb 2",
+    "DisarmDC": 27,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 90,
+    "Name": "Vordakai's Tomb 2 Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb 2",
+    "DisarmDC": 27,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 91,
+    "Name": "Vordakai's Tomb 2 Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Vordakai's Tomb 2",
+    "DisarmDC": 27,
+    "Position": "South",
+    "RelatedEncounter": null,
+    "Damage": null,
     "Memo": ""
   }
 ]

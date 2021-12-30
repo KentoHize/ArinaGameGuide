@@ -4358,5 +4358,165 @@
     "AdditonalItems": "Ration",
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 437,
+    "CreatureGroup": "Vordakai's Tomb 2 Group B",
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 438,
+    "CreatureGroup": "Vordakai's Tomb 2 Group C",
+    "Creature": "Greater Dread Zombie Cyclops",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 439,
+    "CreatureGroup": "Vordakai's Tomb 2 Group E",
+    "Creature": "Greater Dread Zombie Cyclops",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 440,
+    "CreatureGroup": "Vordakai's Tomb 2 Group E",
+    "Creature": "Dread Zombie Cyclops Priest",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 441,
+    "CreatureGroup": "Vordakai's Tomb 2 Group E",
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 442,
+    "CreatureGroup": "Vordakai's Tomb 2 Group F",
+    "Creature": "Dread Zombie Cyclops Priest",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 443,
+    "CreatureGroup": "Vordakai's Tomb 2 Group F",
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 444,
+    "CreatureGroup": "Vordakai's Tomb 2 Group G",
+    "Creature": "Grand Zombie Lord",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": "2 Ration",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 445,
+    "CreatureGroup": "Vordakai's Tomb 2 Group G",
+    "Creature": "Zombie",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 446,
+    "CreatureGroup": "Vordakai's Tomb 2 Group H",
+    "Creature": "Grand Zombie Lord",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 447,
+    "CreatureGroup": "Vordakai's Tomb 2 Group H",
+    "Creature": "Ferocious Zombie Lord Axeman",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 448,
+    "CreatureGroup": "Vordakai's Tomb 2 Group H",
+    "Creature": "Zombie",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 449,
+    "CreatureGroup": "Vordakai's Tomb 2 Group I",
+    "Creature": "Grand Zombie Lord",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 450,
+    "CreatureGroup": "Vordakai's Tomb 2 Group I",
+    "Creature": "Nightmare Zombie Lord Spearman",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": "Ration",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 451,
+    "CreatureGroup": "Vordakai's Tomb 2 Group I",
+    "Creature": "Zombie",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": "Ration",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 452,
+    "CreatureGroup": "Vordakai's Tomb 2 Group Willas Gunderson",
+    "Creature": "Willas Gunderson",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

@@ -4110,5 +4110,13 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 519,
+    "ItemStack": "2 Ration",
+    "Item": "Camping supplies and rations",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
   }
 ]

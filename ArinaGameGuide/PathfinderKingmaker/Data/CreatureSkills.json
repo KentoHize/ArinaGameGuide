@@ -1324,5 +1324,23 @@
     "Creature": "Grand Zombie Lord",
     "Skill": "Stealth",
     "Bonus": 14
+  },
+  {
+    "ID": 222,
+    "Creature": "Willas Gunderson",
+    "Skill": "Lore(Religion)",
+    "Bonus": 16
+  },
+  {
+    "ID": 223,
+    "Creature": "Willas Gunderson",
+    "Skill": "Perception",
+    "Bonus": 33
+  },
+  {
+    "ID": 224,
+    "Creature": "Willas Gunderson",
+    "Skill": "Stealth",
+    "Bonus": 18
   }
 ]

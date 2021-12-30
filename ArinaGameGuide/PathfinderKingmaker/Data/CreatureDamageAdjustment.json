@@ -1139,5 +1139,12 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 164,
+    "Creature": "Willas Gunderson",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

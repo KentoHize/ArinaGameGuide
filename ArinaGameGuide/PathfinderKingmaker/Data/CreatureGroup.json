@@ -1446,5 +1446,77 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 183,
+    "Name": "Vordakai's Tomb 2 Group B",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 184,
+    "Name": "Vordakai's Tomb 2 Group C",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 185,
+    "Name": "Vordakai's Tomb 2 Group D",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 186,
+    "Name": "Vordakai's Tomb 2 Group E",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 187,
+    "Name": "Vordakai's Tomb 2 Group F",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 188,
+    "Name": "Vordakai's Tomb 2 Group G",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 189,
+    "Name": "Vordakai's Tomb 2 Group H",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 190,
+    "Name": "Vordakai's Tomb 2 Group I",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 191,
+    "Name": "Vordakai's Tomb 2 Group Willas Gunderson",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]
