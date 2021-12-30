@@ -4158,5 +4158,45 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 525,
+    "ItemStack": "Wand of Inflict Critical Wounds",
+    "Item": "Wand of Inflict Critical Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 526,
+    "ItemStack": "Vordakai RS",
+    "Item": "Headband of Mental Perfection +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 527,
+    "ItemStack": "Vordakai RS",
+    "Item": "Amulet of Natural Armor +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 528,
+    "ItemStack": "Vordakai RS",
+    "Item": "Ring of Planar Protection",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 529,
+    "ItemStack": "Vordakai RS",
+    "Item": "Shround of Abaddon",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

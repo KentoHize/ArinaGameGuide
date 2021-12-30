@@ -10574,7 +10574,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": true,
-    "RemainItems": null,
+    "RemainItems": "Vordakai RS",
     "Memo": ""
   },
   {
@@ -10617,7 +10617,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "Wand of Inflict Critical Wounds",
     "Memo": ""
   }
 ]

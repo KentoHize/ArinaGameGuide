@@ -1023,5 +1023,15 @@
     "ID": 211,
     "Name": "Royal Gift",
     "Memo": ""
+  },
+  {
+    "ID": 212,
+    "Name": "Wand of Inflict Critical Wounds",
+    "Memo": ""
+  },
+  {
+    "ID": 213,
+    "Name": "Vordakai RS",
+    "Memo": ""
   }
 ]
