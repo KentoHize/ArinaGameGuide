@@ -1195,5 +1195,61 @@
     "Type": "DamageReduction",
     "DamageType": "Adamantite",
     "Amount": 15
+  },
+  {
+    "ID": 172,
+    "Creature": "Ancient Water Elemental",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 10
+  },
+  {
+    "ID": 173,
+    "Creature": "Vordakai",
+    "Type": "DamageReduction",
+    "DamageType": "Bludgeon",
+    "Amount": 15
+  },
+  {
+    "ID": 174,
+    "Creature": "Vordakai",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 15
+  },
+  {
+    "ID": 175,
+    "Creature": "Vordakai",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 15
+  },
+  {
+    "ID": 176,
+    "Creature": "Vordakai",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 15
+  },
+  {
+    "ID": 177,
+    "Creature": "Vordakai",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 15
+  },
+  {
+    "ID": 178,
+    "Creature": "Vordakai",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 15
+  },
+  {
+    "ID": 179,
+    "Creature": "Vordakai",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

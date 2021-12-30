@@ -2364,5 +2364,44 @@
     "DamageAdditiveBonus": 13,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 184,
+    "Creature": "Ancient Water Elemental",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 9,
+    "AttackBonus": 27,
+    "Weapon": null,
+    "BasicDamage": "2d10",
+    "DamageAdditiveBonus": 24,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 185,
+    "Creature": "Ancient Water Elemental",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 9,
+    "AttackBonus": 27,
+    "Weapon": null,
+    "BasicDamage": "2d10",
+    "DamageAdditiveBonus": 24,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 186,
+    "Creature": "Vordakai",
+    "Form": "Unarmed Strike",
+    "Type": "Primary",
+    "Range": 6,
+    "AttackBonus": 23,
+    "Weapon": null,
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 7,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

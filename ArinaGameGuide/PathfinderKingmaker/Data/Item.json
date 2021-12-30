@@ -4382,5 +4382,37 @@
     "StoryItem": false,
     "Weight": 0.0,
     "Description": ""
+  },
+  {
+    "ID": 280,
+    "Name": "Bladeguard",
+    "DisplayName": "Bladeguard",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Buckler",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 10850,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 5.0,
+    "Description": "+3\n+3 AC vs melee"
+  },
+  {
+    "ID": 281,
+    "Name": "Royal Gift",
+    "DisplayName": "Royal Gift",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Dueling Sword",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "SellPrice": 16000,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 3.0,
+    "Description": "+3 Keen"
   }
 ]

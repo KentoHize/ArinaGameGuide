@@ -1724,6 +1724,24 @@
           "MaxLength": 0,
           "AutoGenerateKey": false,
           "IsUnique": false
+        },
+        {
+          "Name": "DC",
+          "IsKey": false,
+          "IsNullable": true,
+          "Type": "Integer",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
         }
       ]
     },

@@ -4134,5 +4134,29 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 522,
+    "ItemStack": "Vordakai's Tomb 2 Treasure B",
+    "Item": "Bladeguard",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 523,
+    "ItemStack": "Vordakai's Tomb 2 Treasure B",
+    "Item": "Ancient Cyclops Coin",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 524,
+    "ItemStack": "Royal Gift",
+    "Item": "Royal Gift",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

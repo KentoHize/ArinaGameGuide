@@ -760,5 +760,17 @@
     "Creature": "Iron Golem",
     "Condition": null,
     "CondtionGroup": "Construct Immunities"
+  },
+  {
+    "ID": 134,
+    "Creature": "Ancient Water Elemental",
+    "Condition": null,
+    "CondtionGroup": "Elemental Immunities"
+  },
+  {
+    "ID": 135,
+    "Creature": "Vordakai",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]

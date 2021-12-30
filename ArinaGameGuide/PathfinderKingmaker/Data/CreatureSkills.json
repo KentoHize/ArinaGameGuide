@@ -1366,5 +1366,53 @@
     "Creature": "Greater Zombie Lord Axeman",
     "Skill": "Stealth",
     "Bonus": 14
+  },
+  {
+    "ID": 229,
+    "Creature": "Ancient Water Elemental",
+    "Skill": "Perception",
+    "Bonus": 27
+  },
+  {
+    "ID": 230,
+    "Creature": "Ancient Water Elemental",
+    "Skill": "Stealth",
+    "Bonus": 21
+  },
+  {
+    "ID": 231,
+    "Creature": "Vordakai",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 36
+  },
+  {
+    "ID": 232,
+    "Creature": "Vordakai",
+    "Skill": "Knowledge(World)",
+    "Bonus": 23
+  },
+  {
+    "ID": 233,
+    "Creature": "Vordakai",
+    "Skill": "Lore(Religion)",
+    "Bonus": 31
+  },
+  {
+    "ID": 234,
+    "Creature": "Vordakai",
+    "Skill": "Perception",
+    "Bonus": 35
+  },
+  {
+    "ID": 235,
+    "Creature": "Vordakai",
+    "Skill": "Athletics",
+    "Bonus": 33
+  },
+  {
+    "ID": 236,
+    "Creature": "Vordakai",
+    "Skill": "Use Magic Device",
+    "Bonus": 23
   }
 ]

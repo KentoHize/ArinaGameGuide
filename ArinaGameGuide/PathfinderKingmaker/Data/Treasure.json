@@ -726,5 +726,33 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 53,
+    "Name": "Vordakai's Tomb 2 Treasure B",
+    "CName": "",
+    "Type": "Crate",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "North",
+    "ItemStack": "Vordakai's Tomb 2 Treasure B",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 54,
+    "Name": "Vordakai's Tomb 2 Treasure C",
+    "CName": "",
+    "Type": "Crate",
+    "Place": "Vordakai's Tomb 2",
+    "Position": "North",
+    "ItemStack": "Royal Gift",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

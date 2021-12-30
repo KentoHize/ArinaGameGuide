@@ -194,5 +194,12 @@
     "CName": "",
     "DC": "21",
     "Description": "Fort 21 to 1d4 con"
+  },
+  {
+    "ID": 29,
+    "Name": "Fear Aura",
+    "CName": "",
+    "DC": "",
+    "Description": ""
   }
 ]

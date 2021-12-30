@@ -1013,5 +1013,15 @@
     "ID": 209,
     "Name": "Vordakai's Tomb 2 Treasure A",
     "Memo": ""
+  },
+  {
+    "ID": 210,
+    "Name": "Vordakai's Tomb 2 Treasure B",
+    "Memo": ""
+  },
+  {
+    "ID": 211,
+    "Name": "Royal Gift",
+    "Memo": ""
   }
 ]
