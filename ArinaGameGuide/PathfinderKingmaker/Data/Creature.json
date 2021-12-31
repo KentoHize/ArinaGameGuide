@@ -1888,7 +1888,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": "MV + CL + PoCL + CS",
+    "RemainItems": "MV + PoCL + CL + CS",
     "Memo": ""
   },
   {

@@ -2265,7 +2265,7 @@
   },
   {
     "ID": 487,
-    "ItemStack": "MV + CL + PoCL + CS",
+    "ItemStack": "MV + PoCL + CL + CS",
     "Item": null,
     "RandomItem": "Money and Valuables",
     "Quantity": 1,
@@ -2273,7 +2273,7 @@
   },
   {
     "ID": 488,
-    "ItemStack": "MV + CL + PoCL + CS",
+    "ItemStack": "MV + PoCL + CL + CS",
     "Item": "Composite Longbow",
     "RandomItem": null,
     "Quantity": 1,
@@ -2281,7 +2281,7 @@
   },
   {
     "ID": 489,
-    "ItemStack": "MV + CL + PoCL + CS",
+    "ItemStack": "MV + PoCL + CL + CS",
     "Item": "Potion of Cure Light Wounds",
     "RandomItem": null,
     "Quantity": 1,
@@ -2289,7 +2289,7 @@
   },
   {
     "ID": 490,
-    "ItemStack": "MV + CL + PoCL + CS",
+    "ItemStack": "MV + PoCL + CL + CS",
     "Item": "Chainshirt",
     "RandomItem": null,
     "Quantity": 1,
