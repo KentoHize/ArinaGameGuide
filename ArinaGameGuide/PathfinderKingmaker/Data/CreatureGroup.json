@@ -1654,5 +1654,21 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 208,
+    "Name": "Flintrock Grassland Barbarian Fight E",
+    "Place": "Flintrock Grassland",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 209,
+    "Name": "Flintrock Grassland Barbarian Fight F",
+    "Place": "Flintrock Grassland",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

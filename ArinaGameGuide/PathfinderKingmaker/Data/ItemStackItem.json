@@ -4406,5 +4406,37 @@
     "RandomItem": null,
     "Quantity": 82,
     "RandomQuantity": null
+  },
+  {
+    "ID": 553,
+    "ItemStack": "MV + PoCL + CL1 + CS1",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 554,
+    "ItemStack": "MV + PoCL + CL1 + CS1",
+    "Item": "Potion of Cure Light Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 555,
+    "ItemStack": "MV + PoCL + CL1 + CS1",
+    "Item": "Composite Longbow +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 556,
+    "ItemStack": "MV + PoCL + CL1 + CS1",
+    "Item": "Chainshirt +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

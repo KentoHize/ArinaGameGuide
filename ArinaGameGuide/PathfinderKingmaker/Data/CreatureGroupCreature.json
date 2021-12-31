@@ -5228,5 +5228,145 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 524,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight E",
+    "Creature": "Barbarian Hill Giant",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 525,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight E",
+    "Creature": "Barbarian 8 Archer",
+    "DisplayName": "Barbarian",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 526,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight E",
+    "Creature": "Barbarian 7 Ranger",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 527,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight E",
+    "Creature": "Barbarian 7 Fighter Greatsword",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 528,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight E",
+    "Creature": "Wolf Companion",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 529,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight E",
+    "Creature": "Brevoy Soldier",
+    "DisplayName": null,
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 530,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight F",
+    "Creature": "Barbarian Hill Giant",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 531,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight F",
+    "Creature": "Barbarian 8 Druid",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 532,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight F",
+    "Creature": "Barbarian 10 Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 533,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight F",
+    "Creature": "Bear Companion",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 534,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight F",
+    "Creature": "Barbarian 12 Barbarian",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 535,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight F",
+    "Creature": "Barbarian 10 Barbarian",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 536,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight F",
+    "Creature": "Cleric of Gorum",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 537,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight F",
+    "Creature": "Brevoy Soldier",
+    "DisplayName": null,
+    "Quantity": 8,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
   }
 ]
