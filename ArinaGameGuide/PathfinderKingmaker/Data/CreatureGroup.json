@@ -1625,9 +1625,25 @@
   },
   {
     "ID": 204,
-    "Name": "Flintrock Grassland Group C",
+    "Name": "Flintrock Grassland Barbarian Fight B",
     "Place": "Flintrock Grassland",
     "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 205,
+    "Name": "Flintrock Grassland Group D",
+    "Place": "Flintrock Grassland",
+    "Position": "South East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 206,
+    "Name": "Flintrock Grassland Barbarian Fight C",
+    "Place": "Flintrock Grassland",
+    "Position": "Center",
     "Stage": 0,
     "Memo": ""
   }
