@@ -1412,8 +1412,8 @@
   {
     "ID": 395,
     "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
-    "Creature": "Nober",
-    "DisplayName": null,
+    "Creature": "Barbarian 10 Barbarian",
+    "DisplayName": "Nober",
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
@@ -1422,8 +1422,8 @@
   {
     "ID": 396,
     "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
-    "Creature": "Dug the Merchant",
-    "DisplayName": null,
+    "Creature": "Barbarian 8 Fighter",
+    "DisplayName": "Dug the Merchant",
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
@@ -4803,6 +4803,56 @@
     "ID": 481,
     "CreatureGroup": "Flintrock Grassland Armag",
     "Creature": "Armag",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 482,
+    "CreatureGroup": "Flintrock Grassland Group A",
+    "Creature": "Ferocious Wolf",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 483,
+    "CreatureGroup": "Flintrock Grassland Group A",
+    "Creature": "Barbarian 7 Ranger",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 484,
+    "CreatureGroup": "Flintrock Grassland Group A",
+    "Creature": "Barbarian 8 Fighter",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 485,
+    "CreatureGroup": "Flintrock Grassland Group A",
+    "Creature": "Barbarian 8 Archer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 486,
+    "CreatureGroup": "Flintrock Grassland Group A",
+    "Creature": "Barbarian 10 Barbarian",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,

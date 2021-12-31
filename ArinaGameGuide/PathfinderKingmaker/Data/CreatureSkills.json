@@ -498,12 +498,6 @@
     "Bonus": 12
   },
   {
-    "ID": 183,
-    "Creature": "Dug the Merchant",
-    "Skill": "Perception",
-    "Bonus": 15
-  },
-  {
     "ID": 174,
     "Creature": "Dugath",
     "Skill": "Lore(Religion)",
@@ -931,7 +925,7 @@
   },
   {
     "ID": 182,
-    "Creature": "Nober",
+    "Creature": "Barbarian 10 Barbarian",
     "Skill": "Perception",
     "Bonus": 20
   },
@@ -1450,5 +1444,11 @@
     "Creature": "Armag",
     "Skill": "Athletics",
     "Bonus": 30
+  },
+  {
+    "ID": 243,
+    "Creature": "Barbarian 8 Fighter",
+    "Skill": "Perception",
+    "Bonus": 15
   }
 ]

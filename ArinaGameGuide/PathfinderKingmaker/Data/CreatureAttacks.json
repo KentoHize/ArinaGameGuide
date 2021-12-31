@@ -715,19 +715,6 @@
     "SneakDamage": null
   },
   {
-    "ID": 150,
-    "Creature": "Dug the Merchant",
-    "Form": "Slashing Weapon",
-    "Type": "Primary",
-    "Range": 2,
-    "AttackBonus": 19,
-    "Weapon": "Masterwork Greataxe",
-    "BasicDamage": "1d12",
-    "DamageAdditiveBonus": 21,
-    "OtherDamageBonus": null,
-    "SneakDamage": null
-  },
-  {
     "ID": 146,
     "Creature": "Dugath",
     "Form": "Slashing Weapon",
@@ -1639,7 +1626,7 @@
   },
   {
     "ID": 149,
-    "Creature": "Nober",
+    "Creature": "Barbarian 10 Barbarian",
     "Form": "Slashing Weapon",
     "Type": "Primary",
     "Range": 2,
@@ -2427,6 +2414,19 @@
     "Weapon": "Greatsword +3",
     "BasicDamage": "2d6",
     "DamageAdditiveBonus": 36,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 189,
+    "Creature": "Barbarian 8 Fighter",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": 19,
+    "Weapon": "Masterwork Greataxe",
+    "BasicDamage": "1d12",
+    "DamageAdditiveBonus": 21,
     "OtherDamageBonus": null,
     "SneakDamage": null
   }

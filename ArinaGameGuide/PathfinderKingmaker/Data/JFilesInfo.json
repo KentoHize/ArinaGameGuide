@@ -1153,7 +1153,7 @@
           "FKTable": "Class",
           "FKColumn": "Name",
           "NumberOfRows": 1,
-          "Display": false,
+          "Display": true,
           "RegularExpression": "",
           "Description": "",
           "MinValue": "",
@@ -2432,7 +2432,8 @@
           "Type": "Choice",
           "Choices": [
             "1",
-            "2"
+            "2",
+            "Ally"
           ],
           "FKTable": null,
           "FKColumn": null,

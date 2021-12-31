@@ -799,7 +799,7 @@
   },
   {
     "ID": 131,
-    "Creature": "Nober",
+    "Creature": "Barbarian 10 Barbarian",
     "Type": "DamageReduction",
     "DamageType": "None",
     "Amount": 2
