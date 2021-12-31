@@ -4860,5 +4860,39 @@
     "StoryItem": false,
     "Weight": 0.1,
     "Description": ""
+  },
+  {
+    "ID": 264,
+    "Name": "Speed Javelin +3",
+    "DisplayName": "Speed Javelin +3",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Javelin",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 8000,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 2.0,
+    "Description": ""
+  },
+  {
+    "ID": 288,
+    "Name": "Diamond Dust",
+    "DisplayName": "Diamond Dust",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Spell Component",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 12,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.1,
+    "Description": ""
   }
 ]

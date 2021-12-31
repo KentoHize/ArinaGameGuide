@@ -768,5 +768,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 56,
+    "Name": "Flintrock Grassland Treasure A",
+    "CName": "",
+    "Type": "Corpse",
+    "Place": "Flintrock Grassland",
+    "Position": "Center",
+    "ItemStack": "Flintrock Grassland Treasure A",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

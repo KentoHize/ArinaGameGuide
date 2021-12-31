@@ -1480,5 +1480,17 @@
     "Creature": "Barbarian 9 Ranger",
     "Skill": "Perception",
     "Bonus": 19
+  },
+  {
+    "ID": 249,
+    "Creature": "Barbarian 10 Archer",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 250,
+    "Creature": "Barbarian Hill Giant",
+    "Skill": "Perception",
+    "Bonus": 22
   }
 ]

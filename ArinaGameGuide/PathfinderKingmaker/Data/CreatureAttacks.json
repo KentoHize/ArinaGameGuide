@@ -2559,5 +2559,31 @@
     "DamageAdditiveBonus": 2,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 200,
+    "Creature": "Barbarian 10 Archer",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AttackBonus": 18,
+    "Weapon": "Composite Longbow +1",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 14,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 201,
+    "Creature": "Barbarian Hill Giant",
+    "Form": "Bludgeoning Weapon",
+    "Type": "Primary",
+    "Range": 6,
+    "AttackBonus": 21,
+    "Weapon": "Greatclub",
+    "BasicDamage": "2d8",
+    "DamageAdditiveBonus": 25,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

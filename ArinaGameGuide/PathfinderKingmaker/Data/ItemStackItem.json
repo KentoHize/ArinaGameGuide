@@ -4390,5 +4390,21 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 551,
+    "ItemStack": "Flintrock Grassland Treasure A",
+    "Item": "Speed Javelin +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 552,
+    "ItemStack": "Flintrock Grassland Treasure A",
+    "Item": "Diamond Dust",
+    "RandomItem": null,
+    "Quantity": 82,
+    "RandomQuantity": null
   }
 ]
