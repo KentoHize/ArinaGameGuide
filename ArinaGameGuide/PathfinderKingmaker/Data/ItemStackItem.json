@@ -2481,7 +2481,7 @@
   },
   {
     "ID": 476,
-    "ItemStack": "MV + MGS + PoCM + HA",
+    "ItemStack": "MV + MGS + PoCM + HA1",
     "Item": null,
     "RandomItem": "Money and Valuables",
     "Quantity": 1,
@@ -2489,7 +2489,7 @@
   },
   {
     "ID": 477,
-    "ItemStack": "MV + MGS + PoCM + HA",
+    "ItemStack": "MV + MGS + PoCM + HA1",
     "Item": "Masterwork Greatsword",
     "RandomItem": null,
     "Quantity": 1,
@@ -2497,7 +2497,7 @@
   },
   {
     "ID": 478,
-    "ItemStack": "MV + MGS + PoCM + HA",
+    "ItemStack": "MV + MGS + PoCM + HA1",
     "Item": "Potion of Cure Moderate Wounds",
     "RandomItem": null,
     "Quantity": 1,
@@ -2505,8 +2505,8 @@
   },
   {
     "ID": 479,
-    "ItemStack": "MV + MGS + PoCM + HA",
-    "Item": "Hide Armor",
+    "ItemStack": "MV + MGS + PoCM + HA1",
+    "Item": "Hide Armor +1",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null

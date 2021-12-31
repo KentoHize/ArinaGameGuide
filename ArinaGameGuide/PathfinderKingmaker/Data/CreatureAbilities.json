@@ -1180,7 +1180,16 @@
   },
   {
     "ID": 133,
-    "Creature": "Barbarian 8 Fighter",
+    "Creature": "Barbarian 8 Fighter Greataxe",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 134,
+    "Creature": "Barbarian 8 Fighter Greatsword",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,

@@ -1614,5 +1614,13 @@
     "Position": "South West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 203,
+    "Name": "Flintrock Grassland Barbarian Fight A",
+    "Place": "Flintrock Grassland",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

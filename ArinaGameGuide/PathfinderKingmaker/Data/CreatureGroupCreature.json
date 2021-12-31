@@ -1422,7 +1422,7 @@
   {
     "ID": 396,
     "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
-    "Creature": "Barbarian 8 Fighter",
+    "Creature": "Barbarian 8 Fighter Greataxe",
     "DisplayName": "Dug the Merchant",
     "Quantity": 1,
     "AdditonalItems": null,
@@ -4832,7 +4832,7 @@
   {
     "ID": 484,
     "CreatureGroup": "Flintrock Grassland Group A",
-    "Creature": "Barbarian 8 Fighter",
+    "Creature": "Barbarian 8 Fighter Greataxe",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,
@@ -4853,6 +4853,116 @@
     "ID": 486,
     "CreatureGroup": "Flintrock Grassland Group A",
     "Creature": "Barbarian 10 Barbarian",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 487,
+    "CreatureGroup": "Flintrock Grassland Group A",
+    "Creature": "Brevoy Soldier",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 488,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight A",
+    "Creature": "Barbarian 8 Fighter Greataxe",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 489,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight A",
+    "Creature": "Barbarian 7 Fighter Greatsword",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 490,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight A",
+    "Creature": "Ferocious Wolf",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 491,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight A",
+    "Creature": "Barbarian 10 Barbarian",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 492,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight A",
+    "Creature": "Barbarian 8 Fighter Greatsword",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 493,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight A",
+    "Creature": "Kassil Aldori",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 494,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight A",
+    "Creature": "Brevoy Soldier",
+    "DisplayName": null,
+    "Quantity": 7,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 495,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight A",
+    "Creature": "Brevoy Officer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 496,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight A",
+    "Creature": "Barbarian 7 Fighter Greataxe",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 497,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight A",
+    "Creature": "Barbarian 8 Archer",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,

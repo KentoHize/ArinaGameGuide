@@ -2419,13 +2419,26 @@
   },
   {
     "ID": 189,
-    "Creature": "Barbarian 8 Fighter",
+    "Creature": "Barbarian 8 Fighter Greataxe",
     "Form": "Slashing Weapon",
     "Type": "Primary",
     "Range": 2,
     "AttackBonus": 19,
     "Weapon": "Masterwork Greataxe",
     "BasicDamage": "1d12",
+    "DamageAdditiveBonus": 21,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 190,
+    "Creature": "Barbarian 8 Fighter Greatsword",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": 19,
+    "Weapon": "Masterwork Greatsword",
+    "BasicDamage": "2d6",
     "DamageAdditiveBonus": 21,
     "OtherDamageBonus": null,
     "SneakDamage": null

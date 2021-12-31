@@ -1447,7 +1447,13 @@
   },
   {
     "ID": 243,
-    "Creature": "Barbarian 8 Fighter",
+    "Creature": "Barbarian 8 Fighter Greataxe",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 244,
+    "Creature": "Barbarian 8 Fighter Greatsword",
     "Skill": "Perception",
     "Bonus": 15
   }
