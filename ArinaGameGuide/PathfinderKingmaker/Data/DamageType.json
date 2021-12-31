@@ -1,13 +1,19 @@
 [
   {
-    "ID": 1,
-    "Name": "Slash",
+    "ID": 25,
+    "Name": "Ability Damage",
     "CName": "",
-    "AdeptToDamgeReduction": true
+    "AdeptToDamgeReduction": false
   },
   {
-    "ID": 15,
-    "Name": "Pierce",
+    "ID": 11,
+    "Name": "Acid",
+    "CName": "",
+    "AdeptToDamgeReduction": false
+  },
+  {
+    "ID": 20,
+    "Name": "Adamantite",
     "CName": "",
     "AdeptToDamgeReduction": true
   },
@@ -18,8 +24,98 @@
     "AdeptToDamgeReduction": true
   },
   {
-    "ID": 21,
-    "Name": "Slash/Pierce",
+    "ID": 19,
+    "Name": "Chaotic",
+    "CName": "",
+    "AdeptToDamgeReduction": false
+  },
+  {
+    "ID": 10,
+    "Name": "Cold",
+    "CName": "",
+    "AdeptToDamgeReduction": false
+  },
+  {
+    "ID": 2,
+    "Name": "Cold Iron",
+    "CName": "",
+    "AdeptToDamgeReduction": true
+  },
+  {
+    "ID": 12,
+    "Name": "Electricity",
+    "CName": "",
+    "AdeptToDamgeReduction": false
+  },
+  {
+    "ID": 5,
+    "Name": "Evil",
+    "CName": "",
+    "AdeptToDamgeReduction": true
+  },
+  {
+    "ID": 9,
+    "Name": "Fire",
+    "CName": "",
+    "AdeptToDamgeReduction": false
+  },
+  {
+    "ID": 4,
+    "Name": "Good",
+    "CName": "",
+    "AdeptToDamgeReduction": true
+  },
+  {
+    "ID": 6,
+    "Name": "Lawful",
+    "CName": "",
+    "AdeptToDamgeReduction": true
+  },
+  {
+    "ID": 3,
+    "Name": "Magic",
+    "CName": "",
+    "AdeptToDamgeReduction": true
+  },
+  {
+    "ID": 18,
+    "Name": "Negative",
+    "CName": "",
+    "AdeptToDamgeReduction": false
+  },
+  {
+    "ID": 8,
+    "Name": "None",
+    "CName": "",
+    "AdeptToDamgeReduction": true
+  },
+  {
+    "ID": 15,
+    "Name": "Pierce",
+    "CName": "",
+    "AdeptToDamgeReduction": true
+  },
+  {
+    "ID": 17,
+    "Name": "Positive",
+    "CName": "",
+    "AdeptToDamgeReduction": false
+  },
+  {
+    "ID": 7,
+    "Name": "Silver",
+    "CName": "",
+    "AdeptToDamgeReduction": true
+  },
+  {
+    "ID": 1,
+    "Name": "Slash",
+    "CName": "",
+    "AdeptToDamgeReduction": true
+  },
+  {
+    "ID": 23,
+    "Name": "Slash and Magic",
     "CName": "",
     "AdeptToDamgeReduction": true
   },
@@ -36,104 +132,8 @@
     "AdeptToDamgeReduction": true
   },
   {
-    "ID": 2,
-    "Name": "Cold Iron",
-    "CName": "",
-    "AdeptToDamgeReduction": true
-  },
-  {
-    "ID": 3,
-    "Name": "Magic",
-    "CName": "",
-    "AdeptToDamgeReduction": true
-  },
-  {
-    "ID": 4,
-    "Name": "Good",
-    "CName": "",
-    "AdeptToDamgeReduction": true
-  },
-  {
-    "ID": 5,
-    "Name": "Evil",
-    "CName": "",
-    "AdeptToDamgeReduction": true
-  },
-  {
-    "ID": 6,
-    "Name": "Lawful",
-    "CName": "",
-    "AdeptToDamgeReduction": true
-  },
-  {
-    "ID": 19,
-    "Name": "Chaotic",
-    "CName": "",
-    "AdeptToDamgeReduction": false
-  },
-  {
-    "ID": 7,
-    "Name": "Silver",
-    "CName": "",
-    "AdeptToDamgeReduction": true
-  },
-  {
-    "ID": 20,
-    "Name": "Adamantite",
-    "CName": "",
-    "AdeptToDamgeReduction": true
-  },
-  {
-    "ID": 8,
-    "Name": "None",
-    "CName": "",
-    "AdeptToDamgeReduction": true
-  },
-  {
-    "ID": 9,
-    "Name": "Fire",
-    "CName": "",
-    "AdeptToDamgeReduction": false
-  },
-  {
-    "ID": 10,
-    "Name": "Cold",
-    "CName": "",
-    "AdeptToDamgeReduction": false
-  },
-  {
-    "ID": 11,
-    "Name": "Acid",
-    "CName": "",
-    "AdeptToDamgeReduction": false
-  },
-  {
-    "ID": 12,
-    "Name": "Electricity",
-    "CName": "",
-    "AdeptToDamgeReduction": false
-  },
-  {
-    "ID": 22,
-    "Name": "Sonic",
-    "CName": "",
-    "AdeptToDamgeReduction": false
-  },
-  {
-    "ID": 17,
-    "Name": "Positive",
-    "CName": "",
-    "AdeptToDamgeReduction": false
-  },
-  {
-    "ID": 18,
-    "Name": "Negative",
-    "CName": "",
-    "AdeptToDamgeReduction": false
-  },
-  {
-    "ID": 23,
-    "Name": "Slash and Magic",
+    "ID": 21,
+    "Name": "Slash/Pierce",
     "CName": "",
     "AdeptToDamgeReduction": true
   },
@@ -144,8 +144,8 @@
     "AdeptToDamgeReduction": true
   },
   {
-    "ID": 25,
-    "Name": "Ability Damage",
+    "ID": 22,
+    "Name": "Sonic",
     "CName": "",
     "AdeptToDamgeReduction": false
   }

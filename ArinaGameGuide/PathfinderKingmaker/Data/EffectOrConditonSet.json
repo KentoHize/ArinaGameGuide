@@ -1,22 +1,12 @@
 [
   {
-    "ID": 1,
-    "Name": "True Seeing",
-    "CName": ""
-  },
-  {
-    "ID": 2,
-    "Name": "Invisibility",
-    "CName": ""
-  },
-  {
     "ID": 3,
     "Name": "Acidic Creature",
     "CName": ""
   },
   {
-    "ID": 4,
-    "Name": "Fiery Creature",
+    "ID": 11,
+    "Name": "Boss Immunities",
     "CName": ""
   },
   {
@@ -30,8 +20,8 @@
     "CName": ""
   },
   {
-    "ID": 7,
-    "Name": "Undead Immunities",
+    "ID": 15,
+    "Name": "Construct Immunities",
     "CName": ""
   },
   {
@@ -40,23 +30,13 @@
     "CName": ""
   },
   {
-    "ID": 9,
-    "Name": "Vermin Immunities",
-    "CName": ""
-  },
-  {
-    "ID": 10,
-    "Name": "Swarm Immunities",
-    "CName": ""
-  },
-  {
-    "ID": 11,
-    "Name": "Boss Immunities",
-    "CName": ""
-  },
-  {
     "ID": 12,
     "Name": "Elemental Immunities",
+    "CName": ""
+  },
+  {
+    "ID": 4,
+    "Name": "Fiery Creature",
     "CName": ""
   },
   {
@@ -65,13 +45,33 @@
     "CName": ""
   },
   {
+    "ID": 2,
+    "Name": "Invisibility",
+    "CName": ""
+  },
+  {
     "ID": 14,
     "Name": "Soul Eater Immunities",
     "CName": ""
   },
   {
-    "ID": 15,
-    "Name": "Construct Immunities",
+    "ID": 10,
+    "Name": "Swarm Immunities",
+    "CName": ""
+  },
+  {
+    "ID": 1,
+    "Name": "True Seeing",
+    "CName": ""
+  },
+  {
+    "ID": 7,
+    "Name": "Undead Immunities",
+    "CName": ""
+  },
+  {
+    "ID": 9,
+    "Name": "Vermin Immunities",
     "CName": ""
   }
 ]

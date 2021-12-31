@@ -1,62 +1,35 @@
 [
   {
-    "ID": 1,
-    "Creature": "Purple Dweomerowlbear",
-    "EffectOrCondition": "Mirror Image",
-    "Amount": 0,
-    "Period": 140,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 3,
-    "Creature": "Ferocious Hydra",
-    "EffectOrCondition": "Fast Healing",
-    "Amount": 7,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 4,
-    "Creature": "Quickhydra",
-    "EffectOrCondition": "Fast Healing",
-    "Amount": 5,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 5,
-    "Creature": "Hydra",
-    "EffectOrCondition": "Fast Healing",
-    "Amount": 5,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 6,
-    "Creature": "Redcap Trickster",
-    "EffectOrCondition": "Fast Healing",
-    "Amount": 3,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 7,
-    "Creature": "Redcap",
-    "EffectOrCondition": "Fast Healing",
-    "Amount": 3,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 8,
-    "Creature": "Primal Spider Matriarch",
+    "ID": 38,
+    "Creature": "Astradaemon",
     "EffectOrCondition": "Displacement",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 34,
+    "Creature": "Bandit 5 Transmuter",
+    "EffectOrCondition": "Bear's Endurance",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 36,
+    "Creature": "Cephal Lorentus",
+    "EffectOrCondition": "Freedom of Movement",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 35,
+    "Creature": "Defaced Sister",
+    "EffectOrCondition": "Barskin",
     "Amount": null,
     "Period": null,
     "VulnearTo1": null,
@@ -81,36 +54,27 @@
     "VulnearTo2": null
   },
   {
-    "ID": 11,
-    "Creature": "Quickspider",
-    "EffectOrCondition": "Blur",
+    "ID": 23,
+    "Creature": "Ferocious Devourer",
+    "EffectOrCondition": "True Seeing",
     "Amount": null,
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
   },
   {
-    "ID": 12,
-    "Creature": "The Weary Traveler",
-    "EffectOrCondition": "Protective Aura",
-    "Amount": null,
+    "ID": 3,
+    "Creature": "Ferocious Hydra",
+    "EffectOrCondition": "Fast Healing",
+    "Amount": 7,
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
   },
   {
-    "ID": 13,
-    "Creature": "Primal Manticore",
-    "EffectOrCondition": "Blur",
-    "Amount": null,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 14,
-    "Creature": "Venomhodag",
-    "EffectOrCondition": "Invisibility",
+    "ID": 18,
+    "Creature": "Ghostly Mage Guard",
+    "EffectOrCondition": "Shield",
     "Amount": null,
     "Period": null,
     "VulnearTo1": null,
@@ -135,33 +99,6 @@
     "VulnearTo2": null
   },
   {
-    "ID": 17,
-    "Creature": "Medusa",
-    "EffectOrCondition": "Protection From Fire",
-    "Amount": 92,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 18,
-    "Creature": "Ghostly Mage Guard",
-    "EffectOrCondition": "Shield",
-    "Amount": null,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 19,
-    "Creature": "Poisonous Primal Doomhydra",
-    "EffectOrCondition": "Invisibility",
-    "Amount": null,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
     "ID": 20,
     "Creature": "Grag Linnorm 16 Dragon",
     "EffectOrCondition": "Freedom of Movement",
@@ -180,46 +117,19 @@
     "VulnearTo2": null
   },
   {
-    "ID": 22,
-    "Creature": "Poacher Alchemist",
-    "EffectOrCondition": "Freedom of Movement",
+    "ID": 29,
+    "Creature": "Green Dweomanticore",
+    "EffectOrCondition": "Haste",
     "Amount": null,
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
   },
   {
-    "ID": 23,
-    "Creature": "Ferocious Devourer",
-    "EffectOrCondition": "True Seeing",
-    "Amount": null,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 24,
-    "Creature": "Technic League's Conjurer",
-    "EffectOrCondition": "Bear's Endurance",
-    "Amount": null,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 25,
-    "Creature": "Technic League's Alchemist",
-    "EffectOrCondition": "Barskin",
-    "Amount": null,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 26,
-    "Creature": "Technic League's Alchemist",
-    "EffectOrCondition": "Mutagen - Dexterity",
-    "Amount": null,
+    "ID": 5,
+    "Creature": "Hydra",
+    "EffectOrCondition": "Fast Healing",
+    "Amount": 5,
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
@@ -234,37 +144,10 @@
     "VulnearTo2": null
   },
   {
-    "ID": 28,
-    "Creature": "Venomanticore",
-    "EffectOrCondition": "Haste",
-    "Amount": null,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 29,
-    "Creature": "Green Dweomanticore",
-    "EffectOrCondition": "Haste",
-    "Amount": null,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 30,
-    "Creature": "Venomanticore",
-    "EffectOrCondition": "Invisibility",
-    "Amount": null,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 31,
-    "Creature": "Yellow Dweomerwyvern",
-    "EffectOrCondition": "True Seeing",
-    "Amount": null,
+    "ID": 17,
+    "Creature": "Medusa",
+    "EffectOrCondition": "Protection From Fire",
+    "Amount": 92,
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
@@ -288,17 +171,89 @@
     "VulnearTo2": null
   },
   {
-    "ID": 34,
-    "Creature": "Bandit 5 Transmuter",
-    "EffectOrCondition": "Bear's Endurance",
+    "ID": 22,
+    "Creature": "Poacher Alchemist",
+    "EffectOrCondition": "Freedom of Movement",
     "Amount": null,
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
   },
   {
-    "ID": 35,
-    "Creature": "Defaced Sister",
+    "ID": 19,
+    "Creature": "Poisonous Primal Doomhydra",
+    "EffectOrCondition": "Invisibility",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 13,
+    "Creature": "Primal Manticore",
+    "EffectOrCondition": "Blur",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 8,
+    "Creature": "Primal Spider Matriarch",
+    "EffectOrCondition": "Displacement",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 1,
+    "Creature": "Purple Dweomerowlbear",
+    "EffectOrCondition": "Mirror Image",
+    "Amount": 0,
+    "Period": 140,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 4,
+    "Creature": "Quickhydra",
+    "EffectOrCondition": "Fast Healing",
+    "Amount": 5,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 11,
+    "Creature": "Quickspider",
+    "EffectOrCondition": "Blur",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 7,
+    "Creature": "Redcap",
+    "EffectOrCondition": "Fast Healing",
+    "Amount": 3,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 6,
+    "Creature": "Redcap Trickster",
+    "EffectOrCondition": "Fast Healing",
+    "Amount": 3,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 25,
+    "Creature": "Technic League's Alchemist",
     "EffectOrCondition": "Barskin",
     "Amount": null,
     "Period": null,
@@ -306,9 +261,63 @@
     "VulnearTo2": null
   },
   {
-    "ID": 36,
-    "Creature": "Cephal Lorentus",
-    "EffectOrCondition": "Freedom of Movement",
+    "ID": 26,
+    "Creature": "Technic League's Alchemist",
+    "EffectOrCondition": "Mutagen - Dexterity",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 24,
+    "Creature": "Technic League's Conjurer",
+    "EffectOrCondition": "Bear's Endurance",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 12,
+    "Creature": "The Weary Traveler",
+    "EffectOrCondition": "Protective Aura",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 28,
+    "Creature": "Venomanticore",
+    "EffectOrCondition": "Haste",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 30,
+    "Creature": "Venomanticore",
+    "EffectOrCondition": "Invisibility",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 14,
+    "Creature": "Venomhodag",
+    "EffectOrCondition": "Invisibility",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 31,
+    "Creature": "Yellow Dweomerwyvern",
+    "EffectOrCondition": "True Seeing",
     "Amount": null,
     "Period": null,
     "VulnearTo1": null,
@@ -318,15 +327,6 @@
     "ID": 37,
     "Creature": "Zombie",
     "EffectOrCondition": "Staggered",
-    "Amount": null,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 38,
-    "Creature": "Astradaemon",
-    "EffectOrCondition": "Displacement",
     "Amount": null,
     "Period": null,
     "VulnearTo1": null,

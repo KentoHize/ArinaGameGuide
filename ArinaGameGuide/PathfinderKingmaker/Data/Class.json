@@ -1,10 +1,10 @@
 [
   {
-    "ID": 1,
-    "Name": "Magical Beast",
+    "ID": 6,
+    "Name": "Alchemist",
     "CName": "",
-    "ChanllegeRateMultiplier": 0.75,
-    "PlayerClass": false
+    "ChanllegeRateMultiplier": 1.0,
+    "PlayerClass": true
   },
   {
     "ID": 2,
@@ -14,50 +14,15 @@
     "PlayerClass": false
   },
   {
-    "ID": 3,
-    "Name": "Vermin",
-    "CName": "",
-    "ChanllegeRateMultiplier": 0.5,
-    "PlayerClass": false
-  },
-  {
-    "ID": 4,
-    "Name": "Rogue",
-    "CName": "",
-    "ChanllegeRateMultiplier": 0.75,
-    "PlayerClass": true
-  },
-  {
-    "ID": 5,
-    "Name": "Fighter",
-    "CName": "",
+    "ID": 11,
+    "Name": "Barbarian",
+    "CName": "Barbarian",
     "ChanllegeRateMultiplier": 1.0,
     "PlayerClass": true
-  },
-  {
-    "ID": 6,
-    "Name": "Alchemist",
-    "CName": "",
-    "ChanllegeRateMultiplier": 1.0,
-    "PlayerClass": true
-  },
-  {
-    "ID": 7,
-    "Name": "Construct",
-    "CName": "",
-    "ChanllegeRateMultiplier": 0.75,
-    "PlayerClass": false
   },
   {
     "ID": 8,
     "Name": "Bard",
-    "CName": "",
-    "ChanllegeRateMultiplier": 1.0,
-    "PlayerClass": true
-  },
-  {
-    "ID": 9,
-    "Name": "Wizard",
     "CName": "",
     "ChanllegeRateMultiplier": 1.0,
     "PlayerClass": true
@@ -70,11 +35,18 @@
     "PlayerClass": true
   },
   {
-    "ID": 11,
-    "Name": "Barbarian",
-    "CName": "Barbarian",
-    "ChanllegeRateMultiplier": 1.0,
-    "PlayerClass": true
+    "ID": 7,
+    "Name": "Construct",
+    "CName": "",
+    "ChanllegeRateMultiplier": 0.75,
+    "PlayerClass": false
+  },
+  {
+    "ID": 16,
+    "Name": "Corrupted Creature",
+    "CName": "",
+    "ChanllegeRateMultiplier": 0.75,
+    "PlayerClass": false
   },
   {
     "ID": 12,
@@ -91,8 +63,15 @@
     "PlayerClass": false
   },
   {
-    "ID": 14,
-    "Name": "Plant",
+    "ID": 5,
+    "Name": "Fighter",
+    "CName": "",
+    "ChanllegeRateMultiplier": 1.0,
+    "PlayerClass": true
+  },
+  {
+    "ID": 17,
+    "Name": "Humanoid",
     "CName": "",
     "ChanllegeRateMultiplier": 0.5,
     "PlayerClass": false
@@ -105,17 +84,17 @@
     "PlayerClass": true
   },
   {
-    "ID": 16,
-    "Name": "Corrupted Creature",
+    "ID": 1,
+    "Name": "Magical Beast",
     "CName": "",
     "ChanllegeRateMultiplier": 0.75,
     "PlayerClass": false
   },
   {
-    "ID": 17,
-    "Name": "Humanoid",
+    "ID": 20,
+    "Name": "Monstrous Humanoid",
     "CName": "",
-    "ChanllegeRateMultiplier": 0.5,
+    "ChanllegeRateMultiplier": 0.75,
     "PlayerClass": false
   },
   {
@@ -126,6 +105,27 @@
     "PlayerClass": false
   },
   {
+    "ID": 14,
+    "Name": "Plant",
+    "CName": "",
+    "ChanllegeRateMultiplier": 0.5,
+    "PlayerClass": false
+  },
+  {
+    "ID": 23,
+    "Name": "Ranger",
+    "CName": "",
+    "ChanllegeRateMultiplier": 1.0,
+    "PlayerClass": true
+  },
+  {
+    "ID": 4,
+    "Name": "Rogue",
+    "CName": "",
+    "ChanllegeRateMultiplier": 0.75,
+    "PlayerClass": true
+  },
+  {
     "ID": 19,
     "Name": "Sorcerer",
     "CName": "",
@@ -133,10 +133,17 @@
     "PlayerClass": true
   },
   {
-    "ID": 20,
-    "Name": "Monstrous Humanoid",
+    "ID": 22,
+    "Name": "Undead",
     "CName": "",
     "ChanllegeRateMultiplier": 0.75,
+    "PlayerClass": false
+  },
+  {
+    "ID": 3,
+    "Name": "Vermin",
+    "CName": "",
+    "ChanllegeRateMultiplier": 0.5,
     "PlayerClass": false
   },
   {
@@ -147,15 +154,8 @@
     "PlayerClass": false
   },
   {
-    "ID": 22,
-    "Name": "Undead",
-    "CName": "",
-    "ChanllegeRateMultiplier": 0.75,
-    "PlayerClass": false
-  },
-  {
-    "ID": 23,
-    "Name": "Ranger",
+    "ID": 9,
+    "Name": "Wizard",
     "CName": "",
     "ChanllegeRateMultiplier": 1.0,
     "PlayerClass": true

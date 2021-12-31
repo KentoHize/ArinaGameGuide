@@ -1,117 +1,225 @@
 [
   {
-    "ID": 1,
-    "Creature": "Scythe Tree",
+    "ID": 78,
+    "Creature": "Agai",
     "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 79,
+    "Creature": "Agai",
+    "Skill": "Athletics",
+    "Bonus": 8
+  },
+  {
+    "ID": 80,
+    "Creature": "Agai",
+    "Skill": "Trickery",
+    "Bonus": 12
+  },
+  {
+    "ID": 98,
+    "Creature": "Alpha Worg from Dunsward Pack",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 99,
+    "Creature": "Alpha Worg from Dunsward Pack",
+    "Skill": "Stealth",
+    "Bonus": 13
+  },
+  {
+    "ID": 106,
+    "Creature": "Ancient Bulette",
+    "Skill": "Perception",
+    "Bonus": 26
+  },
+  {
+    "ID": 195,
+    "Creature": "Ancient Soul Eater 12",
+    "Skill": "Mobility",
+    "Bonus": 25
+  },
+  {
+    "ID": 196,
+    "Creature": "Ancient Soul Eater 12",
+    "Skill": "Persuasion",
+    "Bonus": 16
+  },
+  {
+    "ID": 197,
+    "Creature": "Ancient Soul Eater 12",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 11
+  },
+  {
+    "ID": 198,
+    "Creature": "Ancient Soul Eater 12",
+    "Skill": "Stealth",
+    "Bonus": 53
+  },
+  {
+    "ID": 199,
+    "Creature": "Ancient Soul Eater 15",
+    "Skill": "Mobility",
+    "Bonus": 21
+  },
+  {
+    "ID": 200,
+    "Creature": "Ancient Soul Eater 15",
+    "Skill": "Persuasion",
     "Bonus": 19
   },
   {
-    "ID": 2,
-    "Creature": "Scythe Tree",
+    "ID": 201,
+    "Creature": "Ancient Soul Eater 15",
     "Skill": "Stealth",
-    "Bonus": 5
-  },
-  {
-    "ID": 3,
-    "Creature": "Grag Linnorm",
-    "Skill": "Perception",
     "Bonus": 28
   },
   {
-    "ID": 4,
-    "Creature": "Grag Linnorm",
-    "Skill": "Athletics",
+    "ID": 229,
+    "Creature": "Ancient Water Elemental",
+    "Skill": "Perception",
+    "Bonus": 27
+  },
+  {
+    "ID": 230,
+    "Creature": "Ancient Water Elemental",
+    "Skill": "Stealth",
+    "Bonus": 21
+  },
+  {
+    "ID": 170,
+    "Creature": "Anguished Barbarian Zombie",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 171,
+    "Creature": "Anguished Barbarian Zombie",
+    "Skill": "Stealth",
+    "Bonus": 14
+  },
+  {
+    "ID": 202,
+    "Creature": "Astradaemon",
+    "Skill": "Mobility",
     "Bonus": 33
   },
   {
-    "ID": 5,
-    "Creature": "Kobold Boomsayer",
+    "ID": 203,
+    "Creature": "Astradaemon",
+    "Skill": "Persuasion",
+    "Bonus": 31
+  },
+  {
+    "ID": 204,
+    "Creature": "Astradaemon",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 18
+  },
+  {
+    "ID": 205,
+    "Creature": "Astradaemon",
+    "Skill": "Lore(Nature)",
+    "Bonus": 21
+  },
+  {
+    "ID": 206,
+    "Creature": "Astradaemon",
+    "Skill": "Perception",
+    "Bonus": 36
+  },
+  {
+    "ID": 207,
+    "Creature": "Astradaemon",
+    "Skill": "Stealth",
+    "Bonus": 25
+  },
+  {
+    "ID": 133,
+    "Creature": "Bandit 5 Alchemist",
+    "Skill": "Perception",
+    "Bonus": 13
+  },
+  {
+    "ID": 134,
+    "Creature": "Bandit 5 Alchemist",
+    "Skill": "Stealth",
+    "Bonus": 9
+  },
+  {
+    "ID": 135,
+    "Creature": "Bandit 5 Alchemist",
+    "Skill": "Trickery",
+    "Bonus": 14
+  },
+  {
+    "ID": 129,
+    "Creature": "Bandit 6 Archer",
+    "Skill": "Perception",
+    "Bonus": 13
+  },
+  {
+    "ID": 130,
+    "Creature": "Bandit 6 Archer",
+    "Skill": "Stealth",
+    "Bonus": 11
+  },
+  {
+    "ID": 125,
+    "Creature": "Bandit 6 Barbarian",
+    "Skill": "Perception",
+    "Bonus": 16
+  },
+  {
+    "ID": 126,
+    "Creature": "Bandit 6 Barbarian",
+    "Skill": "Stealth",
+    "Bonus": 6
+  },
+  {
+    "ID": 131,
+    "Creature": "Bandit 6 Sword Fighter",
+    "Skill": "Perception",
+    "Bonus": 13
+  },
+  {
+    "ID": 132,
+    "Creature": "Bandit 6 Sword Fighter",
+    "Skill": "Stealth",
+    "Bonus": 4
+  },
+  {
+    "ID": 146,
+    "Creature": "Bandit 7 Cleric",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 123,
+    "Creature": "Bandit 7 Fighter",
     "Skill": "Perception",
     "Bonus": 14
   },
   {
-    "ID": 6,
-    "Creature": "Kobold Boomsayer",
+    "ID": 124,
+    "Creature": "Bandit 7 Fighter",
     "Skill": "Stealth",
-    "Bonus": 12
+    "Bonus": 6
   },
   {
-    "ID": 7,
-    "Creature": "Kobold Boomsayer",
-    "Skill": "Athletics",
-    "Bonus": 4
-  },
-  {
-    "ID": 8,
-    "Creature": "Ghostly Guard",
+    "ID": 142,
+    "Creature": "Bandit 7 Rouge",
     "Skill": "Perception",
-    "Bonus": 35
+    "Bonus": 20
   },
   {
-    "ID": 9,
-    "Creature": "Ghostly Guard",
+    "ID": 143,
+    "Creature": "Bandit 7 Rouge",
     "Skill": "Stealth",
-    "Bonus": 43
-  },
-  {
-    "ID": 10,
-    "Creature": "Thickskin Lizardfolk",
-    "Skill": "Mobility",
-    "Bonus": 22
-  },
-  {
-    "ID": 11,
-    "Creature": "Thickskin Lizardfolk",
-    "Skill": "Perception",
-    "Bonus": 23
-  },
-  {
-    "ID": 12,
-    "Creature": "Thickskin Lizardfolk",
-    "Skill": "Athletics",
-    "Bonus": 7
-  },
-  {
-    "ID": 13,
-    "Creature": "Thickskin Lizardfolk",
-    "Skill": "Stealth",
-    "Bonus": 16
-  },
-  {
-    "ID": 14,
-    "Creature": "Poisonous Primal Doomhydra",
-    "Skill": "Stealth",
-    "Bonus": 38
-  },
-  {
-    "ID": 15,
-    "Creature": "Poacher Brawler",
-    "Skill": "Perception",
-    "Bonus": 18
-  },
-  {
-    "ID": 16,
-    "Creature": "Poacher Brawler",
-    "Skill": "Stealth",
-    "Bonus": 11
-  },
-  {
-    "ID": 17,
-    "Creature": "Poacher Brawler",
-    "Skill": "Trickery",
-    "Bonus": 13
-  },
-  {
-    "ID": 18,
-    "Creature": "Fionn",
-    "Skill": "Perception",
-    "Bonus": 31
-  },
-  {
-    "ID": 19,
-    "Creature": "Fionn",
-    "Skill": "Stealth",
-    "Bonus": 11
+    "Bonus": 14
   },
   {
     "ID": 20,
@@ -126,10 +234,16 @@
     "Bonus": 14
   },
   {
-    "ID": 23,
-    "Creature": "Bandit 8 Rogue",
+    "ID": 136,
+    "Creature": "Bandit 8 Fighter",
     "Skill": "Perception",
-    "Bonus": 22
+    "Bonus": 15
+  },
+  {
+    "ID": 137,
+    "Creature": "Bandit 8 Fighter",
+    "Skill": "Stealth",
+    "Bonus": 8
   },
   {
     "ID": 22,
@@ -138,16 +252,280 @@
     "Bonus": 15
   },
   {
-    "ID": 24,
-    "Creature": "Greater Cyclops 24",
+    "ID": 23,
+    "Creature": "Bandit 8 Rogue",
+    "Skill": "Perception",
+    "Bonus": 22
+  },
+  {
+    "ID": 140,
+    "Creature": "Bandit 9 Bard",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 141,
+    "Creature": "Bandit 9 Bard",
+    "Skill": "Stealth",
+    "Bonus": 16
+  },
+  {
+    "ID": 138,
+    "Creature": "Bandit 9 Rouge",
+    "Skill": "Perception",
+    "Bonus": 23
+  },
+  {
+    "ID": 139,
+    "Creature": "Bandit 9 Rouge",
+    "Skill": "Stealth",
+    "Bonus": 16
+  },
+  {
+    "ID": 153,
+    "Creature": "Bandit Chastener 10 Fighter",
+    "Skill": "Perception",
+    "Bonus": 16
+  },
+  {
+    "ID": 154,
+    "Creature": "Bandit Chastener 10 Fighter",
+    "Skill": "Athletics",
+    "Bonus": 18
+  },
+  {
+    "ID": 144,
+    "Creature": "Bandit Leader 10 Fighter",
+    "Skill": "Perception",
+    "Bonus": 16
+  },
+  {
+    "ID": 145,
+    "Creature": "Bandit Leader 10 Fighter",
+    "Skill": "Athletics",
+    "Bonus": 18
+  },
+  {
+    "ID": 155,
+    "Creature": "Barbarian 7 Barbarian",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 156,
+    "Creature": "Barbarian 7 Barbarian",
+    "Skill": "Stealth",
+    "Bonus": 7
+  },
+  {
+    "ID": 189,
+    "Creature": "Barbarian 7 Fighter Greataxe",
+    "Skill": "Perception",
+    "Bonus": 14
+  },
+  {
+    "ID": 187,
+    "Creature": "Barbarian 7 Fighter Greatsword",
+    "Skill": "Perception",
+    "Bonus": 14
+  },
+  {
+    "ID": 188,
+    "Creature": "Barbarian 7 Ranger",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 186,
+    "Creature": "Barbarian 8 Archer",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 185,
+    "Creature": "Barbarian 8 Barbarian",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 172,
+    "Creature": "Bloody Bones Beast",
     "Skill": "Perception",
     "Bonus": 28
   },
   {
-    "ID": 25,
-    "Creature": "Greater Cyclops 24",
+    "ID": 173,
+    "Creature": "Bloody Bones Beast",
+    "Skill": "Stealth",
+    "Bonus": 29
+  },
+  {
+    "ID": 181,
+    "Creature": "Bolga",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 91,
+    "Creature": "Calistrian Archer",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 92,
+    "Creature": "Calistrian Archer",
+    "Skill": "Stealth",
+    "Bonus": 13
+  },
+  {
+    "ID": 88,
+    "Creature": "Calistrian Fighter Greataxe",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 89,
+    "Creature": "Calistrian Fighter Longsword",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 90,
+    "Creature": "Calistrian Fighter Longsword",
+    "Skill": "Stealth",
+    "Bonus": 9
+  },
+  {
+    "ID": 93,
+    "Creature": "Calistrian Rogue",
+    "Skill": "Perception",
+    "Bonus": 23
+  },
+  {
+    "ID": 94,
+    "Creature": "Calistrian Rogue",
+    "Skill": "Stealth",
+    "Bonus": 16
+  },
+  {
+    "ID": 208,
+    "Creature": "Cephal Lorentus",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 209,
+    "Creature": "Cephal Lorentus",
+    "Skill": "Athletics",
+    "Bonus": 6
+  },
+  {
+    "ID": 175,
+    "Creature": "Defaced Sister",
+    "Skill": "Mobility",
+    "Bonus": 27
+  },
+  {
+    "ID": 176,
+    "Creature": "Defaced Sister",
     "Skill": "Persuasion",
+    "Bonus": 24
+  },
+  {
+    "ID": 177,
+    "Creature": "Defaced Sister",
+    "Skill": "Lore(Nature)",
+    "Bonus": 17
+  },
+  {
+    "ID": 178,
+    "Creature": "Defaced Sister",
+    "Skill": "Perception",
+    "Bonus": 25
+  },
+  {
+    "ID": 179,
+    "Creature": "Defaced Sister",
+    "Skill": "Athletics",
+    "Bonus": 15
+  },
+  {
+    "ID": 180,
+    "Creature": "Defaced Sister",
+    "Skill": "Stealth",
+    "Bonus": 31
+  },
+  {
+    "ID": 102,
+    "Creature": "Dread Zombie Cyclops",
+    "Skill": "Lore(Nature)",
+    "Bonus": 17
+  },
+  {
+    "ID": 103,
+    "Creature": "Dread Zombie Cyclops",
+    "Skill": "Perception",
     "Bonus": 28
+  },
+  {
+    "ID": 150,
+    "Creature": "Dread Zombie Cyclops Priest",
+    "Skill": "Lore(Nature)",
+    "Bonus": 19
+  },
+  {
+    "ID": 151,
+    "Creature": "Dread Zombie Cyclops Priest",
+    "Skill": "Lore(Religion)",
+    "Bonus": 17
+  },
+  {
+    "ID": 152,
+    "Creature": "Dread Zombie Cyclops Priest",
+    "Skill": "Perception",
+    "Bonus": 37
+  },
+  {
+    "ID": 212,
+    "Creature": "Dread Zombie Lord",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 213,
+    "Creature": "Dread Zombie Lord",
+    "Skill": "Stealth",
+    "Bonus": 12
+  },
+  {
+    "ID": 183,
+    "Creature": "Dug the Merchant",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 174,
+    "Creature": "Dugath",
+    "Skill": "Lore(Religion)",
+    "Bonus": 21
+  },
+  {
+    "ID": 100,
+    "Creature": "Elder Earth Elemental",
+    "Skill": "Perception",
+    "Bonus": 25
+  },
+  {
+    "ID": 164,
+    "Creature": "Enervated Sorcerer Zombie",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 165,
+    "Creature": "Enervated Sorcerer Zombie",
+    "Skill": "Stealth",
+    "Bonus": 18
   },
   {
     "ID": 26,
@@ -174,130 +552,28 @@
     "Bonus": 25
   },
   {
-    "ID": 30,
-    "Creature": "Technic League's Conjurer",
+    "ID": 101,
+    "Creature": "Ferocious Dread Zombie Cyclops",
     "Skill": "Perception",
-    "Bonus": 18
+    "Bonus": 26
   },
   {
-    "ID": 31,
-    "Creature": "Technic League's Conjurer",
-    "Skill": "Stealth",
-    "Bonus": 12
-  },
-  {
-    "ID": 32,
-    "Creature": "Technic League's Alchemist",
-    "Skill": "Perception",
-    "Bonus": 19
-  },
-  {
-    "ID": 33,
-    "Creature": "Technic League's Alchemist",
-    "Skill": "Stealth",
-    "Bonus": 15
-  },
-  {
-    "ID": 34,
-    "Creature": "Technic League's Alchemist",
-    "Skill": "Trickery",
+    "ID": 192,
+    "Creature": "Ferocious Soul Eater",
+    "Skill": "Mobility",
     "Bonus": 20
   },
   {
-    "ID": 35,
-    "Creature": "Technic League's Archer",
-    "Skill": "Perception",
-    "Bonus": 15
-  },
-  {
-    "ID": 36,
-    "Creature": "Technic League's Archer",
-    "Skill": "Stealth",
-    "Bonus": 14
-  },
-  {
-    "ID": 37,
-    "Creature": "Technic League's Cleric",
-    "Skill": "Perception",
-    "Bonus": 17
-  },
-  {
-    "ID": 38,
-    "Creature": "Technic League's Fighter",
-    "Skill": "Perception",
-    "Bonus": 15
-  },
-  {
-    "ID": 39,
-    "Creature": "Technic League's Fighter",
-    "Skill": "Stealth",
-    "Bonus": 8
-  },
-  {
-    "ID": 40,
-    "Creature": "Technic League's Bard",
-    "Skill": "Perception",
-    "Bonus": 19
-  },
-  {
-    "ID": 41,
-    "Creature": "Technic League's Bard",
-    "Skill": "Stealth",
-    "Bonus": 16
-  },
-  {
-    "ID": 42,
-    "Creature": "Technic League's Rogue",
-    "Skill": "Perception",
-    "Bonus": 23
-  },
-  {
-    "ID": 43,
-    "Creature": "Technic League's Rogue",
-    "Skill": "Stealth",
-    "Bonus": 16
-  },
-  {
-    "ID": 44,
-    "Creature": "Venomanticore",
-    "Skill": "Perception",
-    "Bonus": 18
-  },
-  {
-    "ID": 45,
-    "Creature": "Green Dweomanticore",
-    "Skill": "Perception",
-    "Bonus": 18
-  },
-  {
-    "ID": 46,
-    "Creature": "Moray",
-    "Skill": "Persuasion",
-    "Bonus": 23
-  },
-  {
-    "ID": 47,
-    "Creature": "Moray",
-    "Skill": "Perception",
-    "Bonus": 27
-  },
-  {
-    "ID": 48,
-    "Creature": "Moray",
-    "Skill": "Lore(Nature)",
-    "Bonus": 23
-  },
-  {
-    "ID": 49,
-    "Creature": "Moray",
-    "Skill": "Athletics",
-    "Bonus": 14
-  },
-  {
-    "ID": 50,
-    "Creature": "Moray",
+    "ID": 193,
+    "Creature": "Ferocious Soul Eater",
     "Skill": "Stealth",
     "Bonus": 26
+  },
+  {
+    "ID": 194,
+    "Creature": "Ferocious Soul Eater",
+    "Skill": "Persuasion",
+    "Bonus": 17
   },
   {
     "ID": 51,
@@ -310,6 +586,90 @@
     "Creature": "Ferocious Trollhound",
     "Skill": "Stealth",
     "Bonus": 12
+  },
+  {
+    "ID": 210,
+    "Creature": "Ferocious Zombie Lord Axeman",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 211,
+    "Creature": "Ferocious Zombie Lord Axeman",
+    "Skill": "Stealth",
+    "Bonus": 11
+  },
+  {
+    "ID": 18,
+    "Creature": "Fionn",
+    "Skill": "Perception",
+    "Bonus": 31
+  },
+  {
+    "ID": 19,
+    "Creature": "Fionn",
+    "Skill": "Stealth",
+    "Bonus": 11
+  },
+  {
+    "ID": 8,
+    "Creature": "Ghostly Guard",
+    "Skill": "Perception",
+    "Bonus": 35
+  },
+  {
+    "ID": 9,
+    "Creature": "Ghostly Guard",
+    "Skill": "Stealth",
+    "Bonus": 43
+  },
+  {
+    "ID": 3,
+    "Creature": "Grag Linnorm",
+    "Skill": "Perception",
+    "Bonus": 28
+  },
+  {
+    "ID": 4,
+    "Creature": "Grag Linnorm",
+    "Skill": "Athletics",
+    "Bonus": 33
+  },
+  {
+    "ID": 220,
+    "Creature": "Grand Zombie Lord",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 221,
+    "Creature": "Grand Zombie Lord",
+    "Skill": "Stealth",
+    "Bonus": 14
+  },
+  {
+    "ID": 147,
+    "Creature": "Greater Cyclops 17",
+    "Skill": "Perception",
+    "Bonus": 28
+  },
+  {
+    "ID": 24,
+    "Creature": "Greater Cyclops 24",
+    "Skill": "Perception",
+    "Bonus": 28
+  },
+  {
+    "ID": 25,
+    "Creature": "Greater Cyclops 24",
+    "Skill": "Persuasion",
+    "Bonus": 28
+  },
+  {
+    "ID": 191,
+    "Creature": "Greater Dread Zombie Cyclops",
+    "Skill": "Perception",
+    "Bonus": 28
   },
   {
     "ID": 53,
@@ -336,166 +696,58 @@
     "Bonus": 12
   },
   {
-    "ID": 57,
-    "Creature": "Spriggan Savage",
+    "ID": 127,
+    "Creature": "Greater Worg",
     "Skill": "Perception",
-    "Bonus": 17
+    "Bonus": 25
   },
   {
-    "ID": 58,
-    "Creature": "Spriggan Savage",
-    "Skill": "Athletics",
-    "Bonus": 7
-  },
-  {
-    "ID": 59,
-    "Creature": "Spriggan Savage",
-    "Skill": "Trickery",
-    "Bonus": 12
-  },
-  {
-    "ID": 60,
-    "Creature": "Spriggan Rogue",
-    "Skill": "Perception",
-    "Bonus": 21
-  },
-  {
-    "ID": 61,
-    "Creature": "Spriggan Rogue",
-    "Skill": "Athletics",
-    "Bonus": 6
-  },
-  {
-    "ID": 62,
-    "Creature": "Spriggan Rogue",
+    "ID": 128,
+    "Creature": "Greater Worg",
     "Skill": "Stealth",
-    "Bonus": 21
+    "Bonus": 13
   },
   {
-    "ID": 63,
-    "Creature": "Spriggan Rogue",
-    "Skill": "Trickery",
+    "ID": 216,
+    "Creature": "Greater Zombie Lord",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 217,
+    "Creature": "Greater Zombie Lord",
+    "Skill": "Stealth",
+    "Bonus": 13
+  },
+  {
+    "ID": 227,
+    "Creature": "Greater Zombie Lord Axeman",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 228,
+    "Creature": "Greater Zombie Lord Axeman",
+    "Skill": "Stealth",
     "Bonus": 14
   },
   {
-    "ID": 64,
-    "Creature": "Spriggan Raider",
+    "ID": 225,
+    "Creature": "Greater Zombie Lord Spearman",
     "Skill": "Perception",
-    "Bonus": 17
+    "Bonus": 20
   },
   {
-    "ID": 65,
-    "Creature": "Spriggan Raider",
-    "Skill": "Athletics",
-    "Bonus": 6
-  },
-  {
-    "ID": 66,
-    "Creature": "Spriggan Raider",
-    "Skill": "Trickery",
-    "Bonus": 12
-  },
-  {
-    "ID": 67,
-    "Creature": "Spriggan Skilled Crossbowman",
-    "Skill": "Athletics",
-    "Bonus": 5
-  },
-  {
-    "ID": 68,
-    "Creature": "Spriggan Skilled Crossbowman",
-    "Skill": "Trickery",
-    "Bonus": 10
-  },
-  {
-    "ID": 69,
-    "Creature": "Spriggan Fighter",
-    "Skill": "Perception",
-    "Bonus": 17
-  },
-  {
-    "ID": 70,
-    "Creature": "Spriggan Fighter",
-    "Skill": "Athletics",
-    "Bonus": 4
-  },
-  {
-    "ID": 71,
-    "Creature": "Spriggan Fighter",
-    "Skill": "Trickery",
-    "Bonus": 12
-  },
-  {
-    "ID": 72,
-    "Creature": "Spriggan Dodgy Crossbowman",
-    "Skill": "Perception",
-    "Bonus": 21
-  },
-  {
-    "ID": 73,
-    "Creature": "Spriggan Dodgy Crossbowman",
-    "Skill": "Athletics",
-    "Bonus": 4
-  },
-  {
-    "ID": 74,
-    "Creature": "Spriggan Dodgy Crossbowman",
+    "ID": 226,
+    "Creature": "Greater Zombie Lord Spearman",
     "Skill": "Stealth",
-    "Bonus": 19
-  },
-  {
-    "ID": 75,
-    "Creature": "Spriggan Dodgy Crossbowman",
-    "Skill": "Trickery",
     "Bonus": 14
   },
   {
-    "ID": 76,
-    "Creature": "Spriggan Crossbowman",
-    "Skill": "Athletics",
-    "Bonus": 4
-  },
-  {
-    "ID": 77,
-    "Creature": "Spriggan Crossbowman",
-    "Skill": "Trickery",
-    "Bonus": 10
-  },
-  {
-    "ID": 78,
-    "Creature": "Agai",
+    "ID": 45,
+    "Creature": "Green Dweomanticore",
     "Skill": "Perception",
-    "Bonus": 17
-  },
-  {
-    "ID": 79,
-    "Creature": "Agai",
-    "Skill": "Athletics",
-    "Bonus": 8
-  },
-  {
-    "ID": 80,
-    "Creature": "Agai",
-    "Skill": "Trickery",
-    "Bonus": 12
-  },
-  {
-    "ID": 81,
-    "Creature": "Morhalan",
-    "Skill": "Perception",
-    "Bonus": 27
-  },
-  {
-    "ID": 82,
-    "Creature": "Morhalan",
-    "Skill": "Stealth",
-    "Bonus": 24
-  },
-  {
-    "ID": 83,
-    "Creature": "Morhalan",
-    "Skill": "Trickery",
-    "Bonus": 24
+    "Bonus": 18
   },
   {
     "ID": 84,
@@ -510,112 +762,40 @@
     "Bonus": 22
   },
   {
-    "ID": 86,
-    "Creature": "Ntavi",
-    "Skill": "Perception",
-    "Bonus": 18
-  },
-  {
-    "ID": 87,
-    "Creature": "Ntavi",
-    "Skill": "Athletics",
-    "Bonus": 17
-  },
-  {
-    "ID": 88,
-    "Creature": "Calistrian Fighter Greataxe",
-    "Skill": "Perception",
-    "Bonus": 15
-  },
-  {
-    "ID": 89,
-    "Creature": "Calistrian Fighter Longsword",
-    "Skill": "Perception",
-    "Bonus": 15
-  },
-  {
-    "ID": 90,
-    "Creature": "Calistrian Fighter Longsword",
-    "Skill": "Stealth",
-    "Bonus": 9
-  },
-  {
-    "ID": 91,
-    "Creature": "Calistrian Archer",
-    "Skill": "Perception",
-    "Bonus": 15
-  },
-  {
-    "ID": 92,
-    "Creature": "Calistrian Archer",
-    "Skill": "Stealth",
-    "Bonus": 13
-  },
-  {
-    "ID": 93,
-    "Creature": "Calistrian Rogue",
-    "Skill": "Perception",
-    "Bonus": 23
-  },
-  {
-    "ID": 94,
-    "Creature": "Calistrian Rogue",
-    "Skill": "Stealth",
-    "Bonus": 16
-  },
-  {
-    "ID": 95,
-    "Creature": "Oakenhide, Poisonous Manticore-like Treant",
-    "Skill": "Perception",
-    "Bonus": 24
-  },
-  {
-    "ID": 96,
-    "Creature": "Thundervine",
-    "Skill": "Perception",
-    "Bonus": 27
-  },
-  {
-    "ID": 97,
-    "Creature": "Thundervine",
-    "Skill": "Stealth",
-    "Bonus": 19
-  },
-  {
-    "ID": 98,
-    "Creature": "Alpha Worg from Dunsward Pack",
+    "ID": 184,
+    "Creature": "Hilla",
     "Skill": "Perception",
     "Bonus": 20
   },
   {
-    "ID": 99,
-    "Creature": "Alpha Worg from Dunsward Pack",
+    "ID": 168,
+    "Creature": "Hopeless Cleric Zombie",
+    "Skill": "Perception",
+    "Bonus": 24
+  },
+  {
+    "ID": 169,
+    "Creature": "Hopeless Cleric Zombie",
     "Skill": "Stealth",
-    "Bonus": 13
+    "Bonus": 10
   },
   {
-    "ID": 100,
-    "Creature": "Elder Earth Elemental",
+    "ID": 5,
+    "Creature": "Kobold Boomsayer",
     "Skill": "Perception",
-    "Bonus": 25
+    "Bonus": 14
   },
   {
-    "ID": 101,
-    "Creature": "Ferocious Dread Zombie Cyclops",
-    "Skill": "Perception",
-    "Bonus": 26
+    "ID": 6,
+    "Creature": "Kobold Boomsayer",
+    "Skill": "Stealth",
+    "Bonus": 12
   },
   {
-    "ID": 102,
-    "Creature": "Dread Zombie Cyclops",
-    "Skill": "Lore(Nature)",
-    "Bonus": 17
-  },
-  {
-    "ID": 103,
-    "Creature": "Dread Zombie Cyclops",
-    "Skill": "Perception",
-    "Bonus": 28
+    "ID": 7,
+    "Creature": "Kobold Boomsayer",
+    "Skill": "Athletics",
+    "Bonus": 4
   },
   {
     "ID": 104,
@@ -628,12 +808,6 @@
     "Creature": "Mature Athach",
     "Skill": "Stealth",
     "Bonus": 11
-  },
-  {
-    "ID": 106,
-    "Creature": "Ancient Bulette",
-    "Skill": "Perception",
-    "Bonus": 26
   },
   {
     "ID": 107,
@@ -684,6 +858,162 @@
     "Bonus": 30
   },
   {
+    "ID": 46,
+    "Creature": "Moray",
+    "Skill": "Persuasion",
+    "Bonus": 23
+  },
+  {
+    "ID": 47,
+    "Creature": "Moray",
+    "Skill": "Perception",
+    "Bonus": 27
+  },
+  {
+    "ID": 48,
+    "Creature": "Moray",
+    "Skill": "Lore(Nature)",
+    "Bonus": 23
+  },
+  {
+    "ID": 49,
+    "Creature": "Moray",
+    "Skill": "Athletics",
+    "Bonus": 14
+  },
+  {
+    "ID": 50,
+    "Creature": "Moray",
+    "Skill": "Stealth",
+    "Bonus": 26
+  },
+  {
+    "ID": 81,
+    "Creature": "Morhalan",
+    "Skill": "Perception",
+    "Bonus": 27
+  },
+  {
+    "ID": 82,
+    "Creature": "Morhalan",
+    "Skill": "Stealth",
+    "Bonus": 24
+  },
+  {
+    "ID": 83,
+    "Creature": "Morhalan",
+    "Skill": "Trickery",
+    "Bonus": 24
+  },
+  {
+    "ID": 218,
+    "Creature": "Nightmare Zombie Lord",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 219,
+    "Creature": "Nightmare Zombie Lord",
+    "Skill": "Stealth",
+    "Bonus": 11
+  },
+  {
+    "ID": 214,
+    "Creature": "Nightmare Zombie Lord Spearman",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 215,
+    "Creature": "Nightmare Zombie Lord Spearman",
+    "Skill": "Stealth",
+    "Bonus": 12
+  },
+  {
+    "ID": 182,
+    "Creature": "Nober",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 86,
+    "Creature": "Ntavi",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 87,
+    "Creature": "Ntavi",
+    "Skill": "Athletics",
+    "Bonus": 17
+  },
+  {
+    "ID": 95,
+    "Creature": "Oakenhide, Poisonous Manticore-like Treant",
+    "Skill": "Perception",
+    "Bonus": 24
+  },
+  {
+    "ID": 15,
+    "Creature": "Poacher Brawler",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 16,
+    "Creature": "Poacher Brawler",
+    "Skill": "Stealth",
+    "Bonus": 11
+  },
+  {
+    "ID": 17,
+    "Creature": "Poacher Brawler",
+    "Skill": "Trickery",
+    "Bonus": 13
+  },
+  {
+    "ID": 190,
+    "Creature": "Poisonous Hydra",
+    "Skill": "Perception",
+    "Bonus": 22
+  },
+  {
+    "ID": 14,
+    "Creature": "Poisonous Primal Doomhydra",
+    "Skill": "Stealth",
+    "Bonus": 38
+  },
+  {
+    "ID": 119,
+    "Creature": "Restless Spectre",
+    "Skill": "Lore(Nature)",
+    "Bonus": 18
+  },
+  {
+    "ID": 120,
+    "Creature": "Restless Spectre",
+    "Skill": "Stealth",
+    "Bonus": 26
+  },
+  {
+    "ID": 121,
+    "Creature": "Restless Spectre",
+    "Skill": "Perception",
+    "Bonus": 25
+  },
+  {
+    "ID": 1,
+    "Creature": "Scythe Tree",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 2,
+    "Creature": "Scythe Tree",
+    "Skill": "Stealth",
+    "Bonus": 5
+  },
+  {
     "ID": 115,
     "Creature": "Sneaky Mite",
     "Skill": "Mobility",
@@ -706,234 +1036,6 @@
     "Creature": "Sneaky Mite",
     "Skill": "Stealth",
     "Bonus": 31
-  },
-  {
-    "ID": 119,
-    "Creature": "Restless Spectre",
-    "Skill": "Lore(Nature)",
-    "Bonus": 18
-  },
-  {
-    "ID": 121,
-    "Creature": "Restless Spectre",
-    "Skill": "Perception",
-    "Bonus": 25
-  },
-  {
-    "ID": 120,
-    "Creature": "Restless Spectre",
-    "Skill": "Stealth",
-    "Bonus": 26
-  },
-  {
-    "ID": 122,
-    "Creature": "Zombie Cyclops",
-    "Skill": "Perception",
-    "Bonus": 26
-  },
-  {
-    "ID": 123,
-    "Creature": "Bandit 7 Fighter",
-    "Skill": "Perception",
-    "Bonus": 14
-  },
-  {
-    "ID": 124,
-    "Creature": "Bandit 7 Fighter",
-    "Skill": "Stealth",
-    "Bonus": 6
-  },
-  {
-    "ID": 125,
-    "Creature": "Bandit 6 Barbarian",
-    "Skill": "Perception",
-    "Bonus": 16
-  },
-  {
-    "ID": 126,
-    "Creature": "Bandit 6 Barbarian",
-    "Skill": "Stealth",
-    "Bonus": 6
-  },
-  {
-    "ID": 127,
-    "Creature": "Greater Worg",
-    "Skill": "Perception",
-    "Bonus": 25
-  },
-  {
-    "ID": 128,
-    "Creature": "Greater Worg",
-    "Skill": "Stealth",
-    "Bonus": 13
-  },
-  {
-    "ID": 129,
-    "Creature": "Bandit 6 Archer",
-    "Skill": "Perception",
-    "Bonus": 13
-  },
-  {
-    "ID": 130,
-    "Creature": "Bandit 6 Archer",
-    "Skill": "Stealth",
-    "Bonus": 11
-  },
-  {
-    "ID": 131,
-    "Creature": "Bandit 6 Sword Fighter",
-    "Skill": "Perception",
-    "Bonus": 13
-  },
-  {
-    "ID": 132,
-    "Creature": "Bandit 6 Sword Fighter",
-    "Skill": "Stealth",
-    "Bonus": 4
-  },
-  {
-    "ID": 133,
-    "Creature": "Bandit 5 Alchemist",
-    "Skill": "Perception",
-    "Bonus": 13
-  },
-  {
-    "ID": 134,
-    "Creature": "Bandit 5 Alchemist",
-    "Skill": "Stealth",
-    "Bonus": 9
-  },
-  {
-    "ID": 135,
-    "Creature": "Bandit 5 Alchemist",
-    "Skill": "Trickery",
-    "Bonus": 14
-  },
-  {
-    "ID": 136,
-    "Creature": "Bandit 8 Fighter",
-    "Skill": "Perception",
-    "Bonus": 15
-  },
-  {
-    "ID": 137,
-    "Creature": "Bandit 8 Fighter",
-    "Skill": "Stealth",
-    "Bonus": 8
-  },
-  {
-    "ID": 138,
-    "Creature": "Bandit 9 Rouge",
-    "Skill": "Perception",
-    "Bonus": 23
-  },
-  {
-    "ID": 139,
-    "Creature": "Bandit 9 Rouge",
-    "Skill": "Stealth",
-    "Bonus": 16
-  },
-  {
-    "ID": 140,
-    "Creature": "Bandit 9 Bard",
-    "Skill": "Perception",
-    "Bonus": 19
-  },
-  {
-    "ID": 141,
-    "Creature": "Bandit 9 Bard",
-    "Skill": "Stealth",
-    "Bonus": 16
-  },
-  {
-    "ID": 142,
-    "Creature": "Bandit 7 Rouge",
-    "Skill": "Perception",
-    "Bonus": 20
-  },
-  {
-    "ID": 143,
-    "Creature": "Bandit 7 Rouge",
-    "Skill": "Stealth",
-    "Bonus": 14
-  },
-  {
-    "ID": 144,
-    "Creature": "Bandit Leader 10 Fighter",
-    "Skill": "Perception",
-    "Bonus": 16
-  },
-  {
-    "ID": 145,
-    "Creature": "Bandit Leader 10 Fighter",
-    "Skill": "Athletics",
-    "Bonus": 18
-  },
-  {
-    "ID": 146,
-    "Creature": "Bandit 7 Cleric",
-    "Skill": "Perception",
-    "Bonus": 15
-  },
-  {
-    "ID": 147,
-    "Creature": "Greater Cyclops 17",
-    "Skill": "Perception",
-    "Bonus": 28
-  },
-  {
-    "ID": 148,
-    "Creature": "Thick-skinned Dread Zombie Cyclops",
-    "Skill": "Lore(Nature)",
-    "Bonus": 20
-  },
-  {
-    "ID": 149,
-    "Creature": "Thick-skinned Dread Zombie Cyclops",
-    "Skill": "Perception",
-    "Bonus": 28
-  },
-  {
-    "ID": 150,
-    "Creature": "Dread Zombie Cyclops Priest",
-    "Skill": "Lore(Nature)",
-    "Bonus": 19
-  },
-  {
-    "ID": 151,
-    "Creature": "Dread Zombie Cyclops Priest",
-    "Skill": "Lore(Religion)",
-    "Bonus": 17
-  },
-  {
-    "ID": 152,
-    "Creature": "Dread Zombie Cyclops Priest",
-    "Skill": "Perception",
-    "Bonus": 37
-  },
-  {
-    "ID": 153,
-    "Creature": "Bandit Chastener 10 Fighter",
-    "Skill": "Perception",
-    "Bonus": 16
-  },
-  {
-    "ID": 154,
-    "Creature": "Bandit Chastener 10 Fighter",
-    "Skill": "Athletics",
-    "Bonus": 18
-  },
-  {
-    "ID": 155,
-    "Creature": "Barbarian 7 Barbarian",
-    "Skill": "Perception",
-    "Bonus": 17
-  },
-  {
-    "ID": 156,
-    "Creature": "Barbarian 7 Barbarian",
-    "Skill": "Stealth",
-    "Bonus": 7
   },
   {
     "ID": 157,
@@ -966,6 +1068,132 @@
     "Bonus": 16
   },
   {
+    "ID": 76,
+    "Creature": "Spriggan Crossbowman",
+    "Skill": "Athletics",
+    "Bonus": 4
+  },
+  {
+    "ID": 77,
+    "Creature": "Spriggan Crossbowman",
+    "Skill": "Trickery",
+    "Bonus": 10
+  },
+  {
+    "ID": 72,
+    "Creature": "Spriggan Dodgy Crossbowman",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 73,
+    "Creature": "Spriggan Dodgy Crossbowman",
+    "Skill": "Athletics",
+    "Bonus": 4
+  },
+  {
+    "ID": 74,
+    "Creature": "Spriggan Dodgy Crossbowman",
+    "Skill": "Stealth",
+    "Bonus": 19
+  },
+  {
+    "ID": 75,
+    "Creature": "Spriggan Dodgy Crossbowman",
+    "Skill": "Trickery",
+    "Bonus": 14
+  },
+  {
+    "ID": 69,
+    "Creature": "Spriggan Fighter",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 70,
+    "Creature": "Spriggan Fighter",
+    "Skill": "Athletics",
+    "Bonus": 4
+  },
+  {
+    "ID": 71,
+    "Creature": "Spriggan Fighter",
+    "Skill": "Trickery",
+    "Bonus": 12
+  },
+  {
+    "ID": 64,
+    "Creature": "Spriggan Raider",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 65,
+    "Creature": "Spriggan Raider",
+    "Skill": "Athletics",
+    "Bonus": 6
+  },
+  {
+    "ID": 66,
+    "Creature": "Spriggan Raider",
+    "Skill": "Trickery",
+    "Bonus": 12
+  },
+  {
+    "ID": 60,
+    "Creature": "Spriggan Rogue",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 61,
+    "Creature": "Spriggan Rogue",
+    "Skill": "Athletics",
+    "Bonus": 6
+  },
+  {
+    "ID": 62,
+    "Creature": "Spriggan Rogue",
+    "Skill": "Stealth",
+    "Bonus": 21
+  },
+  {
+    "ID": 63,
+    "Creature": "Spriggan Rogue",
+    "Skill": "Trickery",
+    "Bonus": 14
+  },
+  {
+    "ID": 57,
+    "Creature": "Spriggan Savage",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 58,
+    "Creature": "Spriggan Savage",
+    "Skill": "Athletics",
+    "Bonus": 7
+  },
+  {
+    "ID": 59,
+    "Creature": "Spriggan Savage",
+    "Skill": "Trickery",
+    "Bonus": 12
+  },
+  {
+    "ID": 67,
+    "Creature": "Spriggan Skilled Crossbowman",
+    "Skill": "Athletics",
+    "Bonus": 5
+  },
+  {
+    "ID": 68,
+    "Creature": "Spriggan Skilled Crossbowman",
+    "Skill": "Trickery",
+    "Bonus": 10
+  },
+  {
     "ID": 162,
     "Creature": "Surrenedered Fighter Zombie",
     "Skill": "Perception",
@@ -978,16 +1206,136 @@
     "Bonus": 5
   },
   {
-    "ID": 164,
-    "Creature": "Enervated Sorcerer Zombie",
+    "ID": 32,
+    "Creature": "Technic League's Alchemist",
     "Skill": "Perception",
-    "Bonus": 21
+    "Bonus": 19
   },
   {
-    "ID": 165,
-    "Creature": "Enervated Sorcerer Zombie",
+    "ID": 33,
+    "Creature": "Technic League's Alchemist",
     "Skill": "Stealth",
+    "Bonus": 15
+  },
+  {
+    "ID": 34,
+    "Creature": "Technic League's Alchemist",
+    "Skill": "Trickery",
+    "Bonus": 20
+  },
+  {
+    "ID": 35,
+    "Creature": "Technic League's Archer",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 36,
+    "Creature": "Technic League's Archer",
+    "Skill": "Stealth",
+    "Bonus": 14
+  },
+  {
+    "ID": 40,
+    "Creature": "Technic League's Bard",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 41,
+    "Creature": "Technic League's Bard",
+    "Skill": "Stealth",
+    "Bonus": 16
+  },
+  {
+    "ID": 37,
+    "Creature": "Technic League's Cleric",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 30,
+    "Creature": "Technic League's Conjurer",
+    "Skill": "Perception",
     "Bonus": 18
+  },
+  {
+    "ID": 31,
+    "Creature": "Technic League's Conjurer",
+    "Skill": "Stealth",
+    "Bonus": 12
+  },
+  {
+    "ID": 38,
+    "Creature": "Technic League's Fighter",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 39,
+    "Creature": "Technic League's Fighter",
+    "Skill": "Stealth",
+    "Bonus": 8
+  },
+  {
+    "ID": 42,
+    "Creature": "Technic League's Rogue",
+    "Skill": "Perception",
+    "Bonus": 23
+  },
+  {
+    "ID": 43,
+    "Creature": "Technic League's Rogue",
+    "Skill": "Stealth",
+    "Bonus": 16
+  },
+  {
+    "ID": 10,
+    "Creature": "Thickskin Lizardfolk",
+    "Skill": "Mobility",
+    "Bonus": 22
+  },
+  {
+    "ID": 11,
+    "Creature": "Thickskin Lizardfolk",
+    "Skill": "Perception",
+    "Bonus": 23
+  },
+  {
+    "ID": 12,
+    "Creature": "Thickskin Lizardfolk",
+    "Skill": "Athletics",
+    "Bonus": 7
+  },
+  {
+    "ID": 13,
+    "Creature": "Thickskin Lizardfolk",
+    "Skill": "Stealth",
+    "Bonus": 16
+  },
+  {
+    "ID": 148,
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "Skill": "Lore(Nature)",
+    "Bonus": 20
+  },
+  {
+    "ID": 149,
+    "Creature": "Thick-skinned Dread Zombie Cyclops",
+    "Skill": "Perception",
+    "Bonus": 28
+  },
+  {
+    "ID": 96,
+    "Creature": "Thundervine",
+    "Skill": "Perception",
+    "Bonus": 27
+  },
+  {
+    "ID": 97,
+    "Creature": "Thundervine",
+    "Skill": "Stealth",
+    "Bonus": 19
   },
   {
     "ID": 166,
@@ -1002,382 +1350,10 @@
     "Bonus": 18
   },
   {
-    "ID": 168,
-    "Creature": "Hopeless Cleric Zombie",
-    "Skill": "Perception",
-    "Bonus": 24
-  },
-  {
-    "ID": 169,
-    "Creature": "Hopeless Cleric Zombie",
-    "Skill": "Stealth",
-    "Bonus": 10
-  },
-  {
-    "ID": 170,
-    "Creature": "Anguished Barbarian Zombie",
-    "Skill": "Perception",
-    "Bonus": 21
-  },
-  {
-    "ID": 171,
-    "Creature": "Anguished Barbarian Zombie",
-    "Skill": "Stealth",
-    "Bonus": 14
-  },
-  {
-    "ID": 172,
-    "Creature": "Bloody Bones Beast",
-    "Skill": "Perception",
-    "Bonus": 28
-  },
-  {
-    "ID": 173,
-    "Creature": "Bloody Bones Beast",
-    "Skill": "Stealth",
-    "Bonus": 29
-  },
-  {
-    "ID": 174,
-    "Creature": "Dugath",
-    "Skill": "Lore(Religion)",
-    "Bonus": 21
-  },
-  {
-    "ID": 175,
-    "Creature": "Defaced Sister",
-    "Skill": "Mobility",
-    "Bonus": 27
-  },
-  {
-    "ID": 176,
-    "Creature": "Defaced Sister",
-    "Skill": "Persuasion",
-    "Bonus": 24
-  },
-  {
-    "ID": 177,
-    "Creature": "Defaced Sister",
-    "Skill": "Lore(Nature)",
-    "Bonus": 17
-  },
-  {
-    "ID": 178,
-    "Creature": "Defaced Sister",
-    "Skill": "Perception",
-    "Bonus": 25
-  },
-  {
-    "ID": 179,
-    "Creature": "Defaced Sister",
-    "Skill": "Athletics",
-    "Bonus": 15
-  },
-  {
-    "ID": 180,
-    "Creature": "Defaced Sister",
-    "Skill": "Stealth",
-    "Bonus": 31
-  },
-  {
-    "ID": 181,
-    "Creature": "Bolga",
+    "ID": 44,
+    "Creature": "Venomanticore",
     "Skill": "Perception",
     "Bonus": 18
-  },
-  {
-    "ID": 182,
-    "Creature": "Nober",
-    "Skill": "Perception",
-    "Bonus": 20
-  },
-  {
-    "ID": 183,
-    "Creature": "Dug the Merchant",
-    "Skill": "Perception",
-    "Bonus": 15
-  },
-  {
-    "ID": 184,
-    "Creature": "Hilla",
-    "Skill": "Perception",
-    "Bonus": 20
-  },
-  {
-    "ID": 185,
-    "Creature": "Barbarian 8 Barbarian",
-    "Skill": "Perception",
-    "Bonus": 18
-  },
-  {
-    "ID": 186,
-    "Creature": "Barbarian 8 Archer",
-    "Skill": "Perception",
-    "Bonus": 15
-  },
-  {
-    "ID": 187,
-    "Creature": "Barbarian 7 Fighter Greatsword",
-    "Skill": "Perception",
-    "Bonus": 14
-  },
-  {
-    "ID": 188,
-    "Creature": "Barbarian 7 Ranger",
-    "Skill": "Perception",
-    "Bonus": 17
-  },
-  {
-    "ID": 189,
-    "Creature": "Barbarian 7 Fighter Greataxe",
-    "Skill": "Perception",
-    "Bonus": 14
-  },
-  {
-    "ID": 190,
-    "Creature": "Poisonous Hydra",
-    "Skill": "Perception",
-    "Bonus": 22
-  },
-  {
-    "ID": 191,
-    "Creature": "Greater Dread Zombie Cyclops",
-    "Skill": "Perception",
-    "Bonus": 28
-  },
-  {
-    "ID": 192,
-    "Creature": "Ferocious Soul Eater",
-    "Skill": "Mobility",
-    "Bonus": 20
-  },
-  {
-    "ID": 193,
-    "Creature": "Ferocious Soul Eater",
-    "Skill": "Stealth",
-    "Bonus": 26
-  },
-  {
-    "ID": 194,
-    "Creature": "Ferocious Soul Eater",
-    "Skill": "Persuasion",
-    "Bonus": 17
-  },
-  {
-    "ID": 195,
-    "Creature": "Ancient Soul Eater 12",
-    "Skill": "Mobility",
-    "Bonus": 25
-  },
-  {
-    "ID": 196,
-    "Creature": "Ancient Soul Eater 12",
-    "Skill": "Persuasion",
-    "Bonus": 16
-  },
-  {
-    "ID": 197,
-    "Creature": "Ancient Soul Eater 12",
-    "Skill": "Knowledge(Arcana)",
-    "Bonus": 11
-  },
-  {
-    "ID": 198,
-    "Creature": "Ancient Soul Eater 12",
-    "Skill": "Stealth",
-    "Bonus": 53
-  },
-  {
-    "ID": 199,
-    "Creature": "Ancient Soul Eater 15",
-    "Skill": "Mobility",
-    "Bonus": 21
-  },
-  {
-    "ID": 200,
-    "Creature": "Ancient Soul Eater 15",
-    "Skill": "Persuasion",
-    "Bonus": 19
-  },
-  {
-    "ID": 201,
-    "Creature": "Ancient Soul Eater 15",
-    "Skill": "Stealth",
-    "Bonus": 28
-  },
-  {
-    "ID": 202,
-    "Creature": "Astradaemon",
-    "Skill": "Mobility",
-    "Bonus": 33
-  },
-  {
-    "ID": 203,
-    "Creature": "Astradaemon",
-    "Skill": "Persuasion",
-    "Bonus": 31
-  },
-  {
-    "ID": 204,
-    "Creature": "Astradaemon",
-    "Skill": "Knowledge(Arcana)",
-    "Bonus": 18
-  },
-  {
-    "ID": 205,
-    "Creature": "Astradaemon",
-    "Skill": "Lore(Nature)",
-    "Bonus": 21
-  },
-  {
-    "ID": 206,
-    "Creature": "Astradaemon",
-    "Skill": "Perception",
-    "Bonus": 36
-  },
-  {
-    "ID": 207,
-    "Creature": "Astradaemon",
-    "Skill": "Stealth",
-    "Bonus": 25
-  },
-  {
-    "ID": 208,
-    "Creature": "Cephal Lorentus",
-    "Skill": "Perception",
-    "Bonus": 19
-  },
-  {
-    "ID": 209,
-    "Creature": "Cephal Lorentus",
-    "Skill": "Athletics",
-    "Bonus": 6
-  },
-  {
-    "ID": 210,
-    "Creature": "Ferocious Zombie Lord Axeman",
-    "Skill": "Perception",
-    "Bonus": 18
-  },
-  {
-    "ID": 211,
-    "Creature": "Ferocious Zombie Lord Axeman",
-    "Skill": "Stealth",
-    "Bonus": 11
-  },
-  {
-    "ID": 212,
-    "Creature": "Dread Zombie Lord",
-    "Skill": "Perception",
-    "Bonus": 17
-  },
-  {
-    "ID": 213,
-    "Creature": "Dread Zombie Lord",
-    "Skill": "Stealth",
-    "Bonus": 12
-  },
-  {
-    "ID": 214,
-    "Creature": "Nightmare Zombie Lord Spearman",
-    "Skill": "Perception",
-    "Bonus": 19
-  },
-  {
-    "ID": 215,
-    "Creature": "Nightmare Zombie Lord Spearman",
-    "Skill": "Stealth",
-    "Bonus": 12
-  },
-  {
-    "ID": 216,
-    "Creature": "Greater Zombie Lord",
-    "Skill": "Perception",
-    "Bonus": 20
-  },
-  {
-    "ID": 217,
-    "Creature": "Greater Zombie Lord",
-    "Skill": "Stealth",
-    "Bonus": 13
-  },
-  {
-    "ID": 218,
-    "Creature": "Nightmare Zombie Lord",
-    "Skill": "Perception",
-    "Bonus": 19
-  },
-  {
-    "ID": 219,
-    "Creature": "Nightmare Zombie Lord",
-    "Skill": "Stealth",
-    "Bonus": 11
-  },
-  {
-    "ID": 220,
-    "Creature": "Grand Zombie Lord",
-    "Skill": "Perception",
-    "Bonus": 21
-  },
-  {
-    "ID": 221,
-    "Creature": "Grand Zombie Lord",
-    "Skill": "Stealth",
-    "Bonus": 14
-  },
-  {
-    "ID": 222,
-    "Creature": "Willas Gunderson",
-    "Skill": "Lore(Religion)",
-    "Bonus": 16
-  },
-  {
-    "ID": 223,
-    "Creature": "Willas Gunderson",
-    "Skill": "Perception",
-    "Bonus": 33
-  },
-  {
-    "ID": 224,
-    "Creature": "Willas Gunderson",
-    "Skill": "Stealth",
-    "Bonus": 18
-  },
-  {
-    "ID": 225,
-    "Creature": "Greater Zombie Lord Spearman",
-    "Skill": "Perception",
-    "Bonus": 20
-  },
-  {
-    "ID": 226,
-    "Creature": "Greater Zombie Lord Spearman",
-    "Skill": "Stealth",
-    "Bonus": 14
-  },
-  {
-    "ID": 227,
-    "Creature": "Greater Zombie Lord Axeman",
-    "Skill": "Perception",
-    "Bonus": 20
-  },
-  {
-    "ID": 228,
-    "Creature": "Greater Zombie Lord Axeman",
-    "Skill": "Stealth",
-    "Bonus": 14
-  },
-  {
-    "ID": 229,
-    "Creature": "Ancient Water Elemental",
-    "Skill": "Perception",
-    "Bonus": 27
-  },
-  {
-    "ID": 230,
-    "Creature": "Ancient Water Elemental",
-    "Skill": "Stealth",
-    "Bonus": 21
   },
   {
     "ID": 231,
@@ -1444,5 +1420,29 @@
     "Creature": "Vordakai's Raven",
     "Skill": "Use Magic Device",
     "Bonus": 24
+  },
+  {
+    "ID": 222,
+    "Creature": "Willas Gunderson",
+    "Skill": "Lore(Religion)",
+    "Bonus": 16
+  },
+  {
+    "ID": 223,
+    "Creature": "Willas Gunderson",
+    "Skill": "Perception",
+    "Bonus": 33
+  },
+  {
+    "ID": 224,
+    "Creature": "Willas Gunderson",
+    "Skill": "Stealth",
+    "Bonus": 18
+  },
+  {
+    "ID": 122,
+    "Creature": "Zombie Cyclops",
+    "Skill": "Perception",
+    "Bonus": 26
   }
 ]

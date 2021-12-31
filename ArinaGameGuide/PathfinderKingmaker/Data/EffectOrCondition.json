@@ -1,25 +1,7 @@
 [
   {
-    "ID": 1,
-    "Name": "Mirror Image",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 3,
-    "Name": "Fast Healing",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 4,
-    "Name": "Prone",
+    "ID": 37,
+    "Name": "ability score damage",
     "CName": "",
     "IsCondition": true,
     "IsGroup": false,
@@ -27,26 +9,8 @@
     "Memo": ""
   },
   {
-    "ID": 5,
-    "Name": "Web",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 6,
-    "Name": "Mind-Affecting",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": true,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 7,
-    "Name": "Displacement",
+    "ID": 14,
+    "Name": "Acidic Creature",
     "CName": "",
     "IsCondition": false,
     "IsGroup": false,
@@ -54,8 +18,17 @@
     "Memo": ""
   },
   {
-    "ID": 8,
-    "Name": "Invisibility",
+    "ID": 48,
+    "Name": "Barskin",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 47,
+    "Name": "Bear's Endurance",
     "CName": "",
     "IsCondition": false,
     "IsGroup": false,
@@ -72,66 +45,12 @@
     "Memo": ""
   },
   {
-    "ID": 10,
-    "Name": "Sleep",
+    "ID": 31,
+    "Name": "Charmed",
     "CName": "",
     "IsCondition": true,
     "IsGroup": false,
     "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 11,
-    "Name": "Paralyzed",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 12,
-    "Name": "True Seeing",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 13,
-    "Name": "Regeneration",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 14,
-    "Name": "Acidic Creature",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 15,
-    "Name": "Fiery Creature",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 16,
-    "Name": "Protective Aura",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "+4 Deflection AC +4 Resistance Save",
     "Memo": ""
   },
   {
@@ -144,152 +63,8 @@
     "Memo": ""
   },
   {
-    "ID": 18,
-    "Name": "Freedom of Movement",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 19,
-    "Name": "Grape",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 20,
-    "Name": "Entangled",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 21,
-    "Name": "Difficult Terrain",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 22,
-    "Name": "Slowed",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 23,
-    "Name": "Staggered",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 24,
-    "Name": "Immobilized",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 25,
-    "Name": "Protection From Fire",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 26,
-    "Name": "Fear",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
     "ID": 27,
     "Name": "Compulsion",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 28,
-    "Name": "Emotion",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 29,
-    "Name": "Poison",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 30,
-    "Name": "Disease",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 31,
-    "Name": "Charmed",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 32,
-    "Name": "Dazed",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 33,
-    "Name": "Stunned",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 34,
-    "Name": "Death",
     "CName": "",
     "IsCondition": true,
     "IsGroup": false,
@@ -315,8 +90,8 @@
     "Memo": ""
   },
   {
-    "ID": 37,
-    "Name": "ability score damage",
+    "ID": 32,
+    "Name": "Dazed",
     "CName": "",
     "IsCondition": true,
     "IsGroup": false,
@@ -324,8 +99,8 @@
     "Memo": ""
   },
   {
-    "ID": 38,
-    "Name": "drain",
+    "ID": 34,
+    "Name": "Death",
     "CName": "",
     "IsCondition": true,
     "IsGroup": false,
@@ -333,8 +108,8 @@
     "Memo": ""
   },
   {
-    "ID": 39,
-    "Name": "precision damage",
+    "ID": 21,
+    "Name": "Difficult Terrain",
     "CName": "",
     "IsCondition": true,
     "IsGroup": false,
@@ -342,37 +117,10 @@
     "Memo": ""
   },
   {
-    "ID": 40,
-    "Name": "Nauseated",
+    "ID": 30,
+    "Name": "Disease",
     "CName": "",
     "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 41,
-    "Name": "Fatigued",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 42,
-    "Name": "Sickened",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 43,
-    "Name": "Shield",
-    "CName": "",
-    "IsCondition": false,
     "IsGroup": false,
     "Description": "",
     "Memo": ""
@@ -387,8 +135,8 @@
     "Memo": ""
   },
   {
-    "ID": 45,
-    "Name": "Polymorph",
+    "ID": 7,
+    "Name": "Displacement",
     "CName": "",
     "IsCondition": false,
     "IsGroup": false,
@@ -396,44 +144,8 @@
     "Memo": ""
   },
   {
-    "ID": 46,
-    "Name": "Spell - Magic Missile",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 47,
-    "Name": "Bear's Endurance",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 48,
-    "Name": "Barskin",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 49,
-    "Name": "Mutagen - Dexterity",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 50,
-    "Name": "Petrified",
+    "ID": 38,
+    "Name": "drain",
     "CName": "",
     "IsCondition": true,
     "IsGroup": false,
@@ -441,8 +153,26 @@
     "Memo": ""
   },
   {
-    "ID": 51,
-    "Name": "Haste",
+    "ID": 28,
+    "Name": "Emotion",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 20,
+    "Name": "Entangled",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 3,
+    "Name": "Fast Healing",
     "CName": "",
     "IsCondition": false,
     "IsGroup": false,
@@ -450,8 +180,53 @@
     "Memo": ""
   },
   {
-    "ID": 52,
-    "Name": "spell with a target",
+    "ID": 41,
+    "Name": "Fatigued",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 26,
+    "Name": "Fear",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 15,
+    "Name": "Fiery Creature",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 18,
+    "Name": "Freedom of Movement",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 55,
+    "Name": "Frightened",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 19,
+    "Name": "Grape",
     "CName": "",
     "IsCondition": true,
     "IsGroup": false,
@@ -468,6 +243,33 @@
     "Memo": ""
   },
   {
+    "ID": 51,
+    "Name": "Haste",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 24,
+    "Name": "Immobilized",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 8,
+    "Name": "Invisibility",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
     "ID": 54,
     "Name": "Magic",
     "CName": "",
@@ -477,8 +279,206 @@
     "Memo": ""
   },
   {
-    "ID": 55,
-    "Name": "Frightened",
+    "ID": 6,
+    "Name": "Mind-Affecting",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": true,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 1,
+    "Name": "Mirror Image",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 49,
+    "Name": "Mutagen - Dexterity",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 40,
+    "Name": "Nauseated",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 11,
+    "Name": "Paralyzed",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 50,
+    "Name": "Petrified",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 29,
+    "Name": "Poison",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 45,
+    "Name": "Polymorph",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 39,
+    "Name": "precision damage",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 4,
+    "Name": "Prone",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 25,
+    "Name": "Protection From Fire",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 16,
+    "Name": "Protective Aura",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "+4 Deflection AC +4 Resistance Save",
+    "Memo": ""
+  },
+  {
+    "ID": 13,
+    "Name": "Regeneration",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 43,
+    "Name": "Shield",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 42,
+    "Name": "Sickened",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 10,
+    "Name": "Sleep",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 22,
+    "Name": "Slowed",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 46,
+    "Name": "Spell - Magic Missile",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 52,
+    "Name": "spell with a target",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 23,
+    "Name": "Staggered",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 33,
+    "Name": "Stunned",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 12,
+    "Name": "True Seeing",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 5,
+    "Name": "Web",
     "CName": "",
     "IsCondition": true,
     "IsGroup": false,

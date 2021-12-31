@@ -1,466 +1,7 @@
 [
   {
-    "ID": 1,
-    "Creature": "Quickspider",
-    "Ability": "Evasion",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 2,
-    "Creature": "Nympth",
-    "Ability": "Blinding Beauty",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 3,
-    "Creature": "Quickwood",
-    "Ability": "Lunge",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 4,
-    "Creature": "Wild Hunt Archer",
-    "Ability": "Wild Gaze",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 5,
-    "Creature": "Trollhound",
-    "Ability": "Regeneration",
-    "Amount": 5,
-    "DamageType1": "Fire",
-    "DamageType2": "Acid",
-    "DC": null
-  },
-  {
-    "ID": 6,
-    "Creature": "Thickskin Tribe King Itshar",
-    "Ability": "Rage",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 7,
-    "Creature": "Thickskin Tribe King Itshar",
-    "Ability": "Inspire Ferocity",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 8,
-    "Creature": "Thickskin Tribe Queen Reshia",
-    "Ability": "Rage",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 9,
-    "Creature": "Thickskin Tribe Queen Reshia",
-    "Ability": "Inspire Ferocity",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 10,
-    "Creature": "Poisonous Primal Doomhydra",
-    "Ability": "Fast Healing",
-    "Amount": 12,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 11,
-    "Creature": "Bandit 8 Bow Fighter",
-    "Ability": "Rapid Shot",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 12,
-    "Creature": "Bandit 8 Bow Fighter",
-    "Ability": "Deadly Aim",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 13,
-    "Creature": "Bandit 8 Rogue",
-    "Ability": "Bewildering Injury",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 14,
-    "Creature": "Technic League's Alchemist",
-    "Ability": "Rapid Shot",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 15,
-    "Creature": "Technic League's Archer",
-    "Ability": "Rapid Shot",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 16,
-    "Creature": "Technic League's Archer",
-    "Ability": "Deadly Aim",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 17,
-    "Creature": "Technic League's Cleric",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 18,
-    "Creature": "Technic League's Fighter",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 19,
-    "Creature": "Technic League's Bard",
-    "Ability": "Inspired Courage",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 20,
-    "Creature": "Venomanticore",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 21,
-    "Creature": "Green Dweomanticore",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 22,
-    "Creature": "Moray",
-    "Ability": "Beguiling Aura",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 23,
-    "Creature": "Ferocious Trollhound",
-    "Ability": "Regeneration",
-    "Amount": 3,
-    "DamageType1": "Fire",
-    "DamageType2": "Acid",
-    "DC": null
-  },
-  {
-    "ID": 24,
-    "Creature": "Athach",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 25,
-    "Creature": "Athach",
-    "Ability": "Lunge",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 26,
-    "Creature": "Spriggan Savage",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 27,
-    "Creature": "Spriggan Rogue",
-    "Ability": "Bewildering Injury",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 28,
-    "Creature": "Spriggan Raider",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 29,
-    "Creature": "Spriggan Skilled Crossbowman",
-    "Ability": "Deadly Aim",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 30,
-    "Creature": "Spriggan Skilled Crossbowman",
-    "Ability": "Rapid Shot",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 31,
-    "Creature": "Spriggan Fighter",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 32,
-    "Creature": "Spriggan Dodgy Crossbowman",
-    "Ability": "Deadly Aim",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 33,
-    "Creature": "Spriggan Dodgy Crossbowman",
-    "Ability": "Bewildering Injury",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
     "ID": 34,
     "Creature": "Agai",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 35,
-    "Creature": "Morhalan",
-    "Ability": "Piranha Strike",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 36,
-    "Creature": "Morhalan",
-    "Ability": "Bewildering Injury",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 37,
-    "Creature": "Hill Giant",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 38,
-    "Creature": "Hill Giant 12",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 39,
-    "Creature": "Hill Giant 12",
-    "Ability": "Rage",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 40,
-    "Creature": "Hill Giant 12",
-    "Ability": "Guarded Stance",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 41,
-    "Creature": "Ntavi",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 42,
-    "Creature": "Calistrian Fighter Greataxe",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 43,
-    "Creature": "Calistrian Fighter Longsword",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 44,
-    "Creature": "Calistrian Archer",
-    "Ability": "Rapid Shot",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 45,
-    "Creature": "Calistrian Archer",
-    "Ability": "Deadly Aim",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 46,
-    "Creature": "Calistrian Rogue",
-    "Ability": "Bewildering Injury",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 47,
-    "Creature": "Oakenhide, Poisonous Manticore-like Treant",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 48,
-    "Creature": "Oakenhide, Poisonous Manticore-like Treant",
-    "Ability": "Regeneration",
-    "Amount": 5,
-    "DamageType1": "Cold Iron",
-    "DamageType2": "Fire",
-    "DC": null
-  },
-  {
-    "ID": 49,
-    "Creature": "Oakenhide, Poisonous Manticore-like Treant",
-    "Ability": "Stunning Blow",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 51,
-    "Creature": "Thundervine",
-    "Ability": "Poisonous Aura",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 50,
-    "Creature": "Thundervine",
-    "Ability": "Fast Healing",
-    "Amount": 10,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 52,
-    "Creature": "Thundervine",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -471,51 +12,6 @@
     "ID": 53,
     "Creature": "Alpha Worg from Dunsward Pack",
     "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 54,
-    "Creature": "Primal Giant Spider",
-    "Ability": "Poison",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 55,
-    "Creature": "Elder Earth Elemental",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 56,
-    "Creature": "Elder Earth Elemental",
-    "Ability": "Sunder Armor",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 57,
-    "Creature": "Mature Athach",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 58,
-    "Creature": "Mature Athach",
-    "Ability": "Lunge",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,
@@ -558,8 +54,8 @@
     "DC": null
   },
   {
-    "ID": 63,
-    "Creature": "Zombie Cyclops",
+    "ID": 124,
+    "Creature": "Ancient Water Elemental",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -567,8 +63,8 @@
     "DC": null
   },
   {
-    "ID": 64,
-    "Creature": "Dread Zombie Cyclops",
+    "ID": 87,
+    "Creature": "Anguished Barbarian Zombie",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -576,9 +72,63 @@
     "DC": null
   },
   {
-    "ID": 65,
-    "Creature": "Bandit 7 Fighter",
+    "ID": 88,
+    "Creature": "Anguished Barbarian Zombie",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 89,
+    "Creature": "Anguished Barbarian Zombie",
+    "Ability": "Reckless Stance",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 114,
+    "Creature": "Astradaemon",
     "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 24,
+    "Creature": "Athach",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 25,
+    "Creature": "Athach",
+    "Ability": "Lunge",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 69,
+    "Creature": "Bandit 6 Archer",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 70,
+    "Creature": "Bandit 6 Archer",
+    "Ability": "Deadly Aim",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,
@@ -612,8 +162,35 @@
     "DC": null
   },
   {
-    "ID": 69,
-    "Creature": "Bandit 6 Archer",
+    "ID": 71,
+    "Creature": "Bandit 6 Sword Fighter",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 65,
+    "Creature": "Bandit 7 Fighter",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 75,
+    "Creature": "Bandit 7 Rouge",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 76,
+    "Creature": "Bandit 7 Rouge",
     "Ability": "Rapid Shot",
     "Amount": null,
     "DamageType1": null,
@@ -621,18 +198,18 @@
     "DC": null
   },
   {
-    "ID": 70,
-    "Creature": "Bandit 6 Archer",
-    "Ability": "Deadly Aim",
+    "ID": 11,
+    "Creature": "Bandit 8 Bow Fighter",
+    "Ability": "Rapid Shot",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
   },
   {
-    "ID": 71,
-    "Creature": "Bandit 6 Sword Fighter",
-    "Ability": "Power Attack",
+    "ID": 12,
+    "Creature": "Bandit 8 Bow Fighter",
+    "Ability": "Deadly Aim",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,
@@ -648,8 +225,8 @@
     "DC": null
   },
   {
-    "ID": 73,
-    "Creature": "Bandit 9 Rouge",
+    "ID": 13,
+    "Creature": "Bandit 8 Rogue",
     "Ability": "Bewildering Injury",
     "Amount": null,
     "DamageType1": null,
@@ -666,45 +243,9 @@
     "DC": null
   },
   {
-    "ID": 76,
-    "Creature": "Bandit 7 Rouge",
-    "Ability": "Rapid Shot",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 75,
-    "Creature": "Bandit 7 Rouge",
+    "ID": 73,
+    "Creature": "Bandit 9 Rouge",
     "Ability": "Bewildering Injury",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 77,
-    "Creature": "Bandit Leader 10 Fighter",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 78,
-    "Creature": "Greater Cyclops 17",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 79,
-    "Creature": "Dread Zombie Cyclops Priest",
-    "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,
@@ -713,6 +254,15 @@
   {
     "ID": 80,
     "Creature": "Bandit Chastener 10 Fighter",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 77,
+    "Creature": "Bandit Leader 10 Fighter",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -747,8 +297,8 @@
     "DC": null
   },
   {
-    "ID": 84,
-    "Creature": "Surrenedered Fighter Zombie",
+    "ID": 111,
+    "Creature": "Barbarian 7 Fighter Greataxe",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -756,8 +306,26 @@
     "DC": null
   },
   {
-    "ID": 86,
-    "Creature": "Unlucky Ranger Zombie",
+    "ID": 109,
+    "Creature": "Barbarian 7 Fighter Greatsword",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 110,
+    "Creature": "Barbarian 7 Ranger",
+    "Ability": "Feather Step",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 107,
+    "Creature": "Barbarian 8 Archer",
     "Ability": "Deadly Aim",
     "Amount": null,
     "DamageType1": null,
@@ -765,8 +333,8 @@
     "DC": null
   },
   {
-    "ID": 85,
-    "Creature": "Unlucky Ranger Zombie",
+    "ID": 108,
+    "Creature": "Barbarian 8 Archer",
     "Ability": "Rapid Shot",
     "Amount": null,
     "DamageType1": null,
@@ -774,8 +342,8 @@
     "DC": null
   },
   {
-    "ID": 87,
-    "Creature": "Anguished Barbarian Zombie",
+    "ID": 104,
+    "Creature": "Barbarian 8 Barbarian",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -783,8 +351,8 @@
     "DC": null
   },
   {
-    "ID": 88,
-    "Creature": "Anguished Barbarian Zombie",
+    "ID": 105,
+    "Creature": "Barbarian 8 Barbarian",
     "Ability": "Rage",
     "Amount": null,
     "DamageType1": null,
@@ -792,9 +360,9 @@
     "DC": null
   },
   {
-    "ID": 89,
-    "Creature": "Anguished Barbarian Zombie",
-    "Ability": "Reckless Stance",
+    "ID": 106,
+    "Creature": "Barbarian 8 Barbarian",
+    "Ability": "Guarded Stance",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,
@@ -803,24 +371,6 @@
   {
     "ID": 90,
     "Creature": "Bloody Bones Beast",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 91,
-    "Creature": "Dugath",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 92,
-    "Creature": "Wolf Partener",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -837,15 +387,6 @@
     "DC": null
   },
   {
-    "ID": 95,
-    "Creature": "Bolga",
-    "Ability": "Rage",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
     "ID": 94,
     "Creature": "Bolga",
     "Ability": "Guarded Stance",
@@ -855,17 +396,8 @@
     "DC": null
   },
   {
-    "ID": 96,
-    "Creature": "Nober",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 97,
-    "Creature": "Nober",
+    "ID": 95,
+    "Creature": "Bolga",
     "Ability": "Rage",
     "Amount": null,
     "DamageType1": null,
@@ -873,9 +405,81 @@
     "DC": null
   },
   {
-    "ID": 98,
-    "Creature": "Nober",
-    "Ability": "Guarded Stance",
+    "ID": 44,
+    "Creature": "Calistrian Archer",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 45,
+    "Creature": "Calistrian Archer",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 42,
+    "Creature": "Calistrian Fighter Greataxe",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 43,
+    "Creature": "Calistrian Fighter Longsword",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 46,
+    "Creature": "Calistrian Rogue",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 115,
+    "Creature": "Cephal Lorentus",
+    "Ability": "Lifesense",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 64,
+    "Creature": "Dread Zombie Cyclops",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 79,
+    "Creature": "Dread Zombie Cyclops Priest",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 117,
+    "Creature": "Dread Zombie Lord",
+    "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,
@@ -885,6 +489,150 @@
     "ID": 99,
     "Creature": "Dug the Merchant",
     "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 91,
+    "Creature": "Dugath",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 55,
+    "Creature": "Elder Earth Elemental",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 56,
+    "Creature": "Elder Earth Elemental",
+    "Ability": "Sunder Armor",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 23,
+    "Creature": "Ferocious Trollhound",
+    "Ability": "Regeneration",
+    "Amount": 3,
+    "DamageType1": "Fire",
+    "DamageType2": "Acid",
+    "DC": null
+  },
+  {
+    "ID": 116,
+    "Creature": "Ferocious Zombie Lord Axeman",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 121,
+    "Creature": "Grand Zombie Lord",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 78,
+    "Creature": "Greater Cyclops 17",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 113,
+    "Creature": "Greater Dread Zombie Cyclops",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 119,
+    "Creature": "Greater Zombie Lord",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 123,
+    "Creature": "Greater Zombie Lord Axeman",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 122,
+    "Creature": "Greater Zombie Lord Spearman",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 21,
+    "Creature": "Green Dweomanticore",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 37,
+    "Creature": "Hill Giant",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 38,
+    "Creature": "Hill Giant 12",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 39,
+    "Creature": "Hill Giant 12",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 40,
+    "Creature": "Hill Giant 12",
+    "Ability": "Guarded Stance",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,
@@ -927,8 +675,8 @@
     "DC": null
   },
   {
-    "ID": 104,
-    "Creature": "Barbarian 8 Barbarian",
+    "ID": 57,
+    "Creature": "Mature Athach",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -936,116 +684,44 @@
     "DC": null
   },
   {
-    "ID": 105,
-    "Creature": "Barbarian 8 Barbarian",
-    "Ability": "Rage",
+    "ID": 58,
+    "Creature": "Mature Athach",
+    "Ability": "Lunge",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
   },
   {
-    "ID": 106,
-    "Creature": "Barbarian 8 Barbarian",
-    "Ability": "Guarded Stance",
+    "ID": 22,
+    "Creature": "Moray",
+    "Ability": "Beguiling Aura",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
   },
   {
-    "ID": 107,
-    "Creature": "Barbarian 8 Archer",
-    "Ability": "Deadly Aim",
+    "ID": 35,
+    "Creature": "Morhalan",
+    "Ability": "Piranha Strike",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
   },
   {
-    "ID": 108,
-    "Creature": "Barbarian 8 Archer",
-    "Ability": "Rapid Shot",
+    "ID": 36,
+    "Creature": "Morhalan",
+    "Ability": "Bewildering Injury",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
   },
   {
-    "ID": 109,
-    "Creature": "Barbarian 7 Fighter Greatsword",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 110,
-    "Creature": "Barbarian 7 Ranger",
-    "Ability": "Feather Step",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 111,
-    "Creature": "Barbarian 7 Fighter Greataxe",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 112,
-    "Creature": "Poisonous Hydra",
-    "Ability": "Fast Healing",
-    "Amount": 12,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 113,
-    "Creature": "Greater Dread Zombie Cyclops",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 114,
-    "Creature": "Astradaemon",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 115,
-    "Creature": "Cephal Lorentus",
-    "Ability": "Lifesense",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 116,
-    "Creature": "Ferocious Zombie Lord Axeman",
-    "Ability": "Power Attack",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
-    "ID": 117,
-    "Creature": "Dread Zombie Lord",
+    "ID": 120,
+    "Creature": "Nightmare Zombie Lord",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -1062,8 +738,8 @@
     "DC": null
   },
   {
-    "ID": 119,
-    "Creature": "Greater Zombie Lord",
+    "ID": 96,
+    "Creature": "Nober",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -1071,8 +747,26 @@
     "DC": null
   },
   {
-    "ID": 120,
-    "Creature": "Nightmare Zombie Lord",
+    "ID": 97,
+    "Creature": "Nober",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 98,
+    "Creature": "Nober",
+    "Ability": "Guarded Stance",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 41,
+    "Creature": "Ntavi",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -1080,8 +774,17 @@
     "DC": null
   },
   {
-    "ID": 121,
-    "Creature": "Grand Zombie Lord",
+    "ID": 2,
+    "Creature": "Nympth",
+    "Ability": "Blinding Beauty",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 47,
+    "Creature": "Oakenhide, Poisonous Manticore-like Treant",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -1089,8 +792,89 @@
     "DC": null
   },
   {
-    "ID": 122,
-    "Creature": "Greater Zombie Lord Spearman",
+    "ID": 48,
+    "Creature": "Oakenhide, Poisonous Manticore-like Treant",
+    "Ability": "Regeneration",
+    "Amount": 5,
+    "DamageType1": "Cold Iron",
+    "DamageType2": "Fire",
+    "DC": null
+  },
+  {
+    "ID": 49,
+    "Creature": "Oakenhide, Poisonous Manticore-like Treant",
+    "Ability": "Stunning Blow",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 112,
+    "Creature": "Poisonous Hydra",
+    "Ability": "Fast Healing",
+    "Amount": 12,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 10,
+    "Creature": "Poisonous Primal Doomhydra",
+    "Ability": "Fast Healing",
+    "Amount": 12,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 54,
+    "Creature": "Primal Giant Spider",
+    "Ability": "Poison",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 1,
+    "Creature": "Quickspider",
+    "Ability": "Evasion",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 3,
+    "Creature": "Quickwood",
+    "Ability": "Lunge",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 32,
+    "Creature": "Spriggan Dodgy Crossbowman",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 33,
+    "Creature": "Spriggan Dodgy Crossbowman",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 31,
+    "Creature": "Spriggan Fighter",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -1098,8 +882,8 @@
     "DC": null
   },
   {
-    "ID": 123,
-    "Creature": "Greater Zombie Lord Axeman",
+    "ID": 28,
+    "Creature": "Spriggan Raider",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -1107,8 +891,197 @@
     "DC": null
   },
   {
-    "ID": 124,
-    "Creature": "Ancient Water Elemental",
+    "ID": 27,
+    "Creature": "Spriggan Rogue",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 26,
+    "Creature": "Spriggan Savage",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 29,
+    "Creature": "Spriggan Skilled Crossbowman",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 30,
+    "Creature": "Spriggan Skilled Crossbowman",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 84,
+    "Creature": "Surrenedered Fighter Zombie",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 14,
+    "Creature": "Technic League's Alchemist",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 15,
+    "Creature": "Technic League's Archer",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 16,
+    "Creature": "Technic League's Archer",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 19,
+    "Creature": "Technic League's Bard",
+    "Ability": "Inspired Courage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 17,
+    "Creature": "Technic League's Cleric",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 18,
+    "Creature": "Technic League's Fighter",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 6,
+    "Creature": "Thickskin Tribe King Itshar",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 7,
+    "Creature": "Thickskin Tribe King Itshar",
+    "Ability": "Inspire Ferocity",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 8,
+    "Creature": "Thickskin Tribe Queen Reshia",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 9,
+    "Creature": "Thickskin Tribe Queen Reshia",
+    "Ability": "Inspire Ferocity",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 50,
+    "Creature": "Thundervine",
+    "Ability": "Fast Healing",
+    "Amount": 10,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 51,
+    "Creature": "Thundervine",
+    "Ability": "Poisonous Aura",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 52,
+    "Creature": "Thundervine",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 5,
+    "Creature": "Trollhound",
+    "Ability": "Regeneration",
+    "Amount": 5,
+    "DamageType1": "Fire",
+    "DamageType2": "Acid",
+    "DC": null
+  },
+  {
+    "ID": 85,
+    "Creature": "Unlucky Ranger Zombie",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 86,
+    "Creature": "Unlucky Ranger Zombie",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 20,
+    "Creature": "Venomanticore",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -1155,6 +1128,33 @@
     "ID": 129,
     "Creature": "Vordakai's Raven",
     "Ability": "Improved Evasion",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 4,
+    "Creature": "Wild Hunt Archer",
+    "Ability": "Wild Gaze",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 92,
+    "Creature": "Wolf Partener",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 63,
+    "Creature": "Zombie Cyclops",
+    "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,

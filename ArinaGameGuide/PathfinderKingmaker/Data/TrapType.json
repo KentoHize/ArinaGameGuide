@@ -1,19 +1,13 @@
 [
   {
-    "ID": 1,
-    "Name": "Unknown Trap",
+    "ID": 6,
+    "Name": "Altar",
     "CName": "",
-    "Special": false
+    "Special": true
   },
   {
     "ID": 2,
     "Name": "Blooming Mushroom Spores",
-    "CName": "",
-    "Special": false
-  },
-  {
-    "ID": 3,
-    "Name": "Resonating Word",
     "CName": "",
     "Special": false
   },
@@ -30,9 +24,15 @@
     "Special": true
   },
   {
-    "ID": 6,
-    "Name": "Altar",
+    "ID": 3,
+    "Name": "Resonating Word",
     "CName": "",
-    "Special": true
+    "Special": false
+  },
+  {
+    "ID": 1,
+    "Name": "Unknown Trap",
+    "CName": "",
+    "Special": false
   }
 ]

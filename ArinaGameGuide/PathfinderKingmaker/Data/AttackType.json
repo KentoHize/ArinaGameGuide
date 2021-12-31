@@ -1,21 +1,15 @@
 [
   {
-    "ID": 3,
-    "Name": "Unarmed Strike",
-    "CName": "",
-    "DamageType": "Slash/Bludgeon/Pierce"
-  },
-  {
     "ID": 1,
     "Name": "Bite",
     "CName": "",
     "DamageType": "Slash/Bludgeon/Pierce"
   },
   {
-    "ID": 4,
-    "Name": "Sting",
+    "ID": 8,
+    "Name": "Bludgeoning Weapon",
     "CName": "",
-    "DamageType": "Pierce"
+    "DamageType": "Bludgeon"
   },
   {
     "ID": 5,
@@ -24,14 +18,32 @@
     "DamageType": "Slash/Bludgeon"
   },
   {
+    "ID": 9,
+    "Name": "Gore",
+    "CName": "",
+    "DamageType": "Pierce"
+  },
+  {
+    "ID": 2,
+    "Name": "Piercing Weapon",
+    "CName": "",
+    "DamageType": "Pierce"
+  },
+  {
     "ID": 11,
     "Name": "Slam",
     "CName": "",
     "DamageType": "Bludgeon"
   },
   {
-    "ID": 9,
-    "Name": "Gore",
+    "ID": 7,
+    "Name": "Slashing Weapon",
+    "CName": "",
+    "DamageType": "Slash"
+  },
+  {
+    "ID": 4,
+    "Name": "Sting",
     "CName": "",
     "DamageType": "Pierce"
   },
@@ -42,22 +54,10 @@
     "DamageType": "Bludgeon"
   },
   {
-    "ID": 2,
-    "Name": "Piercing Weapon",
+    "ID": 12,
+    "Name": "Torturous Touch",
     "CName": "",
-    "DamageType": "Pierce"
-  },
-  {
-    "ID": 7,
-    "Name": "Slashing Weapon",
-    "CName": "",
-    "DamageType": "Slash"
-  },
-  {
-    "ID": 8,
-    "Name": "Bludgeoning Weapon",
-    "CName": "",
-    "DamageType": "Bludgeon"
+    "DamageType": "Ability Damage"
   },
   {
     "ID": 10,
@@ -66,9 +66,9 @@
     "DamageType": "None"
   },
   {
-    "ID": 12,
-    "Name": "Torturous Touch",
+    "ID": 3,
+    "Name": "Unarmed Strike",
     "CName": "",
-    "DamageType": "Ability Damage"
+    "DamageType": "Slash/Bludgeon/Pierce"
   }
 ]

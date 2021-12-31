@@ -1,15 +1,5 @@
 [
   {
-    "ID": 1,
-    "Name": "Regent",
-    "CName": "",
-    "KetAttribute": "Charisma",
-    "AffectedStats": "Community",
-    "AdaptedCompanion1": "Octavia",
-    "AdaptedCompanion2": "Valerie",
-    "AdaptedCompanion3": ""
-  },
-  {
     "ID": 2,
     "Name": "Councilor",
     "CName": "",
@@ -17,6 +7,16 @@
     "AffectedStats": "Loyalty",
     "AdaptedCompanion1": "Tristian",
     "AdaptedCompanion2": "",
+    "AdaptedCompanion3": ""
+  },
+  {
+    "ID": 9,
+    "Name": "Curator",
+    "CName": "",
+    "KetAttribute": "Charisma",
+    "AffectedStats": "Culture",
+    "AdaptedCompanion1": "Storyteller",
+    "AdaptedCompanion2": "Jaethal",
     "AdaptedCompanion3": ""
   },
   {
@@ -30,13 +30,13 @@
     "AdaptedCompanion3": ""
   },
   {
-    "ID": 4,
-    "Name": "Treasurer",
+    "ID": 6,
+    "Name": "Grand Diplomat",
     "CName": "",
-    "KetAttribute": "Intelligence",
-    "AffectedStats": "Economy",
-    "AdaptedCompanion1": "Jubilost",
-    "AdaptedCompanion2": "Kanerah",
+    "KetAttribute": "Charisma",
+    "AffectedStats": "Relations",
+    "AdaptedCompanion1": "Linzi",
+    "AdaptedCompanion2": "Valerie",
     "AdaptedCompanion3": ""
   },
   {
@@ -50,16 +50,6 @@
     "AdaptedCompanion3": ""
   },
   {
-    "ID": 6,
-    "Name": "Grand Diplomat",
-    "CName": "",
-    "KetAttribute": "Charisma",
-    "AffectedStats": "Relations",
-    "AdaptedCompanion1": "Linzi",
-    "AdaptedCompanion2": "Valerie",
-    "AdaptedCompanion3": ""
-  },
-  {
     "ID": 7,
     "Name": "Magister",
     "CName": "",
@@ -67,6 +57,26 @@
     "AffectedStats": "Arcane",
     "AdaptedCompanion1": "Storyteller",
     "AdaptedCompanion2": "Octavia",
+    "AdaptedCompanion3": ""
+  },
+  {
+    "ID": 1,
+    "Name": "Regent",
+    "CName": "",
+    "KetAttribute": "Charisma",
+    "AffectedStats": "Community",
+    "AdaptedCompanion1": "Octavia",
+    "AdaptedCompanion2": "Valerie",
+    "AdaptedCompanion3": ""
+  },
+  {
+    "ID": 4,
+    "Name": "Treasurer",
+    "CName": "",
+    "KetAttribute": "Intelligence",
+    "AffectedStats": "Economy",
+    "AdaptedCompanion1": "Jubilost",
+    "AdaptedCompanion2": "Kanerah",
     "AdaptedCompanion3": ""
   },
   {
@@ -78,16 +88,6 @@
     "AdaptedCompanion1": "Ekundayo",
     "AdaptedCompanion2": "Regongar",
     "AdaptedCompanion3": "Kesten Garess"
-  },
-  {
-    "ID": 9,
-    "Name": "Curator",
-    "CName": "",
-    "KetAttribute": "Charisma",
-    "AffectedStats": "Culture",
-    "AdaptedCompanion1": "Storyteller",
-    "AdaptedCompanion2": "Jaethal",
-    "AdaptedCompanion3": ""
   },
   {
     "ID": 10,

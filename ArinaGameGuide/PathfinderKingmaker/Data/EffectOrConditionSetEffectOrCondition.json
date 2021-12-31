@@ -1,28 +1,143 @@
 [
   {
-    "ID": 1,
-    "EffectOrConditionSet": "True Seeing",
-    "EffectOrConditon": "True Seeing"
-  },
-  {
-    "ID": 2,
-    "EffectOrConditionSet": "Invisibility",
-    "EffectOrConditon": "Invisibility"
-  },
-  {
     "ID": 3,
     "EffectOrConditionSet": "Acidic Creature",
     "EffectOrConditon": "Acidic Creature"
   },
   {
-    "ID": 4,
-    "EffectOrConditionSet": "Fiery Creature",
-    "EffectOrConditon": "Fiery Creature"
+    "ID": 32,
+    "EffectOrConditionSet": "Boss Immunities",
+    "EffectOrConditon": "Poison"
+  },
+  {
+    "ID": 33,
+    "EffectOrConditionSet": "Boss Immunities",
+    "EffectOrConditon": "Death"
+  },
+  {
+    "ID": 34,
+    "EffectOrConditionSet": "Boss Immunities",
+    "EffectOrConditon": "ability score damage"
+  },
+  {
+    "ID": 35,
+    "EffectOrConditionSet": "Boss Immunities",
+    "EffectOrConditon": "drain"
+  },
+  {
+    "ID": 36,
+    "EffectOrConditionSet": "Boss Immunities",
+    "EffectOrConditon": "Petrified"
   },
   {
     "ID": 5,
     "EffectOrConditionSet": "Cold Creature",
     "EffectOrConditon": "Cold Creature"
+  },
+  {
+    "ID": 68,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Fear"
+  },
+  {
+    "ID": 69,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Compulsion"
+  },
+  {
+    "ID": 70,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Poison"
+  },
+  {
+    "ID": 71,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Charmed"
+  },
+  {
+    "ID": 72,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Stunned"
+  },
+  {
+    "ID": 73,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Death"
+  },
+  {
+    "ID": 74,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "ability score damage"
+  },
+  {
+    "ID": 75,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "drain"
+  },
+  {
+    "ID": 76,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Magic"
+  },
+  {
+    "ID": 77,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Sleep"
+  },
+  {
+    "ID": 78,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Paralyzed"
+  },
+  {
+    "ID": 79,
+    "EffectOrConditionSet": "Construct Immunities",
+    "EffectOrConditon": "Frightened"
+  },
+  {
+    "ID": 24,
+    "EffectOrConditionSet": "Diseased Creature",
+    "EffectOrConditon": "Diseased Creature"
+  },
+  {
+    "ID": 37,
+    "EffectOrConditionSet": "Elemental Immunities",
+    "EffectOrConditon": "Poison"
+  },
+  {
+    "ID": 38,
+    "EffectOrConditionSet": "Elemental Immunities",
+    "EffectOrConditon": "Stunned"
+  },
+  {
+    "ID": 39,
+    "EffectOrConditionSet": "Elemental Immunities",
+    "EffectOrConditon": "Critical Hits"
+  },
+  {
+    "ID": 40,
+    "EffectOrConditionSet": "Elemental Immunities",
+    "EffectOrConditon": "precision damage"
+  },
+  {
+    "ID": 41,
+    "EffectOrConditionSet": "Elemental Immunities",
+    "EffectOrConditon": "Sleep"
+  },
+  {
+    "ID": 42,
+    "EffectOrConditionSet": "Elemental Immunities",
+    "EffectOrConditon": "Paralyzed"
+  },
+  {
+    "ID": 43,
+    "EffectOrConditionSet": "Elemental Immunities",
+    "EffectOrConditon": "Stunned"
+  },
+  {
+    "ID": 4,
+    "EffectOrConditionSet": "Fiery Creature",
+    "EffectOrConditon": "Fiery Creature"
   },
   {
     "ID": 6,
@@ -75,9 +190,14 @@
     "EffectOrConditon": "Death"
   },
   {
-    "ID": 44,
+    "ID": 16,
     "EffectOrConditionSet": "Incorporeal Immunities",
-    "EffectOrConditon": "Sleep"
+    "EffectOrConditon": "Critical Hits"
+  },
+  {
+    "ID": 17,
+    "EffectOrConditionSet": "Incorporeal Immunities",
+    "EffectOrConditon": "damage from non-magical weapons"
   },
   {
     "ID": 18,
@@ -88,6 +208,11 @@
     "ID": 19,
     "EffectOrConditionSet": "Incorporeal Immunities",
     "EffectOrConditon": "drain"
+  },
+  {
+    "ID": 20,
+    "EffectOrConditionSet": "Incorporeal Immunities",
+    "EffectOrConditon": "precision damage"
   },
   {
     "ID": 21,
@@ -105,39 +230,49 @@
     "EffectOrConditon": "Sickened"
   },
   {
-    "ID": 16,
+    "ID": 44,
     "EffectOrConditionSet": "Incorporeal Immunities",
+    "EffectOrConditon": "Sleep"
+  },
+  {
+    "ID": 2,
+    "EffectOrConditionSet": "Invisibility",
+    "EffectOrConditon": "Invisibility"
+  },
+  {
+    "ID": 61,
+    "EffectOrConditionSet": "Soul Eater Immunities",
+    "EffectOrConditon": "Poison"
+  },
+  {
+    "ID": 62,
+    "EffectOrConditionSet": "Soul Eater Immunities",
+    "EffectOrConditon": "Stunned"
+  },
+  {
+    "ID": 63,
+    "EffectOrConditionSet": "Soul Eater Immunities",
     "EffectOrConditon": "Critical Hits"
   },
   {
-    "ID": 17,
-    "EffectOrConditionSet": "Incorporeal Immunities",
-    "EffectOrConditon": "damage from non-magical weapons"
+    "ID": 64,
+    "EffectOrConditionSet": "Soul Eater Immunities",
+    "EffectOrConditon": "Sleep"
   },
   {
-    "ID": 20,
-    "EffectOrConditionSet": "Incorporeal Immunities",
-    "EffectOrConditon": "precision damage"
+    "ID": 65,
+    "EffectOrConditionSet": "Soul Eater Immunities",
+    "EffectOrConditon": "Paralyzed"
   },
   {
-    "ID": 24,
-    "EffectOrConditionSet": "Diseased Creature",
-    "EffectOrConditon": "Diseased Creature"
+    "ID": 66,
+    "EffectOrConditionSet": "Soul Eater Immunities",
+    "EffectOrConditon": "Stunned"
   },
   {
-    "ID": 25,
-    "EffectOrConditionSet": "Vermin Immunities",
-    "EffectOrConditon": "Mind-Affecting"
-  },
-  {
-    "ID": 26,
-    "EffectOrConditionSet": "Vermin Immunities",
-    "EffectOrConditon": "Compulsion"
-  },
-  {
-    "ID": 27,
-    "EffectOrConditionSet": "Vermin Immunities",
-    "EffectOrConditon": "Charmed"
+    "ID": 67,
+    "EffectOrConditionSet": "Soul Eater Immunities",
+    "EffectOrConditon": "Prone"
   },
   {
     "ID": 28,
@@ -160,64 +295,9 @@
     "EffectOrConditon": "halves physical damage from slashing and piercing weapon"
   },
   {
-    "ID": 32,
-    "EffectOrConditionSet": "Boss Immunities",
-    "EffectOrConditon": "Poison"
-  },
-  {
-    "ID": 33,
-    "EffectOrConditionSet": "Boss Immunities",
-    "EffectOrConditon": "Death"
-  },
-  {
-    "ID": 34,
-    "EffectOrConditionSet": "Boss Immunities",
-    "EffectOrConditon": "ability score damage"
-  },
-  {
-    "ID": 35,
-    "EffectOrConditionSet": "Boss Immunities",
-    "EffectOrConditon": "drain"
-  },
-  {
-    "ID": 36,
-    "EffectOrConditionSet": "Boss Immunities",
-    "EffectOrConditon": "Petrified"
-  },
-  {
-    "ID": 37,
-    "EffectOrConditionSet": "Elemental Immunities",
-    "EffectOrConditon": "Poison"
-  },
-  {
-    "ID": 38,
-    "EffectOrConditionSet": "Elemental Immunities",
-    "EffectOrConditon": "Stunned"
-  },
-  {
-    "ID": 39,
-    "EffectOrConditionSet": "Elemental Immunities",
-    "EffectOrConditon": "Critical Hits"
-  },
-  {
-    "ID": 40,
-    "EffectOrConditionSet": "Elemental Immunities",
-    "EffectOrConditon": "precision damage"
-  },
-  {
-    "ID": 41,
-    "EffectOrConditionSet": "Elemental Immunities",
-    "EffectOrConditon": "Sleep"
-  },
-  {
-    "ID": 42,
-    "EffectOrConditionSet": "Elemental Immunities",
-    "EffectOrConditon": "Paralyzed"
-  },
-  {
-    "ID": 43,
-    "EffectOrConditionSet": "Elemental Immunities",
-    "EffectOrConditon": "Stunned"
+    "ID": 1,
+    "EffectOrConditionSet": "True Seeing",
+    "EffectOrConditon": "True Seeing"
   },
   {
     "ID": 45,
@@ -300,98 +380,18 @@
     "EffectOrConditon": "Sickened"
   },
   {
-    "ID": 61,
-    "EffectOrConditionSet": "Soul Eater Immunities",
-    "EffectOrConditon": "Poison"
+    "ID": 25,
+    "EffectOrConditionSet": "Vermin Immunities",
+    "EffectOrConditon": "Mind-Affecting"
   },
   {
-    "ID": 62,
-    "EffectOrConditionSet": "Soul Eater Immunities",
-    "EffectOrConditon": "Stunned"
-  },
-  {
-    "ID": 63,
-    "EffectOrConditionSet": "Soul Eater Immunities",
-    "EffectOrConditon": "Critical Hits"
-  },
-  {
-    "ID": 64,
-    "EffectOrConditionSet": "Soul Eater Immunities",
-    "EffectOrConditon": "Sleep"
-  },
-  {
-    "ID": 65,
-    "EffectOrConditionSet": "Soul Eater Immunities",
-    "EffectOrConditon": "Paralyzed"
-  },
-  {
-    "ID": 66,
-    "EffectOrConditionSet": "Soul Eater Immunities",
-    "EffectOrConditon": "Stunned"
-  },
-  {
-    "ID": 67,
-    "EffectOrConditionSet": "Soul Eater Immunities",
-    "EffectOrConditon": "Prone"
-  },
-  {
-    "ID": 68,
-    "EffectOrConditionSet": "Construct Immunities",
-    "EffectOrConditon": "Fear"
-  },
-  {
-    "ID": 69,
-    "EffectOrConditionSet": "Construct Immunities",
+    "ID": 26,
+    "EffectOrConditionSet": "Vermin Immunities",
     "EffectOrConditon": "Compulsion"
   },
   {
-    "ID": 70,
-    "EffectOrConditionSet": "Construct Immunities",
-    "EffectOrConditon": "Poison"
-  },
-  {
-    "ID": 71,
-    "EffectOrConditionSet": "Construct Immunities",
+    "ID": 27,
+    "EffectOrConditionSet": "Vermin Immunities",
     "EffectOrConditon": "Charmed"
-  },
-  {
-    "ID": 72,
-    "EffectOrConditionSet": "Construct Immunities",
-    "EffectOrConditon": "Stunned"
-  },
-  {
-    "ID": 73,
-    "EffectOrConditionSet": "Construct Immunities",
-    "EffectOrConditon": "Death"
-  },
-  {
-    "ID": 74,
-    "EffectOrConditionSet": "Construct Immunities",
-    "EffectOrConditon": "ability score damage"
-  },
-  {
-    "ID": 75,
-    "EffectOrConditionSet": "Construct Immunities",
-    "EffectOrConditon": "drain"
-  },
-  {
-    "ID": 76,
-    "EffectOrConditionSet": "Construct Immunities",
-    "EffectOrConditon": "Magic"
-  },
-  {
-    "ID": 77,
-    "EffectOrConditionSet": "Construct Immunities",
-    "EffectOrConditon": "Sleep"
-  },
-  {
-    "ID": 78,
-    "EffectOrConditionSet": "Construct Immunities",
-    "EffectOrConditon": "Paralyzed"
-  },
-  {
-    "ID": 79,
-    "EffectOrConditionSet": "Construct Immunities",
-    "EffectOrConditon": "Frightened"
   }
 ]
