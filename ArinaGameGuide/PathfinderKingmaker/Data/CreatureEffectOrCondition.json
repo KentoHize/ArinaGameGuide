@@ -394,5 +394,41 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 46,
+    "Creature": "Barbarian 10 Druid",
+    "EffectOrCondition": "Barskin",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 47,
+    "Creature": "Barbarian 10 Druid",
+    "EffectOrCondition": "Freedom of Movement",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 48,
+    "Creature": "Barbarian 10 Druid",
+    "EffectOrCondition": "Bull's Strength",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 49,
+    "Creature": "Barbarian 10 Druid",
+    "EffectOrCondition": "Bear's Endurance",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

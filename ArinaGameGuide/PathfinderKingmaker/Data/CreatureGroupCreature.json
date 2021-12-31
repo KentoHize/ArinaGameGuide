@@ -5124,7 +5124,7 @@
     "CreatureGroup": "Flintrock Grassland Barbarian Fight D",
     "Creature": "Barbarian 8 Fighter Greatsword",
     "DisplayName": null,
-    "Quantity": 1,
+    "Quantity": 2,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
@@ -5144,7 +5144,7 @@
     "CreatureGroup": "Flintrock Grassland Barbarian Fight D",
     "Creature": "Barbarian 12 Barbarian",
     "DisplayName": null,
-    "Quantity": 1,
+    "Quantity": 2,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
@@ -5163,6 +5163,56 @@
     "ID": 518,
     "CreatureGroup": "Flintrock Grassland Barbarian Fight D",
     "Creature": "Barbarian Hill Giant",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 519,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight D",
+    "Creature": "Cleric of Gorum",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 520,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight D",
+    "Creature": "Barbarian 9 Ranger",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 522,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight D",
+    "Creature": "Barbarian 10 Druid",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 521,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight D",
+    "Creature": "Wolf Companion",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 523,
+    "CreatureGroup": "Flintrock Grassland Barbarian Fight D",
+    "Creature": "Smilodon Companion",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,

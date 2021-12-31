@@ -2585,5 +2585,83 @@
     "DamageAdditiveBonus": 25,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 202,
+    "Creature": "Barbarian 10 Druid",
+    "Form": "Bludgeoning Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": 18,
+    "Weapon": "Quartstaff +1",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 19,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 203,
+    "Creature": "Smilodon Companion",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 2,
+    "AttackBonus": 1,
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 1,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 204,
+    "Creature": "Smilodon Companion",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 2,
+    "AttackBonus": 1,
+    "Weapon": null,
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 1,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 205,
+    "Creature": "Smilodon Companion",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 2,
+    "AttackBonus": 1,
+    "Weapon": null,
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 1,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 206,
+    "Creature": "Smilodon Companion",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 2,
+    "AttackBonus": 1,
+    "Weapon": null,
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 1,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 207,
+    "Creature": "Smilodon Companion",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 2,
+    "AttackBonus": 1,
+    "Weapon": null,
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 1,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

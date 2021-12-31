@@ -1492,5 +1492,11 @@
     "Creature": "Barbarian Hill Giant",
     "Skill": "Perception",
     "Bonus": 22
+  },
+  {
+    "ID": 251,
+    "Creature": "Barbarian 10 Druid",
+    "Skill": "Perception",
+    "Bonus": 21
   }
 ]

@@ -784,5 +784,11 @@
     "Creature": "Zombie Cyclops",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 100,
+    "Creature": "Barbarian 10 Druid",
+    "Condition": "Poison",
+    "CondtionGroup": null
   }
 ]

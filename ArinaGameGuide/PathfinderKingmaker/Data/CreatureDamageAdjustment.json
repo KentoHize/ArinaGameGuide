@@ -1272,5 +1272,19 @@
     "Type": "DamageReduction",
     "DamageType": "None",
     "Amount": 4
+  },
+  {
+    "ID": 183,
+    "Creature": "Barbarian 10 Druid",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 10
+  },
+  {
+    "ID": 184,
+    "Creature": "Barbarian 10 Druid",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 20
   }
 ]

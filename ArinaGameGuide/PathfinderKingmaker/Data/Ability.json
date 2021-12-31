@@ -222,5 +222,12 @@
     "CName": "",
     "DC": "28",
     "Description": "Paralyzed Will DC 28"
+  },
+  {
+    "ID": 33,
+    "Name": "Wild Shape(Smilodon)",
+    "CName": "",
+    "DC": "",
+    "Description": ""
   }
 ]

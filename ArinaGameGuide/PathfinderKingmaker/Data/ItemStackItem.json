@@ -4217,7 +4217,7 @@
   },
   {
     "ID": 219,
-    "ItemStack": "MV + RS + PoCM + MGS + FP + AoNA1",
+    "ItemStack": "MV + SoH + PoCM + MGS + FP + AoNA1",
     "Item": null,
     "RandomItem": "Money and Valuables",
     "Quantity": 1,
@@ -4225,15 +4225,15 @@
   },
   {
     "ID": 239,
-    "ItemStack": "MV + RS + PoCM + MGS + FP + AoNA1",
-    "Item": null,
-    "RandomItem": "Random Scroll",
+    "ItemStack": "MV + SoH + PoCM + MGS + FP + AoNA1",
+    "Item": "Scroll of Haste",
+    "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
   },
   {
     "ID": 240,
-    "ItemStack": "MV + RS + PoCM + MGS + FP + AoNA1",
+    "ItemStack": "MV + SoH + PoCM + MGS + FP + AoNA1",
     "Item": "Potion of Cure Moderate Wounds",
     "RandomItem": null,
     "Quantity": 1,
@@ -4241,7 +4241,7 @@
   },
   {
     "ID": 532,
-    "ItemStack": "MV + RS + PoCM + MGS + FP + AoNA1",
+    "ItemStack": "MV + SoH + PoCM + MGS + FP + AoNA1",
     "Item": "Masterwork Greatsword",
     "RandomItem": null,
     "Quantity": 1,
@@ -4249,7 +4249,7 @@
   },
   {
     "ID": 533,
-    "ItemStack": "MV + RS + PoCM + MGS + FP + AoNA1",
+    "ItemStack": "MV + SoH + PoCM + MGS + FP + AoNA1",
     "Item": "Full Plate",
     "RandomItem": null,
     "Quantity": 1,
@@ -4257,7 +4257,7 @@
   },
   {
     "ID": 534,
-    "ItemStack": "MV + RS + PoCM + MGS + FP + AoNA1",
+    "ItemStack": "MV + SoH + PoCM + MGS + FP + AoNA1",
     "Item": "Amulet of Natural Armor +1",
     "RandomItem": null,
     "Quantity": 1,
