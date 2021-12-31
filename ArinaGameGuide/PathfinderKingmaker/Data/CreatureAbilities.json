@@ -1135,7 +1135,7 @@
   },
   {
     "ID": 92,
-    "Creature": "Wolf Partener",
+    "Creature": "Wolf Companion",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -1199,6 +1199,51 @@
   {
     "ID": 135,
     "Creature": "Barbarian 8 Druid",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 136,
+    "Creature": "Barbarian 12 Barbarian",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 137,
+    "Creature": "Barbarian 12 Barbarian",
+    "Ability": "Guarded Stance",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 138,
+    "Creature": "Barbarian 12 Barbarian",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 139,
+    "Creature": "Cleric of Gorum",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 140,
+    "Creature": "Bear Companion",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,

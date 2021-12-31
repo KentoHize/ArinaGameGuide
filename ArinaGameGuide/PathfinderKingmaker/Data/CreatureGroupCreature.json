@@ -1492,7 +1492,7 @@
   {
     "ID": 403,
     "CreatureGroup": "Kellid Barbarian Camp Tiger Lords",
-    "Creature": "Wolf Partener",
+    "Creature": "Wolf Companion",
     "DisplayName": null,
     "Quantity": 2,
     "AdditonalItems": null,
@@ -4963,6 +4963,56 @@
     "ID": 497,
     "CreatureGroup": "Flintrock Grassland Barbarian Fight A",
     "Creature": "Barbarian 8 Archer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 498,
+    "CreatureGroup": "Flintrock Grassland Group C",
+    "Creature": "Barbarian 8 Druid",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 499,
+    "CreatureGroup": "Flintrock Grassland Group C",
+    "Creature": "Barbarian 12 Barbarian",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 500,
+    "CreatureGroup": "Flintrock Grassland Group C",
+    "Creature": "Cleric of Gorum",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 501,
+    "CreatureGroup": "Flintrock Grassland Group C",
+    "Creature": "Bear Companion",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 502,
+    "CreatureGroup": "Flintrock Grassland Group C",
+    "Creature": "Wolf Companion",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,

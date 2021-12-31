@@ -1265,5 +1265,12 @@
     "Type": "Resistance",
     "DamageType": "Fire",
     "Amount": 20
+  },
+  {
+    "ID": 182,
+    "Creature": "Barbarian 12 Barbarian",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 4
   }
 ]

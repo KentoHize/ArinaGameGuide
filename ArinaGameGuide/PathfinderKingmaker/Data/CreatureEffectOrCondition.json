@@ -367,5 +367,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 43,
+    "Creature": "Cleric of Gorum",
+    "EffectOrCondition": "Bull's Strength",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

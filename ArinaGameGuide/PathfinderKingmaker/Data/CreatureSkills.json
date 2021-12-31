@@ -1462,5 +1462,17 @@
     "Creature": "Barbarian 8 Druid",
     "Skill": "Perception",
     "Bonus": 19
+  },
+  {
+    "ID": 246,
+    "Creature": "Barbarian 12 Barbarian",
+    "Skill": "Perception",
+    "Bonus": 22
+  },
+  {
+    "ID": 247,
+    "Creature": "Cleric of Gorum",
+    "Skill": "Perception",
+    "Bonus": 15
   }
 ]
