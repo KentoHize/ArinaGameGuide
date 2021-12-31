@@ -4214,5 +4214,181 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 219,
+    "ItemStack": "MV + RS + PoCM + MGS + FP + AoNA1",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 239,
+    "ItemStack": "MV + RS + PoCM + MGS + FP + AoNA1",
+    "Item": null,
+    "RandomItem": "Random Scroll",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 240,
+    "ItemStack": "MV + RS + PoCM + MGS + FP + AoNA1",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 532,
+    "ItemStack": "MV + RS + PoCM + MGS + FP + AoNA1",
+    "Item": "Masterwork Greatsword",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 533,
+    "ItemStack": "MV + RS + PoCM + MGS + FP + AoNA1",
+    "Item": "Full Plate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 534,
+    "ItemStack": "MV + RS + PoCM + MGS + FP + AoNA1",
+    "Item": "Amulet of Natural Armor +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 535,
+    "ItemStack": "MV + PoCS + MFC + HA + BoGS2 + RoP1",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 536,
+    "ItemStack": "MV + PoCS + MFC + HA + BoGS2 + RoP1",
+    "Item": "Potion of Cure Serious Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 537,
+    "ItemStack": "MV + PoCS + MFC + HA + BoGS2 + RoP1",
+    "Item": "Masterwork Falchion",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 538,
+    "ItemStack": "MV + PoCS + MFC + HA + BoGS2 + RoP1",
+    "Item": "Hide Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 539,
+    "ItemStack": "MV + PoCS + MFC + HA + BoGS2 + RoP1",
+    "Item": "Belt of Giant Strength +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 540,
+    "ItemStack": "MV + PoCS + MFC + HA + BoGS2 + RoP1",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 541,
+    "ItemStack": "MV + PoCL + HAX1 + MHAX + HA1",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 542,
+    "ItemStack": "MV + PoCL + HAX1 + MHAX + HA1",
+    "Item": "Potion of Cure Light Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 543,
+    "ItemStack": "MV + PoCL + HAX1 + MHAX + HA1",
+    "Item": "Handaxe +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 544,
+    "ItemStack": "MV + PoCL + HAX1 + MHAX + HA1",
+    "Item": "Masterwork Handaxe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 545,
+    "ItemStack": "MV + PoCL + HAX1 + MHAX + HA1",
+    "Item": "Hide Armor +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 546,
+    "ItemStack": "MV + PoCM + QS1 + AoMF1 + CoR1",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 547,
+    "ItemStack": "MV + PoCM + QS1 + AoMF1 + CoR1",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 548,
+    "ItemStack": "MV + PoCM + QS1 + AoMF1 + CoR1",
+    "Item": "Quartstaff +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 549,
+    "ItemStack": "MV + PoCM + QS1 + AoMF1 + CoR1",
+    "Item": "Amulet of Might Fists +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 550,
+    "ItemStack": "MV + PoCM + QS1 + AoMF1 + CoR1",
+    "Item": "Cloak of Resistance +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

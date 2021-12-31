@@ -10875,7 +10875,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "MV + PoCM + QS1 + AoMF1 + CoR1",
     "Memo": ""
   },
   {
@@ -10918,7 +10918,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "MV + PoCS + MFC + HA + BoGS2 + RoP1",
     "Memo": ""
   },
   {
@@ -10961,7 +10961,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "MV + RS + PoCM + MGS + FP + AoNA1",
     "Memo": ""
   },
   {
@@ -11047,7 +11047,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "MV + PoCL + HAX1 + MHAX + HA1",
     "Memo": ""
   }
 ]
