@@ -4826,5 +4826,22 @@
     "StoryItem": false,
     "Weight": 0.0,
     "Description": ""
+  },
+  {
+    "ID": 168,
+    "Name": "Handaxe +1",
+    "DisplayName": "Handaxe +1",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Handaxe",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

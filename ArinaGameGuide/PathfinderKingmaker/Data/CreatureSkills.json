@@ -1474,5 +1474,11 @@
     "Creature": "Cleric of Gorum",
     "Skill": "Perception",
     "Bonus": 15
+  },
+  {
+    "ID": 248,
+    "Creature": "Barbarian 9 Ranger",
+    "Skill": "Perception",
+    "Bonus": 19
   }
 ]

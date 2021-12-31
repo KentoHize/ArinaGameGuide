@@ -5014,9 +5014,49 @@
     "CreatureGroup": "Flintrock Grassland Group C",
     "Creature": "Wolf Companion",
     "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 503,
+    "CreatureGroup": "Flintrock Grassland Group C",
+    "Creature": "Barbarian 8 Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 504,
+    "CreatureGroup": "Flintrock Grassland Group C",
+    "Creature": "Barbarian 10 Barbarian",
+    "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 505,
+    "CreatureGroup": "Flintrock Grassland Group C",
+    "Creature": "Barbarian 9 Ranger",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 506,
+    "CreatureGroup": "Flintrock Grassland Group C",
+    "Creature": "Brevoy Soldier",
+    "DisplayName": null,
+    "Quantity": 7,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
   }
 ]

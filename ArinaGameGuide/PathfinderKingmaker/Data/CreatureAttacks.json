@@ -2533,5 +2533,31 @@
     "DamageAdditiveBonus": 1,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 198,
+    "Creature": "Barbarian 9 Ranger",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": 17,
+    "Weapon": "Handaxe +1",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 5,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 199,
+    "Creature": "Barbarian 9 Ranger",
+    "Form": "Slashing Weapon",
+    "Type": "Secondary",
+    "Range": 2,
+    "AttackBonus": 17,
+    "Weapon": "Masterwork Handaxe",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 2,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]
