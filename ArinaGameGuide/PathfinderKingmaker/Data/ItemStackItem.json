@@ -2425,7 +2425,7 @@
   },
   {
     "ID": 468,
-    "ItemStack": "MV + MGA + PoCM + HA",
+    "ItemStack": "MV + MGA + PoCM + HA1",
     "Item": null,
     "RandomItem": "Money and Valuables",
     "Quantity": 1,
@@ -2433,7 +2433,7 @@
   },
   {
     "ID": 469,
-    "ItemStack": "MV + MGA + PoCM + HA",
+    "ItemStack": "MV + MGA + PoCM + HA1",
     "Item": "Masterwork Greataxe",
     "RandomItem": null,
     "Quantity": 1,
@@ -2441,7 +2441,7 @@
   },
   {
     "ID": 470,
-    "ItemStack": "MV + MGA + PoCM + HA",
+    "ItemStack": "MV + MGA + PoCM + HA1",
     "Item": "Potion of Cure Moderate Wounds",
     "RandomItem": null,
     "Quantity": 1,
@@ -2449,8 +2449,8 @@
   },
   {
     "ID": 471,
-    "ItemStack": "MV + MGA + PoCM + HA",
-    "Item": "Hide Armor",
+    "ItemStack": "MV + MGA + PoCM + HA1",
+    "Item": "Hide Armor +1",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null

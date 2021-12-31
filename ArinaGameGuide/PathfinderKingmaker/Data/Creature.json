@@ -1759,7 +1759,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": "MV + MGA + PoCM + HA",
+    "RemainItems": "MV + MGA + PoCM + HA1",
     "Memo": ""
   },
   {
@@ -10660,7 +10660,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "MV + MGA + PoCM + HA1",
     "Memo": ""
   }
 ]
