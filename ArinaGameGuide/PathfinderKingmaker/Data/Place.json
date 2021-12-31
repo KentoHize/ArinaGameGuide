@@ -1342,5 +1342,19 @@
     "HasPlot": false,
     "Description": "",
     "Memo": "Kesten Root:\nGoblin Group\n\nHeadband of Inspired Wisdom +4\n\nWand of Lighting Bolt"
+  },
+  {
+    "ID": 98,
+    "Name": "Flintrock Grassland",
+    "DisplayName": "Flintrock Grassland",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "(Amiri Assassin Action)\nBluff 31\nAthletics 22\n\nDiplomancy 30\nBluff 31\nIntimidate 17\nor just talk"
   }
 ]

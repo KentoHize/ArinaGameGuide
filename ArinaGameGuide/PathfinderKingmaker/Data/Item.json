@@ -4792,5 +4792,22 @@
     "StoryItem": false,
     "Weight": 11.0,
     "Description": ""
+  },
+  {
+    "ID": 67,
+    "Name": "Greatsword +3",
+    "DisplayName": "Greatsword +3",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Greatsword",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 8.0,
+    "Description": ""
   }
 ]

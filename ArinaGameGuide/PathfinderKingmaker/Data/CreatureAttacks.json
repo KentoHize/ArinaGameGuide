@@ -2416,5 +2416,18 @@
     "DamageAdditiveBonus": 7,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 188,
+    "Creature": "Armag",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": 32,
+    "Weapon": "Greatsword +3",
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 36,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

@@ -1444,5 +1444,11 @@
     "Creature": "Zombie Cyclops",
     "Skill": "Perception",
     "Bonus": 26
+  },
+  {
+    "ID": 242,
+    "Creature": "Armag",
+    "Skill": "Athletics",
+    "Bonus": 30
   }
 ]

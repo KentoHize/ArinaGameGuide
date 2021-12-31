@@ -1598,5 +1598,13 @@
     "Position": null,
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 97,
+    "Name": "Flintrock Grassland Armag",
+    "Place": "Flintrock Grassland",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

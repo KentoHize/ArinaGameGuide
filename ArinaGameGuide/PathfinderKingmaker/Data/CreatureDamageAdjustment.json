@@ -1251,5 +1251,12 @@
     "Type": "DamageReduction",
     "DamageType": "Slash",
     "Amount": 5
+  },
+  {
+    "ID": 180,
+    "Creature": "Armag",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 6
   }
 ]

@@ -24,13 +24,22 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ArinaGameGuide", "ArinaGame
 		SlnRelativePath = "ArinaGameGuide\"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpareFiles", "SpareFiles\SpareFiles.csproj", "{F1A986E3-73D5-4783-928F-BDD5B83F54A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{18612655-B0DB-4683-A274-8B4939274F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{18612655-B0DB-4683-A274-8B4939274F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18612655-B0DB-4683-A274-8B4939274F36}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{18612655-B0DB-4683-A274-8B4939274F36}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F1A986E3-73D5-4783-928F-BDD5B83F54A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A986E3-73D5-4783-928F-BDD5B83F54A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A986E3-73D5-4783-928F-BDD5B83F54A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A986E3-73D5-4783-928F-BDD5B83F54A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
