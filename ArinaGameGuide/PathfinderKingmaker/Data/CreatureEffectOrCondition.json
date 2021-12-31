@@ -331,5 +331,41 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 39,
+    "Creature": "Barbarian 8 Druid",
+    "EffectOrCondition": "Barskin",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 40,
+    "Creature": "Barbarian 8 Druid",
+    "EffectOrCondition": "Freedom of Movement",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 41,
+    "Creature": "Barbarian 8 Druid",
+    "EffectOrCondition": "Bull's Strength",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 42,
+    "Creature": "Barbarian 8 Druid",
+    "EffectOrCondition": "Bear's Endurance",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

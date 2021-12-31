@@ -2442,5 +2442,18 @@
     "DamageAdditiveBonus": 21,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 191,
+    "Creature": "Barbarian 8 Druid",
+    "Form": "Bludgeoning Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AttackBonus": 17,
+    "Weapon": "Quartstaff +1",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 19,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

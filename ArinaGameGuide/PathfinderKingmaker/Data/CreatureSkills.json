@@ -1456,5 +1456,11 @@
     "Creature": "Barbarian 8 Fighter Greatsword",
     "Skill": "Perception",
     "Bonus": 15
+  },
+  {
+    "ID": 245,
+    "Creature": "Barbarian 8 Druid",
+    "Skill": "Perception",
+    "Bonus": 19
   }
 ]

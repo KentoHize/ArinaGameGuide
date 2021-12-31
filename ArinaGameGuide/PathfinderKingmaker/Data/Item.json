@@ -4809,5 +4809,22 @@
     "StoryItem": false,
     "Weight": 8.0,
     "Description": ""
+  },
+  {
+    "ID": 113,
+    "Name": "Quartstaff +1",
+    "DisplayName": "Quartstaff +1",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Quarterstaff",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

@@ -159,5 +159,12 @@
     "CName": "",
     "ChanllegeRateMultiplier": 1.0,
     "PlayerClass": true
+  },
+  {
+    "ID": 24,
+    "Name": "Druid",
+    "CName": "",
+    "ChanllegeRateMultiplier": 0.0,
+    "PlayerClass": true
   }
 ]

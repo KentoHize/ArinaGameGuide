@@ -1258,5 +1258,12 @@
     "Type": "DamageReduction",
     "DamageType": "None",
     "Amount": 6
+  },
+  {
+    "ID": 181,
+    "Creature": "Barbarian 8 Druid",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 20
   }
 ]
