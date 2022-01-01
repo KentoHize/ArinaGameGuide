@@ -1498,5 +1498,35 @@
     "Creature": "Barbarian 10 Druid",
     "Skill": "Perception",
     "Bonus": 21
+  },
+  {
+    "ID": 252,
+    "Creature": "Owlbear",
+    "Skill": "Perception",
+    "Bonus": 24
+  },
+  {
+    "ID": 253,
+    "Creature": "Dweomercat",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 13
+  },
+  {
+    "ID": 254,
+    "Creature": "Dweomercat",
+    "Skill": "Perception",
+    "Bonus": 28
+  },
+  {
+    "ID": 255,
+    "Creature": "Dweomercat",
+    "Skill": "Athletics",
+    "Bonus": 18
+  },
+  {
+    "ID": 256,
+    "Creature": "Dweomercat",
+    "Skill": "Stealth",
+    "Bonus": 32
   }
 ]

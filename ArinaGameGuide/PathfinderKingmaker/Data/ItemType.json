@@ -7,13 +7,6 @@
     "SubType": "Amulet"
   },
   {
-    "ID": 19,
-    "Name": "Artifact Piece",
-    "CName": "",
-    "MainType": "Notable",
-    "SubType": "Artifact Piece"
-  },
-  {
     "ID": 13,
     "Name": "Belt",
     "CName": "",
@@ -35,39 +28,11 @@
     "SubType": "Bracers"
   },
   {
-    "ID": 32,
-    "Name": "Chemical",
-    "CName": "",
-    "MainType": "Usable",
-    "SubType": "Chemical"
-  },
-  {
     "ID": 8,
     "Name": "Cloak",
     "CName": "",
     "MainType": "Accessories",
     "SubType": "Cloak"
-  },
-  {
-    "ID": 26,
-    "Name": "Cloth",
-    "CName": "",
-    "MainType": "Armor",
-    "SubType": "Cloth"
-  },
-  {
-    "ID": 33,
-    "Name": "Collectable Item",
-    "CName": "",
-    "MainType": "Notable",
-    "SubType": "Collectable Item"
-  },
-  {
-    "ID": 31,
-    "Name": "Exotic Weapon",
-    "CName": "",
-    "MainType": "Weapon",
-    "SubType": "Exotic Weapon"
   },
   {
     "ID": 10,
@@ -77,6 +42,27 @@
     "SubType": "Glove"
   },
   {
+    "ID": 4,
+    "Name": "Helmet",
+    "CName": "",
+    "MainType": "Accessories",
+    "SubType": "Helmet"
+  },
+  {
+    "ID": 9,
+    "Name": "Ring",
+    "CName": "",
+    "MainType": "Accessories",
+    "SubType": "Ring"
+  },
+  {
+    "ID": 26,
+    "Name": "Cloth",
+    "CName": "",
+    "MainType": "Armor",
+    "SubType": "Cloth"
+  },
+  {
     "ID": 2,
     "Name": "Heavy Armor",
     "CName": "",
@@ -84,18 +70,60 @@
     "SubType": "Heavy Armor"
   },
   {
-    "ID": 28,
-    "Name": "Heavy Shield",
+    "ID": 25,
+    "Name": "Light Armor",
     "CName": "",
-    "MainType": "Shield",
-    "SubType": "Heavy Shield"
+    "MainType": "Armor",
+    "SubType": "Light Armor"
   },
   {
-    "ID": 4,
-    "Name": "Helmet",
+    "ID": 24,
+    "Name": "Medium Armor",
     "CName": "",
-    "MainType": "Accessories",
-    "SubType": "Helmet"
+    "MainType": "Armor",
+    "SubType": "Medium Armor"
+  },
+  {
+    "ID": 19,
+    "Name": "Artifact Piece",
+    "CName": "",
+    "MainType": "Notable",
+    "SubType": "Artifact Piece"
+  },
+  {
+    "ID": 33,
+    "Name": "Collectable Item",
+    "CName": "",
+    "MainType": "Notable",
+    "SubType": "Collectable Item"
+  },
+  {
+    "ID": 38,
+    "Name": "Notable",
+    "CName": "",
+    "MainType": "Notable",
+    "SubType": "Notable"
+  },
+  {
+    "ID": 18,
+    "Name": "Spell Component",
+    "CName": "",
+    "MainType": "Notable",
+    "SubType": "Spell Component"
+  },
+  {
+    "ID": 6,
+    "Name": "Story Item",
+    "CName": "",
+    "MainType": "Notable",
+    "SubType": "Story Item"
+  },
+  {
+    "ID": 43,
+    "Name": "Gem",
+    "CName": "",
+    "MainType": "Other",
+    "SubType": "Gem"
   },
   {
     "ID": 37,
@@ -126,18 +154,11 @@
     "SubType": "Key"
   },
   {
-    "ID": 25,
-    "Name": "Light Armor",
+    "ID": 44,
+    "Name": "Luxury Item",
     "CName": "",
-    "MainType": "Armor",
-    "SubType": "Light Armor"
-  },
-  {
-    "ID": 27,
-    "Name": "Light Shield",
-    "CName": "",
-    "MainType": "Shield",
-    "SubType": "Light Shield"
+    "MainType": "Other",
+    "SubType": "Luxury Item"
   },
   {
     "ID": 34,
@@ -145,34 +166,6 @@
     "CName": "",
     "MainType": "Other",
     "SubType": "Magic Item"
-  },
-  {
-    "ID": 1,
-    "Name": "Martial Weapon",
-    "CName": "",
-    "MainType": "Weapon",
-    "SubType": "Martial Weapon"
-  },
-  {
-    "ID": 24,
-    "Name": "Medium Armor",
-    "CName": "",
-    "MainType": "Armor",
-    "SubType": "Medium Armor"
-  },
-  {
-    "ID": 38,
-    "Name": "Notable",
-    "CName": "",
-    "MainType": "Notable",
-    "SubType": "Notable"
-  },
-  {
-    "ID": 23,
-    "Name": "Oil",
-    "CName": "",
-    "MainType": "Usable",
-    "SubType": "Oil"
   },
   {
     "ID": 35,
@@ -189,13 +182,6 @@
     "SubType": "Paper/Book"
   },
   {
-    "ID": 5,
-    "Name": "Potion",
-    "CName": "",
-    "MainType": "Usable",
-    "SubType": "Potion"
-  },
-  {
     "ID": 16,
     "Name": "Ration",
     "CName": "",
@@ -203,18 +189,67 @@
     "SubType": "Ration"
   },
   {
+    "ID": 41,
+    "Name": "Skin",
+    "CName": "",
+    "MainType": "Other",
+    "SubType": "Skin"
+  },
+  {
+    "ID": 28,
+    "Name": "Heavy Shield",
+    "CName": "",
+    "MainType": "Shield",
+    "SubType": "Heavy Shield"
+  },
+  {
+    "ID": 27,
+    "Name": "Light Shield",
+    "CName": "",
+    "MainType": "Shield",
+    "SubType": "Light Shield"
+  },
+  {
+    "ID": 29,
+    "Name": "Tower Shield",
+    "CName": "",
+    "MainType": "Shield",
+    "SubType": "Tower Shield"
+  },
+  {
+    "ID": 32,
+    "Name": "Chemical",
+    "CName": "",
+    "MainType": "Usable",
+    "SubType": "Chemical"
+  },
+  {
+    "ID": 23,
+    "Name": "Oil",
+    "CName": "",
+    "MainType": "Usable",
+    "SubType": "Oil"
+  },
+  {
+    "ID": 5,
+    "Name": "Potion",
+    "CName": "",
+    "MainType": "Usable",
+    "SubType": "Potion"
+  },
+  {
+    "ID": 42,
+    "Name": "Quiver",
+    "CName": "",
+    "MainType": "Usable",
+    "SubType": "Quiver"
+  },
+  {
     "ID": 40,
     "Name": "Recipe",
     "CName": "",
     "MainType": "Usable",
     "SubType": "Recipe"
-  },
-  {
-    "ID": 9,
-    "Name": "Ring",
-    "CName": "",
-    "MainType": "Accessories",
-    "SubType": "Ring"
   },
   {
     "ID": 22,
@@ -231,41 +266,6 @@
     "SubType": "Scroll"
   },
   {
-    "ID": 30,
-    "Name": "Simple Weapon",
-    "CName": "",
-    "MainType": "Weapon",
-    "SubType": "Simple Weapon"
-  },
-  {
-    "ID": 41,
-    "Name": "Skin",
-    "CName": "",
-    "MainType": "Other",
-    "SubType": "Skin"
-  },
-  {
-    "ID": 18,
-    "Name": "Spell Component",
-    "CName": "",
-    "MainType": "Notable",
-    "SubType": "Spell Component"
-  },
-  {
-    "ID": 6,
-    "Name": "Story Item",
-    "CName": "",
-    "MainType": "Notable",
-    "SubType": "Story Item"
-  },
-  {
-    "ID": 29,
-    "Name": "Tower Shield",
-    "CName": "",
-    "MainType": "Shield",
-    "SubType": "Tower Shield"
-  },
-  {
     "ID": 39,
     "Name": "Usable",
     "CName": "",
@@ -278,5 +278,26 @@
     "CName": "",
     "MainType": "Usable",
     "SubType": "Wand"
+  },
+  {
+    "ID": 31,
+    "Name": "Exotic Weapon",
+    "CName": "",
+    "MainType": "Weapon",
+    "SubType": "Exotic Weapon"
+  },
+  {
+    "ID": 1,
+    "Name": "Martial Weapon",
+    "CName": "",
+    "MainType": "Weapon",
+    "SubType": "Martial Weapon"
+  },
+  {
+    "ID": 30,
+    "Name": "Simple Weapon",
+    "CName": "",
+    "MainType": "Weapon",
+    "SubType": "Simple Weapon"
   }
 ]

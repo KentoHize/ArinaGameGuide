@@ -1286,5 +1286,12 @@
     "Type": "Resistance",
     "DamageType": "Fire",
     "Amount": 20
+  },
+  {
+    "ID": 185,
+    "Creature": "Dweomercat",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 5
   }
 ]

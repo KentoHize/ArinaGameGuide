@@ -4572,6 +4572,27 @@
           "IsUnique": false
         },
         {
+          "Name": "Gender",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "Choice",
+          "Choices": [
+            "Male",
+            "Female"
+          ],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        },
+        {
           "Name": "Place",
           "IsKey": false,
           "IsNullable": true,

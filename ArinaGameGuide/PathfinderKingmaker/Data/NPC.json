@@ -3,6 +3,7 @@
     "ID": 1,
     "Name": "Hilla",
     "CName": "",
+    "Gender": "Male",
     "Place": "City of Hollow Eyes",
     "Position": "Center",
     "BaseCreature": null,
@@ -13,6 +14,7 @@
     "ID": 2,
     "Name": "Brag",
     "CName": "",
+    "Gender": "Male",
     "Place": "Sepulcher of Forgotten Heroes",
     "Position": "South",
     "BaseCreature": null,
@@ -23,10 +25,33 @@
     "ID": 3,
     "Name": "Edrist Hanvaki",
     "CName": "",
+    "Gender": "Male",
     "Place": null,
     "Position": null,
     "BaseCreature": null,
     "Description": "",
     "Memo": "The Lost Brother"
+  },
+  {
+    "ID": 4,
+    "Name": "Natara Surtova",
+    "CName": "",
+    "Gender": "Female",
+    "Place": null,
+    "Position": null,
+    "BaseCreature": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 5,
+    "Name": "Jamandi Aldori",
+    "CName": "",
+    "Gender": "Female",
+    "Place": null,
+    "Position": null,
+    "BaseCreature": null,
+    "Description": "",
+    "Memo": ""
   }
 ]

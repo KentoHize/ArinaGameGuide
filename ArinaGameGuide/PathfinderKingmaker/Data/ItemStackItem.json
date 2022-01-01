@@ -4438,5 +4438,85 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 557,
+    "ItemStack": "Child of the Wind",
+    "Item": "Child of the Wind",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 558,
+    "ItemStack": "Ancient Hunt",
+    "Item": "Ancient Hunt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 559,
+    "ItemStack": "Flintrock Grassland Treasure D",
+    "Item": "Ring of Evasion",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 560,
+    "ItemStack": "Flintrock Grassland Treasure D",
+    "Item": "Copper Ring",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 561,
+    "ItemStack": "Flintrock Grassland Treasure D",
+    "Item": "Gold Ring",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 562,
+    "ItemStack": "Flintrock Grassland Treasure D",
+    "Item": "Silver Ring",
+    "RandomItem": null,
+    "Quantity": 4,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 563,
+    "ItemStack": "Flintrock Grassland Treasure D",
+    "Item": "Gold Earring",
+    "RandomItem": null,
+    "Quantity": 7,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 564,
+    "ItemStack": "Flintrock Grassland Treasure D",
+    "Item": "Silver Medallion",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 565,
+    "ItemStack": "Flintrock Grassland Treasure D",
+    "Item": "Decorated Scabbard",
+    "RandomItem": null,
+    "Quantity": 4,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 566,
+    "ItemStack": "Flintrock Grassland Treasure D",
+    "Item": "Emerald Necklace",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

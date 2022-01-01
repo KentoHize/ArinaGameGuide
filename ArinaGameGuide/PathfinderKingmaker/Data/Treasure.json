@@ -782,5 +782,47 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 57,
+    "Name": "Flintrock Grassland Treasure B",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Flintrock Grassland",
+    "Position": "North West",
+    "ItemStack": "Child of the Wind",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": 32,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 58,
+    "Name": "Flintrock Grassland Treasure C",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Flintrock Grassland",
+    "Position": "North West",
+    "ItemStack": "Ancient Hunt",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": 33,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 59,
+    "Name": "Flintrock Grassland Treasure D",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Flintrock Grassland",
+    "Position": "North West",
+    "ItemStack": "Flintrock Grassland Treasure D",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

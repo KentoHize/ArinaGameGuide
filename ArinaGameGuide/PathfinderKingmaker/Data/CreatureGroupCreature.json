@@ -5368,5 +5368,25 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "Ally"
+  },
+  {
+    "ID": 539,
+    "CreatureGroup": "Candlemere Tower Bloom Group A",
+    "Creature": "Owlbear",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 538,
+    "CreatureGroup": "Candlemere Tower Bloom Group A",
+    "Creature": "Dweomercat",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

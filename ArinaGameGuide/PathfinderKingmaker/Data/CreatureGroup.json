@@ -1670,5 +1670,13 @@
     "Position": "North East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 210,
+    "Name": "Candlemere Tower Bloom Group A",
+    "Place": "Candlemere Tower",
+    "Position": "South",
+    "Stage": 1,
+    "Memo": ""
   }
 ]
