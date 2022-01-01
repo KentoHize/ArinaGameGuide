@@ -478,5 +478,21 @@
     "RandomEvent": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 31,
+    "Name": "They're All in This Together",
+    "CName": "",
+    "Type": "Problem",
+    "RequiredDays": 45,
+    "DC": 25,
+    "AdaptedAdvisor1": "Regent",
+    "AdaptedAdvisor2": "Councilor",
+    "AdaptedAdvisor3": "Curator",
+    "HaveAdvantage": null,
+    "HaveDisadvantage": null,
+    "RandomEvent": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

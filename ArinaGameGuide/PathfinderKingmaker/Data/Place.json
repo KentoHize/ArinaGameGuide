@@ -1356,5 +1356,33 @@
     "HasPlot": false,
     "Description": "",
     "Memo": "(Amiri Assassin Action)\nBluff 31\nAthletics 22\n\nDiplomancy 30\nBluff 31\nIntimidate 17\nor just talk"
+  },
+  {
+    "ID": 99,
+    "Name": "Temple of The Elk",
+    "DisplayName": "Temple of The Elk",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 100,
+    "Name": "Abandoned Keep",
+    "DisplayName": "Abandoned Keep",
+    "CName": "",
+    "Type": "Dungeon",
+    "SuggestedLevelMin": 10,
+    "SuggestedLevelMax": 12,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "50% Spell Failure"
   }
 ]

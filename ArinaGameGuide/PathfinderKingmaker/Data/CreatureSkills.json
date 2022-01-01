@@ -1558,5 +1558,11 @@
     "Creature": "Shambling Mound",
     "Skill": "Stealth",
     "Bonus": 10
+  },
+  {
+    "ID": 262,
+    "Creature": "Giant Flytrap",
+    "Skill": "Perception",
+    "Bonus": 23
   }
 ]

@@ -4647,7 +4647,7 @@
           "IsUnique": false
         },
         {
-          "Name": "BaseCreature",
+          "Name": "AsCreature",
           "IsKey": false,
           "IsNullable": true,
           "Type": "String",

@@ -6,7 +6,7 @@
     "Gender": "Male",
     "Place": "City of Hollow Eyes",
     "Position": "Center",
-    "BaseCreature": null,
+    "AsCreature": null,
     "Description": "",
     "Memo": ""
   },
@@ -17,7 +17,7 @@
     "Gender": "Male",
     "Place": "Sepulcher of Forgotten Heroes",
     "Position": "South",
-    "BaseCreature": null,
+    "AsCreature": null,
     "Description": "Tiger Lords member",
     "Memo": ""
   },
@@ -28,7 +28,7 @@
     "Gender": "Male",
     "Place": null,
     "Position": null,
-    "BaseCreature": null,
+    "AsCreature": null,
     "Description": "",
     "Memo": "The Lost Brother"
   },
@@ -39,7 +39,7 @@
     "Gender": "Female",
     "Place": null,
     "Position": null,
-    "BaseCreature": null,
+    "AsCreature": null,
     "Description": "",
     "Memo": ""
   },
@@ -50,7 +50,18 @@
     "Gender": "Female",
     "Place": null,
     "Position": null,
-    "BaseCreature": null,
+    "AsCreature": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 6,
+    "Name": "Rismel",
+    "CName": "",
+    "Gender": "Male",
+    "Place": "Candlemere Tower",
+    "Position": "North East",
+    "AsCreature": null,
     "Description": "",
     "Memo": ""
   }

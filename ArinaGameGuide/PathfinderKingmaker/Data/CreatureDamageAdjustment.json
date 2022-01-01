@@ -458,7 +458,7 @@
     "ID": 13,
     "Creature": "Giant Flytrap",
     "Type": "Resistance",
-    "DamageType": "Cold",
+    "DamageType": "Acid",
     "Amount": 20
   },
   {

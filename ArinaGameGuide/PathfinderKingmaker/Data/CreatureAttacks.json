@@ -2882,5 +2882,19 @@
     "DamageAdditiveBonus": 11,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 220,
+    "Creature": "Giant Flytrap",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 9,
+    "AddtionalAttack": 3,
+    "AttackBonus": 20,
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 17,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

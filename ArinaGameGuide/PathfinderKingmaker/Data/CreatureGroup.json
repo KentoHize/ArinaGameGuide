@@ -1710,5 +1710,69 @@
     "Position": "North West",
     "Stage": 1,
     "Memo": ""
+  },
+  {
+    "ID": 215,
+    "Name": "Candlemere Tower Bloom Group F",
+    "Place": "Candlemere Tower",
+    "Position": "North East",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 216,
+    "Name": "Candlemere Tower Bloom Portal Group 1",
+    "Place": "Candlemere Tower",
+    "Position": "North East",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 217,
+    "Name": "Candlemere Tower Bloom Portal Group 2",
+    "Place": "Candlemere Tower",
+    "Position": "North East",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 218,
+    "Name": "Candlemere Tower Bloom Portal Group 3",
+    "Place": "Candlemere Tower",
+    "Position": "North East",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 219,
+    "Name": "Candlemere Tower Bloom Portal Group 4",
+    "Place": "Candlemere Tower",
+    "Position": "North East",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 220,
+    "Name": "Temple of The Elk Bloom Group A",
+    "Place": "Temple of The Elk",
+    "Position": "South East",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 221,
+    "Name": "Temple of The Elk Bloom Group B",
+    "Place": "Temple of The Elk",
+    "Position": "Center",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 222,
+    "Name": "Abandoned Keep Group A",
+    "Place": "Abandoned Keep",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

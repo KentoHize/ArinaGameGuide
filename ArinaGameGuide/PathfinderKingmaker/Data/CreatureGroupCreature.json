@@ -5428,5 +5428,135 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 544,
+    "CreatureGroup": "Candlemere Tower Bloom Group E",
+    "Creature": "Dweomercat",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 545,
+    "CreatureGroup": "Candlemere Tower Bloom Group F",
+    "Creature": "Giant Flytrap",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 546,
+    "CreatureGroup": "Candlemere Tower Bloom Portal Group 1",
+    "Creature": "Dweomercat",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 547,
+    "CreatureGroup": "Candlemere Tower Bloom Portal Group 2",
+    "Creature": "Dweomercat",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 548,
+    "CreatureGroup": "Candlemere Tower Bloom Portal Group 3",
+    "Creature": "Owlbear",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 549,
+    "CreatureGroup": "Candlemere Tower Bloom Portal Group 3",
+    "Creature": "Dweomercat",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 550,
+    "CreatureGroup": "Candlemere Tower Bloom Portal Group 4",
+    "Creature": "Giant Flytrap",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 551,
+    "CreatureGroup": "Candlemere Tower Bloom Portal Group 4",
+    "Creature": "Dweomercat",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 552,
+    "CreatureGroup": "Temple of The Elk Bloom Group A",
+    "Creature": "Owlbear",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 553,
+    "CreatureGroup": "Temple of The Elk Bloom Group A",
+    "Creature": "Pilgrim",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 554,
+    "CreatureGroup": "Temple of The Elk Bloom Group A",
+    "Creature": "Pilgrim Trader",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 555,
+    "CreatureGroup": "Temple of The Elk Bloom Group B",
+    "Creature": "Primal Manticore",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 556,
+    "CreatureGroup": "Abandoned Keep Group A",
+    "Creature": "Primal Giant Spider",
+    "DisplayName": null,
+    "Quantity": 8,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

@@ -802,5 +802,11 @@
     "Creature": "Shambling Mound",
     "Condition": null,
     "CondtionGroup": "Plant Immunities"
+  },
+  {
+    "ID": 103,
+    "Creature": "Giant Flytrap",
+    "Condition": null,
+    "CondtionGroup": "Plant Immunities"
   }
 ]
