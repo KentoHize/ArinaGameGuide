@@ -5388,5 +5388,45 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 540,
+    "CreatureGroup": "Candlemere Tower Bloom Group B",
+    "Creature": "Quickwood",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 541,
+    "CreatureGroup": "Candlemere Tower Bloom Group C",
+    "Creature": "Owlbear",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 542,
+    "CreatureGroup": "Candlemere Tower Bloom Group D",
+    "Creature": "Dweomercat",
+    "DisplayName": null,
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 543,
+    "CreatureGroup": "Candlemere Tower Bloom Group E",
+    "Creature": "Shambling Mound",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

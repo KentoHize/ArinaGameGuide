@@ -73,5 +73,10 @@
     "ID": 9,
     "Name": "Vermin Immunities",
     "CName": ""
+  },
+  {
+    "ID": 16,
+    "Name": "Plant Immunities",
+    "CName": ""
   }
 ]

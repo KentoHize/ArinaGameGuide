@@ -790,5 +790,17 @@
     "Creature": "Barbarian 10 Druid",
     "Condition": "Poison",
     "CondtionGroup": null
+  },
+  {
+    "ID": 101,
+    "Creature": "Quickwood",
+    "Condition": null,
+    "CondtionGroup": "Plant Immunities"
+  },
+  {
+    "ID": 102,
+    "Creature": "Shambling Mound",
+    "Condition": null,
+    "CondtionGroup": "Plant Immunities"
   }
 ]

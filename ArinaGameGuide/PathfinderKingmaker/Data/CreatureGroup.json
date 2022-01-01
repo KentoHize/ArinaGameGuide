@@ -1678,5 +1678,37 @@
     "Position": "South",
     "Stage": 1,
     "Memo": ""
+  },
+  {
+    "ID": 211,
+    "Name": "Candlemere Tower Bloom Group B",
+    "Place": "Candlemere Tower",
+    "Position": "South",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 212,
+    "Name": "Candlemere Tower Bloom Group C",
+    "Place": "Candlemere Tower",
+    "Position": "South",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 213,
+    "Name": "Candlemere Tower Bloom Group D",
+    "Place": "Candlemere Tower",
+    "Position": "Center",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 214,
+    "Name": "Candlemere Tower Bloom Group E",
+    "Place": "Candlemere Tower",
+    "Position": "North West",
+    "Stage": 1,
+    "Memo": ""
   }
 ]

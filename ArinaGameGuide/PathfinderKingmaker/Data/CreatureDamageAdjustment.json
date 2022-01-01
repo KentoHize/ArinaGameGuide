@@ -1293,5 +1293,26 @@
     "Type": "DamageReduction",
     "DamageType": "Magic",
     "Amount": 5
+  },
+  {
+    "ID": 186,
+    "Creature": "Quickwood",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 187,
+    "Creature": "Quickwood",
+    "Type": "Immunity",
+    "DamageType": "Electricity",
+    "Amount": null
+  },
+  {
+    "ID": 188,
+    "Creature": "Shambling Mound",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 10
   }
 ]

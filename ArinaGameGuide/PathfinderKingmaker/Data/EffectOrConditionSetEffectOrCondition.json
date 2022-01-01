@@ -393,5 +393,45 @@
     "ID": 27,
     "EffectOrConditionSet": "Vermin Immunities",
     "EffectOrConditon": "Charmed"
+  },
+  {
+    "ID": 80,
+    "EffectOrConditionSet": "Plant Immunities",
+    "EffectOrConditon": "Mind-Affecting"
+  },
+  {
+    "ID": 81,
+    "EffectOrConditionSet": "Plant Immunities",
+    "EffectOrConditon": "Compulsion"
+  },
+  {
+    "ID": 82,
+    "EffectOrConditionSet": "Plant Immunities",
+    "EffectOrConditon": "Poison"
+  },
+  {
+    "ID": 83,
+    "EffectOrConditionSet": "Plant Immunities",
+    "EffectOrConditon": "Charmed"
+  },
+  {
+    "ID": 84,
+    "EffectOrConditionSet": "Plant Immunities",
+    "EffectOrConditon": "Stunned"
+  },
+  {
+    "ID": 85,
+    "EffectOrConditionSet": "Plant Immunities",
+    "EffectOrConditon": "Polymorph"
+  },
+  {
+    "ID": 86,
+    "EffectOrConditionSet": "Plant Immunities",
+    "EffectOrConditon": "Paralyzed"
+  },
+  {
+    "ID": 87,
+    "EffectOrConditionSet": "Plant Immunities",
+    "EffectOrConditon": "Sleep"
   }
 ]

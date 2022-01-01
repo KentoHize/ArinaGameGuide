@@ -1528,5 +1528,35 @@
     "Creature": "Dweomercat",
     "Skill": "Stealth",
     "Bonus": 32
+  },
+  {
+    "ID": 257,
+    "Creature": "Quickwood",
+    "Skill": "Lore(Nature)",
+    "Bonus": 12
+  },
+  {
+    "ID": 258,
+    "Creature": "Quickwood",
+    "Skill": "Perception",
+    "Bonus": 27
+  },
+  {
+    "ID": 259,
+    "Creature": "Quickwood",
+    "Skill": "Stealth",
+    "Bonus": 6
+  },
+  {
+    "ID": 260,
+    "Creature": "Shambling Mound",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 261,
+    "Creature": "Shambling Mound",
+    "Skill": "Stealth",
+    "Bonus": 10
   }
 ]
