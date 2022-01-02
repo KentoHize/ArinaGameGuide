@@ -1744,5 +1744,29 @@
     "Creature": "Defaced Sister 20",
     "Skill": "Stealth",
     "Bonus": 32
+  },
+  {
+    "ID": 293,
+    "Creature": "Ferocious Devourer 21",
+    "Skill": "Persuasion",
+    "Bonus": 33
+  },
+  {
+    "ID": 294,
+    "Creature": "Ferocious Devourer 21",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 32
+  },
+  {
+    "ID": 295,
+    "Creature": "Ferocious Devourer 21",
+    "Skill": "Perception",
+    "Bonus": 35
+  },
+  {
+    "ID": 296,
+    "Creature": "Ferocious Devourer 21",
+    "Skill": "Stealth",
+    "Bonus": 24
   }
 ]

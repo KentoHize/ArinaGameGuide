@@ -34,5 +34,11 @@
     "Name": "Unknown Trap",
     "CName": "",
     "Special": false
+  },
+  {
+    "ID": 7,
+    "Name": "Dragon's Breath(Brass)",
+    "CName": "",
+    "Special": false
   }
 ]

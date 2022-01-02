@@ -64,5 +64,16 @@
     "AsCreature": null,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 7,
+    "Name": "Osprey",
+    "CName": "",
+    "Gender": "Male",
+    "Place": "Somewhere On The Road",
+    "Position": "Center",
+    "AsCreature": null,
+    "Description": "Local Heroes",
+    "Memo": ""
   }
 ]

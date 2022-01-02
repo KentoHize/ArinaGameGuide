@@ -826,5 +826,11 @@
     "Creature": "Defaced Sister 20",
     "Condition": "Difficult Terrain",
     "CondtionGroup": null
+  },
+  {
+    "ID": 139,
+    "Creature": "Ferocious Devourer 21",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]

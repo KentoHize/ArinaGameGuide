@@ -922,5 +922,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 67,
+    "Name": "Abandoned Keep Treasure H",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Abandoned Keep",
+    "Position": "North",
+    "ItemStack": "Abandoned Keep Treasure G",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": "Abandoned Keep Defaced Sister",
+    "Memo": ""
   }
 ]

@@ -1384,5 +1384,19 @@
     "HasPlot": false,
     "Description": "",
     "Memo": "50% Spell Failure\n\nPerception 35\n\nFortitude 23\nKnowledge(Arcana) 15\nMobility 25\n\nLore(Region) 26\nTrickery 42"
+  },
+  {
+    "ID": 101,
+    "Name": "Somewhere On The Road",
+    "DisplayName": "Somewhere On The Road",
+    "CName": "",
+    "Type": "Random Encounter",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": ""
   }
 ]

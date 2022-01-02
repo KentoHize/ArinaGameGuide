@@ -4638,5 +4638,61 @@
     "RandomItem": null,
     "Quantity": 2,
     "RandomQuantity": null
+  },
+  {
+    "ID": 582,
+    "ItemStack": "Abandoned Keep Treasure H",
+    "Item": "Gloves of Elvenkind",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 581,
+    "ItemStack": "Abandoned Keep Treasure H",
+    "Item": "Piece of Skymetal",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 583,
+    "ItemStack": "Ferocious Devourer 21 RS",
+    "Item": "Bonemail",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 584,
+    "ItemStack": "Ferocious Devourer 21 RS",
+    "Item": "Belt of Giant Strength +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 585,
+    "ItemStack": "Ferocious Devourer 21 RS",
+    "Item": "Amulet of Natural Armor +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 586,
+    "ItemStack": "Ferocious Devourer 21 RS",
+    "Item": "Ring of Protection +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 587,
+    "ItemStack": "Ferocious Devourer 21 RS",
+    "Item": "Cloak of Resistance +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

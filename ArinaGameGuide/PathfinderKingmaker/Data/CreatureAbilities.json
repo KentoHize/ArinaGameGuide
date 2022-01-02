@@ -1492,5 +1492,23 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": 20
+  },
+  {
+    "ID": 168,
+    "Creature": "Ferocious Devourer 21",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 169,
+    "Creature": "Ferocious Devourer 21",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

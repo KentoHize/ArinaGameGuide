@@ -548,5 +548,16 @@
     "EnemyGroup2": null,
     "EnemyGroup3": null,
     "Memo": "傳記\n\n吸入Other World"
+  },
+  {
+    "ID": 51,
+    "Name": "Abandoned Keep Defaced Sister",
+    "Place": "Abandoned Keep",
+    "Position": "North",
+    "HasPlot": true,
+    "EnemyGroup1": "Abandoned Keep Defaced Sister",
+    "EnemyGroup2": null,
+    "EnemyGroup3": null,
+    "Memo": ""
   }
 ]

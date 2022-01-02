@@ -448,5 +448,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 52,
+    "Creature": "Ferocious Devourer 21",
+    "EffectOrCondition": "True Seeing",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

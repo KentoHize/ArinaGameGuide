@@ -1294,5 +1294,29 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 115,
+    "Name": "Abandoned Keep Trap",
+    "CName": "",
+    "Type": "Dragon's Breath(Brass)",
+    "Place": "Abandoned Keep",
+    "DisarmDC": 32,
+    "Position": "North",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 116,
+    "Name": "Abandoned Keep Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Abandoned Keep",
+    "DisarmDC": 32,
+    "Position": "North",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

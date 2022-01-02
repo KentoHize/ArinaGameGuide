@@ -5718,5 +5718,35 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 573,
+    "CreatureGroup": "Abandoned Keep Defaced Sister",
+    "Creature": "Tristian",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 574,
+    "CreatureGroup": "Abandoned Keep Group L",
+    "Creature": "Redcap Savage",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 575,
+    "CreatureGroup": "Abandoned Keep Ferocious Devourer",
+    "Creature": "Ferocious Devourer 21",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

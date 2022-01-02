@@ -1384,5 +1384,19 @@
     "Type": "Resistance",
     "DamageType": "Sonic",
     "Amount": 5
+  },
+  {
+    "ID": 199,
+    "Creature": "Ferocious Devourer 21",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 3
+  },
+  {
+    "ID": 200,
+    "Creature": "Ferocious Devourer 21",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

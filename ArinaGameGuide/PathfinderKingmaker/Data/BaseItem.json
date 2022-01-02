@@ -547,9 +547,9 @@
   },
   {
     "ID": 19,
-    "Name": "Glove",
+    "Name": "Gloves",
     "CName": "",
-    "Type": "Glove",
+    "Type": "Gloves",
     "DamageType": null,
     "ArmorClass": null,
     "ArmorCheckPenalty": null,

@@ -1859,7 +1859,23 @@
     "ID": 233,
     "Name": "Abandoned Keep Defaced Sister",
     "Place": "Abandoned Keep",
-    "Position": "Center",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 234,
+    "Name": "Abandoned Keep Group L",
+    "Place": "Abandoned Keep",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 235,
+    "Name": "Abandoned Keep Ferocious Devourer",
+    "Place": "Abandoned Keep",
+    "Position": "South West",
     "Stage": 0,
     "Memo": ""
   }
