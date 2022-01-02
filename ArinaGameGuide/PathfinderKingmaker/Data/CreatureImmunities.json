@@ -814,5 +814,11 @@
     "Creature": "Primal Shambling Mound",
     "Condition": null,
     "CondtionGroup": "Plant Immunities"
+  },
+  {
+    "ID": 105,
+    "Creature": "Stone Golem",
+    "Condition": null,
+    "CondtionGroup": "Construct Immunities"
   }
 ]

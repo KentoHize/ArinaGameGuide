@@ -2994,5 +2994,19 @@
     "DamageAdditiveBonus": 10,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 228,
+    "Creature": "Stone Golem",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 28,
+    "AttackBonus": 1,
+    "Weapon": null,
+    "BasicDamage": "4d8",
+    "DamageAdditiveBonus": 11,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

@@ -1321,5 +1321,12 @@
     "Type": "Immunity",
     "DamageType": "Acid",
     "Amount": null
+  },
+  {
+    "ID": 190,
+    "Creature": "Stone Golem",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 10
   }
 ]
