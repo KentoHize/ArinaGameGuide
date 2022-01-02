@@ -1426,5 +1426,19 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 104,
+    "Name": "Six Bears Camp 2",
+    "DisplayName": "Six Bears Camp",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": ""
   }
 ]

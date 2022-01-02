@@ -1902,5 +1902,13 @@
     "Position": "South East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 239,
+    "Name": "Varnhold Militia",
+    "Place": "Varnhold",
+    "Position": "Center",
+    "Stage": 2,
+    "Memo": ""
   }
 ]

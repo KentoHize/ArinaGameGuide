@@ -1580,11 +1580,11 @@
     "CName": "",
     "Type": "Tower Shield",
     "DamageType": null,
-    "ArmorClass": null,
-    "ArmorCheckPenalty": null,
-    "ArcaneSpellFailureChance": null,
+    "ArmorClass": 4,
+    "ArmorCheckPenalty": 10,
+    "ArcaneSpellFailureChance": 50,
     "MaxDexterity": null,
-    "WeaponSize": "Light",
+    "WeaponSize": null,
     "Range": null,
     "Damage": null,
     "CriticalHitRange": null,
@@ -1592,8 +1592,8 @@
     "FinesseWeapon": false,
     "MonkWeapon": false,
     "Strength": false,
-    "Price": 0,
-    "Weight": 0.0
+    "Price": 7,
+    "Weight": 45.0
   },
   {
     "ID": 9,
@@ -1846,5 +1846,26 @@
     "Strength": false,
     "Price": 2,
     "Weight": 10.0
+  },
+  {
+    "ID": 89,
+    "Name": "Half-Plate",
+    "CName": "",
+    "Type": "Heavy Armor",
+    "DamageType": null,
+    "ArmorClass": 8,
+    "ArmorCheckPenalty": 7,
+    "ArcaneSpellFailureChance": 40,
+    "MaxDexterity": 0,
+    "WeaponSize": null,
+    "Range": null,
+    "Damage": null,
+    "CriticalHitRange": null,
+    "CriticalHitMultiplier": null,
+    "FinesseWeapon": false,
+    "MonkWeapon": false,
+    "Strength": false,
+    "Price": 150,
+    "Weight": 50.0
   }
 ]

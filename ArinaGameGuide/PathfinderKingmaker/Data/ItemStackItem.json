@@ -4718,5 +4718,53 @@
     "RandomItem": null,
     "Quantity": 2,
     "RandomQuantity": null
+  },
+  {
+    "ID": 591,
+    "ItemStack": "Country Road Treasure A",
+    "Item": "Marksman's Headset",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 592,
+    "ItemStack": "Country Road Treasure A",
+    "Item": "Unsent Letter",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 593,
+    "ItemStack": "PoCM + MLS + TS + HP",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 594,
+    "ItemStack": "PoCM + MLS + TS + HP",
+    "Item": "Masterwork Longsword",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 595,
+    "ItemStack": "PoCM + MLS + TS + HP",
+    "Item": "Tower Shield +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 596,
+    "ItemStack": "PoCM + MLS + TS + HP",
+    "Item": "Tower Shield +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

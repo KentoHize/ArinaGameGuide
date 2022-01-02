@@ -3078,5 +3078,19 @@
     "DamageAdditiveBonus": 13,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 234,
+    "Creature": "Guard 6 Fighter",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 15,
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 13,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

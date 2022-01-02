@@ -5782,11 +5782,21 @@
   {
     "ID": 579,
     "CreatureGroup": "Country Road Group A",
-    "Creature": "Skillfully Crafted Stone Golem",
+    "Creature": "Guard 6 Fighter",
     "DisplayName": null,
-    "Quantity": 1,
+    "Quantity": 4,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 580,
+    "CreatureGroup": "Country Road Group A",
+    "Creature": "Vanhold Guard",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
   }
 ]

@@ -1138,5 +1138,15 @@
     "ID": 229,
     "Name": "Southern Barren Treasure A",
     "Memo": ""
+  },
+  {
+    "ID": 230,
+    "Name": "Country Road Treasure A",
+    "Memo": ""
+  },
+  {
+    "ID": 231,
+    "Name": "PoCM + MLS + TS + HP",
+    "Memo": ""
   }
 ]
