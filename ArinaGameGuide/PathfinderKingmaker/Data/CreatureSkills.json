@@ -1792,5 +1792,17 @@
     "Creature": "Ferocious Megaloceros",
     "Skill": "Perception",
     "Bonus": 17
+  },
+  {
+    "ID": 301,
+    "Creature": "Insane Wizard",
+    "Skill": "Perception",
+    "Bonus": 23
+  },
+  {
+    "ID": 302,
+    "Creature": "Insane Wizard",
+    "Skill": "Stealth",
+    "Bonus": 18
   }
 ]

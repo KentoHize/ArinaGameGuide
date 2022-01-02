@@ -1910,5 +1910,13 @@
     "Position": "Center",
     "Stage": 2,
     "Memo": ""
+  },
+  {
+    "ID": 240,
+    "Name": "Little Sellen Source Group A",
+    "Place": "Little Sellen Source",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

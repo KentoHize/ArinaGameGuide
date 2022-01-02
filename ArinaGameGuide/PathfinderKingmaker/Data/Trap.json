@@ -1318,5 +1318,17 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 117,
+    "Name": "Little Sellen Source Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Little Sellen Source",
+    "DisarmDC": null,
+    "Position": "East",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

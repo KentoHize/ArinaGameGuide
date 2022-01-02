@@ -964,5 +964,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 70,
+    "Name": "Linnorm's Grave Treasure A",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Linnorm's Grave",
+    "Position": "Center",
+    "ItemStack": "Linnorm's Grave Treasure A",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

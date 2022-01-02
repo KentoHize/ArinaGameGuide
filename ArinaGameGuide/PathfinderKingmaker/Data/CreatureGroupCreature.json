@@ -5798,5 +5798,15 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "Ally"
+  },
+  {
+    "ID": 581,
+    "CreatureGroup": "Little Sellen Source Group A",
+    "Creature": "Insane Wizard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

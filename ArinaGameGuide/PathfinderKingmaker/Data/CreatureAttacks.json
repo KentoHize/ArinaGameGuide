@@ -3092,5 +3092,19 @@
     "DamageAdditiveBonus": 13,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 235,
+    "Creature": "Insane Wizard",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 15,
+    "Weapon": "Masterwork Dagger",
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 2,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

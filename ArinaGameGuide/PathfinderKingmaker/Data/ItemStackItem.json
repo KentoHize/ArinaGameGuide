@@ -4766,5 +4766,37 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 597,
+    "ItemStack": "Linnorm's Grave Treasure A",
+    "Item": "Potion of Cure Serious Wounds",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 598,
+    "ItemStack": "Linnorm's Grave Treasure A",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 150,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 599,
+    "ItemStack": "Linnorm's Grave Treasure A",
+    "Item": "Peridot",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 600,
+    "ItemStack": "Linnorm's Grave Treasure A",
+    "Item": "Mastodon Steak",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

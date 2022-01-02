@@ -1412,5 +1412,33 @@
     "Type": "DamageReduction",
     "DamageType": "Adamantite",
     "Amount": 15
+  },
+  {
+    "ID": 203,
+    "Creature": "Insane Wizard",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 10
+  },
+  {
+    "ID": 204,
+    "Creature": "Insane Wizard",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 30
+  },
+  {
+    "ID": 205,
+    "Creature": "Insane Wizard",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 30
+  },
+  {
+    "ID": 206,
+    "Creature": "Insane Wizard",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 30
   }
 ]
