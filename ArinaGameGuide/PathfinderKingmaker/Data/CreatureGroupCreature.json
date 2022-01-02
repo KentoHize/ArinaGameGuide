@@ -5808,5 +5808,15 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 582,
+    "CreatureGroup": "Shivering Glade",
+    "Creature": "Ancient Soul Eater 15",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Summon",
+    "Team": "1"
   }
 ]

@@ -433,5 +433,10 @@
     "ID": 87,
     "EffectOrConditionSet": "Plant Immunities",
     "EffectOrConditon": "Sleep"
+  },
+  {
+    "ID": 88,
+    "EffectOrConditionSet": "Summon",
+    "EffectOrConditon": "Summon"
   }
 ]

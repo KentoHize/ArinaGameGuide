@@ -4798,5 +4798,53 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 601,
+    "ItemStack": "Insane Wizard RS",
+    "Item": "Masterwork Dagger",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 602,
+    "ItemStack": "Insane Wizard RS",
+    "Item": "Acid Flask",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 603,
+    "ItemStack": "Insane Wizard RS",
+    "Item": "Alchemist's Fire",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 604,
+    "ItemStack": "Insane Wizard RS",
+    "Item": "Scroll of Acidic Spray",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 605,
+    "ItemStack": "Insane Wizard RS",
+    "Item": "Headband of Vast Intelligence +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 606,
+    "ItemStack": "Clockwork Pendant",
+    "Item": "Clockwork Pendant",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

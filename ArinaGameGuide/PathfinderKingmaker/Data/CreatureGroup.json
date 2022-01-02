@@ -1918,5 +1918,13 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 241,
+    "Name": "Shivering Glade",
+    "Place": "Shivering Glade",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

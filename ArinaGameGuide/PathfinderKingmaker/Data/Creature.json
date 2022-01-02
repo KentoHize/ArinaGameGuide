@@ -470,7 +470,7 @@
     "Swarm": false,
     "Undead": false,
     "RemainItems": null,
-    "Memo": "10 Wisdom dmg!"
+    "Memo": "10 Wisdom dmg!\n\n5 6 1 4 2 2"
   },
   {
     "ID": 246,
@@ -11778,7 +11778,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "PoCM + MLS + TS + HP",
     "Memo": ""
   },
   {
@@ -11864,7 +11864,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "Insane Wizard RS",
     "Memo": ""
   }
 ]
