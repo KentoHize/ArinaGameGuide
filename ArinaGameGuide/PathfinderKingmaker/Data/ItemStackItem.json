@@ -2920,16 +2920,8 @@
     "RandomQuantity": null
   },
   {
-    "ID": 93,
-    "ItemStack": "Redcap RS",
-    "Item": "Copper Ring",
-    "RandomItem": null,
-    "Quantity": 1,
-    "RandomQuantity": null
-  },
-  {
     "ID": 94,
-    "ItemStack": "Redcap RS",
+    "ItemStack": "SC + LA",
     "Item": "Scythe",
     "RandomItem": null,
     "Quantity": 1,
@@ -2937,7 +2929,7 @@
   },
   {
     "ID": 95,
-    "ItemStack": "Redcap RS",
+    "ItemStack": "SC + LA",
     "Item": "Leather Armor",
     "RandomItem": null,
     "Quantity": 1,
@@ -2945,7 +2937,7 @@
   },
   {
     "ID": 96,
-    "ItemStack": "Redcap Trickster RS",
+    "ItemStack": "MSC + SL",
     "Item": "Masterwork Scythe",
     "RandomItem": null,
     "Quantity": 1,
@@ -2953,7 +2945,7 @@
   },
   {
     "ID": 97,
-    "ItemStack": "Redcap Trickster RS",
+    "ItemStack": "MSC + SL",
     "Item": "Studded Leather",
     "RandomItem": null,
     "Quantity": 1,
@@ -4515,6 +4507,14 @@
     "ID": 566,
     "ItemStack": "Flintrock Grassland Treasure D",
     "Item": "Emerald Necklace",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 567,
+    "ItemStack": "Defender's Bulwark",
+    "Item": "Defender's Bulwark",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null

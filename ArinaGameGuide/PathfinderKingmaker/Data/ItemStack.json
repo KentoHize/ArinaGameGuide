@@ -755,16 +755,6 @@
     "Memo": ""
   },
   {
-    "ID": 37,
-    "Name": "Redcap RS",
-    "Memo": "Bloodstone"
-  },
-  {
-    "ID": 38,
-    "Name": "Redcap Trickster RS",
-    "Memo": "Green Quartz\n20 Coin"
-  },
-  {
     "ID": 174,
     "Name": "RI + CSB + CS",
     "Memo": "Random Ingredient + Composite Shortbow + Chainshirt"
@@ -1082,6 +1072,21 @@
   {
     "ID": 218,
     "Name": "Flintrock Grassland Treasure D",
+    "Memo": ""
+  },
+  {
+    "ID": 219,
+    "Name": "Defender's Bulwark",
+    "Memo": ""
+  },
+  {
+    "ID": 220,
+    "Name": "SC + LA",
+    "Memo": ""
+  },
+  {
+    "ID": 221,
+    "Name": "MSC + SL",
     "Memo": ""
   }
 ]

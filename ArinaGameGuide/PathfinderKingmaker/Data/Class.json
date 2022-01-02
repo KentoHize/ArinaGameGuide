@@ -164,7 +164,14 @@
     "ID": 24,
     "Name": "Druid",
     "CName": "",
-    "ChanllegeRateMultiplier": 0.0,
+    "ChanllegeRateMultiplier": 1.0,
     "PlayerClass": true
+  },
+  {
+    "ID": 25,
+    "Name": "Aberration",
+    "CName": "",
+    "ChanllegeRateMultiplier": 0.5,
+    "PlayerClass": false
   }
 ]

@@ -824,5 +824,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 60,
+    "Name": "Abandoned Keep Treasure A",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Abandoned Keep",
+    "Position": "South West",
+    "ItemStack": "Defender's Bulwark",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

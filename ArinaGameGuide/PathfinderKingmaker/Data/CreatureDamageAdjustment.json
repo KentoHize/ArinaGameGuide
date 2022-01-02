@@ -1314,5 +1314,12 @@
     "Type": "Resistance",
     "DamageType": "Fire",
     "Amount": 10
+  },
+  {
+    "ID": 189,
+    "Creature": "Mimic",
+    "Type": "Immunity",
+    "DamageType": "Acid",
+    "Amount": null
   }
 ]

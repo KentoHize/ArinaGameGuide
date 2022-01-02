@@ -1564,5 +1564,101 @@
     "Creature": "Giant Flytrap",
     "Skill": "Perception",
     "Bonus": 23
+  },
+  {
+    "ID": 263,
+    "Creature": "Redcap Trickster",
+    "Skill": "Mobility",
+    "Bonus": 16
+  },
+  {
+    "ID": 264,
+    "Creature": "Redcap Trickster",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 265,
+    "Creature": "Redcap Trickster",
+    "Skill": "Lore(Nature)",
+    "Bonus": 14
+  },
+  {
+    "ID": 266,
+    "Creature": "Redcap Trickster",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 267,
+    "Creature": "Redcap Trickster",
+    "Skill": "Athletics",
+    "Bonus": 16
+  },
+  {
+    "ID": 268,
+    "Creature": "Redcap Trickster",
+    "Skill": "Stealth",
+    "Bonus": 25
+  },
+  {
+    "ID": 269,
+    "Creature": "Redcap",
+    "Skill": "Mobility",
+    "Bonus": 17
+  },
+  {
+    "ID": 270,
+    "Creature": "Redcap",
+    "Skill": "Persuasion",
+    "Bonus": 15
+  },
+  {
+    "ID": 271,
+    "Creature": "Redcap",
+    "Skill": "Lore(Nature)",
+    "Bonus": 14
+  },
+  {
+    "ID": 272,
+    "Creature": "Redcap",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 273,
+    "Creature": "Redcap",
+    "Skill": "Athletics",
+    "Bonus": 14
+  },
+  {
+    "ID": 274,
+    "Creature": "Redcap",
+    "Skill": "Stealth",
+    "Bonus": 21
+  },
+  {
+    "ID": 275,
+    "Creature": "Mimic",
+    "Skill": "Mobility",
+    "Bonus": 14
+  },
+  {
+    "ID": 276,
+    "Creature": "Mimic",
+    "Skill": "Perception",
+    "Bonus": 24
+  },
+  {
+    "ID": 277,
+    "Creature": "Mimic",
+    "Skill": "Athletics",
+    "Bonus": 21
+  },
+  {
+    "ID": 278,
+    "Creature": "Mimic",
+    "Skill": "Stealth",
+    "Bonus": 64
   }
 ]

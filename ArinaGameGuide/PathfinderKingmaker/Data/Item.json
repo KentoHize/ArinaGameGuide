@@ -5047,5 +5047,22 @@
     "StoryItem": false,
     "Weight": 0.05,
     "Description": ""
+  },
+  {
+    "ID": 298,
+    "Name": "Defender's Bulwark",
+    "DisplayName": "Defender's Bulwark",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Tower Shield",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 12750,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 45.0,
+    "Description": "+3\nDR 2/-"
   }
 ]

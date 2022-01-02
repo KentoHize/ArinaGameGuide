@@ -1774,5 +1774,29 @@
     "Position": "South",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 223,
+    "Name": "Abandoned Keep Group B",
+    "Place": "Abandoned Keep",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 224,
+    "Name": "Abandoned Keep Group C",
+    "Place": "Abandoned Keep",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 225,
+    "Name": "Abandoned Keep Group D",
+    "Place": "Abandoned Keep",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

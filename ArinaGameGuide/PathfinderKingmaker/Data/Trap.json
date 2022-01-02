@@ -1054,5 +1054,101 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 95,
+    "Name": "Abandoned Keep Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Abandoned Keep",
+    "DisarmDC": 30,
+    "Position": "South",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 96,
+    "Name": "Abandoned Keep Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Abandoned Keep",
+    "DisarmDC": 30,
+    "Position": "South East",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 97,
+    "Name": "Abandoned Keep Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Abandoned Keep",
+    "DisarmDC": 30,
+    "Position": "South East",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 98,
+    "Name": "Abandoned Keep Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Abandoned Keep",
+    "DisarmDC": 30,
+    "Position": "South East",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 99,
+    "Name": "Abandoned Keep Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Abandoned Keep",
+    "DisarmDC": 39,
+    "Position": "South",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 100,
+    "Name": "Abandoned Keep Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Abandoned Keep",
+    "DisarmDC": 30,
+    "Position": "South",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 101,
+    "Name": "Abandoned Keep Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Abandoned Keep",
+    "DisarmDC": 30,
+    "Position": "South",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 102,
+    "Name": "Abandoned Keep Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Abandoned Keep",
+    "DisarmDC": 32,
+    "Position": "South West",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

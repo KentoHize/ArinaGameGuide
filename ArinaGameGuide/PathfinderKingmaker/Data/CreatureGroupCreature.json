@@ -5558,5 +5558,35 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 557,
+    "CreatureGroup": "Abandoned Keep Group B",
+    "Creature": "Redcap Trickster",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": "Money and Valuables",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 558,
+    "CreatureGroup": "Abandoned Keep Group C",
+    "Creature": "Redcap",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": "Money and Valuables",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 559,
+    "CreatureGroup": "Abandoned Keep Group D",
+    "Creature": "Mimic",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]
