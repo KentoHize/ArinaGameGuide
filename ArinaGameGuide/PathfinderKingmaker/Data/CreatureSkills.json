@@ -1672,5 +1672,41 @@
     "Creature": "Primal Shambling Mound",
     "Skill": "Stealth",
     "Bonus": 22
+  },
+  {
+    "ID": 281,
+    "Creature": "Redcap Savage",
+    "Skill": "Mobility",
+    "Bonus": 13
+  },
+  {
+    "ID": 282,
+    "Creature": "Redcap Savage",
+    "Skill": "Persuasion",
+    "Bonus": 15
+  },
+  {
+    "ID": 283,
+    "Creature": "Redcap Savage",
+    "Skill": "Lore(Nature)",
+    "Bonus": 14
+  },
+  {
+    "ID": 284,
+    "Creature": "Redcap Savage",
+    "Skill": "Perception",
+    "Bonus": 23
+  },
+  {
+    "ID": 285,
+    "Creature": "Redcap Savage",
+    "Skill": "Athletics",
+    "Bonus": 13
+  },
+  {
+    "ID": 286,
+    "Creature": "Redcap Savage",
+    "Skill": "Stealth",
+    "Bonus": 22
   }
 ]

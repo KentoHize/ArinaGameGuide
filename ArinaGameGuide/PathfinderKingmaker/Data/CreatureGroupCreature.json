@@ -3072,7 +3072,7 @@
   {
     "ID": 188,
     "CreatureGroup": "Tenebrous Depth VI Group D",
-    "Creature": "Recap Savage",
+    "Creature": "Redcap Savage",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,
@@ -5595,6 +5595,16 @@
     "Creature": "Primal Shambling Mound",
     "DisplayName": null,
     "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 561,
+    "CreatureGroup": "Abandoned Keep Group F",
+    "Creature": "Redcap Savage",
+    "DisplayName": null,
+    "Quantity": 2,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"

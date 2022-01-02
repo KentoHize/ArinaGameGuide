@@ -28,5 +28,17 @@
     "Name": "Arcane inscriptions",
     "CName": "",
     "Description": "+2 Enhancement bonus to attak with touch spell"
+  },
+  {
+    "ID": 6,
+    "Name": "Breaker of Wills",
+    "CName": "",
+    "Description": "Hit -3 Will 1 minute"
+  },
+  {
+    "ID": 7,
+    "Name": "Speed",
+    "CName": "",
+    "Description": "Full attack + 1 time"
   }
 ]

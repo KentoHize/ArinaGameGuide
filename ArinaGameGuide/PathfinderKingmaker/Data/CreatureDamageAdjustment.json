@@ -897,7 +897,7 @@
   },
   {
     "ID": 38,
-    "Creature": "Recap Savage",
+    "Creature": "Redcap Savage",
     "Type": "DamageReduction",
     "DamageType": "Cold Iron",
     "Amount": 10

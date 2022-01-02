@@ -2966,5 +2966,33 @@
     "DamageAdditiveBonus": 12,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 226,
+    "Creature": "Redcap Savage",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 19,
+    "Weapon": "Masterwork Scythe",
+    "BasicDamage": "2d4",
+    "DamageAdditiveBonus": 22,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 227,
+    "Creature": "Redcap Savage",
+    "Form": "Kick",
+    "Type": "Other",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 12,
+    "Weapon": null,
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 10,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

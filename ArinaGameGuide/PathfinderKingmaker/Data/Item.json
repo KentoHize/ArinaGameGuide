@@ -5064,5 +5064,22 @@
     "StoryItem": false,
     "Weight": 45.0,
     "Description": "+3\nDR 2/-"
+  },
+  {
+    "ID": 299,
+    "Name": "Edict",
+    "DisplayName": "Edict",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Dagger",
+    "SpecialMaterial": "Mithral",
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 12175,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.5,
+    "Description": "+4 Speed\nMithral\n\n-3 Will when hit"
   }
 ]

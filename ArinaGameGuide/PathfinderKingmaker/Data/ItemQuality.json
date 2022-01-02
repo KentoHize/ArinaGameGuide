@@ -34,5 +34,23 @@
     "Item": "Endless War",
     "Quality": "Vicious",
     "Rank": null
+  },
+  {
+    "ID": 7,
+    "Item": "Edict",
+    "Quality": "Enhancement",
+    "Rank": 4
+  },
+  {
+    "ID": 8,
+    "Item": "Edict",
+    "Quality": "Breaker of Wills",
+    "Rank": 4
+  },
+  {
+    "ID": 9,
+    "Item": "Edict",
+    "Quality": "Speed",
+    "Rank": 4
   }
 ]

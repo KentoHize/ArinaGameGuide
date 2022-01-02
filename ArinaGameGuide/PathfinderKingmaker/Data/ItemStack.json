@@ -1088,5 +1088,10 @@
     "ID": 221,
     "Name": "MSC + SL",
     "Memo": ""
+  },
+  {
+    "ID": 222,
+    "Name": "Edict",
+    "Memo": ""
   }
 ]
