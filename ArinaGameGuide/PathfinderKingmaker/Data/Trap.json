@@ -1198,5 +1198,29 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 107,
+    "Name": "Abandoned Keep Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Abandoned Keep",
+    "DisarmDC": 34,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 108,
+    "Name": "Abandoned Keep Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Abandoned Keep",
+    "DisarmDC": 32,
+    "Position": "West",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

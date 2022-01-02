@@ -852,5 +852,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 62,
+    "Name": "Abandoned Keep Treasure C",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Abandoned Keep",
+    "Position": "Center",
+    "ItemStack": "Robe of True Master",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

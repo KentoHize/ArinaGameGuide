@@ -5081,5 +5081,39 @@
     "StoryItem": false,
     "Weight": 0.5,
     "Description": "+4 Speed\nMithral\n\n-3 Will when hit"
+  },
+  {
+    "ID": 300,
+    "Name": "Robe of True Master",
+    "DisplayName": "Robe of True Master",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Cloth",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 14625,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": "+5 deflection AC\nSR 18\n+4 resistance Save\n+2 Spell penetration"
+  },
+  {
+    "ID": 301,
+    "Name": "Ring of Acid Immunity",
+    "DisplayName": "Ring of Acid Immunity",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Ring",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 10000,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.05,
+    "Description": ""
   }
 ]

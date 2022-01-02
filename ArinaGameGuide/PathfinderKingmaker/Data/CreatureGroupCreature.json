@@ -5618,5 +5618,15 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 563,
+    "CreatureGroup": "Abandoned Keep Group H",
+    "Creature": "Redcap Trickster",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": "Money and Valuables",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]
