@@ -109,7 +109,7 @@
     "Name": "Plant",
     "MainRace": "Plant",
     "SubRace": "Plant",
-    "KnowledgeSkill": null
+    "KnowledgeSkill": "Lore(Nature)"
   },
   {
     "ID": 16,

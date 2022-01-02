@@ -1660,5 +1660,17 @@
     "Creature": "Mimic",
     "Skill": "Stealth",
     "Bonus": 64
+  },
+  {
+    "ID": 279,
+    "Creature": "Primal Shambling Mound",
+    "Skill": "Perception",
+    "Bonus": 34
+  },
+  {
+    "ID": 280,
+    "Creature": "Primal Shambling Mound",
+    "Skill": "Stealth",
+    "Bonus": 22
   }
 ]

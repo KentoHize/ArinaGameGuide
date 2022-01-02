@@ -1420,5 +1420,32 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 160,
+    "Creature": "Mimic",
+    "Ability": "Adhesive Entaglement",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 161,
+    "Creature": "Primal Shambling Mound",
+    "Ability": "Regeneration",
+    "Amount": 10,
+    "DamageType1": "Negative",
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 162,
+    "Creature": "Primal Shambling Mound",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

@@ -1798,5 +1798,13 @@
     "Position": "South West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 226,
+    "Name": "Abandoned Keep Group E",
+    "Place": "Abandoned Keep",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

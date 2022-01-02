@@ -236,5 +236,12 @@
     "CName": "",
     "DC": "",
     "Description": "Fast Healing 3\n+4 dmg"
+  },
+  {
+    "ID": 35,
+    "Name": "Adhesive Entaglement",
+    "CName": "",
+    "DC": "",
+    "Description": ""
   }
 ]
