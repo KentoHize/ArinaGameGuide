@@ -4558,5 +4558,61 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 93,
+    "ItemStack": "Abandoned Keep Treasure D",
+    "Item": "Falchion +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 237,
+    "ItemStack": "Abandoned Keep Treasure D",
+    "Item": "Kellied Tribal Fetish",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 573,
+    "ItemStack": "Abandoned Keep Treasure E",
+    "Item": "Ardent",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 574,
+    "ItemStack": "Abandoned Keep Treasure E",
+    "Item": "Masterwork Orc Double Axe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 575,
+    "ItemStack": "Abandoned Keep Treasure E",
+    "Item": "Glaive",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 576,
+    "ItemStack": "Abandoned Keep Treasure E",
+    "Item": "The Paragon of Defender",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 577,
+    "ItemStack": "Abandoned Keep Treasure E",
+    "Item": "Torag's Pendant",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

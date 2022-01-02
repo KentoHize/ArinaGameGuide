@@ -5628,5 +5628,55 @@
     "AdditonalItems": "Money and Valuables",
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 564,
+    "CreatureGroup": "Abandoned Keep Group I",
+    "Creature": "Redcap Savage",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 565,
+    "CreatureGroup": "Abandoned Keep Group I",
+    "Creature": "Redcap Trickster",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": "Money and Valuables",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 566,
+    "CreatureGroup": "Abandoned Keep Group I",
+    "Creature": "Ferocious Dweomercat",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 568,
+    "CreatureGroup": "Abandoned Keep Group J",
+    "Creature": "Redcap Savage",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 567,
+    "CreatureGroup": "Abandoned Keep Group J",
+    "Creature": "Ferocious Dweomercat",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

@@ -40,5 +40,11 @@
     "Name": "Speed",
     "CName": "",
     "Description": "Full attack + 1 time"
+  },
+  {
+    "ID": 8,
+    "Name": "Ardent",
+    "CName": "",
+    "Description": "+5 competence on Athletics"
   }
 ]

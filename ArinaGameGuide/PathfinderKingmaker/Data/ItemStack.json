@@ -1103,5 +1103,15 @@
     "ID": 30,
     "Name": "Wyvern Meat",
     "Memo": ""
+  },
+  {
+    "ID": 37,
+    "Name": "Abandoned Keep Treasure D",
+    "Memo": ""
+  },
+  {
+    "ID": 38,
+    "Name": "Abandoned Keep Treasure E",
+    "Memo": ""
   }
 ]

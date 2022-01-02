@@ -1830,5 +1830,21 @@
     "Position": "West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 230,
+    "Name": "Abandoned Keep Group I",
+    "Place": "Abandoned Keep",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 231,
+    "Name": "Abandoned Keep Group J",
+    "Place": "Abandoned Keep",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

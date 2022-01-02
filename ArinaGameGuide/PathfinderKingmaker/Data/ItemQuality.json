@@ -52,5 +52,17 @@
     "Item": "Edict",
     "Quality": "Speed",
     "Rank": 4
+  },
+  {
+    "ID": 10,
+    "Item": "Ardent",
+    "Quality": "Enhancement",
+    "Rank": 3
+  },
+  {
+    "ID": 11,
+    "Item": "Ardent",
+    "Quality": "Ardent",
+    "Rank": null
   }
 ]
