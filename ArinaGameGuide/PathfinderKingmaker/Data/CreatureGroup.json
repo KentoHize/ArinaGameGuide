@@ -1878,5 +1878,13 @@
     "Position": "South West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 236,
+    "Name": "Southern Barren Dreadful Soul Eater",
+    "Place": "Southern Barren",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

@@ -457,5 +457,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 53,
+    "Creature": "Dreadful Soul Eater",
+    "EffectOrCondition": "Blur",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

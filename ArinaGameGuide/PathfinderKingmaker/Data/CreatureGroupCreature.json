@@ -5748,5 +5748,25 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 576,
+    "CreatureGroup": "Southern Barren Dreadful Soul Eater",
+    "Creature": "Dreadful Soul Eater",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 577,
+    "CreatureGroup": "Southern Barren Dreadful Soul Eater",
+    "Creature": "Soul Eater",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

@@ -1768,5 +1768,23 @@
     "Creature": "Ferocious Devourer 21",
     "Skill": "Stealth",
     "Bonus": 24
+  },
+  {
+    "ID": 297,
+    "Creature": "Dreadful Soul Eater",
+    "Skill": "Mobility",
+    "Bonus": 21
+  },
+  {
+    "ID": 298,
+    "Creature": "Dreadful Soul Eater",
+    "Skill": "Persuasion",
+    "Bonus": 19
+  },
+  {
+    "ID": 299,
+    "Creature": "Dreadful Soul Eater",
+    "Skill": "Stealth",
+    "Bonus": 28
   }
 ]

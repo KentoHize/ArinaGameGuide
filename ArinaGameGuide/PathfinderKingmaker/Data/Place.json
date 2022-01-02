@@ -1398,5 +1398,19 @@
     "HasPlot": true,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 102,
+    "Name": "Southern Barren",
+    "DisplayName": "Southern Barren",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 10,
+    "SuggestedLevelMax": 12,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

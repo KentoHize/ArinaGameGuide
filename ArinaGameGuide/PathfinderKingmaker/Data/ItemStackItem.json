@@ -4694,5 +4694,29 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 588,
+    "ItemStack": "Southern Barren Treasure A",
+    "Item": "Cloak of Resistance +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 589,
+    "ItemStack": "Southern Barren Treasure A",
+    "Item": "Kinetic Diadem",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 590,
+    "ItemStack": "Southern Barren Treasure A",
+    "Item": "Potion of Heroism",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
   }
 ]

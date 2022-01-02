@@ -5336,5 +5336,22 @@
     "StoryItem": false,
     "Weight": 30.0,
     "Description": "+4\nImmunity to Cold\nDR 5/bludgeoning"
+  },
+  {
+    "ID": 315,
+    "Name": "Kinetic Diadem",
+    "DisplayName": "Kinetic Diadem",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Helmet",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 12500,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": "+2d6+6 damge to physical  blast\n+2d6 damge to energy  blast\n+4d6+4 to composite physical blast\n+4d6 to composite energy blast"
   }
 ]

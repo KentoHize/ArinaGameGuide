@@ -832,5 +832,11 @@
     "Creature": "Ferocious Devourer 21",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 140,
+    "Creature": "Dreadful Soul Eater",
+    "Condition": null,
+    "CondtionGroup": "Soul Eater Immunities"
   }
 ]
