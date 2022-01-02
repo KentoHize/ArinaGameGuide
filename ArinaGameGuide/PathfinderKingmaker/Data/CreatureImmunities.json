@@ -838,5 +838,11 @@
     "Creature": "Dreadful Soul Eater",
     "Condition": null,
     "CondtionGroup": "Soul Eater Immunities"
+  },
+  {
+    "ID": 141,
+    "Creature": "Skillfully Crafted Stone Golem",
+    "Condition": null,
+    "CondtionGroup": "Construct Immunities"
   }
 ]

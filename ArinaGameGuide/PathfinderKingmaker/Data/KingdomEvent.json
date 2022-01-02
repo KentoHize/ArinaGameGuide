@@ -494,5 +494,21 @@
     "RandomEvent": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 32,
+    "Name": "A Noble in Trouble",
+    "CName": "",
+    "Type": "Opportunity",
+    "RequiredDays": 13,
+    "DC": 21,
+    "AdaptedAdvisor1": "General",
+    "AdaptedAdvisor2": null,
+    "AdaptedAdvisor3": null,
+    "HaveAdvantage": null,
+    "HaveDisadvantage": null,
+    "RandomEvent": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

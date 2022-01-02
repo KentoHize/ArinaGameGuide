@@ -3036,5 +3036,47 @@
     "DamageAdditiveBonus": 7,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 231,
+    "Creature": "Ferocious Megaloceros",
+    "Form": "Gore",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 0,
+    "AttackBonus": 15,
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 9,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 232,
+    "Creature": "Ferocious Megaloceros",
+    "Form": "Hoof",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 1,
+    "AttackBonus": 10,
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 4,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 233,
+    "Creature": "Skillfully Crafted Stone Golem",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 1,
+    "AttackBonus": 34,
+    "Weapon": null,
+    "BasicDamage": "4d8",
+    "DamageAdditiveBonus": 13,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

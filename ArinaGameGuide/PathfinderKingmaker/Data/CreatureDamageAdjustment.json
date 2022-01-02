@@ -1405,5 +1405,12 @@
     "Type": "DamageReduction",
     "DamageType": "Magic",
     "Amount": 10
+  },
+  {
+    "ID": 202,
+    "Creature": "Skillfully Crafted Stone Golem",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 15
   }
 ]

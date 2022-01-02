@@ -82,5 +82,11 @@
     "Name": "Kick",
     "CName": "",
     "DamageType": "Bludgeon"
+  },
+  {
+    "ID": 15,
+    "Name": "Hoof",
+    "CName": "",
+    "DamageType": "Bludgeon"
   }
 ]

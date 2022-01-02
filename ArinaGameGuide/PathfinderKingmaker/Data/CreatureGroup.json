@@ -1886,5 +1886,21 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 237,
+    "Name": "Southern Barren Dreadful Group A",
+    "Place": "Southern Barren",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 238,
+    "Name": "Country Road Group A",
+    "Place": "Country Road",
+    "Position": "South East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

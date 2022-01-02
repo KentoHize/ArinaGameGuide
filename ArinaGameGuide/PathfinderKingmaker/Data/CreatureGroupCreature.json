@@ -5768,5 +5768,25 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 578,
+    "CreatureGroup": "Southern Barren Dreadful Group A",
+    "Creature": "Ferocious Megaloceros",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 579,
+    "CreatureGroup": "Country Road Group A",
+    "Creature": "Skillfully Crafted Stone Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

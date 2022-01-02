@@ -1786,5 +1786,11 @@
     "Creature": "Dreadful Soul Eater",
     "Skill": "Stealth",
     "Bonus": 28
+  },
+  {
+    "ID": 300,
+    "Creature": "Ferocious Megaloceros",
+    "Skill": "Perception",
+    "Bonus": 17
   }
 ]
