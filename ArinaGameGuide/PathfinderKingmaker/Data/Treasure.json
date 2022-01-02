@@ -901,11 +901,25 @@
     "CName": "",
     "Type": "Box",
     "Place": "Abandoned Keep",
-    "Position": "West",
-    "ItemStack": "Abandoned Keep Treasure E",
+    "Position": "Center",
+    "ItemStack": "Abandoned Keep Treasure F",
     "PerceptionDC": null,
     "TrapDC": null,
     "LockDC": 33,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 66,
+    "Name": "Abandoned Keep Treasure G",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Abandoned Keep",
+    "Position": "Center",
+    "ItemStack": "Abandoned Keep Treasure G",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
   }

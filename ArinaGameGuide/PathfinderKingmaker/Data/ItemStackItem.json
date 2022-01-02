@@ -4601,7 +4601,7 @@
   },
   {
     "ID": 576,
-    "ItemStack": "Abandoned Keep Treasure E",
+    "ItemStack": "Abandoned Keep Treasure F",
     "Item": "The Paragon of Defender",
     "RandomItem": null,
     "Quantity": 1,
@@ -4609,10 +4609,34 @@
   },
   {
     "ID": 577,
-    "ItemStack": "Abandoned Keep Treasure E",
+    "ItemStack": "Abandoned Keep Treasure F",
     "Item": "Torag's Pendant",
     "RandomItem": null,
     "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 578,
+    "ItemStack": "Abandoned Keep Treasure G",
+    "Item": "Diamond",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 579,
+    "ItemStack": "Abandoned Keep Treasure G",
+    "Item": "Ruby",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 580,
+    "ItemStack": "Abandoned Keep Treasure G",
+    "Item": "Emerald",
+    "RandomItem": null,
+    "Quantity": 2,
     "RandomQuantity": null
   }
 ]

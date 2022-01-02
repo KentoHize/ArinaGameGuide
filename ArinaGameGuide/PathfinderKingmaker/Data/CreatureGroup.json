@@ -1846,5 +1846,13 @@
     "Position": "West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 232,
+    "Name": "Abandoned Keep Group K",
+    "Place": "Abandoned Keep",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

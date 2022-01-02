@@ -1113,5 +1113,15 @@
     "ID": 38,
     "Name": "Abandoned Keep Treasure E",
     "Memo": ""
+  },
+  {
+    "ID": 225,
+    "Name": "Abandoned Keep Treasure F",
+    "Memo": ""
+  },
+  {
+    "ID": 226,
+    "Name": "Abandoned Keep Treasure G",
+    "Memo": ""
   }
 ]
