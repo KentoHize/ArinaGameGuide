@@ -1328,5 +1328,61 @@
     "Type": "DamageReduction",
     "DamageType": "Adamantite",
     "Amount": 10
+  },
+  {
+    "ID": 191,
+    "Creature": "Defaced Sister 20",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 5
+  },
+  {
+    "ID": 192,
+    "Creature": "Defaced Sister 20",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 193,
+    "Creature": "Defaced Sister 20",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 10
+  },
+  {
+    "ID": 194,
+    "Creature": "Defaced Sister 20",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 5
+  },
+  {
+    "ID": 195,
+    "Creature": "Defaced Sister 20",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 5
+  },
+  {
+    "ID": 196,
+    "Creature": "Defaced Sister 20",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 5
+  },
+  {
+    "ID": 197,
+    "Creature": "Defaced Sister 20",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 5
+  },
+  {
+    "ID": 198,
+    "Creature": "Defaced Sister 20",
+    "Type": "Resistance",
+    "DamageType": "Sonic",
+    "Amount": 5
   }
 ]

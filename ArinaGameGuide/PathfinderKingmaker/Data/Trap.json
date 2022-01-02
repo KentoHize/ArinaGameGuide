@@ -1258,5 +1258,41 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 112,
+    "Name": "Abandoned Keep Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Abandoned Keep",
+    "DisarmDC": 32,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 113,
+    "Name": "Abandoned Keep Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Abandoned Keep",
+    "DisarmDC": 32,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 114,
+    "Name": "Abandoned Keep Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Abandoned Keep",
+    "DisarmDC": 32,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

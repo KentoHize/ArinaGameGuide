@@ -3008,5 +3008,19 @@
     "DamageAdditiveBonus": 11,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 229,
+    "Creature": "Defaced Sister 20",
+    "Form": "Torturous Touch",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 24,
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": null,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

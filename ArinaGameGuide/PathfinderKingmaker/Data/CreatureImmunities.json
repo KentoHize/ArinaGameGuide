@@ -820,5 +820,11 @@
     "Creature": "Stone Golem",
     "Condition": null,
     "CondtionGroup": "Construct Immunities"
+  },
+  {
+    "ID": 138,
+    "Creature": "Defaced Sister 20",
+    "Condition": "Difficult Terrain",
+    "CondtionGroup": null
   }
 ]

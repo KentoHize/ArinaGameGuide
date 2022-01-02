@@ -1708,5 +1708,41 @@
     "Creature": "Redcap Savage",
     "Skill": "Stealth",
     "Bonus": 22
+  },
+  {
+    "ID": 287,
+    "Creature": "Defaced Sister 20",
+    "Skill": "Mobility",
+    "Bonus": 28
+  },
+  {
+    "ID": 288,
+    "Creature": "Defaced Sister 20",
+    "Skill": "Persuasion",
+    "Bonus": 28
+  },
+  {
+    "ID": 289,
+    "Creature": "Defaced Sister 20",
+    "Skill": "Lore(Nature)",
+    "Bonus": 17
+  },
+  {
+    "ID": 290,
+    "Creature": "Defaced Sister 20",
+    "Skill": "Perception",
+    "Bonus": 33
+  },
+  {
+    "ID": 291,
+    "Creature": "Defaced Sister 20",
+    "Skill": "Athletics",
+    "Bonus": 14
+  },
+  {
+    "ID": 292,
+    "Creature": "Defaced Sister 20",
+    "Skill": "Stealth",
+    "Bonus": 32
   }
 ]

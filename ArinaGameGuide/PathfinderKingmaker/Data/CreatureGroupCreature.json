@@ -5688,5 +5688,35 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 570,
+    "CreatureGroup": "Abandoned Keep Defaced Sister",
+    "Creature": "Defaced Sister 20",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 571,
+    "CreatureGroup": "Abandoned Keep Defaced Sister",
+    "Creature": "Redcap Savage",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 572,
+    "CreatureGroup": "Abandoned Keep Defaced Sister",
+    "Creature": "Stone Golem",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

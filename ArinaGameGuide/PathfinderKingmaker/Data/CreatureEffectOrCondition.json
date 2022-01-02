@@ -430,5 +430,23 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 50,
+    "Creature": "Defaced Sister 20",
+    "EffectOrCondition": "Barskin",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 51,
+    "Creature": "Defaced Sister 20",
+    "EffectOrCondition": "Resist Fire",
+    "Amount": 30,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]
