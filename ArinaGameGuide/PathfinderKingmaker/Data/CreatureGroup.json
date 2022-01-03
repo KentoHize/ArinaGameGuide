@@ -1970,7 +1970,7 @@
   {
     "ID": 247,
     "Name": "Armag's Tomb 2 Group A",
-    "Place": "Armag's Tomb",
+    "Place": "Armag's Tomb 2",
     "Position": "South",
     "Stage": 0,
     "Memo": ""
@@ -1978,7 +1978,7 @@
   {
     "ID": 248,
     "Name": "Armag's Tomb 2 Group B",
-    "Place": "Armag's Tomb",
+    "Place": "Armag's Tomb 2",
     "Position": "West",
     "Stage": 0,
     "Memo": ""
@@ -1986,7 +1986,7 @@
   {
     "ID": 249,
     "Name": "Armag's Tomb 2 Group C",
-    "Place": "Armag's Tomb",
+    "Place": "Armag's Tomb 2",
     "Position": "West",
     "Stage": 0,
     "Memo": ""
@@ -1994,7 +1994,7 @@
   {
     "ID": 250,
     "Name": "Armag's Tomb 2 Group D",
-    "Place": "Armag's Tomb",
+    "Place": "Armag's Tomb 2",
     "Position": "North West",
     "Stage": 0,
     "Memo": ""
@@ -2002,8 +2002,16 @@
   {
     "ID": 251,
     "Name": "Armag's Tomb 2 Group E",
-    "Place": "Armag's Tomb",
+    "Place": "Armag's Tomb 2",
     "Position": "North",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 252,
+    "Name": "Armag's Tomb 2 Group F",
+    "Place": "Armag's Tomb 2",
+    "Position": "Center",
     "Stage": 0,
     "Memo": ""
   }

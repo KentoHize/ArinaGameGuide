@@ -3246,5 +3246,19 @@
     "DamageAdditiveBonus": 7,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 246,
+    "Creature": "Skeletal Champion Berserker",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 17,
+    "Weapon": "Masterwork Greatsword",
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 15,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

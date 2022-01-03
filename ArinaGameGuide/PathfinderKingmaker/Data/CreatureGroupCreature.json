@@ -6048,5 +6048,35 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 606,
+    "CreatureGroup": "Armag's Tomb 2 Group F",
+    "Creature": "Skeletal Champion Berserker",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 607,
+    "CreatureGroup": "Armag's Tomb 2 Group F",
+    "Creature": "Cleric of Gorum",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 608,
+    "CreatureGroup": "Armag's Tomb 2 Group F",
+    "Creature": "Nightmare Skeletal Champion Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

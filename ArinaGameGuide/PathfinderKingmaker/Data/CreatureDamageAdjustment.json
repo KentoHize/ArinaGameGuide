@@ -1587,5 +1587,26 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 228,
+    "Creature": "Skeletal Champion Berserker",
+    "Type": "DamageReduction",
+    "DamageType": "Bludgeon",
+    "Amount": 5
+  },
+  {
+    "ID": 229,
+    "Creature": "Skeletal Champion Berserker",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 230,
+    "Creature": "Skeletal Champion Berserker",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]
