@@ -1926,5 +1926,13 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 242,
+    "Name": "Collapased Passage Group A",
+    "Place": "Collapased Passage",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

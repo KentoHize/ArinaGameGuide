@@ -844,5 +844,29 @@
     "Creature": "Skillfully Crafted Stone Golem",
     "Condition": null,
     "CondtionGroup": "Construct Immunities"
+  },
+  {
+    "ID": 142,
+    "Creature": "Agile Zombie",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 143,
+    "Creature": "Thick-skinned 29 Dread Zombie Cyclops",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 144,
+    "Creature": "Sturdy Zombie",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 145,
+    "Creature": "Zombie 6",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]

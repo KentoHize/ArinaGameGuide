@@ -5523,5 +5523,39 @@
     "StoryItem": false,
     "Weight": 0.1,
     "Description": "+10 movement speed\nslow and haste duration increase by a half"
+  },
+  {
+    "ID": 326,
+    "Name": "Heavy Crossbow",
+    "DisplayName": "Heavy Crossbow",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": null,
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
+  },
+  {
+    "ID": 327,
+    "Name": "Masterwork Bastard Sword",
+    "DisplayName": "Masterwork Bastard Sword",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Bastard Sword",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

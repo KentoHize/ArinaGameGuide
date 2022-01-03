@@ -1804,5 +1804,53 @@
     "Creature": "Insane Wizard",
     "Skill": "Stealth",
     "Bonus": 18
+  },
+  {
+    "ID": 303,
+    "Creature": "Agile Zombie",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 304,
+    "Creature": "Agile Zombie",
+    "Skill": "Stealth",
+    "Bonus": 15
+  },
+  {
+    "ID": 305,
+    "Creature": "Thick-skinned 29 Dread Zombie Cyclops",
+    "Skill": "Lore(Nature)",
+    "Bonus": 30
+  },
+  {
+    "ID": 306,
+    "Creature": "Thick-skinned 29 Dread Zombie Cyclops",
+    "Skill": "Perception",
+    "Bonus": 38
+  },
+  {
+    "ID": 307,
+    "Creature": "Sturdy Zombie",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 308,
+    "Creature": "Sturdy Zombie",
+    "Skill": "Stealth",
+    "Bonus": 11
+  },
+  {
+    "ID": 309,
+    "Creature": "Zombie 6",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 310,
+    "Creature": "Zombie 6",
+    "Skill": "Stealth",
+    "Bonus": 9
   }
 ]

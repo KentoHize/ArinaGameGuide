@@ -1440,5 +1440,61 @@
     "Type": "Resistance",
     "DamageType": "Electricity",
     "Amount": 30
+  },
+  {
+    "ID": 207,
+    "Creature": "Agile Zombie",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 5
+  },
+  {
+    "ID": 208,
+    "Creature": "Agile Zombie",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 209,
+    "Creature": "Thick-skinned 29 Dread Zombie Cyclops",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 5
+  },
+  {
+    "ID": 210,
+    "Creature": "Thick-skinned 29 Dread Zombie Cyclops",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 211,
+    "Creature": "Sturdy Zombie",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": null
+  },
+  {
+    "ID": 212,
+    "Creature": "Sturdy Zombie",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 214,
+    "Creature": "Zombie 6",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": null
+  },
+  {
+    "ID": 213,
+    "Creature": "Zombie 6",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]
