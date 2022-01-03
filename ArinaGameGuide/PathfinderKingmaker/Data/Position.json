@@ -63,5 +63,30 @@
     "ID": 13,
     "Name": "Deep Floor 3",
     "CName": ""
+  },
+  {
+    "ID": 14,
+    "Name": "Deep Floor 1 North",
+    "CName": ""
+  },
+  {
+    "ID": 15,
+    "Name": "Deep Floor 1 South",
+    "CName": ""
+  },
+  {
+    "ID": 16,
+    "Name": "Deep Floor 1 Center",
+    "CName": ""
+  },
+  {
+    "ID": 17,
+    "Name": "Deep Floor 1 West",
+    "CName": ""
+  },
+  {
+    "ID": 18,
+    "Name": "Deep Floor 1 East",
+    "CName": ""
   }
 ]

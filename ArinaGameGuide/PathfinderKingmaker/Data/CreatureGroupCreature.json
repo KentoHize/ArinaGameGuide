@@ -2375,7 +2375,7 @@
     "Creature": "Ferocious Devourer",
     "DisplayName": null,
     "Quantity": 1,
-    "AdditonalItems": null,
+    "AdditonalItems": "Rune-covered Ancient Leather Scrap",
     "AddtionalEffectOrConditions": null,
     "Team": "1"
   },
@@ -5855,6 +5855,36 @@
     "Creature": "Zombie 6",
     "DisplayName": null,
     "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 587,
+    "CreatureGroup": "Armag's Tomb Group A",
+    "Creature": "Defaced Sister",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 588,
+    "CreatureGroup": "Armag's Tomb Group B",
+    "Creature": "Spectre",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 589,
+    "CreatureGroup": "Armag's Tomb Group C",
+    "Creature": "Ferocious Devourer",
+    "DisplayName": null,
+    "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"

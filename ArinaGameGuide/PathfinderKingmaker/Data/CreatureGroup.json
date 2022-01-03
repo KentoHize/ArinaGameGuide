@@ -1934,5 +1934,29 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 243,
+    "Name": "Armag's Tomb Group A",
+    "Place": "Armag's Tomb",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 244,
+    "Name": "Armag's Tomb Group B",
+    "Place": "Armag's Tomb",
+    "Position": "Deep Floor 1 North",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 245,
+    "Name": "Armag's Tomb Group C",
+    "Place": "Armag's Tomb",
+    "Position": "Deep Floor 1 Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

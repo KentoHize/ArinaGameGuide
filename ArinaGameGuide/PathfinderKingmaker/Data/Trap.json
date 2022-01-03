@@ -1342,5 +1342,113 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 119,
+    "Name": "Armag's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Armag's Tomb",
+    "DisarmDC": 32,
+    "Position": "Deep Floor 1 Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 120,
+    "Name": "Armag's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Armag's Tomb",
+    "DisarmDC": 32,
+    "Position": "Deep Floor 1 Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 121,
+    "Name": "Armag's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Armag's Tomb",
+    "DisarmDC": 32,
+    "Position": "Deep Floor 1 Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 122,
+    "Name": "Armag's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Armag's Tomb",
+    "DisarmDC": 32,
+    "Position": "Deep Floor 1 Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 123,
+    "Name": "Armag's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Armag's Tomb",
+    "DisarmDC": 32,
+    "Position": "Deep Floor 1 Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 124,
+    "Name": "Armag's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Armag's Tomb",
+    "DisarmDC": 32,
+    "Position": "Deep Floor 1 Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 125,
+    "Name": "Armag's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Armag's Tomb",
+    "DisarmDC": 32,
+    "Position": "Deep Floor 1 Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 126,
+    "Name": "Armag's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Armag's Tomb",
+    "DisarmDC": 32,
+    "Position": "Deep Floor 1 Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 127,
+    "Name": "Armag's Tomb Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Armag's Tomb",
+    "DisarmDC": 32,
+    "Position": "Deep Floor 1 West",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

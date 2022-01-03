@@ -1482,5 +1482,47 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 108,
+    "Name": "Mysterious Shrine",
+    "DisplayName": "Mysterious Shrine",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "謎"
+  },
+  {
+    "ID": 109,
+    "Name": "Pike Stretch",
+    "DisplayName": "Pike Stretch",
+    "CName": "",
+    "Type": "Biography",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "May Find Armag's Tomb\n\nAthletics 28\n\nAthletics 32\n1440"
+  },
+  {
+    "ID": 110,
+    "Name": "Armag's Tomb",
+    "DisplayName": "Armag's Tomb",
+    "CName": "",
+    "Type": "Dungeon",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": "Diplomacy 36 to turn barbarian agaist defaced sister\n5760\n\nStory Mode\nTrickery 25\nIntellience 18\nAthletics 25\nPerception 35 3840 -> May Danger\nAthletics 35 -> Work 3840 exp\n\n960exp"
   }
 ]

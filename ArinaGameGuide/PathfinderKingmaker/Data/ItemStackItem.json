@@ -1016,14 +1016,6 @@
     "RandomQuantity": null
   },
   {
-    "ID": 256,
-    "ItemStack": "Ferocious Devourer RS",
-    "Item": "Rune-covered Ancient Leather Scrap",
-    "RandomItem": null,
-    "Quantity": 1,
-    "RandomQuantity": null
-  },
-  {
     "ID": 225,
     "ItemStack": "Fionn RS",
     "Item": "Banded Mail +2",
@@ -4923,6 +4915,22 @@
     "ID": 616,
     "ItemStack": "HCB + CS",
     "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 617,
+    "ItemStack": "Ancient Kellid Adornment Piece",
+    "Item": "Ancient Kellid Adornment Piece",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 618,
+    "ItemStack": "Rune-covered Ancient Leather Scrap",
+    "Item": "Rune-covered Ancient Leather Scrap",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
