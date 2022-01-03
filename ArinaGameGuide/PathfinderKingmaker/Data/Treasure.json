@@ -1118,5 +1118,61 @@
     "LockDC": 33,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 81,
+    "Name": "Armag's Tomb Treasure D",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Armag's Tomb",
+    "Position": "Deep Floor 1 Center",
+    "ItemStack": "Heavy Shield +4",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 82,
+    "Name": "Armag's Tomb Treasure E",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Armag's Tomb",
+    "Position": "Deep Floor 1 Center",
+    "ItemStack": "Chainmail +4",
+    "PerceptionDC": 35,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 83,
+    "Name": "Armag's Tomb Treasure F",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Armag's Tomb",
+    "Position": "Deep Floor 1 North",
+    "ItemStack": "Protector's Robe",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": 34,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 84,
+    "Name": "Armag's Tomb Treasure G",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Armag's Tomb",
+    "Position": "Deep Floor 1 North",
+    "ItemStack": "Ancient Kellid Ceramic Potshred",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

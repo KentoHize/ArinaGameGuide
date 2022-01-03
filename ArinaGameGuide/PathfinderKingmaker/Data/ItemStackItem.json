@@ -5094,5 +5094,37 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 639,
+    "ItemStack": "Heavy Shield +4",
+    "Item": "Heavy Shield +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 640,
+    "ItemStack": "Chainmail +4",
+    "Item": "Chainmail +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 641,
+    "ItemStack": "Protector's Robe",
+    "Item": "Protector's Robe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 642,
+    "ItemStack": "Ancient Kellid Ceramic Potshred",
+    "Item": "Ancient Kellid Ceramic Potshred",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

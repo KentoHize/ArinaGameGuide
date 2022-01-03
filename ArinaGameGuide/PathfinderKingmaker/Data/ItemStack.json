@@ -1248,5 +1248,25 @@
     "ID": 251,
     "Name": "Zorek RS",
     "Memo": ""
+  },
+  {
+    "ID": 252,
+    "Name": "Heavy Shield +4",
+    "Memo": ""
+  },
+  {
+    "ID": 253,
+    "Name": "Chainmail +4",
+    "Memo": ""
+  },
+  {
+    "ID": 254,
+    "Name": "Protector's Robe",
+    "Memo": ""
+  },
+  {
+    "ID": 255,
+    "Name": "Ancient Kellid Ceramic Potshred",
+    "Memo": ""
   }
 ]

@@ -1909,5 +1909,26 @@
     "Strength": false,
     "Price": 0,
     "Weight": 0.0
+  },
+  {
+    "ID": 92,
+    "Name": "Chainmail",
+    "CName": "",
+    "Type": "Medium Armor",
+    "DamageType": null,
+    "ArmorClass": 6,
+    "ArmorCheckPenalty": 4,
+    "ArcaneSpellFailureChance": 30,
+    "MaxDexterity": 2,
+    "WeaponSize": null,
+    "Range": null,
+    "Damage": null,
+    "CriticalHitRange": null,
+    "CriticalHitMultiplier": null,
+    "FinesseWeapon": false,
+    "MonkWeapon": false,
+    "Strength": false,
+    "Price": 0,
+    "Weight": 40.0
   }
 ]
