@@ -5530,7 +5530,7 @@
     "DisplayName": "Heavy Crossbow",
     "DisplayCName": "",
     "Type": null,
-    "BaseItem": null,
+    "BaseItem": "Heavy Crossbow",
     "SpecialMaterial": null,
     "CasterLevel": null,
     "Charges": null,
@@ -5556,6 +5556,23 @@
     "ChangePrice": 0,
     "StoryItem": false,
     "Weight": 0.0,
+    "Description": ""
+  },
+  {
+    "ID": 328,
+    "Name": "Belt of Giant Strength +6",
+    "DisplayName": "Belt of Giant Strength +6",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Belt",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 17500,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
     "Description": ""
   }
 ]

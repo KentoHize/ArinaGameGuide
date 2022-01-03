@@ -5820,21 +5820,21 @@
     "Team": "1"
   },
   {
-    "ID": 583,
-    "CreatureGroup": "Collapased Passage Group A",
-    "Creature": "Agile Zombie",
-    "DisplayName": null,
-    "Quantity": 2,
-    "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null,
-    "Team": "1"
-  },
-  {
     "ID": 584,
     "CreatureGroup": "Collapased Passage Group A",
     "Creature": "Thick-skinned 29 Dread Zombie Cyclops",
     "DisplayName": null,
     "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 583,
+    "CreatureGroup": "Collapased Passage Group A",
+    "Creature": "Agile Zombie",
+    "DisplayName": null,
+    "Quantity": 2,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"

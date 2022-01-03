@@ -1163,5 +1163,25 @@
     "ID": 234,
     "Name": "Clockwork Pendant",
     "Memo": ""
+  },
+  {
+    "ID": 235,
+    "Name": "MSC + HS + BP",
+    "Memo": ""
+  },
+  {
+    "ID": 236,
+    "Name": "MBS + HA",
+    "Memo": ""
+  },
+  {
+    "ID": 237,
+    "Name": "GA1 + HA + BoGS6",
+    "Memo": ""
+  },
+  {
+    "ID": 238,
+    "Name": "HCB + CS",
+    "Memo": ""
   }
 ]

@@ -1879,15 +1879,15 @@
     "ArcaneSpellFailureChance": null,
     "MaxDexterity": null,
     "WeaponSize": "Two-handed",
-    "Range": null,
-    "Damage": null,
-    "CriticalHitRange": null,
-    "CriticalHitMultiplier": null,
+    "Range": 50,
+    "Damage": "1d10",
+    "CriticalHitRange": 2,
+    "CriticalHitMultiplier": 2,
     "FinesseWeapon": false,
     "MonkWeapon": false,
     "Strength": false,
-    "Price": 0,
-    "Weight": 0.0
+    "Price": 13,
+    "Weight": 8.0
   },
   {
     "ID": 91,

@@ -1337,7 +1337,7 @@
     "CName": "",
     "Type": "Channel Negative Energy(SP)",
     "Place": "Collapased Passage",
-    "DisarmDC": null,
+    "DisarmDC": 31,
     "Position": "Center",
     "RelatedEncounter": null,
     "Damage": null,

@@ -11907,7 +11907,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "HCB + CS",
     "Memo": ""
   },
   {
@@ -11950,7 +11950,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": true,
-    "RemainItems": null,
+    "RemainItems": "GA1 + HA + BoGS6",
     "Memo": ""
   },
   {
@@ -11993,7 +11993,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": true,
-    "RemainItems": null,
+    "RemainItems": "MBS + HA",
     "Memo": ""
   },
   {
@@ -12036,7 +12036,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": true,
-    "RemainItems": null,
+    "RemainItems": "MSC + HS + BP",
     "Memo": ""
   }
 ]

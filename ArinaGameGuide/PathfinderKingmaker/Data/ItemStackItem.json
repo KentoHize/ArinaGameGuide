@@ -4846,5 +4846,85 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 607,
+    "ItemStack": "MSC + HS + BP",
+    "Item": "Masterwork Scimitar",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 608,
+    "ItemStack": "MSC + HS + BP",
+    "Item": "Heavy Shield",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 609,
+    "ItemStack": "MSC + HS + BP",
+    "Item": "Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 610,
+    "ItemStack": "MBS + HA",
+    "Item": "Masterwork Bastard Sword",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 611,
+    "ItemStack": "MBS + HA",
+    "Item": "Hide Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 612,
+    "ItemStack": "GA1 + HA + BoGS6",
+    "Item": "Greataxe +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 613,
+    "ItemStack": "GA1 + HA + BoGS6",
+    "Item": "Hide Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 614,
+    "ItemStack": "GA1 + HA + BoGS6",
+    "Item": "Belt of Giant Strength +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 615,
+    "ItemStack": "HCB + CS",
+    "Item": "Heavy Crossbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 616,
+    "ItemStack": "HCB + CS",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]
