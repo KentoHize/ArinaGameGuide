@@ -1654,5 +1654,32 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 186,
+    "Creature": "Armag with Ancient Armag's Sword",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 187,
+    "Creature": "Armag with Ancient Armag's Sword",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 188,
+    "Creature": "Armag with Ancient Armag's Sword",
+    "Ability": "Lethal Stance",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

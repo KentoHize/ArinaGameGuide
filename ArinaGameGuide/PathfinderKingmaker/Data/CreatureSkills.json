@@ -1936,5 +1936,11 @@
     "Creature": "Zorek",
     "Skill": "Lore(Religion)",
     "Bonus": 23
+  },
+  {
+    "ID": 325,
+    "Creature": "Armag with Ancient Armag's Sword",
+    "Skill": "Athletics",
+    "Bonus": 30
   }
 ]

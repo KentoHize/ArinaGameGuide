@@ -75,5 +75,16 @@
     "AsCreature": null,
     "Description": "Local Heroes",
     "Memo": ""
+  },
+  {
+    "ID": 8,
+    "Name": "Zorek",
+    "CName": "",
+    "Gender": "Male",
+    "Place": "Armag's Tomb",
+    "Position": "East",
+    "AsCreature": "Zorek",
+    "Description": "Armag's Cleric",
+    "Memo": ""
   }
 ]

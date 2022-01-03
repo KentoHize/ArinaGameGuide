@@ -3299,7 +3299,21 @@
     "AttackBonus": 26,
     "Weapon": "Falchion +3",
     "BasicDamage": "2d4",
-    "DamageAdditiveBonus": 30,
+    "DamageAdditiveBonus": null,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 250,
+    "Creature": "Armag with Ancient Armag's Sword",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 32,
+    "Weapon": null,
+    "BasicDamage": "2d8",
+    "DamageAdditiveBonus": 38,
     "OtherDamageBonus": null,
     "SneakDamage": null
   }

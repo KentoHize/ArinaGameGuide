@@ -6291,10 +6291,50 @@
   },
   {
     "ID": 630,
-    "CreatureGroup": "Armag's Tomb 3 Zorek",
+    "CreatureGroup": "Armag's Tomb Zorek",
     "Creature": "Zorek",
     "DisplayName": null,
     "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 631,
+    "CreatureGroup": "Armag's Tomb Armag",
+    "Creature": "Armag with Ancient Armag's Sword",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 632,
+    "CreatureGroup": "Armag's Tomb Armag",
+    "Creature": "Ferocious Skeletal Champion",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 633,
+    "CreatureGroup": "Armag's Tomb Armag",
+    "Creature": "Skeletal Champion Berserker",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 634,
+    "CreatureGroup": "Armag's Tomb Armag",
+    "Creature": "Nightmare Skeletal Champion Archer",
+    "DisplayName": null,
+    "Quantity": 2,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"

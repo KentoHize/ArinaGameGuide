@@ -1636,5 +1636,12 @@
     "Type": "DamageReduction",
     "DamageType": "None",
     "Amount": 10
+  },
+  {
+    "ID": 235,
+    "Creature": "Armag with Ancient Armag's Sword",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 6
   }
 ]

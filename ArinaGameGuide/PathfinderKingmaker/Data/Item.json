@@ -5761,5 +5761,22 @@
     "StoryItem": false,
     "Weight": 3.0,
     "Description": ""
+  },
+  {
+    "ID": 340,
+    "Name": "Ovinrbaane, Enemy of All Enemies",
+    "DisplayName": "Ovinrbaane, Enemy of All Enemies",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": null,
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

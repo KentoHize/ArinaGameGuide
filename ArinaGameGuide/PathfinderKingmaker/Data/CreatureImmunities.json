@@ -910,5 +910,17 @@
     "Creature": "Greater Air Elemental",
     "Condition": null,
     "CondtionGroup": "Elemental Immunities"
+  },
+  {
+    "ID": 153,
+    "Creature": "Armag with Ancient Armag's Sword",
+    "Condition": null,
+    "CondtionGroup": "Boss Immunities"
+  },
+  {
+    "ID": 154,
+    "Creature": "Armag with Ancient Armag's Sword",
+    "Condition": "Spell - Magic Missile",
+    "CondtionGroup": null
   }
 ]
