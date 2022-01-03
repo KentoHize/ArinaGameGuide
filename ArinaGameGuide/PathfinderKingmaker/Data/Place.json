@@ -1538,5 +1538,19 @@
     "HasPlot": true,
     "Description": "",
     "Memo": "Story Mode\nMobility 25 180 exp\nTrickery 35 3840 exp\n\n960 exp\n\nPerception 40"
+  },
+  {
+    "ID": 112,
+    "Name": "Armag's Tomb 3",
+    "DisplayName": "Armag's Tomb",
+    "CName": "",
+    "Type": "Dungeon",
+    "SuggestedLevelMin": 10,
+    "SuggestedLevelMax": 12,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": "Intimidate 50\nBluff 38\nDiplomacy 32"
   }
 ]

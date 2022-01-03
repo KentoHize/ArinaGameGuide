@@ -6278,5 +6278,25 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 629,
+    "CreatureGroup": "Armag's Tomb 2 Group L",
+    "Creature": "Greater Air Elemental",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 630,
+    "CreatureGroup": "Armag's Tomb 3 Zorek",
+    "Creature": "Zorek",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

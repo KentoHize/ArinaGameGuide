@@ -1930,5 +1930,11 @@
     "Creature": "Greater Air Elemental",
     "Skill": "Mobility",
     "Bonus": 28
+  },
+  {
+    "ID": 324,
+    "Creature": "Zorek",
+    "Skill": "Lore(Religion)",
+    "Bonus": 23
   }
 ]

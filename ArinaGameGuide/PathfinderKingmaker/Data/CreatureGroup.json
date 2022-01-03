@@ -2078,5 +2078,13 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 261,
+    "Name": "Armag's Tomb 3 Zorek",
+    "Place": "Armag's Tomb 3",
+    "Position": "South East",
+    "Stage": 1,
+    "Memo": ""
   }
 ]

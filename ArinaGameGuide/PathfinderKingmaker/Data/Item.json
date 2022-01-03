@@ -5710,5 +5710,22 @@
     "StoryItem": false,
     "Weight": 10.0,
     "Description": "Rage as barbarian and\nSummon 2 barbarian 20 round/day\n\n15 Strength required"
+  },
+  {
+    "ID": 337,
+    "Name": "Falchion +3",
+    "DisplayName": "Falchion +3",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Falchion",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 8.0,
+    "Description": ""
   }
 ]

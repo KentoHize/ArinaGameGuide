@@ -3288,5 +3288,19 @@
     "DamageAdditiveBonus": 17,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 249,
+    "Creature": "Zorek",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 26,
+    "Weapon": "Falchion +3",
+    "BasicDamage": "2d4",
+    "DamageAdditiveBonus": 30,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]
