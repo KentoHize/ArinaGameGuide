@@ -3274,5 +3274,19 @@
     "DamageAdditiveBonus": 7,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 248,
+    "Creature": "Greater Air Elemental",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 9,
+    "AddtionalAttack": 1,
+    "AttackBonus": 23,
+    "Weapon": null,
+    "BasicDamage": "2d8",
+    "DamageAdditiveBonus": 17,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

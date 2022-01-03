@@ -1924,5 +1924,11 @@
     "Creature": "Ferocious Skeletal Champion Archer",
     "Skill": "Stealth",
     "Bonus": 9
+  },
+  {
+    "ID": 323,
+    "Creature": "Greater Air Elemental",
+    "Skill": "Mobility",
+    "Bonus": 28
   }
 ]

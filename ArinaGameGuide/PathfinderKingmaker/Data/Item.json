@@ -5693,5 +5693,22 @@
     "StoryItem": false,
     "Weight": 1.0,
     "Description": "+4 resistance to Save\n+4 competence to CMD"
+  },
+  {
+    "ID": 336,
+    "Name": "Warpainted Skull of Duthica",
+    "DisplayName": "Warpainted Skull of Duthica",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Helmet",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 10500,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 10.0,
+    "Description": "Rage as barbarian and\nSummon 2 barbarian 20 round/day\n\n15 Strength required"
   }
 ]

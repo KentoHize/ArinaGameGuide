@@ -5022,5 +5022,13 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 630,
+    "ItemStack": "Warpainted Skull of Duthica",
+    "Item": "Warpainted Skull of Duthica",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

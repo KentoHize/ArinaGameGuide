@@ -1629,5 +1629,12 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 234,
+    "Creature": "Greater Air Elemental",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 10
   }
 ]

@@ -6258,5 +6258,25 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 627,
+    "CreatureGroup": "Armag's Tomb 2 Group L",
+    "Creature": "Spectre",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 628,
+    "CreatureGroup": "Armag's Tomb 2 Group L",
+    "Creature": "Greater Skeletal Champion",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

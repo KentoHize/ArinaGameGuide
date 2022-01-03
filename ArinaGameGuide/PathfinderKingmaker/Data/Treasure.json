@@ -1104,5 +1104,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 80,
+    "Name": "Armag's Tomb 2 Treasure F",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Armag's Tomb 2",
+    "Position": "East",
+    "ItemStack": "Warpainted Skull of Duthica",
+    "PerceptionDC": 35,
+    "TrapDC": null,
+    "LockDC": 33,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

@@ -2070,5 +2070,13 @@
     "Position": "East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 260,
+    "Name": "Armag's Tomb 2 Group L",
+    "Place": "Armag's Tomb 2",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]
