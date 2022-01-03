@@ -4974,5 +4974,13 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 624,
+    "ItemStack": "Korgath's Shackled Fury",
+    "Item": "Korgath's Shackled Fury",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

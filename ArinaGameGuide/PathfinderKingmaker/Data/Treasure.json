@@ -1048,5 +1048,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 76,
+    "Name": "Armag's Tomb 2 Treasure B",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Armag's Tomb 2",
+    "Position": "North",
+    "ItemStack": "Korgath's Shackled Fury",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

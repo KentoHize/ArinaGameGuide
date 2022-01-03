@@ -5625,5 +5625,22 @@
     "StoryItem": false,
     "Weight": 0.1,
     "Description": "Agile to Unarmed Strike(if have Weapon Finesse)\n+2 to Unarmed and natural attack"
+  },
+  {
+    "ID": 332,
+    "Name": "Korgath's Shackled Fury",
+    "DisplayName": "Korgath's Shackled Fury",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Belt",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 15000,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": "+6 Strength\n+5 competence Persuasion to intimidate\n-3 Persuasion to diplomacy\nCan Rage 8 round like barbarian\nLawful Only"
   }
 ]

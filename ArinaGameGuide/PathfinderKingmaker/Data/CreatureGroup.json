@@ -1995,7 +1995,15 @@
     "ID": 250,
     "Name": "Armag's Tomb 2 Group D",
     "Place": "Armag's Tomb",
-    "Position": "West",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 251,
+    "Name": "Armag's Tomb 2 Group E",
+    "Place": "Armag's Tomb",
+    "Position": "North",
     "Stage": 0,
     "Memo": ""
   }
