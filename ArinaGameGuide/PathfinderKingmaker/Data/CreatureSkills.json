@@ -1912,5 +1912,17 @@
     "Creature": "Skeletal Champion Berserker",
     "Skill": "Stealth",
     "Bonus": 4
+  },
+  {
+    "ID": 321,
+    "Creature": "Ferocious Skeletal Champion Archer",
+    "Skill": "Perception",
+    "Bonus": 11
+  },
+  {
+    "ID": 322,
+    "Creature": "Ferocious Skeletal Champion Archer",
+    "Skill": "Stealth",
+    "Bonus": 9
   }
 ]

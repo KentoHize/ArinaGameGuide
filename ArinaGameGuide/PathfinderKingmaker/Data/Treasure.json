@@ -1062,5 +1062,47 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 77,
+    "Name": "Armag's Tomb 2 Treasure C",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Armag's Tomb 2",
+    "Position": "Center",
+    "ItemStack": "Manticore Skin Boots",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 78,
+    "Name": "Armag's Tomb 2 Treasure D",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Armag's Tomb 2",
+    "Position": "Center",
+    "ItemStack": "Skymetal Cogwheel",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 79,
+    "Name": "Armag's Tomb 2 Treasure E",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Armag's Tomb 2",
+    "Position": "East",
+    "ItemStack": "Cloak of Bear",
+    "PerceptionDC": 35,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

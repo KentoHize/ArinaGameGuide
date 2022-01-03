@@ -2014,5 +2014,61 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 253,
+    "Name": "Armag's Tomb 2 Honest Battle",
+    "Place": "Armag's Tomb 2",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 254,
+    "Name": "Armag's Tomb 2 Group G",
+    "Place": "Armag's Tomb 2",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 255,
+    "Name": "Armag's Tomb 2 Group H",
+    "Place": "Armag's Tomb 2",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 256,
+    "Name": "Armag's Tomb 2 Group I",
+    "Place": "Armag's Tomb 2",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 257,
+    "Name": "Armag's Tomb 2 Group I 2",
+    "Place": "Armag's Tomb 2",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 258,
+    "Name": "Armag's Tomb 2 Group J",
+    "Place": "Armag's Tomb 2",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 259,
+    "Name": "Armag's Tomb 2 Group K",
+    "Place": "Armag's Tomb 2",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

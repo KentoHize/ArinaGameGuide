@@ -6078,5 +6078,185 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 609,
+    "CreatureGroup": "Armag's Tomb 2 Honest Battle",
+    "Creature": "Iron Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 610,
+    "CreatureGroup": "Armag's Tomb 2 Group G",
+    "Creature": "Spectre",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 611,
+    "CreatureGroup": "Armag's Tomb 2 Group G",
+    "Creature": "Skeletal Champion Berserker",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 612,
+    "CreatureGroup": "Armag's Tomb 2 Group G",
+    "Creature": "Cleric of Gorum",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 613,
+    "CreatureGroup": "Armag's Tomb 2 Group H",
+    "Creature": "Spectre",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 614,
+    "CreatureGroup": "Armag's Tomb 2 Group H",
+    "Creature": "Greater Skeletal Champion",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 615,
+    "CreatureGroup": "Armag's Tomb 2 Group H",
+    "Creature": "Nightmare Skeletal Champion Archer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 616,
+    "CreatureGroup": "Armag's Tomb 2 Group H",
+    "Creature": "Skeletal Champion Berserker",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 617,
+    "CreatureGroup": "Armag's Tomb 2 Group I",
+    "Creature": "Spectre",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 618,
+    "CreatureGroup": "Armag's Tomb 2 Group I",
+    "Creature": "Ferocious Skeletal Champion",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 619,
+    "CreatureGroup": "Armag's Tomb 2 Group I",
+    "Creature": "Nightmare Skeletal Champion Archer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 620,
+    "CreatureGroup": "Armag's Tomb 2 Group I 2",
+    "Creature": "Spectre",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 621,
+    "CreatureGroup": "Armag's Tomb 2 Group J",
+    "Creature": "Greater Skeletal Champion",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 622,
+    "CreatureGroup": "Armag's Tomb 2 Group J",
+    "Creature": "Ferocious Skeletal Champion Archer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 623,
+    "CreatureGroup": "Armag's Tomb 2 Group J",
+    "Creature": "Nightmare Skeletal Champion Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 624,
+    "CreatureGroup": "Armag's Tomb 2 Group K",
+    "Creature": "Spectre",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 625,
+    "CreatureGroup": "Armag's Tomb 2 Group K",
+    "Creature": "Greater Skeletal Champion",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 626,
+    "CreatureGroup": "Armag's Tomb 2 Group K",
+    "Creature": "Bloody Bones Beast",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

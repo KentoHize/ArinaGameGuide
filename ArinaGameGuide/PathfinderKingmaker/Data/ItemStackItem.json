@@ -4998,5 +4998,29 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 627,
+    "ItemStack": "Manticore Skin Boots",
+    "Item": "Manticore Skin Boots",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 628,
+    "ItemStack": "Skymetal Cogwheel",
+    "Item": "Skymetal Cogwheel",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 629,
+    "ItemStack": "Cloak of Bear",
+    "Item": "Cloak of Bear",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

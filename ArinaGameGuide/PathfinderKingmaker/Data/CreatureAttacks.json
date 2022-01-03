@@ -3260,5 +3260,19 @@
     "DamageAdditiveBonus": 15,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 247,
+    "Creature": "Ferocious Skeletal Champion Archer",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AddtionalAttack": 0,
+    "AttackBonus": 23,
+    "Weapon": "Composite Longbow",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 7,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

@@ -1608,5 +1608,26 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 231,
+    "Creature": "Ferocious Skeletal Champion Archer",
+    "Type": "DamageReduction",
+    "DamageType": "Bludgeon",
+    "Amount": 5
+  },
+  {
+    "ID": 232,
+    "Creature": "Ferocious Skeletal Champion Archer",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 233,
+    "Creature": "Ferocious Skeletal Champion Archer",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]
