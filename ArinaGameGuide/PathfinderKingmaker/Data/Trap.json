@@ -1462,5 +1462,41 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 129,
+    "Name": "Armag's Tomb 2 Trap",
+    "CName": "",
+    "Type": "Burning Hand(SP)",
+    "Place": "Armag's Tomb 2",
+    "DisarmDC": null,
+    "Position": "West",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 130,
+    "Name": "Armag's Tomb 2 Trap",
+    "CName": "",
+    "Type": "Lighting Bolt(SP)",
+    "Place": "Armag's Tomb 2",
+    "DisarmDC": null,
+    "Position": "West",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 131,
+    "Name": "Armag's Tomb 2 Trap",
+    "CName": "",
+    "Type": "Fireball(SP)",
+    "Place": "Armag's Tomb 2",
+    "DisarmDC": null,
+    "Position": "West",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

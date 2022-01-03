@@ -1020,5 +1020,33 @@
     "LockDC": 37,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 74,
+    "Name": "Armag's Tomb Treasure C",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Armag's Tomb",
+    "Position": "Deep Floor 1 South",
+    "ItemStack": "Ring of Protection +3",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": 33,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 75,
+    "Name": "Armag's Tomb 2 Treasure A",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Armag's Tomb 2",
+    "Position": "West",
+    "ItemStack": "Amulet of Agile Fists +2",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

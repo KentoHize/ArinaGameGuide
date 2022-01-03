@@ -1876,5 +1876,29 @@
     "Creature": "Ferocious Skeletal Champion",
     "Skill": "Stealth",
     "Bonus": 2
+  },
+  {
+    "ID": 315,
+    "Creature": "Greater Earth Elemental",
+    "Skill": "Perception",
+    "Bonus": 22
+  },
+  {
+    "ID": 316,
+    "Creature": "Greater Fire Elemental",
+    "Skill": "Perception",
+    "Bonus": 22
+  },
+  {
+    "ID": 317,
+    "Creature": "Nightmare Skeletal Champion Archer",
+    "Skill": "Perception",
+    "Bonus": 11
+  },
+  {
+    "ID": 318,
+    "Creature": "Nightmare Skeletal Champion Archer",
+    "Skill": "Stealth",
+    "Bonus": 8
   }
 ]

@@ -880,5 +880,23 @@
     "Creature": "Ferocious Skeletal Champion",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 148,
+    "Creature": "Greater Earth Elemental",
+    "Condition": null,
+    "CondtionGroup": "Elemental Immunities"
+  },
+  {
+    "ID": 149,
+    "Creature": "Greater Fire Elemental",
+    "Condition": null,
+    "CondtionGroup": "Elemental Immunities"
+  },
+  {
+    "ID": 150,
+    "Creature": "Nightmare Skeletal Champion Archer",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]

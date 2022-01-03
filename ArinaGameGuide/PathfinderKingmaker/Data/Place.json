@@ -1517,12 +1517,26 @@
     "DisplayName": "Armag's Tomb",
     "CName": "",
     "Type": "Dungeon",
-    "SuggestedLevelMin": 0,
-    "SuggestedLevelMax": 0,
+    "SuggestedLevelMin": 10,
+    "SuggestedLevelMax": 12,
     "HardSpotLevelMin": null,
     "HardSpotLevelMax": null,
     "HasPlot": true,
     "Description": "",
     "Memo": "Diplomacy 36 to turn barbarian agaist defaced sister\n5760\n\nStory Mode\nTrickery 25\nIntellience 18\nAthletics 25\nPerception 35 3840 -> May Danger\nAthletics 35 -> Work 3840 exp\n\n960exp"
+  },
+  {
+    "ID": 111,
+    "Name": "Armag's Tomb 2",
+    "DisplayName": "Armag's Tomb",
+    "CName": "",
+    "Type": "Dungeon",
+    "SuggestedLevelMin": 10,
+    "SuggestedLevelMax": 12,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": "Story Mode\nMobility 25 180 exp\nTrickery 35 3840 exp\n\n960 exp\n\nPerception 40"
   }
 ]

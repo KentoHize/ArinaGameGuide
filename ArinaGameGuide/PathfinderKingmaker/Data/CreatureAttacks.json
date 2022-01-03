@@ -3204,5 +3204,47 @@
     "DamageAdditiveBonus": 13,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 243,
+    "Creature": "Greater Earth Elemental",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 9,
+    "AddtionalAttack": 1,
+    "AttackBonus": 23,
+    "Weapon": null,
+    "BasicDamage": "2d10",
+    "DamageAdditiveBonus": 20,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 244,
+    "Creature": "Greater Fire Elemental",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 9,
+    "AddtionalAttack": 1,
+    "AttackBonus": 26,
+    "Weapon": null,
+    "BasicDamage": "2d8",
+    "DamageAdditiveBonus": 9,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 245,
+    "Creature": "Nightmare Skeletal Champion Archer",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AddtionalAttack": 0,
+    "AttackBonus": 18,
+    "Weapon": "Composite Longbow",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 7,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

@@ -40,5 +40,23 @@
     "Name": "Dragon's Breath(Brass)",
     "CName": "",
     "Special": false
+  },
+  {
+    "ID": 8,
+    "Name": "Burning Hand(SP)",
+    "CName": "",
+    "Special": true
+  },
+  {
+    "ID": 9,
+    "Name": "Lighting Bolt(SP)",
+    "CName": "",
+    "Special": true
+  },
+  {
+    "ID": 10,
+    "Name": "Fireball(SP)",
+    "CName": "",
+    "Special": true
   }
 ]

@@ -1198,5 +1198,20 @@
     "ID": 241,
     "Name": "Ghost Leather",
     "Memo": ""
+  },
+  {
+    "ID": 242,
+    "Name": "Ring of Protection +3",
+    "Memo": ""
+  },
+  {
+    "ID": 243,
+    "Name": "Amulet of Agile Fists +2",
+    "Memo": ""
+  },
+  {
+    "ID": 244,
+    "Name": "CL + SM",
+    "Memo": ""
   }
 ]

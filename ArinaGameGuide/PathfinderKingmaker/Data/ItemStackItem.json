@@ -4942,5 +4942,37 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 620,
+    "ItemStack": "Ring of Protection +3",
+    "Item": "Ring of Protection +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 621,
+    "ItemStack": "Amulet of Agile Fists +2",
+    "Item": "Amulet of Agile Fists +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 622,
+    "ItemStack": "CL + SM",
+    "Item": "Composite Longbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 623,
+    "ItemStack": "CL + SM",
+    "Item": "Scalemail",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]
