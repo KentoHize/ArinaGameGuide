@@ -5888,5 +5888,35 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 590,
+    "CreatureGroup": "Armag's Tomb Group D",
+    "Creature": "Greater Skeletal Champion",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 591,
+    "CreatureGroup": "Armag's Tomb Group D",
+    "Creature": "Ferocious Skeletal Champion",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 592,
+    "CreatureGroup": "Armag's Tomb Group D",
+    "Creature": "Cleric of Gorum",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

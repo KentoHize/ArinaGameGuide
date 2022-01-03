@@ -1193,5 +1193,10 @@
     "ID": 240,
     "Name": "Rune-covered Ancient Leather Scrap",
     "Memo": ""
+  },
+  {
+    "ID": 241,
+    "Name": "Ghost Leather",
+    "Memo": ""
   }
 ]

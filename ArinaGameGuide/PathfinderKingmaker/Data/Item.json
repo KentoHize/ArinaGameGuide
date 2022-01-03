@@ -5591,5 +5591,22 @@
     "StoryItem": false,
     "Weight": 1.0,
     "Description": ""
+  },
+  {
+    "ID": 330,
+    "Name": "Ghost Leather",
+    "DisplayName": "Ghost Leather",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Leather Armor",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 15425,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 15.0,
+    "Description": "+3\nget hit trigger greater invisibility 2 round"
   }
 ]

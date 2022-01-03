@@ -3176,5 +3176,33 @@
     "DamageAdditiveBonus": 12,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 241,
+    "Creature": "Greater Skeletal Champion",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 23,
+    "Weapon": "Masterwork Longsword",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 16,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 242,
+    "Creature": "Ferocious Skeletal Champion",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 18,
+    "Weapon": "Masterwork Longsword",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 13,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

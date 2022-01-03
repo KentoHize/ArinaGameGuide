@@ -868,5 +868,17 @@
     "Creature": "Zombie 6",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 146,
+    "Creature": "Greater Skeletal Champion",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 147,
+    "Creature": "Ferocious Skeletal Champion",
+    "Condition": null,
+    "CondtionGroup": "Undead Immunities"
   }
 ]

@@ -4934,5 +4934,13 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 619,
+    "ItemStack": "Ghost Leather",
+    "Item": "Ghost Leather",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

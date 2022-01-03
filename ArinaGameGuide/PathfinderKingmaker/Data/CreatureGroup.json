@@ -1958,5 +1958,13 @@
     "Position": "Deep Floor 1 Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 246,
+    "Name": "Armag's Tomb Group D",
+    "Place": "Armag's Tomb",
+    "Position": "Deep Floor 1 South",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

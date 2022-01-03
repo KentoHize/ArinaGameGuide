@@ -1852,5 +1852,29 @@
     "Creature": "Zombie 6",
     "Skill": "Stealth",
     "Bonus": 9
+  },
+  {
+    "ID": 311,
+    "Creature": "Greater Skeletal Champion",
+    "Skill": "Perception",
+    "Bonus": 11
+  },
+  {
+    "ID": 312,
+    "Creature": "Greater Skeletal Champion",
+    "Skill": "Stealth",
+    "Bonus": 3
+  },
+  {
+    "ID": 313,
+    "Creature": "Ferocious Skeletal Champion",
+    "Skill": "Perception",
+    "Bonus": 11
+  },
+  {
+    "ID": 314,
+    "Creature": "Ferocious Skeletal Champion",
+    "Skill": "Stealth",
+    "Bonus": 2
   }
 ]
