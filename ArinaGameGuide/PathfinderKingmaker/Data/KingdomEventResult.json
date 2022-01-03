@@ -359,5 +359,43 @@
     "OtherConsequence": "None",
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 20,
+    "Event": "Kellid Scouts",
+    "Advisor": "General",
+    "Companion": "Regongar",
+    "Result": "Failure",
+    "Stat1": "Loyalty",
+    "Stat1Adjustment": -4,
+    "Stat2": "Military",
+    "Stat2Adjustment": -1,
+    "Stat3": "Stability",
+    "Stat3Adjustment": -4,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 21,
+    "Event": "Hunting Season",
+    "Advisor": "Councilor",
+    "Companion": "Tristian",
+    "Result": "Failure",
+    "Stat1": "Loyalty",
+    "Stat1Adjustment": 1,
+    "Stat2": null,
+    "Stat2Adjustment": null,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": "None",
+    "Description": "",
+    "Memo": ""
   }
 ]

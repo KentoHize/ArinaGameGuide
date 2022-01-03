@@ -3,48 +3,78 @@
     "ID": 7,
     "Name": "Ekundayo",
     "CName": "",
-    "BaseCreature": null
+    "AsCreature": null
   },
   {
     "ID": 6,
     "Name": "Harrim",
     "CName": "",
-    "BaseCreature": null
+    "AsCreature": null
   },
   {
     "ID": 8,
     "Name": "Jubilost",
     "CName": "",
-    "BaseCreature": null
+    "AsCreature": null
   },
   {
     "ID": 3,
     "Name": "Linzi",
     "CName": "",
-    "BaseCreature": null
+    "AsCreature": null
   },
   {
     "ID": 5,
     "Name": "Regongar",
     "CName": "",
-    "BaseCreature": null
+    "AsCreature": null
   },
   {
     "ID": 4,
     "Name": "Storyteller",
     "CName": "",
-    "BaseCreature": null
+    "AsCreature": null
   },
   {
     "ID": 1,
     "Name": "Tristian",
     "CName": "",
-    "BaseCreature": null
+    "AsCreature": null
   },
   {
     "ID": 2,
     "Name": "Valerie",
     "CName": "",
-    "BaseCreature": null
+    "AsCreature": null
+  },
+  {
+    "ID": 9,
+    "Name": "Jaethal",
+    "CName": "",
+    "AsCreature": null
+  },
+  {
+    "ID": 10,
+    "Name": "Amiri",
+    "CName": "",
+    "AsCreature": null
+  },
+  {
+    "ID": 11,
+    "Name": "Octavia",
+    "CName": "",
+    "AsCreature": null
+  },
+  {
+    "ID": 12,
+    "Name": "Kanerah",
+    "CName": "",
+    "AsCreature": null
+  },
+  {
+    "ID": 13,
+    "Name": "Kesten Garess",
+    "CName": "",
+    "AsCreature": null
   }
 ]
