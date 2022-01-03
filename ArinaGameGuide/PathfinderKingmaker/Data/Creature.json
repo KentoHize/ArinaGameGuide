@@ -12423,7 +12423,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "Zorek RS",
     "Memo": ""
   }
 ]
