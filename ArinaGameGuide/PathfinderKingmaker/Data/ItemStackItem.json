@@ -5262,5 +5262,21 @@
     "RandomItem": null,
     "Quantity": 2,
     "RandomQuantity": null
+  },
+  {
+    "ID": 660,
+    "ItemStack": "Piece of Skymetal",
+    "Item": "Piece of Skymetal",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 661,
+    "ItemStack": "Sash of Slash",
+    "Item": "Sash of Slash",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

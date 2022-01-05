@@ -6050,5 +6050,22 @@
     "StoryItem": false,
     "Weight": 0.05,
     "Description": ""
+  },
+  {
+    "ID": 357,
+    "Name": "Sash of Slash",
+    "DisplayName": "Sash of Slash",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Belt",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 20750,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": "+6 enhancement Dexterity\nDR 5/slashing"
   }
 ]

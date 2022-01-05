@@ -1692,5 +1692,12 @@
     "Type": "Immunity",
     "DamageType": "Acid",
     "Amount": null
+  },
+  {
+    "ID": 243,
+    "Creature": "Skillfully Crafted Iron Golem",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 15
   }
 ]

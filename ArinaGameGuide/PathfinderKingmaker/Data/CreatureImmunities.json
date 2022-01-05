@@ -940,5 +940,11 @@
     "Creature": "Watchful Omen",
     "Condition": "Death",
     "CondtionGroup": null
+  },
+  {
+    "ID": 158,
+    "Creature": "Skillfully Crafted Iron Golem",
+    "Condition": null,
+    "CondtionGroup": "Construct Immunities"
   }
 ]

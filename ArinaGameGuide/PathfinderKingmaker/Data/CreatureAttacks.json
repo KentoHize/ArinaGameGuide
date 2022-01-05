@@ -3008,5 +3008,19 @@
     "DamageAdditiveBonus": 13,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 255,
+    "Creature": "Skillfully Crafted Iron Golem",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 1,
+    "AttackBonus": 40,
+    "Weapon": null,
+    "BasicDamage": "2d10",
+    "DamageAdditiveBonus": 15,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

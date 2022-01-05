@@ -6398,5 +6398,15 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 641,
+    "CreatureGroup": "Charred Ruins Group A",
+    "Creature": "Skillfully Crafted Iron Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": "Piece of Skymetal",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

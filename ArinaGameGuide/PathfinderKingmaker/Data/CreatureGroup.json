@@ -2126,5 +2126,13 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 267,
+    "Name": "Charred Ruins Group A",
+    "Place": "Charred Ruins",
+    "Position": "Center",
+    "Stage": 1,
+    "Memo": ""
   }
 ]
