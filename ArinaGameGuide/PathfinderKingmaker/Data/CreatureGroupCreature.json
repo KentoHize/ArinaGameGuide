@@ -6455,7 +6455,7 @@
     "Creature": "Druid 10 Druid",
     "DisplayName": null,
     "Quantity": 1,
-    "AdditonalItems": null,
+    "AdditonalItems": "Piece of Skymetal",
     "AddtionalEffectOrConditions": null,
     "Team": "1"
   },

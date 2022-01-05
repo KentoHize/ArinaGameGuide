@@ -5326,5 +5326,29 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 668,
+    "ItemStack": "MV + PoCS + HA",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 669,
+    "ItemStack": "MV + PoCS + HA",
+    "Item": "Potion of Cure Serious Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 670,
+    "ItemStack": "MV + PoCS + HA",
+    "Item": "Hide Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

@@ -12767,7 +12767,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "MV + PoCS + HA",
     "Memo": ""
   },
   {
@@ -12810,7 +12810,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": "4 Random Jewelry",
+    "RemainItems": "Money and Valuables",
     "Memo": ""
   }
 ]

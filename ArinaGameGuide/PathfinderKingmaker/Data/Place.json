@@ -1485,7 +1485,7 @@
   },
   {
     "ID": 108,
-    "Name": "Mysterious Shrine",
+    "Name": "Mysterious Shrine A",
     "DisplayName": "Mysterious Shrine",
     "CName": "",
     "Type": "Hunting Area",
@@ -1650,5 +1650,19 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 120,
+    "Name": "Mysterious Shrine B",
+    "DisplayName": "Mysterious Shrine",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "謎"
   }
 ]
