@@ -6016,5 +6016,39 @@
     "StoryItem": false,
     "Weight": 3.0,
     "Description": "+3 Frost\nIcy Burst(+1d10/multipier damage when critical)"
+  },
+  {
+    "ID": 355,
+    "Name": "Enforcer's Robe",
+    "DisplayName": "Enforcer's Robe",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Cloth",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 9125,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": "+1 dodge AC\n+5 Unarmed Attack and damage\n\nOnly Used by monk of lawful evil"
+  },
+  {
+    "ID": 356,
+    "Name": "Ivory Comb",
+    "DisplayName": "Ivory Comb",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Jewelry",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 62,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.05,
+    "Description": ""
   }
 ]

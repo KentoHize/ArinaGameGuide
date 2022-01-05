@@ -5222,5 +5222,45 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 655,
+    "ItemStack": "Gaint's Palm Treasure A",
+    "Item": "Enforcer's Robe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 656,
+    "ItemStack": "Gaint's Palm Treasure A",
+    "Item": "Diamond Dust",
+    "RandomItem": null,
+    "Quantity": 321,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 657,
+    "ItemStack": "Gaint's Palm Treasure B",
+    "Item": "Ivory Comb",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 658,
+    "ItemStack": "Gaint's Palm Treasure B",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 270,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 659,
+    "ItemStack": "Gaint's Palm Treasure B",
+    "Item": "Kellied Tribal Fetish",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
   }
 ]
