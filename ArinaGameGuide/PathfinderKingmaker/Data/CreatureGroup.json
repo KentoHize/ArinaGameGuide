@@ -2142,5 +2142,13 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 269,
+    "Name": "Two-Faced Hill Group B",
+    "Place": "Two-Faced Hill",
+    "Position": "Deep Floor 1",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

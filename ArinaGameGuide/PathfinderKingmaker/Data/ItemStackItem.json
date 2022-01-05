@@ -5278,5 +5278,13 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 662,
+    "ItemStack": "Kellied Tribal Fetish",
+    "Item": "Kellied Tribal Fetish",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

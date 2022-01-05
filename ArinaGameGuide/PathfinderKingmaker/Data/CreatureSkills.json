@@ -2026,5 +2026,11 @@
     "Creature": "Werewolf from Tegreth's Family",
     "Skill": "Athletics",
     "Bonus": 22
+  },
+  {
+    "ID": 340,
+    "Creature": "Tegreth, Werewolf from Numeria",
+    "Skill": "Athletics",
+    "Bonus": 22
   }
 ]
