@@ -526,5 +526,37 @@
     "RandomEvent": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 34,
+    "Name": "Lastwall's Cavalry",
+    "CName": "",
+    "Type": "Problem",
+    "RequiredDays": 10,
+    "DC": 26,
+    "AdaptedAdvisor1": "Minister",
+    "AdaptedAdvisor2": null,
+    "AdaptedAdvisor3": null,
+    "HaveAdvantage": null,
+    "HaveDisadvantage": null,
+    "RandomEvent": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 35,
+    "Name": "A War of Shadows",
+    "CName": "",
+    "Type": "Problem",
+    "RequiredDays": 20,
+    "DC": 26,
+    "AdaptedAdvisor1": "Minister",
+    "AdaptedAdvisor2": null,
+    "AdaptedAdvisor3": null,
+    "HaveAdvantage": null,
+    "HaveDisadvantage": null,
+    "RandomEvent": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

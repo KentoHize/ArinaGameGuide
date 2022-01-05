@@ -946,5 +946,23 @@
     "Creature": "Skillfully Crafted Iron Golem",
     "Condition": null,
     "CondtionGroup": "Construct Immunities"
+  },
+  {
+    "ID": 159,
+    "Creature": "Druid 10 Druid",
+    "Condition": "Disease",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 160,
+    "Creature": "Druid 10 Druid",
+    "Condition": "Nauseated",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 161,
+    "Creature": "Quickwood 14",
+    "Condition": null,
+    "CondtionGroup": "Plant Immunities"
   }
 ]

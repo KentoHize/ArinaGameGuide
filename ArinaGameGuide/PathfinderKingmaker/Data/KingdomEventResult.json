@@ -397,5 +397,24 @@
     "OtherConsequence": "None",
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 22,
+    "Event": "River Gold",
+    "Advisor": "Treasurer",
+    "Companion": "Jubilost",
+    "Result": "Failure",
+    "Stat1": "Loyalty",
+    "Stat1Adjustment": -2,
+    "Stat2": "Stability",
+    "Stat2Adjustment": 2,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
   }
 ]

@@ -5286,5 +5286,45 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 663,
+    "ItemStack": "Breastplate",
+    "Item": "Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 664,
+    "ItemStack": "Two-Faced Hill Treasure A",
+    "Item": "Amulet of Natural Armor +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 665,
+    "ItemStack": "Two-Faced Hill Treasure A",
+    "Item": "Agile Estoc +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 666,
+    "ItemStack": "Two-Faced Hill Treasure A",
+    "Item": "Whiterose Oysters",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 667,
+    "ItemStack": "Two-Faced Hill Treasure A",
+    "Item": "Bent Wrench with the Technic League's Brand",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

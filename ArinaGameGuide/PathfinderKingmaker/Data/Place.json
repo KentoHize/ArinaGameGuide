@@ -1636,5 +1636,19 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 119,
+    "Name": "Raspberry Gully",
+    "DisplayName": "Raspberry Gully",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 10,
+    "SuggestedLevelMax": 12,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

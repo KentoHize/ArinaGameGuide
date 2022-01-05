@@ -1706,5 +1706,33 @@
     "Type": "DamageReduction",
     "DamageType": "Silver",
     "Amount": 10
+  },
+  {
+    "ID": 245,
+    "Creature": "Tegreth, Werewolf from Numeria",
+    "Type": "DamageReduction",
+    "DamageType": "Silver",
+    "Amount": 10
+  },
+  {
+    "ID": 246,
+    "Creature": "Tegreth, Werewolf from Numeria",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 3
+  },
+  {
+    "ID": 247,
+    "Creature": "Quickwood 14",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 248,
+    "Creature": "Quickwood 14",
+    "Type": "Immunity",
+    "DamageType": "Electricity",
+    "Amount": null
   }
 ]

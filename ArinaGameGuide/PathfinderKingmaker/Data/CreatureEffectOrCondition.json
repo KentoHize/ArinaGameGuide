@@ -529,5 +529,23 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 61,
+    "Creature": "Druid 10 Druid",
+    "EffectOrCondition": "Barskin",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 62,
+    "Creature": "Druid 10 Druid",
+    "EffectOrCondition": "Bull's Strength",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

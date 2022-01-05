@@ -1244,5 +1244,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 90,
+    "Name": "Two-Faced Hill Treasure A",
+    "CName": "",
+    "Type": "Corpse",
+    "Place": "Two-Faced Hill",
+    "Position": "Deep Floor 1",
+    "ItemStack": "Two-Faced Hill Treasure A",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

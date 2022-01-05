@@ -2032,5 +2032,29 @@
     "Creature": "Tegreth, Werewolf from Numeria",
     "Skill": "Athletics",
     "Bonus": 22
+  },
+  {
+    "ID": 341,
+    "Creature": "Druid 10 Druid",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 342,
+    "Creature": "Quickwood 14",
+    "Skill": "Lore(Nature)",
+    "Bonus": 23
+  },
+  {
+    "ID": 343,
+    "Creature": "Quickwood 14",
+    "Skill": "Perception",
+    "Bonus": 33
+  },
+  {
+    "ID": 344,
+    "Creature": "Quickwood 14",
+    "Skill": "Stealth",
+    "Bonus": 48
   }
 ]

@@ -2150,5 +2150,13 @@
     "Position": "Deep Floor 1",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 270,
+    "Name": "Raspberry Gully Group A",
+    "Place": "Raspberry Gully",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]
