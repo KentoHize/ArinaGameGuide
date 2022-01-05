@@ -1622,5 +1622,19 @@
     "HasPlot": false,
     "Description": "",
     "Memo": "Perception 30\nLore(Nature) 20\nAthletics 26 x2\n\nLore(Nature) 34\nFortitude 25\n\nLore(Nature) 38\nMobility 38\nStealth 38"
+  },
+  {
+    "ID": 118,
+    "Name": "Two-Faced Hill",
+    "DisplayName": "Two-Faced Hill",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 10,
+    "SuggestedLevelMax": 12,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

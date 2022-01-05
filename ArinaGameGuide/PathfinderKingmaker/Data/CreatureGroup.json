@@ -2134,5 +2134,13 @@
     "Position": "Center",
     "Stage": 1,
     "Memo": ""
+  },
+  {
+    "ID": 268,
+    "Name": "Two-Faced Hill Group A",
+    "Place": "Two-Faced Hill",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

@@ -3022,5 +3022,33 @@
     "DamageAdditiveBonus": 15,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 256,
+    "Creature": "Werewolf from Tegreth's Family",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 26,
+    "Weapon": "Masterwork Longsword",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 29,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 257,
+    "Creature": "Werewolf from Tegreth's Family",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 15,
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 7,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

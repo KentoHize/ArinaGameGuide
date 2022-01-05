@@ -1699,5 +1699,12 @@
     "Type": "DamageReduction",
     "DamageType": "Adamantite",
     "Amount": 15
+  },
+  {
+    "ID": 244,
+    "Creature": "Werewolf from Tegreth's Family",
+    "Type": "DamageReduction",
+    "DamageType": "Silver",
+    "Amount": 10
   }
 ]

@@ -2014,5 +2014,17 @@
     "Creature": "Hatred, Ferocious Smilodon",
     "Skill": "Stealth",
     "Bonus": 23
+  },
+  {
+    "ID": 338,
+    "Creature": "Werewolf from Tegreth's Family",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 339,
+    "Creature": "Werewolf from Tegreth's Family",
+    "Skill": "Athletics",
+    "Bonus": 22
   }
 ]
