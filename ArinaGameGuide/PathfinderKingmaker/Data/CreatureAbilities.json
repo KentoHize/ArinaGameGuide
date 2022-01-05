@@ -1681,5 +1681,41 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 189,
+    "Creature": "Sorcerer Medusa",
+    "Ability": "Pertified Gaze",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": 29
+  },
+  {
+    "ID": 190,
+    "Creature": "Watchful Omen",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 191,
+    "Creature": "Watchful Omen",
+    "Ability": "Lunge",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 192,
+    "Creature": "Watchful Omen",
+    "Ability": "Fear Gaze",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

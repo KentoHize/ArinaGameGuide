@@ -2102,5 +2102,29 @@
     "Position": "Deep Floor 1 Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 264,
+    "Name": "Fossil Fields Group A",
+    "Place": "Fossil Fields",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 265,
+    "Name": "Wicked Field Group A",
+    "Place": "Wicked Field",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 266,
+    "Name": "Gaint's Palm Group A",
+    "Place": "Gaint's Palm",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

@@ -1268,5 +1268,25 @@
     "ID": 255,
     "Name": "Ancient Kellid Ceramic Potshred",
     "Memo": ""
+  },
+  {
+    "ID": 256,
+    "Name": "Fossil Fields Treasure A",
+    "Memo": ""
+  },
+  {
+    "ID": 258,
+    "Name": "Sorcerer Medusa RS",
+    "Memo": ""
+  },
+  {
+    "ID": 257,
+    "Name": "Kama +3",
+    "Memo": ""
+  },
+  {
+    "ID": 259,
+    "Name": "Watchful Omen RS",
+    "Memo": ""
   }
 ]

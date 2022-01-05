@@ -243,5 +243,19 @@
     "CName": "",
     "DC": "",
     "Description": ""
+  },
+  {
+    "ID": 36,
+    "Name": "Pertified Gaze",
+    "CName": "",
+    "DC": "29",
+    "Description": ""
+  },
+  {
+    "ID": 37,
+    "Name": "Fear Gaze",
+    "CName": "",
+    "DC": "",
+    "Description": ""
   }
 ]

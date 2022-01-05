@@ -1942,5 +1942,77 @@
     "Creature": "Armag with Ancient Armag's Sword",
     "Skill": "Athletics",
     "Bonus": 30
+  },
+  {
+    "ID": 326,
+    "Creature": "Sorcerer Medusa",
+    "Skill": "Mobility",
+    "Bonus": 32
+  },
+  {
+    "ID": 327,
+    "Creature": "Sorcerer Medusa",
+    "Skill": "Persuasion",
+    "Bonus": 34
+  },
+  {
+    "ID": 328,
+    "Creature": "Sorcerer Medusa",
+    "Skill": "Perception",
+    "Bonus": 36
+  },
+  {
+    "ID": 329,
+    "Creature": "Sorcerer Medusa",
+    "Skill": "Stealth",
+    "Bonus": 28
+  },
+  {
+    "ID": 330,
+    "Creature": "Watchful Omen",
+    "Skill": "Mobility",
+    "Bonus": 34
+  },
+  {
+    "ID": 331,
+    "Creature": "Watchful Omen",
+    "Skill": "Persuasion",
+    "Bonus": 32
+  },
+  {
+    "ID": 332,
+    "Creature": "Watchful Omen",
+    "Skill": "Perception",
+    "Bonus": 39
+  },
+  {
+    "ID": 333,
+    "Creature": "Watchful Omen",
+    "Skill": "Stealth",
+    "Bonus": 34
+  },
+  {
+    "ID": 334,
+    "Creature": "Hatred, Ferocious Smilodon",
+    "Skill": "Mobility",
+    "Bonus": 18
+  },
+  {
+    "ID": 335,
+    "Creature": "Hatred, Ferocious Smilodon",
+    "Skill": "Perception",
+    "Bonus": 33
+  },
+  {
+    "ID": 336,
+    "Creature": "Hatred, Ferocious Smilodon",
+    "Skill": "Athletics",
+    "Bonus": 28
+  },
+  {
+    "ID": 337,
+    "Creature": "Hatred, Ferocious Smilodon",
+    "Skill": "Stealth",
+    "Bonus": 23
   }
 ]

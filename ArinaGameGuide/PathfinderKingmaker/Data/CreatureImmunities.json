@@ -922,5 +922,23 @@
     "Creature": "Armag with Ancient Armag's Sword",
     "Condition": "Spell - Magic Missile",
     "CondtionGroup": null
+  },
+  {
+    "ID": 155,
+    "Creature": "Sorcerer Medusa",
+    "Condition": "Spell - Magic Missile",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 156,
+    "Creature": "Watchful Omen",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 157,
+    "Creature": "Watchful Omen",
+    "Condition": "Death",
+    "CondtionGroup": null
   }
 ]

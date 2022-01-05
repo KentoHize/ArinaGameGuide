@@ -520,5 +520,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 60,
+    "Creature": "Watchful Omen",
+    "EffectOrCondition": "True Seeing",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

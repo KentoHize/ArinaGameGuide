@@ -1174,5 +1174,33 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 85,
+    "Name": "Fossil Fields Treasure A",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Fossil Fields",
+    "Position": "Center",
+    "ItemStack": "Fossil Fields Treasure A",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 86,
+    "Name": "Fossil Fields Treasure B",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Fossil Fields",
+    "Position": "Center",
+    "ItemStack": "Kama +3",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

@@ -6368,5 +6368,35 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 638,
+    "CreatureGroup": "Fossil Fields Group A",
+    "Creature": "Sorcerer Medusa",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": "Rune-covered Ancient Leather Scrap",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 639,
+    "CreatureGroup": "Wicked Field Group A",
+    "Creature": "Watchful Omen",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 640,
+    "CreatureGroup": "Gaint's Palm Group A",
+    "Creature": "Hatred, Ferocious Smilodon",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

@@ -1643,5 +1643,54 @@
     "Type": "DamageReduction",
     "DamageType": "None",
     "Amount": 6
+  },
+  {
+    "ID": 236,
+    "Creature": "Sorcerer Medusa",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 10
+  },
+  {
+    "ID": 237,
+    "Creature": "Sorcerer Medusa",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 238,
+    "Creature": "Watchful Omen",
+    "Type": "DamageReduction",
+    "DamageType": "Good",
+    "Amount": 10
+  },
+  {
+    "ID": 239,
+    "Creature": "Watchful Omen",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 240,
+    "Creature": "Watchful Omen",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 10
+  },
+  {
+    "ID": 241,
+    "Creature": "Watchful Omen",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 242,
+    "Creature": "Watchful Omen",
+    "Type": "Immunity",
+    "DamageType": "Acid",
+    "Amount": null
   }
 ]

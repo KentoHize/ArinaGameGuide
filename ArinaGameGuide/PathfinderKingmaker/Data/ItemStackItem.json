@@ -5126,5 +5126,101 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 643,
+    "ItemStack": "Fossil Fields Treasure A",
+    "Item": "Hearty Purple Soup",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 644,
+    "ItemStack": "Fossil Fields Treasure A",
+    "Item": "Purple Worm Cut",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 645,
+    "ItemStack": "Fossil Fields Treasure A",
+    "Item": "Mastodon Meat",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 646,
+    "ItemStack": "Fossil Fields Treasure A",
+    "Item": "Fowl",
+    "RandomItem": null,
+    "Quantity": 6,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 647,
+    "ItemStack": "Fossil Fields Treasure A",
+    "Item": "Milk",
+    "RandomItem": null,
+    "Quantity": 12,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 651,
+    "ItemStack": "Sorcerer Medusa RS",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 648,
+    "ItemStack": "Sorcerer Medusa RS",
+    "Item": "Flaming Composite Longbow +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 649,
+    "ItemStack": "Sorcerer Medusa RS",
+    "Item": "Headband of Alluring Charisma +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 650,
+    "ItemStack": "Sorcerer Medusa RS",
+    "Item": "Ring of Protection +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 652,
+    "ItemStack": "Kama +3",
+    "Item": "Kama +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 653,
+    "ItemStack": "Watchful Omen RS",
+    "Item": "Adamantine Icy Burst Starknife +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 654,
+    "ItemStack": "Watchful Omen RS",
+    "Item": "Quarterstaff +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

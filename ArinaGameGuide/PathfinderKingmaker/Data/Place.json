@@ -1552,5 +1552,47 @@
     "HasPlot": true,
     "Description": "",
     "Memo": "Intimidate 50\nBluff 38\nDiplomacy 32"
+  },
+  {
+    "ID": 113,
+    "Name": "Fossil Fields",
+    "DisplayName": "Fossil Fields",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 12,
+    "SuggestedLevelMax": 14,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "Pertified Gaze 29"
+  },
+  {
+    "ID": 114,
+    "Name": "Wicked Field",
+    "DisplayName": "Wicked Field",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 10,
+    "SuggestedLevelMax": 12,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 115,
+    "Name": "Gaint's Palm",
+    "DisplayName": "Gaint's Palm",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 10,
+    "SuggestedLevelMax": 12,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]
