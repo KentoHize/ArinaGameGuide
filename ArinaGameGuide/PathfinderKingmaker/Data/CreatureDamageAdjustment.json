@@ -1895,5 +1895,33 @@
     "Type": "DamageReduction",
     "DamageType": "None",
     "Amount": 5
+  },
+  {
+    "ID": 272,
+    "Creature": "Greater Skeletal Champion Berserker",
+    "Type": "DamageReduction",
+    "DamageType": "Bludgeon",
+    "Amount": 5
+  },
+  {
+    "ID": 273,
+    "Creature": "Greater Skeletal Champion Berserker",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 3
+  },
+  {
+    "ID": 274,
+    "Creature": "Greater Skeletal Champion Berserker",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 275,
+    "Creature": "Greater Skeletal Champion Berserker",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

@@ -2267,6 +2267,38 @@
     "ID": 284,
     "Name": "Tenebrous Depth X Group D",
     "Place": "Tenebrous Depth X",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 285,
+    "Name": "Tenebrous Depth X Group E",
+    "Place": "Tenebrous Depth X",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 286,
+    "Name": "Tenebrous Depth X Group F",
+    "Place": "Tenebrous Depth X",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 287,
+    "Name": "Tenebrous Depth XI Group A",
+    "Place": "Tenebrous Depth XI",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 288,
+    "Name": "Tenebrous Depth XI Group B",
+    "Place": "Tenebrous Depth XI",
     "Position": "Center",
     "Stage": 0,
     "Memo": ""

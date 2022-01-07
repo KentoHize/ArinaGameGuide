@@ -1761,6 +1761,20 @@
     "HardSpotLevelMax": null,
     "HasPlot": false,
     "Description": "",
-    "Memo": "\n"
+    "Memo": "Lore(Nature) 19"
+  },
+  {
+    "ID": 128,
+    "Name": "Tenebrous Depth XI",
+    "DisplayName": "Tenebrous Depth XI",
+    "CName": "",
+    "Type": "Dungeon",
+    "SuggestedLevelMin": 12,
+    "SuggestedLevelMax": 14,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

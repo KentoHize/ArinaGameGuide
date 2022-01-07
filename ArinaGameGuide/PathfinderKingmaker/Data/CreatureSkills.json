@@ -2272,5 +2272,17 @@
     "Creature": "Huge Fire Elemental",
     "Skill": "Perception",
     "Bonus": 19
+  },
+  {
+    "ID": 381,
+    "Creature": "Greater Skeletal Champion Berserker",
+    "Skill": "Perception",
+    "Bonus": 11
+  },
+  {
+    "ID": 382,
+    "Creature": "Greater Skeletal Champion Berserker",
+    "Skill": "Stealth",
+    "Bonus": 2
   }
 ]

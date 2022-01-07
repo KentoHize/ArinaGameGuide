@@ -6748,5 +6748,65 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": "Enchanting Creature",
     "Team": "1"
+  },
+  {
+    "ID": 677,
+    "CreatureGroup": "Tenebrous Depth X Group E",
+    "Creature": "Elder Water Elemental",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 678,
+    "CreatureGroup": "Tenebrous Depth X Group F",
+    "Creature": "Elder Air Elemental",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 679,
+    "CreatureGroup": "Tenebrous Depth X Group F",
+    "Creature": "Greater Air Elemental",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 680,
+    "CreatureGroup": "Tenebrous Depth XI Group A",
+    "Creature": "Greater Skeletal Champion",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Acidic Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 681,
+    "CreatureGroup": "Tenebrous Depth XI Group A",
+    "Creature": "Nightmare Skeletal Champion Archer",
+    "DisplayName": null,
+    "Quantity": 8,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Acidic Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 682,
+    "CreatureGroup": "Tenebrous Depth XI Group B",
+    "Creature": "Greater Skeletal Champion Berserker",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Acidic Creature",
+    "Team": "1"
   }
 ]

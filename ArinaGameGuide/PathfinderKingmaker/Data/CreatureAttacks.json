@@ -3456,5 +3456,47 @@
     "DamageAdditiveBonus": 6,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 287,
+    "Creature": "Elder Water Elemental",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 9,
+    "AddtionalAttack": 1,
+    "AttackBonus": 25,
+    "Weapon": null,
+    "BasicDamage": "2d10",
+    "DamageAdditiveBonus": 22,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 288,
+    "Creature": "Elder Air Elemental",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 9,
+    "AddtionalAttack": 1,
+    "AttackBonus": 26,
+    "Weapon": null,
+    "BasicDamage": "2d8",
+    "DamageAdditiveBonus": 21,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 289,
+    "Creature": "Greater Skeletal Champion Berserker",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 23,
+    "Weapon": "Masterwork Greatsword",
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 22,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]
