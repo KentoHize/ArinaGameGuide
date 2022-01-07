@@ -2266,5 +2266,11 @@
     "Creature": "Water Mephit",
     "Skill": "Stealth",
     "Bonus": 30
+  },
+  {
+    "ID": 380,
+    "Creature": "Huge Fire Elemental",
+    "Skill": "Perception",
+    "Bonus": 19
   }
 ]

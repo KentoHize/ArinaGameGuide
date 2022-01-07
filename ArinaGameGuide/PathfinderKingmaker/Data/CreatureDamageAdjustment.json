@@ -1874,5 +1874,26 @@
     "Type": "Immunity",
     "DamageType": "Cold",
     "Amount": null
+  },
+  {
+    "ID": 269,
+    "Creature": "Huge Fire Elemental",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 270,
+    "Creature": "Huge Fire Elemental",
+    "Type": "Vulnerability",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 271,
+    "Creature": "Huge Fire Elemental",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 5
   }
 ]

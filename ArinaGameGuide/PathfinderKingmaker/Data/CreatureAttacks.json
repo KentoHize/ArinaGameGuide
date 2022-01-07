@@ -3442,5 +3442,19 @@
     "DamageAdditiveBonus": 3,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 286,
+    "Creature": "Huge Fire Elemental",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 9,
+    "AddtionalAttack": 1,
+    "AttackBonus": 22,
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 6,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

@@ -6724,9 +6724,29 @@
     "CreatureGroup": "Tenebrous Depth X Group C",
     "Creature": "Elder Earth Elemental",
     "DisplayName": null,
-    "Quantity": 1,
+    "Quantity": 2,
     "AdditonalItems": null,
-    "AddtionalEffectOrConditions": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 675,
+    "CreatureGroup": "Tenebrous Depth X Group D",
+    "Creature": "Huge Fire Elemental",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 676,
+    "CreatureGroup": "Tenebrous Depth X Group D",
+    "Creature": "Greater Fire Elemental",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
     "Team": "1"
   }
 ]
