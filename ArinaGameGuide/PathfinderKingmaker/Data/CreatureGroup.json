@@ -2347,7 +2347,15 @@
     "ID": 294,
     "Name": "Tenebrous Depth XII Group C",
     "Place": "Tenebrous Depth XII",
-    "Position": "Center",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 295,
+    "Name": "Tenebrous Depth XII Group D",
+    "Place": "Tenebrous Depth XII",
+    "Position": "North West",
     "Stage": 0,
     "Memo": ""
   }

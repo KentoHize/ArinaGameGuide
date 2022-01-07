@@ -2302,5 +2302,11 @@
     "Creature": "Purple Dweomerowlbear",
     "Skill": "Perception",
     "Bonus": 26
+  },
+  {
+    "ID": 386,
+    "Creature": "Greater Owlbear-like Treant",
+    "Skill": "Perception",
+    "Bonus": 32
   }
 ]

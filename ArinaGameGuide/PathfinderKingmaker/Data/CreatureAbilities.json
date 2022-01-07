@@ -1996,5 +1996,23 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 224,
+    "Creature": "Greater Owlbear-like Treant",
+    "Ability": "Regeneration",
+    "Amount": 5,
+    "DamageType1": "Cold Iron",
+    "DamageType2": "Fire",
+    "DC": null
+  },
+  {
+    "ID": 225,
+    "Creature": "Greater Owlbear-like Treant",
+    "Ability": "Stunning Blow",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

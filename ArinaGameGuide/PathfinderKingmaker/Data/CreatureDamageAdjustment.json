@@ -1972,5 +1972,12 @@
     "Type": "Resistance",
     "DamageType": "Electricity",
     "Amount": 10
+  },
+  {
+    "ID": 283,
+    "Creature": "Greater Owlbear-like Treant",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
   }
 ]

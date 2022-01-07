@@ -3582,5 +3582,33 @@
     "DamageAdditiveBonus": 22,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 296,
+    "Creature": "Greater Owlbear-like Treant",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 8,
+    "AddtionalAttack": 0,
+    "AttackBonus": 35,
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 31,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 297,
+    "Creature": "Greater Owlbear-like Treant",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 8,
+    "AddtionalAttack": 1,
+    "AttackBonus": 35,
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 31,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]
