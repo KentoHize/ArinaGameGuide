@@ -26,5 +26,19 @@
     "ItemPart5": null,
     "DuplicatedItemPart": "Ancient Scrap of Script-Covered Leather",
     "DuplicatedItemPartCount": 15
+  },
+  {
+    "ID": 3,
+    "Name": "Forsaken Tomb",
+    "CName": "",
+    "IsArtifact": false,
+    "MergedItem": null,
+    "ItemPart1": "Ancient Kellid Adornment Piece",
+    "ItemPart2": "Ancient Kellid Ceramic Potshred",
+    "ItemPart3": "Ancient Kellid Clothing Rag",
+    "ItemPart4": "Ancient Kellid Rope Fragment",
+    "ItemPart5": "Ancient Kellid Sword Shard",
+    "DuplicatedItemPart": null,
+    "DuplicatedItemPartCount": null
   }
 ]
