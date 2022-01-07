@@ -988,5 +988,23 @@
     "Creature": "Elite Duergar Defender",
     "Condition": "Poison",
     "CondtionGroup": null
+  },
+  {
+    "ID": 166,
+    "Creature": "Duergar Tyrant Archshaman",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 167,
+    "Creature": "Duergar Tyrant Archshaman",
+    "Condition": "Disease",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 168,
+    "Creature": "Duergar Tyrant Archshaman",
+    "Condition": "Nauseated",
+    "CondtionGroup": null
   }
 ]

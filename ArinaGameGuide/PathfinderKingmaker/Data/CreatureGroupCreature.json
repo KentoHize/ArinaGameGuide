@@ -6578,5 +6578,15 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 659,
+    "CreatureGroup": "Tenebrous Depth IX Group B",
+    "Creature": "Duergar Tyrant Archshaman",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

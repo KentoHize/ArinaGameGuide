@@ -3274,5 +3274,19 @@
     "DamageAdditiveBonus": 8,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 274,
+    "Creature": "Duergar Tyrant Archshaman",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 16,
+    "Weapon": "Spear",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 11,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

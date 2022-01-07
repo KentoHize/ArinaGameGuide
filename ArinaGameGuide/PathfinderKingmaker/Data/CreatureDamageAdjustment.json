@@ -1762,5 +1762,12 @@
     "Type": "DamageReduction",
     "DamageType": "Adamantite",
     "Amount": 6
+  },
+  {
+    "ID": 253,
+    "Creature": "Duergar Tyrant Archshaman",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 10
   }
 ]

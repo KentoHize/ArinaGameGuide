@@ -1993,5 +1993,26 @@
     "Strength": false,
     "Price": 0,
     "Weight": 5.0
+  },
+  {
+    "ID": 96,
+    "Name": "Spear",
+    "CName": "",
+    "Type": "Exotic Weapon",
+    "DamageType": "Pierce",
+    "ArmorClass": null,
+    "ArmorCheckPenalty": null,
+    "ArcaneSpellFailureChance": null,
+    "MaxDexterity": null,
+    "WeaponSize": "Two-handed",
+    "Range": 2,
+    "Damage": "1d8",
+    "CriticalHitRange": null,
+    "CriticalHitMultiplier": null,
+    "FinesseWeapon": false,
+    "MonkWeapon": false,
+    "Strength": false,
+    "Price": 0,
+    "Weight": 0.0
   }
 ]

@@ -2140,5 +2140,17 @@
     "Creature": "Duergar Geokineticist Master",
     "Skill": "Stealth",
     "Bonus": 15
+  },
+  {
+    "ID": 359,
+    "Creature": "Duergar Tyrant Archshaman",
+    "Skill": "Lore(Nature)",
+    "Bonus": 25
+  },
+  {
+    "ID": 360,
+    "Creature": "Duergar Tyrant Archshaman",
+    "Skill": "Stealth",
+    "Bonus": 12
   }
 ]

@@ -619,5 +619,23 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 71,
+    "Creature": "Duergar Tyrant Archshaman",
+    "EffectOrCondition": "Barskin",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 72,
+    "Creature": "Duergar Tyrant Archshaman",
+    "EffectOrCondition": "Diseased Creature",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]
