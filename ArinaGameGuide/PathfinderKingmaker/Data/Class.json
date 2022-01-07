@@ -1,5 +1,12 @@
 [
   {
+    "ID": 25,
+    "Name": "Aberration",
+    "CName": "",
+    "ChanllegeRateMultiplier": 0.5,
+    "PlayerClass": false
+  },
+  {
     "ID": 6,
     "Name": "Alchemist",
     "CName": "",
@@ -56,6 +63,13 @@
     "PlayerClass": false
   },
   {
+    "ID": 24,
+    "Name": "Druid",
+    "CName": "",
+    "ChanllegeRateMultiplier": 1.0,
+    "PlayerClass": true
+  },
+  {
     "ID": 13,
     "Name": "Fey",
     "CName": "",
@@ -79,6 +93,13 @@
   {
     "ID": 15,
     "Name": "Inquisitor",
+    "CName": "",
+    "ChanllegeRateMultiplier": 1.0,
+    "PlayerClass": true
+  },
+  {
+    "ID": 26,
+    "Name": "Kineticist",
     "CName": "",
     "ChanllegeRateMultiplier": 1.0,
     "PlayerClass": true
@@ -156,27 +177,6 @@
   {
     "ID": 9,
     "Name": "Wizard",
-    "CName": "",
-    "ChanllegeRateMultiplier": 1.0,
-    "PlayerClass": true
-  },
-  {
-    "ID": 24,
-    "Name": "Druid",
-    "CName": "",
-    "ChanllegeRateMultiplier": 1.0,
-    "PlayerClass": true
-  },
-  {
-    "ID": 25,
-    "Name": "Aberration",
-    "CName": "",
-    "ChanllegeRateMultiplier": 0.5,
-    "PlayerClass": false
-  },
-  {
-    "ID": 26,
-    "Name": "Kineticist",
     "CName": "",
     "ChanllegeRateMultiplier": 1.0,
     "PlayerClass": true
