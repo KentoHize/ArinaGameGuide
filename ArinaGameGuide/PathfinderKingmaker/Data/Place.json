@@ -1663,6 +1663,48 @@
     "HardSpotLevelMax": null,
     "HasPlot": false,
     "Description": "",
-    "Memo": "謎"
+    "Memo": "謎 2"
+  },
+  {
+    "ID": 121,
+    "Name": "Serpent Trail",
+    "DisplayName": "Serpent Trail",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 122,
+    "Name": "Serpent Trail Other World",
+    "DisplayName": "Serpent Trail Other World",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 123,
+    "Name": "Gnawed Rocks",
+    "DisplayName": "Gnawed Rocks",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 10,
+    "SuggestedLevelMax": 12,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

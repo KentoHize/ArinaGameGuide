@@ -2158,5 +2158,37 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 271,
+    "Name": "Serpent Trail Other World Group A",
+    "Place": "Serpent Trail Other World",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 272,
+    "Name": "Gnawed Rocks Group A",
+    "Place": "Gnawed Rocks",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 273,
+    "Name": "Gnawed Rocks Group B",
+    "Place": "Gnawed Rocks",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 274,
+    "Name": "Gnawed Rocks Group C",
+    "Place": "Gnawed Rocks",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

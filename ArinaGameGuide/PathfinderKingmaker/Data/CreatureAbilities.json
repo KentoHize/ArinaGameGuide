@@ -1771,5 +1771,41 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 199,
+    "Creature": "Gargoyle from Hoarfrost Tribe",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 200,
+    "Creature": "Hoarfrost, Gargoyle Eldritch Chieftain",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 201,
+    "Creature": "Hoarfrost, Gargoyle Eldritch Chieftain",
+    "Ability": "Piranha Strike",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 202,
+    "Creature": "Hoarfrost, Gargoyle Eldritch Chieftain",
+    "Ability": "Crane Style",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

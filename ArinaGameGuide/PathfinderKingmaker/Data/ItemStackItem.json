@@ -5350,5 +5350,45 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 671,
+    "ItemStack": "Serpent Trail Other World Tresure A",
+    "Item": "Bloodstone",
+    "RandomItem": null,
+    "Quantity": 7,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 672,
+    "ItemStack": "Serpent Trail Other World Tresure A",
+    "Item": "Jasper",
+    "RandomItem": null,
+    "Quantity": 7,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 673,
+    "ItemStack": "Serpent Trail Other World Tresure A",
+    "Item": "First World Mince Pie",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 674,
+    "ItemStack": "Serpent Trail Other World Tresure B",
+    "Item": "Alkali Gloves",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 675,
+    "ItemStack": "Serpent Trail Other World Tresure B",
+    "Item": "Dragonslayer",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

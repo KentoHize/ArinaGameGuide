@@ -2056,5 +2056,41 @@
     "Creature": "Quickwood 14",
     "Skill": "Stealth",
     "Bonus": 48
+  },
+  {
+    "ID": 345,
+    "Creature": "Gargoyle from Hoarfrost Tribe",
+    "Skill": "Mobility",
+    "Bonus": 26
+  },
+  {
+    "ID": 346,
+    "Creature": "Gargoyle from Hoarfrost Tribe",
+    "Skill": "Perception",
+    "Bonus": 35
+  },
+  {
+    "ID": 347,
+    "Creature": "Gargoyle from Hoarfrost Tribe",
+    "Skill": "Stealth",
+    "Bonus": 26
+  },
+  {
+    "ID": 348,
+    "Creature": "Hoarfrost, Gargoyle Eldritch Chieftain",
+    "Skill": "Mobility",
+    "Bonus": 22
+  },
+  {
+    "ID": 349,
+    "Creature": "Hoarfrost, Gargoyle Eldritch Chieftain",
+    "Skill": "Perception",
+    "Bonus": 32
+  },
+  {
+    "ID": 350,
+    "Creature": "Hoarfrost, Gargoyle Eldritch Chieftain",
+    "Skill": "Stealth",
+    "Bonus": 30
   }
 ]

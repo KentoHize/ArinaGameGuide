@@ -1258,5 +1258,33 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 91,
+    "Name": "Serpent Trail Other World Tresure A",
+    "CName": "",
+    "Type": "Corpse",
+    "Place": "Serpent Trail Other World",
+    "Position": "Center",
+    "ItemStack": "Serpent Trail Other World Tresure A",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 92,
+    "Name": "Serpent Trail Other World Tresure B",
+    "CName": "",
+    "Type": "Corpse",
+    "Place": "Serpent Trail Other World",
+    "Position": "Center",
+    "ItemStack": "Serpent Trail Other World Tresure B",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

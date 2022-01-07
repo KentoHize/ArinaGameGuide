@@ -547,5 +547,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 63,
+    "Creature": "Poisonous Primal Doomhydra",
+    "EffectOrCondition": "Blur",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

@@ -1734,5 +1734,12 @@
     "Type": "Immunity",
     "DamageType": "Electricity",
     "Amount": null
+  },
+  {
+    "ID": 249,
+    "Creature": "Gargoyle from Hoarfrost Tribe",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
   }
 ]
