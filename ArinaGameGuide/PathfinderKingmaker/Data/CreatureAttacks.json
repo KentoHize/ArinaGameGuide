@@ -3512,5 +3512,19 @@
     "DamageAdditiveBonus": 4,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 291,
+    "Creature": "Poisonous Primal Hydra",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 5,
+    "AddtionalAttack": 4,
+    "AttackBonus": 23,
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 8,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

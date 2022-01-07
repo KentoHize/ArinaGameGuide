@@ -2284,5 +2284,11 @@
     "Creature": "Greater Skeletal Champion Berserker",
     "Skill": "Stealth",
     "Bonus": 2
+  },
+  {
+    "ID": 383,
+    "Creature": "Poisonous Primal Hydra",
+    "Skill": "Perception",
+    "Bonus": 22
   }
 ]

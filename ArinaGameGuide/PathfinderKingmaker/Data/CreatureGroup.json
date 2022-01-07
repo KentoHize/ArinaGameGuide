@@ -2318,5 +2318,29 @@
     "Position": "North",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 291,
+    "Name": "Tenebrous Depth XI Group E",
+    "Place": "Tenebrous Depth XI",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 292,
+    "Name": "Tenebrous Depth XII Group A",
+    "Place": "Tenebrous Depth XII",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 293,
+    "Name": "Tenebrous Depth XII Group B",
+    "Place": "Tenebrous Depth XII",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

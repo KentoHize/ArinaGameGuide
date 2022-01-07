@@ -1630,5 +1630,29 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 143,
+    "Name": "Tenebrous Depth XI Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Tenebrous Depth XI",
+    "DisarmDC": 20,
+    "Position": "North East",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 144,
+    "Name": "Tenebrous Depth XI Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Tenebrous Depth XI",
+    "DisarmDC": 27,
+    "Position": "South",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

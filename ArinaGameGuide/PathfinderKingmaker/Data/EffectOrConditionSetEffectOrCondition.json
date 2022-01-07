@@ -443,5 +443,10 @@
     "ID": 89,
     "EffectOrConditionSet": "Enchanting Creature",
     "EffectOrConditon": "Enchanting Creature"
+  },
+  {
+    "ID": 90,
+    "EffectOrConditionSet": "Battering Creature",
+    "EffectOrConditon": "Battering Creature"
   }
 ]

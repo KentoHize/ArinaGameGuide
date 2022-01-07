@@ -1969,5 +1969,14 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 221,
+    "Creature": "Poisonous Primal Hydra",
+    "Ability": "Fast Healing",
+    "Amount": 12,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

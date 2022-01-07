@@ -1775,6 +1775,20 @@
     "HardSpotLevelMax": null,
     "HasPlot": false,
     "Description": "",
+    "Memo": "Lore(Religion) 29"
+  },
+  {
+    "ID": 129,
+    "Name": "Tenebrous Depth XII",
+    "DisplayName": "Tenebrous Depth XII",
+    "CName": "",
+    "Type": "Dungeon",
+    "SuggestedLevelMin": 13,
+    "SuggestedLevelMax": 15,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
     "Memo": ""
   }
 ]

@@ -1054,5 +1054,11 @@
     "Creature": "Ghostly Mage Guard 16",
     "Condition": null,
     "CondtionGroup": "Incorporeal Immunities"
+  },
+  {
+    "ID": 177,
+    "Creature": "Poisonous Primal Hydra",
+    "Condition": "Prone",
+    "CondtionGroup": null
   }
 ]
