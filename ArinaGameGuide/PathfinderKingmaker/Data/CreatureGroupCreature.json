@@ -6808,5 +6808,45 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": "Acidic Creature",
     "Team": "1"
+  },
+  {
+    "ID": 683,
+    "CreatureGroup": "Tenebrous Depth XI Group C",
+    "Creature": "Greater Skeletal Champion",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Acidic Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 684,
+    "CreatureGroup": "Tenebrous Depth XI Group C",
+    "Creature": "Ferocious Skeletal Champion Archer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Acidic Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 685,
+    "CreatureGroup": "Tenebrous Depth XI Group D",
+    "Creature": "Ghostly Mage Guard 16",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Acidic Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 686,
+    "CreatureGroup": "Tenebrous Depth XI Group D",
+    "Creature": "Ghostly Guard",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Acidic Creature",
+    "Team": "1"
   }
 ]

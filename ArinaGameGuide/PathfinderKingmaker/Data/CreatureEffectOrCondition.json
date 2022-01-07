@@ -673,5 +673,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 77,
+    "Creature": "Ghostly Mage Guard 16",
+    "EffectOrCondition": "Shield",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

@@ -1048,5 +1048,11 @@
     "Creature": "Greater Skeletal Champion Berserker",
     "Condition": null,
     "CondtionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 176,
+    "Creature": "Ghostly Mage Guard 16",
+    "Condition": null,
+    "CondtionGroup": "Incorporeal Immunities"
   }
 ]

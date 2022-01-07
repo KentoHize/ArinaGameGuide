@@ -2302,5 +2302,21 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 289,
+    "Name": "Tenebrous Depth XI Group C",
+    "Place": "Tenebrous Depth XI",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 290,
+    "Name": "Tenebrous Depth XI Group D",
+    "Place": "Tenebrous Depth XI",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

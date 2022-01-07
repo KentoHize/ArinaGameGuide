@@ -1923,5 +1923,26 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 276,
+    "Creature": "Ghostly Mage Guard 16",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
+  },
+  {
+    "ID": 277,
+    "Creature": "Ghostly Mage Guard 16",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 278,
+    "Creature": "Ghostly Mage Guard 16",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

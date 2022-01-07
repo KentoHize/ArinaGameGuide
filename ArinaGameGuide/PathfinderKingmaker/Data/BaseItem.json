@@ -2035,5 +2035,26 @@
     "Strength": false,
     "Price": 0,
     "Weight": 5.0
+  },
+  {
+    "ID": 98,
+    "Name": "Rapier",
+    "CName": "",
+    "Type": "Martial Weapon",
+    "DamageType": "Pierce",
+    "ArmorClass": null,
+    "ArmorCheckPenalty": null,
+    "ArcaneSpellFailureChance": null,
+    "MaxDexterity": null,
+    "WeaponSize": "One-handed",
+    "Range": null,
+    "Damage": null,
+    "CriticalHitRange": null,
+    "CriticalHitMultiplier": null,
+    "FinesseWeapon": true,
+    "MonkWeapon": false,
+    "Strength": false,
+    "Price": 0,
+    "Weight": 0.0
   }
 ]

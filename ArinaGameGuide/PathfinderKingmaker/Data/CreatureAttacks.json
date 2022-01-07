@@ -3498,5 +3498,19 @@
     "DamageAdditiveBonus": 22,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 290,
+    "Creature": "Ghostly Mage Guard 16",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 15,
+    "Weapon": "Agile Rapier +1",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 4,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

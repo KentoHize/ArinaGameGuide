@@ -5558,5 +5558,45 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 697,
+    "ItemStack": "MGS + FP",
+    "Item": "Masterwork Greatsword",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 698,
+    "ItemStack": "MGS + FP",
+    "Item": "Full Plate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 699,
+    "ItemStack": "Tenebrous Depth XI Treasure A",
+    "Item": "Shiny Helmet",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 700,
+    "ItemStack": "Tenebrous Depth XI Treasure A",
+    "Item": "Scroll of Blindness",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 701,
+    "ItemStack": "Tenebrous Depth XI Treasure A",
+    "Item": "Scroll of Remove Sickness",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

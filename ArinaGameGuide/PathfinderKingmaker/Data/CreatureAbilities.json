@@ -1951,5 +1951,23 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 219,
+    "Creature": "Ghostly Guard",
+    "Ability": "Disorienting Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 220,
+    "Creature": "Ghostly Guard",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]
