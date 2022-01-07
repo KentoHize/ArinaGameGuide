@@ -1,0 +1,30 @@
+[
+  {
+    "ID": 1,
+    "Name": "Tiger's Stripes",
+    "CName": "",
+    "IsArtifact": true,
+    "MergedItem": "Tiger's Stripes",
+    "ItemPart1": null,
+    "ItemPart2": null,
+    "ItemPart3": null,
+    "ItemPart4": null,
+    "ItemPart5": null,
+    "DuplicatedItemPart": "Rune-covered Ancient Leather Scrap",
+    "DuplicatedItemPartCount": 16
+  },
+  {
+    "ID": 2,
+    "Name": "Cloak of Sold Souls",
+    "CName": "",
+    "IsArtifact": true,
+    "MergedItem": "Cloak of Sold Souls",
+    "ItemPart1": null,
+    "ItemPart2": null,
+    "ItemPart3": null,
+    "ItemPart4": null,
+    "ItemPart5": null,
+    "DuplicatedItemPart": "Ancient Scrap of Script-Covered Leather",
+    "DuplicatedItemPartCount": 15
+  }
+]

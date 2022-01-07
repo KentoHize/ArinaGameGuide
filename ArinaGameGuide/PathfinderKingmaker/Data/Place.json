@@ -1706,5 +1706,19 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 124,
+    "Name": "Desecrated Cairn",
+    "DisplayName": "Desecrated Cairn",
+    "CName": "",
+    "Type": "Dungeon",
+    "SuggestedLevelMin": 10,
+    "SuggestedLevelMax": 12,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

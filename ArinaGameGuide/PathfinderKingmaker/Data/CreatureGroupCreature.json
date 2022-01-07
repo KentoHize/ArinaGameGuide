@@ -6518,5 +6518,15 @@
     "AdditonalItems": "Piece of Skymetal",
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 653,
+    "CreatureGroup": "Desecrated Cairn Group A",
+    "Creature": "Hill Giant 12",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": "Money and Valuables",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

@@ -2190,5 +2190,13 @@
     "Position": "North",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 275,
+    "Name": "Desecrated Cairn Group A",
+    "Place": "Desecrated Cairn",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

@@ -416,5 +416,24 @@
     "OtherConsequence": null,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 23,
+    "Event": "A Noble in Trouble",
+    "Advisor": "General",
+    "Companion": "Regongar",
+    "Result": "Triumph",
+    "Stat1": "Loyalty",
+    "Stat1Adjustment": -1,
+    "Stat2": "Military",
+    "Stat2Adjustment": 8,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
   }
 ]

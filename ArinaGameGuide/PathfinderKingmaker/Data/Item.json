@@ -208,7 +208,7 @@
     "Name": "Ancient Scrap of Script-Covered Leather",
     "DisplayName": "Ancient Scrap of Script-Covered Leather",
     "DisplayCName": "",
-    "Type": "Collectable Item",
+    "Type": null,
     "BaseItem": "Collectable Item",
     "SpecialMaterial": null,
     "CasterLevel": null,
@@ -218,7 +218,7 @@
     "ChangePrice": 0,
     "StoryItem": false,
     "Weight": 0.25,
-    "Description": ""
+    "Description": "15"
   },
   {
     "ID": 208,
@@ -5318,7 +5318,7 @@
     "ChangePrice": 0,
     "StoryItem": false,
     "Weight": 0.25,
-    "Description": ""
+    "Description": "need 17"
   },
   {
     "ID": 314,
@@ -6186,5 +6186,39 @@
     "StoryItem": false,
     "Weight": 9.0,
     "Description": "+5 dragonbane"
+  },
+  {
+    "ID": 365,
+    "Name": "Tiger's Stripes",
+    "DisplayName": "Tiger's Stripes",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Hide Armor",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 31250,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 25.0,
+    "Description": "+5\nTranshape to Smilodon at will\n+5 enhancement bonus while in this form"
+  },
+  {
+    "ID": 366,
+    "Name": "Cloak of Sold Souls",
+    "DisplayName": "Cloak of Sold Souls",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Cloak",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 11250,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 3.0,
+    "Description": "-4 to Consititution\n+2 CL when casting Necromancy or Summoning subtype Spell\n+2 DC to Necromancy Spell\nVampiric Touch 3/day\nUnequip need Remove Curse(DC 25), Fail will kill wearer"
   }
 ]
