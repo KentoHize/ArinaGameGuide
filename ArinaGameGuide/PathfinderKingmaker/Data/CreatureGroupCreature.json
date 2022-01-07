@@ -6608,5 +6608,15 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 662,
+    "CreatureGroup": "Tenebrous Depth IX Group D",
+    "Creature": "Duergar Geokineticist",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

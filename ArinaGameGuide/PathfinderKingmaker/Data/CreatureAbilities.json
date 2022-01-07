@@ -1852,5 +1852,14 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 208,
+    "Creature": "Duergar Geokineticist",
+    "Ability": "Shroud of Water",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

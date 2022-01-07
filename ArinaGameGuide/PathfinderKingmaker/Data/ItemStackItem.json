@@ -5526,5 +5526,13 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 693,
+    "ItemStack": "Blue Dragonscale Helmet",
+    "Item": "Blue Dragonscale Helmet",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

@@ -1006,5 +1006,11 @@
     "Creature": "Duergar Tyrant Archshaman",
     "Condition": "Nauseated",
     "CondtionGroup": null
+  },
+  {
+    "ID": 169,
+    "Creature": "Duergar Geokineticist",
+    "Condition": "Poison",
+    "CondtionGroup": null
   }
 ]

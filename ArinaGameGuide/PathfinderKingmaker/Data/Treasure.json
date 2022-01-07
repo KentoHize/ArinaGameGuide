@@ -1300,5 +1300,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 94,
+    "Name": "Tenebrous Depth IX Treasure B",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Tenebrous Depth IX",
+    "Position": "South West",
+    "ItemStack": "Blue Dragonscale Helmet",
+    "PerceptionDC": null,
+    "TrapDC": 18,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

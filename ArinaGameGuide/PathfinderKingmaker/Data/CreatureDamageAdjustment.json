@@ -1769,5 +1769,12 @@
     "Type": "DamageReduction",
     "DamageType": "Adamantite",
     "Amount": 10
+  },
+  {
+    "ID": 254,
+    "Creature": "Duergar Geokineticist",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 5
   }
 ]
