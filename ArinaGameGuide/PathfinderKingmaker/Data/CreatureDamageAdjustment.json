@@ -1986,5 +1986,19 @@
     "Type": "DamageReduction",
     "DamageType": "Cold Iron",
     "Amount": 10
+  },
+  {
+    "ID": 285,
+    "Creature": "Primal Manticore",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 286,
+    "Creature": "Primal Manticore",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
   }
 ]

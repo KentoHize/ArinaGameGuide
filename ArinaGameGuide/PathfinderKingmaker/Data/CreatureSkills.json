@@ -2362,5 +2362,29 @@
     "Creature": "Poisonous Shambling Mound",
     "Skill": "Stealth",
     "Bonus": 14
+  },
+  {
+    "ID": 396,
+    "Creature": "Primal Manticore",
+    "Skill": "Lore(Nature)",
+    "Bonus": 14
+  },
+  {
+    "ID": 397,
+    "Creature": "Primal Manticore",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 398,
+    "Creature": "Ferocious Leopard",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 399,
+    "Creature": "Ferocious Leopard",
+    "Skill": "Stealth",
+    "Bonus": 17
   }
 ]

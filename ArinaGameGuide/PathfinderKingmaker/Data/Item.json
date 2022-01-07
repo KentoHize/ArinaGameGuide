@@ -6526,5 +6526,22 @@
     "StoryItem": false,
     "Weight": 0.2,
     "Description": ""
+  },
+  {
+    "ID": 385,
+    "Name": "Composite Shortbow +4",
+    "DisplayName": "Composite Shortbow +4",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Shortbow",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

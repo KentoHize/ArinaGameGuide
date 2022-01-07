@@ -1018,5 +1018,17 @@
     "Creature": "Poisonous Shambling Mound",
     "Condition": null,
     "CondtionGroup": "Plant Immunities"
+  },
+  {
+    "ID": 179,
+    "Creature": "The Wicked Chanter",
+    "Condition": "Fear",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 180,
+    "Creature": "The Wicked Chanter",
+    "Condition": "Sleep",
+    "CondtionGroup": null
   }
 ]
