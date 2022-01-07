@@ -6888,5 +6888,25 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": "Battering Creature",
     "Team": "1"
+  },
+  {
+    "ID": 691,
+    "CreatureGroup": "Tenebrous Depth XII Group C",
+    "Creature": "Black Dweomerowlbear",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Battering Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 692,
+    "CreatureGroup": "Tenebrous Depth XII Group C",
+    "Creature": "Purple Dweomerowlbear",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Battering Creature",
+    "Team": "1"
   }
 ]

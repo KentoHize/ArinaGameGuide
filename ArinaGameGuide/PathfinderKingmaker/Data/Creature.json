@@ -2569,8 +2569,8 @@
     "Reflex": 16,
     "Will": 9,
     "BaseAttackBonus": 14,
-    "CombatManeuverBonus": 0,
-    "CombatManeuverDefense": 0,
+    "CombatManeuverBonus": 33,
+    "CombatManeuverDefense": 46,
     "SpellResistance": 22,
     "SkinItem": "Owlbear Pelt",
     "SkinDC": 26,
@@ -9664,8 +9664,8 @@
     "Reflex": 16,
     "Will": 9,
     "BaseAttackBonus": 14,
-    "CombatManeuverBonus": 0,
-    "CombatManeuverDefense": 0,
+    "CombatManeuverBonus": 33,
+    "CombatManeuverDefense": 46,
     "SpellResistance": 22,
     "SkinItem": "Owlbear Pelt",
     "SkinDC": 26,
@@ -13670,7 +13670,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "1d4 Hydra Eyes",
     "Memo": ""
   }
 ]

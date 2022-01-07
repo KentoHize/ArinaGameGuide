@@ -3526,5 +3526,61 @@
     "DamageAdditiveBonus": 8,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 292,
+    "Creature": "Black Dweomerowlbear",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 28,
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 22,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 293,
+    "Creature": "Black Dweomerowlbear",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 2,
+    "AddtionalAttack": 1,
+    "AttackBonus": 28,
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 22,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 294,
+    "Creature": "Purple Dweomerowlbear",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 28,
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 22,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 295,
+    "Creature": "Purple Dweomerowlbear",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 2,
+    "AddtionalAttack": 1,
+    "AttackBonus": 28,
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 22,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

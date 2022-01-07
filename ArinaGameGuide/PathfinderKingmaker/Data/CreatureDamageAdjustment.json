@@ -1958,5 +1958,19 @@
     "Type": "DamageReduction",
     "DamageType": "Magic",
     "Amount": 10
+  },
+  {
+    "ID": 281,
+    "Creature": "Purple Dweomerowlbear",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 282,
+    "Creature": "Purple Dweomerowlbear",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
   }
 ]

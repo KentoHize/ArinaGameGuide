@@ -2290,5 +2290,17 @@
     "Creature": "Poisonous Primal Hydra",
     "Skill": "Perception",
     "Bonus": 22
+  },
+  {
+    "ID": 384,
+    "Creature": "Black Dweomerowlbear",
+    "Skill": "Perception",
+    "Bonus": 26
+  },
+  {
+    "ID": 385,
+    "Creature": "Purple Dweomerowlbear",
+    "Skill": "Perception",
+    "Bonus": 26
   }
 ]
