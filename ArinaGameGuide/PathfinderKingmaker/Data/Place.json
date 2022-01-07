@@ -1741,12 +1741,12 @@
     "DisplayName": "Tenebrous Depth IX",
     "CName": "",
     "Type": "Dungeon",
-    "SuggestedLevelMin": 13,
-    "SuggestedLevelMax": 15,
+    "SuggestedLevelMin": 12,
+    "SuggestedLevelMax": 14,
     "HardSpotLevelMin": null,
     "HardSpotLevelMax": null,
     "HasPlot": false,
     "Description": "",
-    "Memo": ""
+    "Memo": "Knowledge(Arcana) 30"
   }
 ]

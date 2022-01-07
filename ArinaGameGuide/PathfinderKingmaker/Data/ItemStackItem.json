@@ -5470,5 +5470,61 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 686,
+    "ItemStack": "Tenebrous Depth IX Treasure A",
+    "Item": "Frost Fauchard +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 687,
+    "ItemStack": "Tenebrous Depth IX Treasure A",
+    "Item": "Scroll of Resist Electricity",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 688,
+    "ItemStack": "Tenebrous Depth IX Treasure A",
+    "Item": "Garnet Ring",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 689,
+    "ItemStack": "Tenebrous Depth IX Treasure A",
+    "Item": "Herb Liqueur",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 690,
+    "ItemStack": "Tenebrous Depth IX Treasure A",
+    "Item": "Pearl",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 691,
+    "ItemStack": "Tenebrous Depth IX Treasure A",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 692,
+    "ItemStack": "Tenebrous Depth IX Treasure A",
+    "Item": "Timeworn Thassilonian Rune from the Tenebrous Depths",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

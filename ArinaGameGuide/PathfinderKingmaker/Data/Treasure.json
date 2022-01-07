@@ -1286,5 +1286,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 93,
+    "Name": "Tenebrous Depth IX Treasure A",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Tenebrous Depth IX",
+    "Position": "Center",
+    "ItemStack": "Tenebrous Depth IX Treasure A",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

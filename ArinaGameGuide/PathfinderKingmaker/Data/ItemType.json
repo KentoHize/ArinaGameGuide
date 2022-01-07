@@ -299,5 +299,12 @@
     "CName": "",
     "MainType": "Weapon",
     "SubType": "Simple Weapon"
+  },
+  {
+    "ID": 45,
+    "Name": "Ale",
+    "CName": "",
+    "MainType": "Other",
+    "SubType": "Ale"
   }
 ]
