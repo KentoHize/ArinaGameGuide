@@ -2007,12 +2007,12 @@
     "WeaponSize": "Two-handed",
     "Range": 2,
     "Damage": "1d8",
-    "CriticalHitRange": null,
-    "CriticalHitMultiplier": null,
+    "CriticalHitRange": 1,
+    "CriticalHitMultiplier": 3,
     "FinesseWeapon": false,
     "MonkWeapon": false,
     "Strength": false,
-    "Price": 0,
-    "Weight": 0.0
+    "Price": 1,
+    "Weight": 6.0
   }
 ]

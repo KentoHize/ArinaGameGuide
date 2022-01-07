@@ -1348,5 +1348,20 @@
     "ID": 271,
     "Name": "MWH + TS + HP",
     "Memo": ""
+  },
+  {
+    "ID": 272,
+    "Name": "SP + HA",
+    "Memo": ""
+  },
+  {
+    "ID": 273,
+    "Name": "Full Plate +2",
+    "Memo": ""
+  },
+  {
+    "ID": 274,
+    "Name": "MWH + TS + HP1",
+    "Memo": ""
   }
 ]

@@ -13068,7 +13068,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "MWH + TS + HP1",
     "Memo": ""
   },
   {
@@ -13111,7 +13111,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "Full Plate +2",
     "Memo": ""
   },
   {
@@ -13154,7 +13154,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "SP + HA",
     "Memo": ""
   }
 ]

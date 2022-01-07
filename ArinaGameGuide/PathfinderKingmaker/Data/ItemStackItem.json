@@ -5422,5 +5422,53 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 680,
+    "ItemStack": "SP + HA",
+    "Item": "Spear",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 681,
+    "ItemStack": "SP + HA",
+    "Item": "Hide Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 682,
+    "ItemStack": "Full Plate +2",
+    "Item": "Full Plate +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 683,
+    "ItemStack": "MWH + TS + HP1",
+    "Item": "Masterwork Warhammer",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 684,
+    "ItemStack": "MWH + TS + HP1",
+    "Item": "Tower Shield",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 685,
+    "ItemStack": "MWH + TS + HP1",
+    "Item": "Half-Plate +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]
