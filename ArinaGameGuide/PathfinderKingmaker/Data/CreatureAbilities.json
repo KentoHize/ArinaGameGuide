@@ -1888,5 +1888,41 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 212,
+    "Creature": "Earth Mephit",
+    "Ability": "Fast Healing",
+    "Amount": 2,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 213,
+    "Creature": "Air Mephit",
+    "Ability": "Fast Healing",
+    "Amount": 2,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 214,
+    "Creature": "Fire Mephit",
+    "Ability": "Fast Healing",
+    "Amount": 2,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 215,
+    "Creature": "Water Mephit",
+    "Ability": "Fast Healing",
+    "Amount": 2,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

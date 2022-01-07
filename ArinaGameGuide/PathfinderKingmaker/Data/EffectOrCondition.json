@@ -556,5 +556,14 @@
     "IsGroup": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 64,
+    "Name": "Stinking Cloud",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

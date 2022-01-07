@@ -1790,5 +1790,89 @@
     "Type": "DamageReduction",
     "DamageType": "Adamantite",
     "Amount": 10
+  },
+  {
+    "ID": 257,
+    "Creature": "Earth Mephit",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 5
+  },
+  {
+    "ID": 258,
+    "Creature": "Earth Mephit",
+    "Type": "Immunity",
+    "DamageType": "Acid",
+    "Amount": null
+  },
+  {
+    "ID": 259,
+    "Creature": "Air Mephit",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 5
+  },
+  {
+    "ID": 260,
+    "Creature": "Air Mephit",
+    "Type": "Immunity",
+    "DamageType": "Electricity",
+    "Amount": null
+  },
+  {
+    "ID": 261,
+    "Creature": "Elder Fire Elemental",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 10
+  },
+  {
+    "ID": 262,
+    "Creature": "Elder Fire Elemental",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 263,
+    "Creature": "Elder Fire Elemental",
+    "Type": "Vulnerability",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 264,
+    "Creature": "Fire Mephit",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 5
+  },
+  {
+    "ID": 265,
+    "Creature": "Fire Mephit",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 266,
+    "Creature": "Fire Mephit",
+    "Type": "Vulnerability",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 267,
+    "Creature": "Water Mephit",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 5
+  },
+  {
+    "ID": 268,
+    "Creature": "Fire Mephit",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": null
   }
 ]

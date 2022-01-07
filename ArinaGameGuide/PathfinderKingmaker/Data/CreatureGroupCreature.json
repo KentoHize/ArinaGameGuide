@@ -6648,5 +6648,85 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": "Enchanting Creature",
     "Team": "1"
+  },
+  {
+    "ID": 667,
+    "CreatureGroup": "Tenebrous Depth X Group B",
+    "Creature": "Elder Air Elemental",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 670,
+    "CreatureGroup": "Tenebrous Depth X Group B",
+    "Creature": "Elder Fire Elemental",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 671,
+    "CreatureGroup": "Tenebrous Depth X Group B",
+    "Creature": "Elder Water Elemental",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 666,
+    "CreatureGroup": "Tenebrous Depth X Group B",
+    "Creature": "Earth Mephit",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 668,
+    "CreatureGroup": "Tenebrous Depth X Group B",
+    "Creature": "Air Mephit",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 672,
+    "CreatureGroup": "Tenebrous Depth X Group B",
+    "Creature": "Water Mephit",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 673,
+    "CreatureGroup": "Tenebrous Depth X Group B",
+    "Creature": "Fire Mephit",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 674,
+    "CreatureGroup": "Tenebrous Depth X Group C",
+    "Creature": "Elder Earth Elemental",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

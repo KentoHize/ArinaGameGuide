@@ -1024,5 +1024,17 @@
     "Creature": "Duergar Shaman",
     "Condition": "Poison",
     "CondtionGroup": null
+  },
+  {
+    "ID": 172,
+    "Creature": "Elder Fire Elemental",
+    "Condition": null,
+    "CondtionGroup": "Elemental Immunities"
+  },
+  {
+    "ID": 173,
+    "Creature": "Water Mephit",
+    "Condition": "Stinking Cloud",
+    "CondtionGroup": null
   }
 ]

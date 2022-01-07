@@ -2182,5 +2182,89 @@
     "Creature": "Duergar Shaman",
     "Skill": "Stealth",
     "Bonus": 8
+  },
+  {
+    "ID": 366,
+    "Creature": "Earth Mephit",
+    "Skill": "Mobility",
+    "Bonus": 22
+  },
+  {
+    "ID": 367,
+    "Creature": "Earth Mephit",
+    "Skill": "Persuasion",
+    "Bonus": 17
+  },
+  {
+    "ID": 368,
+    "Creature": "Earth Mephit",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 369,
+    "Creature": "Earth Mephit",
+    "Skill": "Stealth",
+    "Bonus": 30
+  },
+  {
+    "ID": 370,
+    "Creature": "Air Mephit",
+    "Skill": "Stealth",
+    "Bonus": 14
+  },
+  {
+    "ID": 371,
+    "Creature": "Elder Fire Elemental",
+    "Skill": "Perception",
+    "Bonus": 25
+  },
+  {
+    "ID": 372,
+    "Creature": "Fire Mephit",
+    "Skill": "Mobility",
+    "Bonus": 22
+  },
+  {
+    "ID": 373,
+    "Creature": "Fire Mephit",
+    "Skill": "Persuasion",
+    "Bonus": 17
+  },
+  {
+    "ID": 374,
+    "Creature": "Fire Mephit",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 375,
+    "Creature": "Fire Mephit",
+    "Skill": "Stealth",
+    "Bonus": 30
+  },
+  {
+    "ID": 376,
+    "Creature": "Water Mephit",
+    "Skill": "Mobility",
+    "Bonus": 22
+  },
+  {
+    "ID": 377,
+    "Creature": "Water Mephit",
+    "Skill": "Persuasion",
+    "Bonus": 17
+  },
+  {
+    "ID": 378,
+    "Creature": "Water Mephit",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 379,
+    "Creature": "Water Mephit",
+    "Skill": "Stealth",
+    "Bonus": 30
   }
 ]
