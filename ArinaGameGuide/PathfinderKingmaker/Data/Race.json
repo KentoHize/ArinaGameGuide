@@ -138,5 +138,12 @@
     "MainRace": "Aberration",
     "SubRace": "",
     "KnowledgeSkill": "Knowledge(Arcana)"
+  },
+  {
+    "ID": 21,
+    "Name": "Dwarf",
+    "MainRace": "Humanoid",
+    "SubRace": "Dwarf",
+    "KnowledgeSkill": "Knowledge(Arcana)"
   }
 ]

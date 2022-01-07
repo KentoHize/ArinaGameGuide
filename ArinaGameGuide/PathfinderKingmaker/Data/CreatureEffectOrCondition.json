@@ -556,5 +556,68 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 64,
+    "Creature": "Duergar Defender",
+    "EffectOrCondition": "Diseased Creature",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 65,
+    "Creature": "Iron Fury Duergar",
+    "EffectOrCondition": "Diseased Creature",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 66,
+    "Creature": "Duergar Geokineticist Initiate",
+    "EffectOrCondition": "Barskin",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 67,
+    "Creature": "Duergar Geokineticist Initiate",
+    "EffectOrCondition": "Diseased Creature",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 68,
+    "Creature": "Elite Duergar Defender",
+    "EffectOrCondition": "Diseased Creature",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 69,
+    "Creature": "Duergar Geokineticist Master",
+    "EffectOrCondition": "Barskin",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 70,
+    "Creature": "Duergar Geokineticist Master",
+    "EffectOrCondition": "Diseased Creature",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

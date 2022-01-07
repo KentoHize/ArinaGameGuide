@@ -88,5 +88,11 @@
     "Name": "Hoof",
     "CName": "",
     "DamageType": "Bludgeon"
+  },
+  {
+    "ID": 16,
+    "Name": "Mud Blast - Kinetic Blade",
+    "CName": "",
+    "DamageType": "Slash"
   }
 ]

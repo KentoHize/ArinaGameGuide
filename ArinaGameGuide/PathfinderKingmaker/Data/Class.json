@@ -173,5 +173,12 @@
     "CName": "",
     "ChanllegeRateMultiplier": 0.5,
     "PlayerClass": false
+  },
+  {
+    "ID": 26,
+    "Name": "Kineticist",
+    "CName": "",
+    "ChanllegeRateMultiplier": 1.0,
+    "PlayerClass": true
   }
 ]

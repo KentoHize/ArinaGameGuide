@@ -1720,5 +1720,33 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 125,
+    "Name": "Goblin Clearing",
+    "DisplayName": "Goblin Clearing",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 126,
+    "Name": "Tenebrous Depth IX",
+    "DisplayName": "Tenebrous Depth IX",
+    "CName": "",
+    "Type": "Dungeon",
+    "SuggestedLevelMin": 13,
+    "SuggestedLevelMax": 15,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

@@ -6528,5 +6528,55 @@
     "AdditonalItems": "Money and Valuables",
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 654,
+    "CreatureGroup": "Tenebrous Depth IX Group A",
+    "Creature": "Duergar Defender",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 655,
+    "CreatureGroup": "Tenebrous Depth IX Group A",
+    "Creature": "Iron Fury Duergar",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 656,
+    "CreatureGroup": "Tenebrous Depth IX Group A",
+    "Creature": "Duergar Geokineticist Initiate",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 657,
+    "CreatureGroup": "Tenebrous Depth IX Group B",
+    "Creature": "Elite Duergar Defender",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 658,
+    "CreatureGroup": "Tenebrous Depth IX Group B",
+    "Creature": "Duergar Geokineticist Master",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

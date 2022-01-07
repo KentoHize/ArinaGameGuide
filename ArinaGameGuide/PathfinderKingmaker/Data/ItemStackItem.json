@@ -5390,5 +5390,37 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 676,
+    "ItemStack": "Full Plate",
+    "Item": "Full Plate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 677,
+    "ItemStack": "MWH + TS + HP",
+    "Item": "Masterwork Warhammer",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 678,
+    "ItemStack": "MWH + TS + HP",
+    "Item": "Tower Shield",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 679,
+    "ItemStack": "MWH + TS + HP",
+    "Item": "Half-Plate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

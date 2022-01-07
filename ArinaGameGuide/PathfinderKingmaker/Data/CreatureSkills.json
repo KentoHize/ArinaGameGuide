@@ -2092,5 +2092,53 @@
     "Creature": "Hoarfrost, Gargoyle Eldritch Chieftain",
     "Skill": "Stealth",
     "Bonus": 30
+  },
+  {
+    "ID": 351,
+    "Creature": "Duergar Defender",
+    "Skill": "Athletics",
+    "Bonus": 10
+  },
+  {
+    "ID": 352,
+    "Creature": "Iron Fury Duergar",
+    "Skill": "Stealth",
+    "Bonus": 5
+  },
+  {
+    "ID": 353,
+    "Creature": "Duergar Geokineticist Initiate",
+    "Skill": "Mobility",
+    "Bonus": 10
+  },
+  {
+    "ID": 354,
+    "Creature": "Duergar Geokineticist Initiate",
+    "Skill": "Stealth",
+    "Bonus": 10
+  },
+  {
+    "ID": 355,
+    "Creature": "Elite Duergar Defender",
+    "Skill": "Athletics",
+    "Bonus": 15
+  },
+  {
+    "ID": 356,
+    "Creature": "Elite Duergar Defender",
+    "Skill": "Stealth",
+    "Bonus": 3
+  },
+  {
+    "ID": 357,
+    "Creature": "Duergar Geokineticist Master",
+    "Skill": "Athletics",
+    "Bonus": 15
+  },
+  {
+    "ID": 358,
+    "Creature": "Duergar Geokineticist Master",
+    "Skill": "Stealth",
+    "Bonus": 15
   }
 ]

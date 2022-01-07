@@ -2198,5 +2198,21 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 276,
+    "Name": "Tenebrous Depth IX Group A",
+    "Place": "Tenebrous Depth IX",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 277,
+    "Name": "Tenebrous Depth IX Group B",
+    "Place": "Tenebrous Depth IX",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

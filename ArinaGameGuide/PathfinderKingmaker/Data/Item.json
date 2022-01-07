@@ -6271,5 +6271,22 @@
     "StoryItem": false,
     "Weight": 1.0,
     "Description": ""
+  },
+  {
+    "ID": 370,
+    "Name": "Masterwork Warhammer",
+    "DisplayName": "Masterwork Warhammer",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Warhammer",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 100,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 5.0,
+    "Description": ""
   }
 ]

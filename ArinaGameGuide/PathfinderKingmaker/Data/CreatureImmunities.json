@@ -964,5 +964,29 @@
     "Creature": "Quickwood 14",
     "Condition": null,
     "CondtionGroup": "Plant Immunities"
+  },
+  {
+    "ID": 162,
+    "Creature": "Duergar Defender",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 163,
+    "Creature": "Iron Fury Duergar",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 164,
+    "Creature": "Duergar Geokineticist Initiate",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 165,
+    "Creature": "Elite Duergar Defender",
+    "Condition": "Poison",
+    "CondtionGroup": null
   }
 ]
