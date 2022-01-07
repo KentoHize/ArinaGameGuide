@@ -2308,5 +2308,59 @@
     "Creature": "Greater Owlbear-like Treant",
     "Skill": "Perception",
     "Bonus": 32
+  },
+  {
+    "ID": 387,
+    "Creature": "Great Nightmare",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 388,
+    "Creature": "Smilodon-like Treant",
+    "Skill": "Mobility",
+    "Bonus": 12
+  },
+  {
+    "ID": 389,
+    "Creature": "Smilodon-like Treant",
+    "Skill": "Perception",
+    "Bonus": 26
+  },
+  {
+    "ID": 390,
+    "Creature": "Smilodon-like Treant",
+    "Skill": "Athletics",
+    "Bonus": 30
+  },
+  {
+    "ID": 391,
+    "Creature": "Smilodon-like Treant",
+    "Skill": "Stealth",
+    "Bonus": 13
+  },
+  {
+    "ID": 392,
+    "Creature": "Ferocious Hodag",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 393,
+    "Creature": "Ferocious Hodag",
+    "Skill": "Athletics",
+    "Bonus": 19
+  },
+  {
+    "ID": 394,
+    "Creature": "Poisonous Shambling Mound",
+    "Skill": "Perception",
+    "Bonus": 22
+  },
+  {
+    "ID": 395,
+    "Creature": "Poisonous Shambling Mound",
+    "Skill": "Stealth",
+    "Bonus": 14
   }
 ]

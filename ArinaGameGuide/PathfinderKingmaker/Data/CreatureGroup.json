@@ -2358,5 +2358,13 @@
     "Position": "North West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 296,
+    "Name": "Tenebrous Depth XII The Wicked Chanter",
+    "Place": "Tenebrous Depth XII",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

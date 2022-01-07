@@ -3610,5 +3610,61 @@
     "DamageAdditiveBonus": 31,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 298,
+    "Creature": "Great Nightmare",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 17,
+    "Weapon": null,
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 8,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 299,
+    "Creature": "Great Nightmare",
+    "Form": "Hoof",
+    "Type": "Other",
+    "Range": 2,
+    "AddtionalAttack": 1,
+    "AttackBonus": 12,
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 4,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 300,
+    "Creature": "Smilodon-like Treant",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 5,
+    "AddtionalAttack": 0,
+    "AttackBonus": 32,
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 15,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 301,
+    "Creature": "Smilodon-like Treant",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 5,
+    "AddtionalAttack": 3,
+    "AttackBonus": 32,
+    "Weapon": null,
+    "BasicDamage": "2d4",
+    "DamageAdditiveBonus": 15,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

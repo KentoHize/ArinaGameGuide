@@ -522,54 +522,6 @@
     "CondtionGroup": null
   },
   {
-    "ID": 33,
-    "Creature": "Poisonous Shambling Mound",
-    "Condition": "Mind-Affecting",
-    "CondtionGroup": null
-  },
-  {
-    "ID": 34,
-    "Creature": "Poisonous Shambling Mound",
-    "Condition": "Compulsion",
-    "CondtionGroup": null
-  },
-  {
-    "ID": 35,
-    "Creature": "Poisonous Shambling Mound",
-    "Condition": "Poison",
-    "CondtionGroup": null
-  },
-  {
-    "ID": 36,
-    "Creature": "Poisonous Shambling Mound",
-    "Condition": "Charmed",
-    "CondtionGroup": null
-  },
-  {
-    "ID": 37,
-    "Creature": "Poisonous Shambling Mound",
-    "Condition": "Stunned",
-    "CondtionGroup": null
-  },
-  {
-    "ID": 38,
-    "Creature": "Poisonous Shambling Mound",
-    "Condition": "Polymorph",
-    "CondtionGroup": null
-  },
-  {
-    "ID": 39,
-    "Creature": "Poisonous Shambling Mound",
-    "Condition": "Paralyzed",
-    "CondtionGroup": null
-  },
-  {
-    "ID": 40,
-    "Creature": "Poisonous Shambling Mound",
-    "Condition": "Sleep",
-    "CondtionGroup": null
-  },
-  {
     "ID": 4,
     "Creature": "Primal Giant Spider",
     "Condition": "Web",
@@ -1060,5 +1012,11 @@
     "Creature": "Poisonous Primal Hydra",
     "Condition": "Prone",
     "CondtionGroup": null
+  },
+  {
+    "ID": 178,
+    "Creature": "Poisonous Shambling Mound",
+    "Condition": null,
+    "CondtionGroup": "Plant Immunities"
   }
 ]

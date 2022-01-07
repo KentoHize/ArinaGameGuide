@@ -1979,5 +1979,12 @@
     "Type": "DamageReduction",
     "DamageType": "Cold Iron",
     "Amount": 10
+  },
+  {
+    "ID": 284,
+    "Creature": "Smilodon-like Treant",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
   }
 ]
