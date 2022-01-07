@@ -5598,5 +5598,61 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 702,
+    "ItemStack": "The Wicked Chanter RS",
+    "Item": "Composite Shortbow +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 703,
+    "ItemStack": "The Wicked Chanter RS",
+    "Item": "Studded Leather +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 704,
+    "ItemStack": "The Wicked Chanter RS",
+    "Item": "Belt of Physical Form +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 705,
+    "ItemStack": "The Wicked Chanter RS",
+    "Item": "Headband of Alluring Charisma +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 706,
+    "ItemStack": "The Wicked Chanter RS",
+    "Item": "Amulet of Natural Armor +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 707,
+    "ItemStack": "The Wicked Chanter RS",
+    "Item": "Cloak of Resistance +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 708,
+    "ItemStack": "The Wicked Chanter RS",
+    "Item": "Rivel's Lullaby",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

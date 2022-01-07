@@ -2386,5 +2386,11 @@
     "Creature": "Ferocious Leopard",
     "Skill": "Stealth",
     "Bonus": 17
+  },
+  {
+    "ID": 400,
+    "Creature": "Greater Primal Owlbear",
+    "Skill": "Perception",
+    "Bonus": 34
   }
 ]

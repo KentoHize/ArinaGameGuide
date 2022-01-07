@@ -3736,5 +3736,33 @@
     "DamageAdditiveBonus": 7,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 307,
+    "Creature": "Greater Primal Owlbear",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 5,
+    "AddtionalAttack": 0,
+    "AttackBonus": 35,
+    "Weapon": null,
+    "BasicDamage": "3d6",
+    "DamageAdditiveBonus": 28,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 308,
+    "Creature": "Greater Primal Owlbear",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 5,
+    "AddtionalAttack": 1,
+    "AttackBonus": 35,
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 28,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

@@ -182,9 +182,9 @@
   {
     "ID": 81,
     "CreatureGroup": "Capital Square Bloom Greater Primal Owlbear",
-    "Creature": "Greater Primal Owlbear",
+    "Creature": "Greater Primal Owlbear Strong",
     "DisplayName": null,
-    "Quantity": 0,
+    "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
@@ -7023,6 +7023,16 @@
     "ID": 704,
     "CreatureGroup": "Tenebrous Depth XII The Wicked Chanter",
     "Creature": "Ferocious Hodag",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Battering Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 705,
+    "CreatureGroup": "Tenebrous Depth XII Group E",
+    "Creature": "Greater Primal Owlbear",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,

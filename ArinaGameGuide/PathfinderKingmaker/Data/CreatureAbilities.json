@@ -2077,5 +2077,23 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 233,
+    "Creature": "Greater Primal Owlbear",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 234,
+    "Creature": "Greater Primal Owlbear",
+    "Ability": "Quarry",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]
