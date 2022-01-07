@@ -2164,5 +2164,23 @@
     "Creature": "Duergar Geokineticist",
     "Skill": "Stealth",
     "Bonus": 13
+  },
+  {
+    "ID": 363,
+    "Creature": "Steel Fury Duergar",
+    "Skill": "Stealth",
+    "Bonus": 8
+  },
+  {
+    "ID": 364,
+    "Creature": "Duergar Shaman",
+    "Skill": "Lore(Nature)",
+    "Bonus": 21
+  },
+  {
+    "ID": 365,
+    "Creature": "Duergar Shaman",
+    "Skill": "Stealth",
+    "Bonus": 8
   }
 ]

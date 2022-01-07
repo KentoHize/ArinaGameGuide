@@ -3302,5 +3302,33 @@
     "DamageAdditiveBonus": 8,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 276,
+    "Creature": "Steel Fury Duergar",
+    "Form": "Unarmed Strike",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 18,
+    "Weapon": null,
+    "BasicDamage": "1d3",
+    "DamageAdditiveBonus": 13,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 277,
+    "Creature": "Duergar Shaman",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 13,
+    "Weapon": "Spear",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 9,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

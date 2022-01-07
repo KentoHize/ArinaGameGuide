@@ -6618,5 +6618,25 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 663,
+    "CreatureGroup": "Tenebrous Depth IX Group E",
+    "Creature": "Duergar Shaman",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 664,
+    "CreatureGroup": "Tenebrous Depth IX Group E",
+    "Creature": "Steel Fury Duergar",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

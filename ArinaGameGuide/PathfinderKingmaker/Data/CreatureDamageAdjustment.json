@@ -1776,5 +1776,19 @@
     "Type": "DamageReduction",
     "DamageType": "Adamantite",
     "Amount": 5
+  },
+  {
+    "ID": 255,
+    "Creature": "Steel Fury Duergar",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 4
+  },
+  {
+    "ID": 256,
+    "Creature": "Duergar Shaman",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 10
   }
 ]

@@ -1012,5 +1012,17 @@
     "Creature": "Duergar Geokineticist",
     "Condition": "Poison",
     "CondtionGroup": null
+  },
+  {
+    "ID": 170,
+    "Creature": "Steel Fury Duergar",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 171,
+    "Creature": "Duergar Shaman",
+    "Condition": "Poison",
+    "CondtionGroup": null
   }
 ]
