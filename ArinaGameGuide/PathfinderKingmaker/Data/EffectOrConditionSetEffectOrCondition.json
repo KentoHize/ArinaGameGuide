@@ -438,5 +438,10 @@
     "ID": 88,
     "EffectOrConditionSet": "Summon",
     "EffectOrConditon": "Summon"
+  },
+  {
+    "ID": 89,
+    "EffectOrConditionSet": "Enchanting Creature",
+    "EffectOrConditon": "Enchanting Creature"
   }
 ]

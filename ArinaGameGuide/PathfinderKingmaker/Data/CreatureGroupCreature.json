@@ -6638,5 +6638,15 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 665,
+    "CreatureGroup": "Tenebrous Depth X Group A",
+    "Creature": "Astradaemon",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
   }
 ]

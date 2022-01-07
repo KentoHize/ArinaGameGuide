@@ -83,5 +83,10 @@
     "ID": 17,
     "Name": "Summon",
     "CName": ""
+  },
+  {
+    "ID": 18,
+    "Name": "Enchanting Creature",
+    "CName": ""
   }
 ]

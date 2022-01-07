@@ -547,5 +547,14 @@
     "IsGroup": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 63,
+    "Name": "Enchanting Creature",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

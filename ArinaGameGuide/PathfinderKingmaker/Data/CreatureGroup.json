@@ -2238,5 +2238,13 @@
     "Position": "North",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 281,
+    "Name": "Tenebrous Depth X Group A",
+    "Place": "Tenebrous Depth X",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

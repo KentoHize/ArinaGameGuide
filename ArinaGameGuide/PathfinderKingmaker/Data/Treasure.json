@@ -1314,5 +1314,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 95,
+    "Name": "Tenebrous Depth X Treasure A",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Tenebrous Depth X",
+    "Position": "East",
+    "ItemStack": "Tenebrous Depth X Treasure A",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

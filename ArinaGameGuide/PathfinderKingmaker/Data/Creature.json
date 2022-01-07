@@ -762,16 +762,16 @@
     "Fortitude": 14,
     "Reflex": 19,
     "Will": 16,
-    "BaseAttackBonus": 0,
-    "CombatManeuverBonus": 0,
-    "CombatManeuverDefense": 0,
+    "BaseAttackBonus": 17,
+    "CombatManeuverBonus": 29,
+    "CombatManeuverDefense": 49,
     "SpellResistance": 27,
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
     "RemainItems": null,
-    "Memo": ""
+    "Memo": "Finger of Death\nVampiric Touch\n\nEnergy Drain"
   },
   {
     "ID": 158,
@@ -13240,7 +13240,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "Full Plate",
     "Memo": ""
   },
   {
@@ -13283,7 +13283,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "SP + HA",
     "Memo": ""
   }
 ]

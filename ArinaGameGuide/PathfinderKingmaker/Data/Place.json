@@ -1447,8 +1447,8 @@
     "DisplayName": "Tenebrous Depth IX",
     "CName": "",
     "Type": "Dungeon",
-    "SuggestedLevelMin": 12,
-    "SuggestedLevelMax": 14,
+    "SuggestedLevelMin": 11,
+    "SuggestedLevelMax": 13,
     "HardSpotLevelMin": null,
     "HardSpotLevelMax": null,
     "HasPlot": false,
@@ -1748,5 +1748,19 @@
     "HasPlot": false,
     "Description": "",
     "Memo": "Kesten Root:\nGoblin Group\n\nHeadband of Inspired Wisdom +4\n\nWand of Lighting Bolt"
+  },
+  {
+    "ID": 127,
+    "Name": "Tenebrous Depth X",
+    "DisplayName": "Tenebrous Depth X",
+    "CName": "",
+    "Type": "Dungeon",
+    "SuggestedLevelMin": 12,
+    "SuggestedLevelMax": 14,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "\n"
   }
 ]

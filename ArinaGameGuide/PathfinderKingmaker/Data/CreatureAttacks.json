@@ -3330,5 +3330,47 @@
     "DamageAdditiveBonus": 9,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 278,
+    "Creature": "Astradaemon",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 0,
+    "AttackBonus": 24,
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 17,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 279,
+    "Creature": "Astradaemon",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 1,
+    "AttackBonus": 25,
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 17,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 280,
+    "Creature": "Astradaemon",
+    "Form": "Tail",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 0,
+    "AttackBonus": 19,
+    "Weapon": null,
+    "BasicDamage": "1d12",
+    "DamageAdditiveBonus": 8,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

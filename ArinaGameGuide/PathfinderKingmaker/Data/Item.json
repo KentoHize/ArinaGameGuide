@@ -6424,5 +6424,39 @@
     "StoryItem": false,
     "Weight": 11.0,
     "Description": ""
+  },
+  {
+    "ID": 379,
+    "Name": "Clear Vision",
+    "DisplayName": "Clear Vision",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Helmet",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 9000,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 2.0,
+    "Description": "+5 save to Illusion Spell\n+2 insight AC"
+  },
+  {
+    "ID": 380,
+    "Name": "Bestiary of the Tenebrous Depths: Wicked Chanter",
+    "DisplayName": "Bestiary of the Tenebrous Depths: Wicked Chanter",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Paper/Book",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

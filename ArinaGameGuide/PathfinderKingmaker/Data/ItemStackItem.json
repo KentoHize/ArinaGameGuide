@@ -5542,5 +5542,21 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 695,
+    "ItemStack": "Tenebrous Depth X Treasure A",
+    "Item": "Clear Vision",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 696,
+    "ItemStack": "Tenebrous Depth X Treasure A",
+    "Item": "Bestiary of the Tenebrous Depths: Wicked Chanter",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]
