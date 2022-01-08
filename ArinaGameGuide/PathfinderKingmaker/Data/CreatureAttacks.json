@@ -3820,5 +3820,19 @@
     "DamageAdditiveBonus": 8,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 313,
+    "Creature": "Hellknight of the Rack 10 Cleric Boss",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 6,
+    "AddtionalAttack": 0,
+    "AttackBonus": 24,
+    "Weapon": "Deterrence",
+    "BasicDamage": "1d10",
+    "DamageAdditiveBonus": 10,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

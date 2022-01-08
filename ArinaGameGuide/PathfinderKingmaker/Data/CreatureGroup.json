@@ -2382,5 +2382,13 @@
     "Position": "Center",
     "Stage": 1,
     "Memo": ""
+  },
+  {
+    "ID": 299,
+    "Name": "Secluded Lodge Hellknights",
+    "Place": "Secluded Lodge",
+    "Position": "Deep Floor 1 Center",
+    "Stage": 1,
+    "Memo": ""
   }
 ]

@@ -7088,5 +7088,45 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 711,
+    "CreatureGroup": "Secluded Lodge Hellknights",
+    "Creature": "Hellknight of the Rack 10 Fighter",
+    "DisplayName": null,
+    "Quantity": 11,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 712,
+    "CreatureGroup": "Secluded Lodge Hellknights",
+    "Creature": "Hellknight of the Rack 10 Cleric",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 713,
+    "CreatureGroup": "Secluded Lodge Hellknights",
+    "Creature": "Hellknight of the Rack 10 Human Wizard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 714,
+    "CreatureGroup": "Secluded Lodge Hellknights",
+    "Creature": "Hellknight of the Rack 10 Cleric Boss",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

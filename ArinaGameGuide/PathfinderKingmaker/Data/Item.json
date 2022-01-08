@@ -6764,5 +6764,22 @@
     "StoryItem": false,
     "Weight": 0.2,
     "Description": ""
+  },
+  {
+    "ID": 399,
+    "Name": "Deterrence",
+    "DisplayName": "Deterrence",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Glaive",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

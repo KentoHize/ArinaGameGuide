@@ -709,5 +709,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 81,
+    "Creature": "Hellknight of the Rack 10 Cleric Boss",
+    "EffectOrCondition": "Displacement",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

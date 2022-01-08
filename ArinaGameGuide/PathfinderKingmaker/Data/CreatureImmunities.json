@@ -1042,5 +1042,17 @@
     "Creature": "Hellknight of the Rack 10 Cleric",
     "Condition": "Sleep",
     "CondtionGroup": null
+  },
+  {
+    "ID": 183,
+    "Creature": "Hellknight of the Rack 10 Cleric Boss",
+    "Condition": "Fear",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 184,
+    "Creature": "Hellknight of the Rack 10 Cleric Boss",
+    "Condition": "Sleep",
+    "CondtionGroup": null
   }
 ]
