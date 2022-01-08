@@ -6878,10 +6878,10 @@
     "CasterLevel": null,
     "Charges": null,
     "DC": null,
-    "SellPrice": 0,
+    "SellPrice": 2075,
     "ChangePrice": 0,
     "StoryItem": false,
-    "Weight": 0.0,
+    "Weight": 1.0,
     "Description": ""
   },
   {
@@ -6895,10 +6895,10 @@
     "CasterLevel": null,
     "Charges": null,
     "DC": null,
-    "SellPrice": 0,
+    "SellPrice": 2075,
     "ChangePrice": 0,
     "StoryItem": false,
-    "Weight": 0.0,
+    "Weight": 1.0,
     "Description": ""
   }
 ]

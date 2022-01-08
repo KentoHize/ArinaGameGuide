@@ -7278,5 +7278,25 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 730,
+    "CreatureGroup": "Enneo Group",
+    "Creature": "Bandit 9 Rouge",
+    "DisplayName": "Enneo's Guard",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 731,
+    "CreatureGroup": "Enneo Group",
+    "Creature": "Taneka",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
   }
 ]
