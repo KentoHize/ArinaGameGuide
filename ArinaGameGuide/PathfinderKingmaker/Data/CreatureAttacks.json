@@ -3834,5 +3834,33 @@
     "DamageAdditiveBonus": 10,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 314,
+    "Creature": "Hegend, Paladin of Shelyn",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 19,
+    "Weapon": "Longsword +2",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 16,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 315,
+    "Creature": "Paladin of Shelyn 6 Fighter",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 15,
+    "Weapon": "Masterwork Longsword",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 13,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

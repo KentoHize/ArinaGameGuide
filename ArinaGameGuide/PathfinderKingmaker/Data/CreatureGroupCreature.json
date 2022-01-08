@@ -7128,5 +7128,55 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 715,
+    "CreatureGroup": "Temple of Shelyn Hegend Group",
+    "Creature": "Hegend, Paladin of Shelyn",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 716,
+    "CreatureGroup": "Temple of Shelyn Hegend Group",
+    "Creature": "Paladin of Shelyn 6 Fighter",
+    "DisplayName": null,
+    "Quantity": 6,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 717,
+    "CreatureGroup": "Temple of Shelyn Hegend Group",
+    "Creature": "Fredero Sinnet",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 718,
+    "CreatureGroup": "Temple of Shelyn Hegend Group",
+    "Creature": "Laryen, the High Priest of Shelyn",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 719,
+    "CreatureGroup": "Temple of Shelyn Hegend Group",
+    "Creature": "Priest of Shelyn",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
   }
 ]

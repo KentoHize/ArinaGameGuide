@@ -2404,5 +2404,11 @@
     "Creature": "Hellknight of the Rack 10 Fighter",
     "Skill": "Perception",
     "Bonus": 17
+  },
+  {
+    "ID": 403,
+    "Creature": "Hegend, Paladin of Shelyn",
+    "Skill": "Athletics",
+    "Bonus": 16
   }
 ]

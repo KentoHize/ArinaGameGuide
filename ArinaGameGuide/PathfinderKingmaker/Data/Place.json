@@ -1804,5 +1804,19 @@
     "HasPlot": true,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 131,
+    "Name": "Temple of Shelyn",
+    "DisplayName": "Temple of Shelyn",
+    "CName": "",
+    "Type": "CanNotRest",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": "Diplomancy 30\nDiplomancy 30\n\n謎事件"
   }
 ]

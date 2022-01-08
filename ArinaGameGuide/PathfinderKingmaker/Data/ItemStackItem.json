@@ -5878,5 +5878,53 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 737,
+    "ItemStack": "Hegend, Paladin of Shelyn RS",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 738,
+    "ItemStack": "Hegend, Paladin of Shelyn RS",
+    "Item": "Longsword +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 739,
+    "ItemStack": "Hegend, Paladin of Shelyn RS",
+    "Item": "Light Shield +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 740,
+    "ItemStack": "Hegend, Paladin of Shelyn RS",
+    "Item": "Mithral Full Plate +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 741,
+    "ItemStack": "Hegend, Paladin of Shelyn RS",
+    "Item": "Belt of Giant Strength +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 742,
+    "ItemStack": "Hegend, Paladin of Shelyn RS",
+    "Item": "Amulet of Natural Armor +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

@@ -86,5 +86,38 @@
     "AsCreature": "Zorek",
     "Description": "Armag's Cleric",
     "Memo": ""
+  },
+  {
+    "ID": 9,
+    "Name": "Hegend",
+    "CName": "",
+    "Gender": "Male",
+    "Place": "Temple of Shelyn",
+    "Position": "Center",
+    "AsCreature": "Hegend, Paladin of Shelyn",
+    "Description": "Shelyn's Paladin",
+    "Memo": ""
+  },
+  {
+    "ID": 10,
+    "Name": "Fredero, Sinnet",
+    "CName": "",
+    "Gender": "Male",
+    "Place": "Temple of Shelyn",
+    "Position": "Center",
+    "AsCreature": "Fredero Sinnet",
+    "Description": "Shelyn's Paladin",
+    "Memo": ""
+  },
+  {
+    "ID": 11,
+    "Name": "Laryen",
+    "CName": "",
+    "Gender": "Male",
+    "Place": "Temple of Shelyn",
+    "Position": "Center",
+    "AsCreature": "Laryen, the High Priest of Shelyn",
+    "Description": "The High Priest of Shelyn",
+    "Memo": ""
   }
 ]
