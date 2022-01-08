@@ -1054,5 +1054,11 @@
     "Creature": "Hellknight of the Rack 10 Cleric Boss",
     "Condition": "Sleep",
     "CondtionGroup": null
+  },
+  {
+    "ID": 185,
+    "Creature": "Large of Fire Elemental",
+    "Condition": null,
+    "CondtionGroup": "Elemental Immunities"
   }
 ]

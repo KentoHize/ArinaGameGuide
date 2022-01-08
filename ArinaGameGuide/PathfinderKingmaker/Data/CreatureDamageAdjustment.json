@@ -2007,5 +2007,26 @@
     "Type": "DamageReduction",
     "DamageType": "Adamantite",
     "Amount": 10
+  },
+  {
+    "ID": 288,
+    "Creature": "Large of Fire Elemental",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 5
+  },
+  {
+    "ID": 289,
+    "Creature": "Large of Fire Elemental",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 290,
+    "Creature": "Large of Fire Elemental",
+    "Type": "Vulnerability",
+    "DamageType": "Cold",
+    "Amount": null
   }
 ]

@@ -2410,5 +2410,11 @@
     "Creature": "Hegend, Paladin of Shelyn",
     "Skill": "Athletics",
     "Bonus": 16
+  },
+  {
+    "ID": 404,
+    "Creature": "Large of Fire Elemental",
+    "Skill": "Perception",
+    "Bonus": 17
   }
 ]
