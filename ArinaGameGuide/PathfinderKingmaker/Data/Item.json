@@ -6776,10 +6776,10 @@
     "CasterLevel": null,
     "Charges": null,
     "DC": null,
-    "SellPrice": 0,
+    "SellPrice": 9000,
     "ChangePrice": 0,
     "StoryItem": false,
-    "Weight": 0.0,
-    "Description": ""
+    "Weight": 10.0,
+    "Description": "+3 Unholy\n+5 competence bonus to Intimidate"
   }
 ]

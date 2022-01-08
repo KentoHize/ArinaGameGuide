@@ -5818,7 +5818,7 @@
   {
     "ID": 729,
     "ItemStack": "Hellknight of the Rack 10 Cleric RS",
-    "Item": "Full Plate +1",
+    "Item": "Full Plate",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
@@ -5826,6 +5826,54 @@
   {
     "ID": 730,
     "ItemStack": "Hellknight of the Rack 10 Cleric RS",
+    "Item": "Headband of Inspired Wisdom +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 731,
+    "ItemStack": "Hellknight of the Rack 10 Cleric Boss RS",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 732,
+    "ItemStack": "Hellknight of the Rack 10 Cleric Boss RS",
+    "Item": "Potion of Restoration, Lesser",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 733,
+    "ItemStack": "Hellknight of the Rack 10 Cleric Boss RS",
+    "Item": "Scroll of Protection from Chaos",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 735,
+    "ItemStack": "Hellknight of the Rack 10 Cleric Boss RS",
+    "Item": "Deterrence",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 734,
+    "ItemStack": "Hellknight of the Rack 10 Cleric Boss RS",
+    "Item": "Full Plate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 736,
+    "ItemStack": "Hellknight of the Rack 10 Cleric Boss RS",
     "Item": "Headband of Inspired Wisdom +2",
     "RandomItem": null,
     "Quantity": 1,

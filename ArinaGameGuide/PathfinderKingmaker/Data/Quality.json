@@ -46,5 +46,11 @@
     "Name": "Ardent",
     "CName": "",
     "Description": "+5 competence on Athletics"
+  },
+  {
+    "ID": 9,
+    "Name": "Deterrence",
+    "CName": "",
+    "Description": "+5 competence to Intimidate"
   }
 ]
