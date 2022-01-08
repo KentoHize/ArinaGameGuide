@@ -4185,7 +4185,7 @@
         {
           "Name": "StartDate",
           "IsKey": false,
-          "IsNullable": false,
+          "IsNullable": true,
           "Type": "Date",
           "Choices": [],
           "FKTable": null,

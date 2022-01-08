@@ -549,5 +549,24 @@
     "OtherConsequence": null,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 30,
+    "Event": "Justice of the Crowd",
+    "Advisor": "Regent",
+    "Companion": "Valerie",
+    "Result": "Triumph",
+    "Stat1": "Community",
+    "Stat1Adjustment": 3,
+    "Stat2": "Arcane",
+    "Stat2Adjustment": 1,
+    "Stat3": "Stability",
+    "Stat3Adjustment": 1,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
   }
 ]

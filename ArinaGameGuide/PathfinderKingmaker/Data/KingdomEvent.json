@@ -627,5 +627,22 @@
     "Repeat": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 38,
+    "Name": "Justice of the Crowd",
+    "CName": "",
+    "Type": "Problem",
+    "RequiredDays": 0,
+    "DC": 0,
+    "AdaptedAdvisor1": "Regent",
+    "AdaptedAdvisor2": null,
+    "AdaptedAdvisor3": null,
+    "HaveAdvantage": null,
+    "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
+    "Repeat": false,
+    "Description": "",
+    "Memo": ""
   }
 ]
