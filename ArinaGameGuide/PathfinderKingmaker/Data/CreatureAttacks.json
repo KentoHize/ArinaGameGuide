@@ -295,7 +295,7 @@
   },
   {
     "ID": 49,
-    "Creature": "Bandit 8 Bow Fighter",
+    "Creature": "Bandit 8 Archer",
     "Form": "Piercing Weapon",
     "Type": "Primary",
     "Range": 50,
@@ -3903,6 +3903,34 @@
     "BasicDamage": "1d8",
     "DamageAdditiveBonus": 7,
     "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 319,
+    "Creature": "Enneo",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 17,
+    "Weapon": "Shock Dagger +1",
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 8,
+    "OtherDamageBonus": "Electricity 1d6",
+    "SneakDamage": null
+  },
+  {
+    "ID": 320,
+    "Creature": "Enneo",
+    "Form": "Piercing Weapon",
+    "Type": "Secondary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 17,
+    "Weapon": "Flaming Dagger +1",
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 4,
+    "OtherDamageBonus": "Fire 1d6",
     "SneakDamage": null
   }
 ]

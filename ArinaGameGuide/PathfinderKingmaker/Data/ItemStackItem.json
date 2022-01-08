@@ -5926,5 +5926,21 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 743,
+    "ItemStack": "Leafless Lady RS",
+    "Item": "Speed Composite Longbow +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 744,
+    "ItemStack": "Leafless Lady RS",
+    "Item": "Headband of Mental Perfection +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

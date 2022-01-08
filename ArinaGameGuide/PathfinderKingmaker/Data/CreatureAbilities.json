@@ -199,7 +199,7 @@
   },
   {
     "ID": 11,
-    "Creature": "Bandit 8 Bow Fighter",
+    "Creature": "Bandit 8 Archer",
     "Ability": "Rapid Shot",
     "Amount": null,
     "DamageType1": null,
@@ -208,7 +208,7 @@
   },
   {
     "ID": 12,
-    "Creature": "Bandit 8 Bow Fighter",
+    "Creature": "Bandit 8 Archer",
     "Ability": "Deadly Aim",
     "Amount": null,
     "DamageType1": null,
@@ -2163,6 +2163,42 @@
     "ID": 242,
     "Creature": "Bogeyman 17",
     "Ability": "Fast Healing",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 243,
+    "Creature": "Bogeyman 17",
+    "Ability": "Deepest Fear",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": 25
+  },
+  {
+    "ID": 244,
+    "Creature": "Enneo",
+    "Ability": "Bane Weapon",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 245,
+    "Creature": "Enneo",
+    "Ability": "Two-Weapon Fighting",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 246,
+    "Creature": "Enneo",
+    "Ability": "Improved Two-Weapon Fighting",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,

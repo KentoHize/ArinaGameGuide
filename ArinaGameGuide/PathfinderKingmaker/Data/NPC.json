@@ -119,5 +119,16 @@
     "AsCreature": "Laryen, the High Priest of Shelyn",
     "Description": "The High Priest of Shelyn",
     "Memo": ""
+  },
+  {
+    "ID": 12,
+    "Name": "Taneka",
+    "CName": "",
+    "Gender": "Female",
+    "Place": "Gates to The Valley of The Dead",
+    "Position": "Center",
+    "AsCreature": "Taneka",
+    "Description": "",
+    "Memo": ""
   }
 ]

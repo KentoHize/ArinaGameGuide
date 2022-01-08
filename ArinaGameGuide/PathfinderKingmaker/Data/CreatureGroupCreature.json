@@ -512,7 +512,7 @@
   {
     "ID": 341,
     "CreatureGroup": "City of Hollow Eyes Group F",
-    "Creature": "Bandit 8 Bow Fighter",
+    "Creature": "Bandit 8 Archer",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,
@@ -2432,7 +2432,7 @@
   {
     "ID": 230,
     "CreatureGroup": "Technic League Encampent Varrask Task\n",
-    "Creature": "Bandit 8 Bow Fighter",
+    "Creature": "Bandit 8 Archer",
     "DisplayName": null,
     "Quantity": 2,
     "AdditonalItems": null,
@@ -7195,7 +7195,7 @@
     "Creature": "Redcap Trickster",
     "DisplayName": null,
     "Quantity": 2,
-    "AdditonalItems": null,
+    "AdditonalItems": "Money and Valuables",
     "AddtionalEffectOrConditions": null,
     "Team": "1"
   },
@@ -7205,7 +7205,7 @@
     "Creature": "Redcap Trickster",
     "DisplayName": null,
     "Quantity": 3,
-    "AdditonalItems": null,
+    "AdditonalItems": "Money and Valuables",
     "AddtionalEffectOrConditions": null,
     "Team": "1"
   },
@@ -7235,6 +7235,46 @@
     "Creature": "Bogeyman 17",
     "DisplayName": null,
     "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 726,
+    "CreatureGroup": "Enneo Group",
+    "Creature": "Enneo",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 727,
+    "CreatureGroup": "Enneo Group",
+    "Creature": "Bandit 9 Bard",
+    "DisplayName": "Enneo's Guard",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 728,
+    "CreatureGroup": "Enneo Group",
+    "Creature": "Bandit 8 Fighter",
+    "DisplayName": "Enneo's Guard",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 729,
+    "CreatureGroup": "Enneo Group",
+    "Creature": "Bandit 8 Archer",
+    "DisplayName": "Enneo's Guard",
+    "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"

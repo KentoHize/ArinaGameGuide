@@ -292,5 +292,33 @@
     "CName": "",
     "DC": "",
     "Description": ""
+  },
+  {
+    "ID": 43,
+    "Name": "Deepest Fear",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 44,
+    "Name": "Bane Weapon",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 45,
+    "Name": "Two-Weapon Fighting",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 46,
+    "Name": "Improved Two-Weapon Fighting",
+    "CName": "",
+    "DC": "",
+    "Description": ""
   }
 ]

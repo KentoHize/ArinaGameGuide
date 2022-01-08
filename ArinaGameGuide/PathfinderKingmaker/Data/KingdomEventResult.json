@@ -530,5 +530,24 @@
     "OtherConsequence": null,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 29,
+    "Event": "Evil Pranksters",
+    "Advisor": "Magister",
+    "Companion": "Octavia",
+    "Result": "Managed To Perserve",
+    "Stat1": "Relations",
+    "Stat1Adjustment": 1,
+    "Stat2": "Arcane",
+    "Stat2Adjustment": 4,
+    "Stat3": "Stability",
+    "Stat3Adjustment": 1,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
   }
 ]

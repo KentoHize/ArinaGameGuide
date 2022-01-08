@@ -2422,5 +2422,13 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 304,
+    "Name": "Enneo Group",
+    "Place": "Gates to The Valley of The Dead",
+    "Position": "Center",
+    "Stage": 1,
+    "Memo": ""
   }
 ]

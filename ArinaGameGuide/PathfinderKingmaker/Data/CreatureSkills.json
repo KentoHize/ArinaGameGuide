@@ -223,13 +223,13 @@
   },
   {
     "ID": 20,
-    "Creature": "Bandit 8 Bow Fighter",
+    "Creature": "Bandit 8 Archer",
     "Skill": "Perception",
     "Bonus": 15
   },
   {
     "ID": 21,
-    "Creature": "Bandit 8 Bow Fighter",
+    "Creature": "Bandit 8 Archer",
     "Skill": "Stealth",
     "Bonus": 14
   },
@@ -2482,5 +2482,17 @@
     "Creature": "Bogeyman 17",
     "Skill": "Stealth",
     "Bonus": 57
+  },
+  {
+    "ID": 416,
+    "Creature": "Enneo",
+    "Skill": "Perception",
+    "Bonus": 29
+  },
+  {
+    "ID": 417,
+    "Creature": "Enneo",
+    "Skill": "Athletics",
+    "Bonus": 17
   }
 ]

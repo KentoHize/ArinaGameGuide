@@ -1066,5 +1066,11 @@
     "Creature": "Leafless Lady",
     "Condition": "Fear",
     "CondtionGroup": null
+  },
+  {
+    "ID": 187,
+    "Creature": "Enneo",
+    "Condition": null,
+    "CondtionGroup": "Boss Immunities"
   }
 ]

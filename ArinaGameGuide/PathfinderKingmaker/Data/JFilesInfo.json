@@ -4342,6 +4342,7 @@
             "Success",
             "Failure",
             "Disaster",
+            "Managed To Perserve",
             "Unassigned"
           ],
           "FKTable": null,
