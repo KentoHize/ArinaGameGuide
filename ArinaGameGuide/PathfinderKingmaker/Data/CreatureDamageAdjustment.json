@@ -2028,5 +2028,40 @@
     "Type": "Vulnerability",
     "DamageType": "Cold",
     "Amount": null
+  },
+  {
+    "ID": 291,
+    "Creature": "Leafless Lady",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 292,
+    "Creature": "Leafless Lady",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 30
+  },
+  {
+    "ID": 293,
+    "Creature": "Leafless Lady",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 30
+  },
+  {
+    "ID": 294,
+    "Creature": "Leafless Lady",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 30
+  },
+  {
+    "ID": 295,
+    "Creature": "Bogeyman 17",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 15
   }
 ]

@@ -2416,5 +2416,71 @@
     "Creature": "Large of Fire Elemental",
     "Skill": "Perception",
     "Bonus": 17
+  },
+  {
+    "ID": 405,
+    "Creature": "Leafless Lady",
+    "Skill": "Mobility",
+    "Bonus": 37
+  },
+  {
+    "ID": 406,
+    "Creature": "Leafless Lady",
+    "Skill": "Persuasion",
+    "Bonus": 40
+  },
+  {
+    "ID": 407,
+    "Creature": "Leafless Lady",
+    "Skill": "Lore(Nature)",
+    "Bonus": 38
+  },
+  {
+    "ID": 408,
+    "Creature": "Leafless Lady",
+    "Skill": "Perception",
+    "Bonus": 42
+  },
+  {
+    "ID": 409,
+    "Creature": "Leafless Lady",
+    "Skill": "Athletics",
+    "Bonus": 33
+  },
+  {
+    "ID": 410,
+    "Creature": "Leafless Lady",
+    "Skill": "Stealth",
+    "Bonus": 37
+  },
+  {
+    "ID": 411,
+    "Creature": "Bogeyman 17",
+    "Skill": "Mobility",
+    "Bonus": 27
+  },
+  {
+    "ID": 412,
+    "Creature": "Bogeyman 17",
+    "Skill": "Lore(Nature)",
+    "Bonus": 25
+  },
+  {
+    "ID": 413,
+    "Creature": "Bogeyman 17",
+    "Skill": "Perception",
+    "Bonus": 29
+  },
+  {
+    "ID": 414,
+    "Creature": "Bogeyman 17",
+    "Skill": "Athletics",
+    "Bonus": 20
+  },
+  {
+    "ID": 415,
+    "Creature": "Bogeyman 17",
+    "Skill": "Stealth",
+    "Bonus": 57
   }
 ]

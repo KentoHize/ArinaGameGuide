@@ -11,6 +11,7 @@
     "AdaptedAdvisor3": "Warden",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -27,6 +28,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -43,6 +45,7 @@
     "AdaptedAdvisor3": "Grand Diplomat",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": true,
     "Description": "",
     "Memo": ""
@@ -59,6 +62,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -75,6 +79,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": true,
     "Description": "",
     "Memo": ""
@@ -91,6 +96,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -107,6 +113,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -123,6 +130,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -139,6 +147,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": "Magister",
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -155,6 +164,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -171,6 +181,7 @@
     "AdaptedAdvisor3": "General",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -187,6 +198,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": true,
     "Description": "",
     "Memo": ""
@@ -203,6 +215,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -219,6 +232,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -235,6 +249,7 @@
     "AdaptedAdvisor3": "Warden",
     "HaveAdvantage": "Councilor",
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -251,6 +266,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -267,6 +283,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -283,6 +300,7 @@
     "AdaptedAdvisor3": "Curator",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -299,6 +317,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -315,6 +334,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -331,6 +351,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -347,6 +368,7 @@
     "AdaptedAdvisor3": "Treasurer",
     "HaveAdvantage": null,
     "HaveDisadvantage": "Councilor",
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -363,6 +385,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": "Curator",
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -379,6 +402,7 @@
     "AdaptedAdvisor3": "Curator",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "The Bald Hilltop has awakened again - and this time the local are being assaulted not by common beast, but by legendary magical monsters! Wyverns, owlbears, and manticores, in a fit of fury, are ravaging the barony, led by a small number of particularly large and vicious beasts. Perhaps the invasion can be ended if their leaders are slain.",
     "Memo": "Act 3\n\n+1 Loyalty +1 Divine +4 Culture "
@@ -395,6 +419,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -411,6 +436,7 @@
     "AdaptedAdvisor3": "Warden",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -427,6 +453,7 @@
     "AdaptedAdvisor3": "Warden",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -443,6 +470,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -459,6 +487,7 @@
     "AdaptedAdvisor3": "Warden",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -475,6 +504,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -491,6 +521,7 @@
     "AdaptedAdvisor3": "Curator",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -507,6 +538,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -523,6 +555,7 @@
     "AdaptedAdvisor3": "Warden",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -539,6 +572,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -555,6 +589,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""
@@ -571,6 +606,24 @@
     "AdaptedAdvisor3": "General",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
+    "StartDate": "0001/1/1",
+    "Repeat": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 37,
+    "Name": "Evil Pranksters",
+    "CName": "",
+    "Type": "Problem",
+    "RequiredDays": 1,
+    "DC": 30,
+    "AdaptedAdvisor1": "Grand Diplomat",
+    "AdaptedAdvisor2": "Magister",
+    "AdaptedAdvisor3": "Warden",
+    "HaveAdvantage": "Grand Diplomat",
+    "HaveDisadvantage": null,
+    "StartDate": "4712/7/1",
     "Repeat": false,
     "Description": "",
     "Memo": ""

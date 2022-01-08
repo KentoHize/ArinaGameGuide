@@ -1060,5 +1060,11 @@
     "Creature": "Large of Fire Elemental",
     "Condition": null,
     "CondtionGroup": "Elemental Immunities"
+  },
+  {
+    "ID": 186,
+    "Creature": "Leafless Lady",
+    "Condition": "Fear",
+    "CondtionGroup": null
   }
 ]

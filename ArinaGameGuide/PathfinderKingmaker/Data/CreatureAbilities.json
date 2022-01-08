@@ -2140,5 +2140,32 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 240,
+    "Creature": "Leafless Lady",
+    "Ability": "Fast Healing",
+    "Amount": 5,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 241,
+    "Creature": "Leafless Lady",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 242,
+    "Creature": "Bogeyman 17",
+    "Ability": "Fast Healing",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

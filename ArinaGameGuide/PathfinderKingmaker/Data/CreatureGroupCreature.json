@@ -7178,5 +7178,65 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "Ally"
+  },
+  {
+    "ID": 720,
+    "CreatureGroup": "An Ancient Curse, Part Four Group A",
+    "Creature": "Redcap Savage",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 721,
+    "CreatureGroup": "An Ancient Curse, Part Four Group A",
+    "Creature": "Redcap Trickster",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 722,
+    "CreatureGroup": "An Ancient Curse, Part Four Group B",
+    "Creature": "Redcap Trickster",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 723,
+    "CreatureGroup": "An Ancient Curse, Part Four Group B",
+    "Creature": "Ferocious Dweomercat",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 724,
+    "CreatureGroup": "An Ancient Curse, Part Four Group C",
+    "Creature": "Leafless Lady",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 725,
+    "CreatureGroup": "An Ancient Curse, Part Four Group C",
+    "Creature": "Bogeyman 17",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

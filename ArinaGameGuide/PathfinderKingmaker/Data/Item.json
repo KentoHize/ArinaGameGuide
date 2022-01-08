@@ -6832,5 +6832,22 @@
     "StoryItem": false,
     "Weight": 25.0,
     "Description": ""
+  },
+  {
+    "ID": 403,
+    "Name": "Speed Composite Longbow +2",
+    "DisplayName": "Speed Composite Longbow +2",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Composite Longbow",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

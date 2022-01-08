@@ -3876,5 +3876,33 @@
     "DamageAdditiveBonus": 4,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 317,
+    "Creature": "Leafless Lady",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AddtionalAttack": 0,
+    "AttackBonus": 28,
+    "Weapon": "Speed Composite Longbow +2",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 17,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 318,
+    "Creature": "Bogeyman 17",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 2,
+    "AddtionalAttack": 1,
+    "AttackBonus": 20,
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 7,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]
