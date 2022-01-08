@@ -1403,5 +1403,20 @@
     "ID": 282,
     "Name": "Comforter",
     "Memo": ""
+  },
+  {
+    "ID": 283,
+    "Name": "Hellknight of the Rack 10 Fighter RS",
+    "Memo": ""
+  },
+  {
+    "ID": 284,
+    "Name": "Hellknight of the Rack 10 Wizard RS",
+    "Memo": ""
+  },
+  {
+    "ID": 285,
+    "Name": "Hellknight of the Rack 10 Cleric RS",
+    "Memo": ""
   }
 ]

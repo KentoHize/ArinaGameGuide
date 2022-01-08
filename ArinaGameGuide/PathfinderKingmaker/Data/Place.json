@@ -1790,5 +1790,19 @@
     "HasPlot": false,
     "Description": "",
     "Memo": "Knowledge(World) 22"
+  },
+  {
+    "ID": 130,
+    "Name": "Secluded Lodge",
+    "DisplayName": "Secluded Lodge",
+    "CName": "",
+    "Type": "Safe Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": ""
   }
 ]

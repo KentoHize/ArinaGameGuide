@@ -40,5 +40,19 @@
     "ItemPart5": "Ancient Kellid Sword Shard",
     "DuplicatedItemPart": null,
     "DuplicatedItemPartCount": null
+  },
+  {
+    "ID": 4,
+    "Name": "The Thief of Secrets",
+    "CName": "",
+    "IsArtifact": false,
+    "MergedItem": null,
+    "ItemPart1": "Timeworn Azalanti Belt Buckle from the Tenebrous Depths",
+    "ItemPart2": "Timeworn Empty Lockpick Case from the Tenebrous Depth",
+    "ItemPart3": "Timeworn Pinch of Cyclops Frankincense from the Tenebrous Depths",
+    "ItemPart4": "Timeworn Shard of the Goggles of Night from the Tenebrous Depths",
+    "ItemPart5": "Timeworn Thassilonian Rune from the Tenebrous Depths",
+    "DuplicatedItemPart": null,
+    "DuplicatedItemPartCount": null
   }
 ]

@@ -1030,5 +1030,17 @@
     "Creature": "The Wicked Chanter",
     "Condition": "Sleep",
     "CondtionGroup": null
+  },
+  {
+    "ID": 181,
+    "Creature": "Hellknight of the Rack 10 Elf Wizard",
+    "Condition": "Sleep",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 182,
+    "Creature": "Hellknight of the Rack 10 Cleric",
+    "Condition": "Sleep",
+    "CondtionGroup": null
   }
 ]

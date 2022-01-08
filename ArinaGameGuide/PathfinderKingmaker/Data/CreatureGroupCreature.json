@@ -7038,5 +7038,55 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": "Battering Creature",
     "Team": "1"
+  },
+  {
+    "ID": 706,
+    "CreatureGroup": "Secluded Lodge Linxia",
+    "Creature": "Linxia",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 707,
+    "CreatureGroup": "Secluded Lodge Linxia",
+    "Creature": "Hellknight of the Rack 10 Fighter",
+    "DisplayName": null,
+    "Quantity": 6,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 708,
+    "CreatureGroup": "Secluded Lodge Linxia",
+    "Creature": "Hellknight of the Rack 10 Human Wizard",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 709,
+    "CreatureGroup": "Secluded Lodge Linxia",
+    "Creature": "Hellknight of the Rack 10 Elf Wizard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 710,
+    "CreatureGroup": "Secluded Lodge Linxia",
+    "Creature": "Hellknight of the Rack 10 Cleric",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

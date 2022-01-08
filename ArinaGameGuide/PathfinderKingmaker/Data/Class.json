@@ -180,5 +180,12 @@
     "CName": "",
     "ChanllegeRateMultiplier": 1.0,
     "PlayerClass": true
+  },
+  {
+    "ID": 27,
+    "Name": "Eldritch Knight",
+    "CName": "",
+    "ChanllegeRateMultiplier": 1.0,
+    "PlayerClass": true
   }
 ]

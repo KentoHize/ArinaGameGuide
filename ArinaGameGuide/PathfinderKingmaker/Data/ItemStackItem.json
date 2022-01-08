@@ -5662,5 +5662,173 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 710,
+    "ItemStack": "Hellknight of the Rack 10 Wizard RS",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 711,
+    "ItemStack": "Hellknight of the Rack 10 Wizard RS",
+    "Item": "Potion of Restoration, Lesser",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 712,
+    "ItemStack": "Hellknight of the Rack 10 Wizard RS",
+    "Item": "Potion of Remove Curse",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 713,
+    "ItemStack": "Hellknight of the Rack 10 Wizard RS",
+    "Item": "Longsword +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 714,
+    "ItemStack": "Hellknight of the Rack 10 Wizard RS",
+    "Item": "Full Plate +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 715,
+    "ItemStack": "Hellknight of the Rack 10 Wizard RS",
+    "Item": "Steel Helm",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 716,
+    "ItemStack": "Hellknight of the Rack 10 Wizard RS",
+    "Item": "Cloak of Resistance +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 717,
+    "ItemStack": "Hellknight of the Rack 10 Fighter RS",
+    "Item": "Alchemist's Fire",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 718,
+    "ItemStack": "Hellknight of the Rack 10 Fighter RS",
+    "Item": "Acid Flask",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 719,
+    "ItemStack": "Hellknight of the Rack 10 Fighter RS",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 720,
+    "ItemStack": "Hellknight of the Rack 10 Fighter RS",
+    "Item": "Longsword +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 721,
+    "ItemStack": "Hellknight of the Rack 10 Fighter RS",
+    "Item": "Heavy Shield",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 722,
+    "ItemStack": "Hellknight of the Rack 10 Fighter RS",
+    "Item": "Full Plate +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 723,
+    "ItemStack": "Hellknight of the Rack 10 Fighter RS",
+    "Item": "Steel Helm",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 724,
+    "ItemStack": "Hellknight of the Rack 10 Fighter RS",
+    "Item": "Cloak of Resistance +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 725,
+    "ItemStack": "Hellknight of the Rack 10 Cleric RS",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 726,
+    "ItemStack": "Hellknight of the Rack 10 Cleric RS",
+    "Item": "Potion of Restoration, Lesser",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 727,
+    "ItemStack": "Hellknight of the Rack 10 Cleric RS",
+    "Item": "Longspear +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 728,
+    "ItemStack": "Hellknight of the Rack 10 Cleric RS",
+    "Item": "Scroll of Protection from Chaos",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 729,
+    "ItemStack": "Hellknight of the Rack 10 Cleric RS",
+    "Item": "Full Plate +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 730,
+    "ItemStack": "Hellknight of the Rack 10 Cleric RS",
+    "Item": "Headband of Inspired Wisdom +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

@@ -3764,5 +3764,61 @@
     "DamageAdditiveBonus": 28,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 309,
+    "Creature": "Hellknight of the Rack 10 Fighter",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 22,
+    "Weapon": "Longsword +1",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 17,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 310,
+    "Creature": "Hellknight of the Rack 10 Human Wizard",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 22,
+    "Weapon": "Longsword +1",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 11,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 311,
+    "Creature": "Hellknight of the Rack 10 Elf Wizard",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 21,
+    "Weapon": "Longsword +1",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 10,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 312,
+    "Creature": "Hellknight of the Rack 10 Cleric",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 6,
+    "AddtionalAttack": 0,
+    "AttackBonus": 20,
+    "Weapon": "Longspear +1",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 8,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

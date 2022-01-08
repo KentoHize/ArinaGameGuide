@@ -2392,5 +2392,17 @@
     "Creature": "Greater Primal Owlbear",
     "Skill": "Perception",
     "Bonus": 34
+  },
+  {
+    "ID": 401,
+    "Creature": "Hellknight of the Rack 10 Fighter",
+    "Skill": "Mobility",
+    "Bonus": 8
+  },
+  {
+    "ID": 402,
+    "Creature": "Hellknight of the Rack 10 Fighter",
+    "Skill": "Perception",
+    "Bonus": 17
   }
 ]

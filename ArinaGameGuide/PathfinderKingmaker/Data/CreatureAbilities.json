@@ -2095,5 +2095,32 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 235,
+    "Creature": "Hellknight of the Rack 10 Fighter",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 236,
+    "Creature": "Hellknight of the Rack 10 Human Wizard",
+    "Ability": "Physical Enhancement - Dexterity",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 237,
+    "Creature": "Hellknight of the Rack 10 Elf Wizard",
+    "Ability": "Physical Enhancement - Dexterity",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

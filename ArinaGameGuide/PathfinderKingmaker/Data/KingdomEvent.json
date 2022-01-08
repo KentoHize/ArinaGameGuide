@@ -11,7 +11,7 @@
     "AdaptedAdvisor3": "Warden",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -27,7 +27,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -43,7 +43,7 @@
     "AdaptedAdvisor3": "Grand Diplomat",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": true,
     "Description": "",
     "Memo": ""
   },
@@ -59,7 +59,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -75,7 +75,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": true,
+    "Repeat": true,
     "Description": "",
     "Memo": ""
   },
@@ -91,7 +91,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -107,7 +107,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -123,7 +123,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -139,7 +139,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": "Magister",
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -155,7 +155,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -171,7 +171,7 @@
     "AdaptedAdvisor3": "General",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -187,7 +187,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": true,
+    "Repeat": true,
     "Description": "",
     "Memo": ""
   },
@@ -203,7 +203,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -219,7 +219,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -235,7 +235,7 @@
     "AdaptedAdvisor3": "Warden",
     "HaveAdvantage": "Councilor",
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -251,7 +251,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -267,7 +267,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -283,7 +283,7 @@
     "AdaptedAdvisor3": "Curator",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -299,7 +299,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -315,7 +315,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -331,7 +331,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -347,7 +347,7 @@
     "AdaptedAdvisor3": "Treasurer",
     "HaveAdvantage": null,
     "HaveDisadvantage": "Councilor",
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -363,7 +363,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": "Curator",
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -379,7 +379,7 @@
     "AdaptedAdvisor3": "Curator",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "The Bald Hilltop has awakened again - and this time the local are being assaulted not by common beast, but by legendary magical monsters! Wyverns, owlbears, and manticores, in a fit of fury, are ravaging the barony, led by a small number of particularly large and vicious beasts. Perhaps the invasion can be ended if their leaders are slain.",
     "Memo": "Act 3\n\n+1 Loyalty +1 Divine +4 Culture "
   },
@@ -395,7 +395,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -411,7 +411,7 @@
     "AdaptedAdvisor3": "Warden",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -427,7 +427,7 @@
     "AdaptedAdvisor3": "Warden",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -443,7 +443,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -459,7 +459,7 @@
     "AdaptedAdvisor3": "Warden",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -475,7 +475,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -491,7 +491,7 @@
     "AdaptedAdvisor3": "Curator",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -507,7 +507,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -523,7 +523,7 @@
     "AdaptedAdvisor3": "Warden",
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -539,7 +539,7 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   },
@@ -555,7 +555,23 @@
     "AdaptedAdvisor3": null,
     "HaveAdvantage": null,
     "HaveDisadvantage": null,
-    "RandomEvent": false,
+    "Repeat": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 36,
+    "Name": "Spider Invasion",
+    "CName": "",
+    "Type": "Problem",
+    "RequiredDays": 14,
+    "DC": 24,
+    "AdaptedAdvisor1": "Regent",
+    "AdaptedAdvisor2": "Councilor",
+    "AdaptedAdvisor3": "General",
+    "HaveAdvantage": null,
+    "HaveDisadvantage": null,
+    "Repeat": false,
     "Description": "",
     "Memo": ""
   }

@@ -4183,7 +4183,7 @@
           "IsUnique": false
         },
         {
-          "Name": "RandomEvent",
+          "Name": "Repeat",
           "IsKey": false,
           "IsNullable": false,
           "Type": "Boolean",
