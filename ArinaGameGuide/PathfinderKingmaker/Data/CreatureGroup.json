@@ -2438,5 +2438,13 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 306,
+    "Name": "Brineheart Darven With Erinyes Devil",
+    "Place": "Brineheart",
+    "Position": "North East",
+    "Stage": 1,
+    "Memo": ""
   }
 ]

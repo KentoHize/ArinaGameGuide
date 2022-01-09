@@ -2063,5 +2063,33 @@
     "Type": "DamageReduction",
     "DamageType": "Cold Iron",
     "Amount": 15
+  },
+  {
+    "ID": 296,
+    "Creature": "Erinyes Devil",
+    "Type": "DamageReduction",
+    "DamageType": "Good",
+    "Amount": 5
+  },
+  {
+    "ID": 297,
+    "Creature": "Erinyes Devil",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 298,
+    "Creature": "Erinyes Devil",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 10
+  },
+  {
+    "ID": 299,
+    "Creature": "Erinyes Devil",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
   }
 ]

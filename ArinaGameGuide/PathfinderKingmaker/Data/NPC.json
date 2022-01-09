@@ -130,5 +130,27 @@
     "AsCreature": "Taneka",
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 13,
+    "Name": "Darven",
+    "CName": "",
+    "Gender": "Male",
+    "Place": "Capital Square C",
+    "Position": "Center",
+    "AsCreature": "Darven",
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 14,
+    "Name": "Linxia",
+    "CName": "",
+    "Gender": "Female",
+    "Place": "Capital Square C",
+    "Position": "Center",
+    "AsCreature": "Linxia",
+    "Description": "",
+    "Memo": ""
   }
 ]

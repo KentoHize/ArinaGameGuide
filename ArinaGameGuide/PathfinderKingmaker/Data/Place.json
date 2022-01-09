@@ -1832,5 +1832,19 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 133,
+    "Name": "Capital Square C",
+    "DisplayName": "Capital Square",
+    "CName": "",
+    "Type": "Safe Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "\n\n"
   }
 ]

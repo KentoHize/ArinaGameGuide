@@ -4030,5 +4030,47 @@
     "DamageAdditiveBonus": 8,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 328,
+    "Creature": "Erinyes Devil",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AddtionalAttack": 0,
+    "AttackBonus": 20,
+    "Weapon": "Flaming Composite Longbow +1",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 8,
+    "OtherDamageBonus": "Fire 1d6",
+    "SneakDamage": null
+  },
+  {
+    "ID": 329,
+    "Creature": "Darven",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 22,
+    "Weapon": "Keen Rapier +1",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 17,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 330,
+    "Creature": "Darven",
+    "Form": "Piercing Weapon",
+    "Type": "Secondary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 23,
+    "Weapon": "Punching Dagger +3",
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 19,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

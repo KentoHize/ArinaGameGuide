@@ -7350,6 +7350,16 @@
     "Team": "1"
   },
   {
+    "ID": 740,
+    "CreatureGroup": "Brineheart Group A",
+    "Creature": "Mercenary 9 Half-Orc Rogue",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
     "ID": 737,
     "CreatureGroup": "Brineheart Group A",
     "Creature": "Hellknight of the Rack 10 Cleric",
@@ -7380,13 +7390,103 @@
     "Team": "Ally"
   },
   {
-    "ID": 740,
-    "CreatureGroup": "Brineheart Group A",
+    "ID": 741,
+    "CreatureGroup": "Brineheart Darven With Erinyes Devil",
+    "Creature": "Darven",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 742,
+    "CreatureGroup": "Brineheart Darven With Erinyes Devil",
+    "Creature": "Mercenary 9 Human Fighter",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 743,
+    "CreatureGroup": "Brineheart Darven With Erinyes Devil",
+    "Creature": "Mercenary 9 Half-Elf Fighter",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 744,
+    "CreatureGroup": "Brineheart Darven With Erinyes Devil",
     "Creature": "Mercenary 9 Half-Orc Rogue",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 745,
+    "CreatureGroup": "Brineheart Darven With Erinyes Devil",
+    "Creature": "Mercenary 9 Human Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 746,
+    "CreatureGroup": "Brineheart Darven With Erinyes Devil",
+    "Creature": "Mercenary 9 Gnome Archer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 747,
+    "CreatureGroup": "Brineheart Darven With Erinyes Devil",
+    "Creature": "Erinyes Devil",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 748,
+    "CreatureGroup": "Brineheart Darven With Erinyes Devil",
+    "Creature": "Linxia",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 749,
+    "CreatureGroup": "Brineheart Darven With Erinyes Devil",
+    "Creature": "Hellknight of the Rack 10 Human Wizard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 750,
+    "CreatureGroup": "Brineheart Darven With Erinyes Devil",
+    "Creature": "Hellknight of the Rack 10 Fighter",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
   }
 ]

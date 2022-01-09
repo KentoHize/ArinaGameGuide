@@ -2566,5 +2566,17 @@
     "Creature": "Mercenary 9 Half-Orc Rogue",
     "Skill": "Stealth",
     "Bonus": 34
+  },
+  {
+    "ID": 430,
+    "Creature": "Erinyes Devil",
+    "Skill": "Perception",
+    "Bonus": 22
+  },
+  {
+    "ID": 431,
+    "Creature": "Erinyes Devil",
+    "Skill": "Stealth",
+    "Bonus": 20
   }
 ]

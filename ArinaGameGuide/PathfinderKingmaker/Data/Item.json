@@ -3489,8 +3489,8 @@
     "Name": "Keen Rapier +1",
     "DisplayName": "Keen Rapier +1",
     "DisplayCName": "",
-    "Type": "Martial Weapon",
-    "BaseItem": null,
+    "Type": null,
+    "BaseItem": "Rapier",
     "SpecialMaterial": null,
     "CasterLevel": null,
     "Charges": null,
@@ -6933,6 +6933,23 @@
     "ChangePrice": 0,
     "StoryItem": false,
     "Weight": 0.5,
+    "Description": ""
+  },
+  {
+    "ID": 409,
+    "Name": "Punching Dagger +3",
+    "DisplayName": "Punching Dagger +3",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Punching Dagger",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
     "Description": ""
   }
 ]
