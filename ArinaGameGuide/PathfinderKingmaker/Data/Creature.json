@@ -14917,7 +14917,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "FCL1 + LS1",
     "Memo": ""
   },
   {

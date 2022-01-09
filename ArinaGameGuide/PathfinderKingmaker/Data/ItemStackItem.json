@@ -6102,5 +6102,21 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 765,
+    "ItemStack": "FCL1 + LS1",
+    "Item": "Flaming Composite Longbow +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 766,
+    "ItemStack": "FCL1 + LS1",
+    "Item": "Longsword +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

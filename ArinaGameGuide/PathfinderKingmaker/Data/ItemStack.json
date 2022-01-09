@@ -1453,5 +1453,10 @@
     "ID": 292,
     "Name": "PoCM + PoCG + CL1 + CS1 + RoP1 + CoR1",
     "Memo": ""
+  },
+  {
+    "ID": 293,
+    "Name": "FCL1 + LS1",
+    "Memo": ""
   }
 ]
