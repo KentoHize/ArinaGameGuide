@@ -7304,7 +7304,7 @@
     "CreatureGroup": "Brineheart Group A",
     "Creature": "Mercenary 9 Human Fighter",
     "DisplayName": null,
-    "Quantity": 1,
+    "Quantity": 4,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
@@ -7324,7 +7324,67 @@
     "CreatureGroup": "Brineheart Group A",
     "Creature": "Mercenary 9 Human Archer",
     "DisplayName": null,
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 735,
+    "CreatureGroup": "Brineheart Group A",
+    "Creature": "Mercenary 9 Dwarf Fighter",
+    "DisplayName": null,
     "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 736,
+    "CreatureGroup": "Brineheart Group A",
+    "Creature": "Mercenary 9 Gnome Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 737,
+    "CreatureGroup": "Brineheart Group A",
+    "Creature": "Hellknight of the Rack 10 Cleric",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 738,
+    "CreatureGroup": "Brineheart Group A",
+    "Creature": "Hellknight of the Rack 10 Fighter",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 739,
+    "CreatureGroup": "Brineheart Group A",
+    "Creature": "Hellknight of the Rack 10 Human Wizard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 740,
+    "CreatureGroup": "Brineheart Group A",
+    "Creature": "Mercenary 9 Half-Orc Rogue",
+    "DisplayName": null,
+    "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"

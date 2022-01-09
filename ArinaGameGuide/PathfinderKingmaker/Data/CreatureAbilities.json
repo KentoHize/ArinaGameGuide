@@ -2248,5 +2248,32 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 252,
+    "Creature": "Mercenary 9 Gnome Archer",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 253,
+    "Creature": "Mercenary 9 Gnome Archer",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 254,
+    "Creature": "Mercenary 9 Half-Orc Rogue",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

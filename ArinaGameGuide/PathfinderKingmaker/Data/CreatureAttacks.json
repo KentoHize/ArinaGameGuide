@@ -3977,7 +3977,7 @@
   },
   {
     "ID": 324,
-    "Creature": "Mercenary 9 Human Fighter",
+    "Creature": "Mercenary 9 Dwarf Fighter",
     "Form": "Slashing Weapon",
     "Type": "Primary",
     "Range": 2,
@@ -3986,6 +3986,48 @@
     "Weapon": "Falchion +1",
     "BasicDamage": "2d4",
     "DamageAdditiveBonus": 23,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 325,
+    "Creature": "Mercenary 9 Gnome Archer",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AddtionalAttack": 0,
+    "AttackBonus": 19,
+    "Weapon": "Composite Longbow +1",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 13,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 326,
+    "Creature": "Mercenary 9 Half-Orc Rogue",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 18,
+    "Weapon": "Shortsword +1",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 9,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 327,
+    "Creature": "Mercenary 9 Half-Orc Rogue",
+    "Form": "Piercing Weapon",
+    "Type": "Secondary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 18,
+    "Weapon": "Masterwork Shortsword",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 8,
     "OtherDamageBonus": null,
     "SneakDamage": null
   }

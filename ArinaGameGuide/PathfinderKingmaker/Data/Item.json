@@ -6900,5 +6900,39 @@
     "StoryItem": false,
     "Weight": 1.0,
     "Description": ""
+  },
+  {
+    "ID": 407,
+    "Name": "Potion of Bull's Strength",
+    "DisplayName": "Potion of Bull's Strength",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Potion",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 75,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.5,
+    "Description": ""
+  },
+  {
+    "ID": 408,
+    "Name": "Potion of Cat's Grace",
+    "DisplayName": "Potion of Cat's Grace",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Potion",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 75,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.5,
+    "Description": ""
   }
 ]

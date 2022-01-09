@@ -5974,5 +5974,133 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 749,
+    "ItemStack": "AF + PoCM + SS1 + MSS + CS1",
+    "Item": "Alchemist's Fire",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 750,
+    "ItemStack": "AF + PoCM + SS1 + MSS + CS1",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 751,
+    "ItemStack": "AF + PoCM + SS1 + MSS + CS1",
+    "Item": "Shortsword +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 752,
+    "ItemStack": "AF + PoCM + SS1 + MSS + CS1",
+    "Item": "Masterwork Shortsword",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 753,
+    "ItemStack": "AF + PoCM + SS1 + MSS + CS1",
+    "Item": "Chainshirt +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 754,
+    "ItemStack": "PoCM + PoBS + FC1 + BP1 + RoP1",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 755,
+    "ItemStack": "PoCM + PoBS + FC1 + BP1 + RoP1",
+    "Item": "Potion of Bull's Strength",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 756,
+    "ItemStack": "PoCM + PoBS + FC1 + BP1 + RoP1",
+    "Item": "Falchion +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 757,
+    "ItemStack": "PoCM + PoBS + FC1 + BP1 + RoP1",
+    "Item": "Breastplate +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 758,
+    "ItemStack": "PoCM + PoBS + FC1 + BP1 + RoP1",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 759,
+    "ItemStack": "PoCM + PoCG + CL1 + CS1 + RoP1 + CoR1",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 760,
+    "ItemStack": "PoCM + PoCG + CL1 + CS1 + RoP1 + CoR1",
+    "Item": "Potion of Cat's Grace",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 761,
+    "ItemStack": "PoCM + PoCG + CL1 + CS1 + RoP1 + CoR1",
+    "Item": "Composite Longbow +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 762,
+    "ItemStack": "PoCM + PoCG + CL1 + CS1 + RoP1 + CoR1",
+    "Item": "Chainshirt +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 763,
+    "ItemStack": "PoCM + PoCG + CL1 + CS1 + RoP1 + CoR1",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 764,
+    "ItemStack": "PoCM + PoCG + CL1 + CS1 + RoP1 + CoR1",
+    "Item": "Cloak of Resistance +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

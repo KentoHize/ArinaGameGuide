@@ -2542,5 +2542,29 @@
     "Creature": "Mercenary 9 Dwarf Fighter",
     "Skill": "Stealth",
     "Bonus": 12
+  },
+  {
+    "ID": 426,
+    "Creature": "Mercenary 9 Gnome Archer",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 427,
+    "Creature": "Mercenary 9 Gnome Archer",
+    "Skill": "Stealth",
+    "Bonus": 19
+  },
+  {
+    "ID": 428,
+    "Creature": "Mercenary 9 Half-Orc Rogue",
+    "Skill": "Perception",
+    "Bonus": 25
+  },
+  {
+    "ID": 429,
+    "Creature": "Mercenary 9 Half-Orc Rogue",
+    "Skill": "Stealth",
+    "Bonus": 34
   }
 ]

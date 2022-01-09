@@ -152,5 +152,12 @@
     "MainRace": "Humanoid",
     "SubRace": "Elf",
     "KnowledgeSkill": "Knowledge(Arcana)"
+  },
+  {
+    "ID": 23,
+    "Name": "Half-Orc",
+    "MainRace": "Humanoid",
+    "SubRace": "Half-Orc",
+    "KnowledgeSkill": null
   }
 ]
