@@ -7298,5 +7298,35 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "Ally"
+  },
+  {
+    "ID": 732,
+    "CreatureGroup": "Brineheart Group A",
+    "Creature": "Mercenary 9 Human Fighter",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 733,
+    "CreatureGroup": "Brineheart Group A",
+    "Creature": "Mercenary 9 Half-Elf Fighter",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 734,
+    "CreatureGroup": "Brineheart Group A",
+    "Creature": "Mercenary 9 Human Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

@@ -2494,5 +2494,53 @@
     "Creature": "Enneo",
     "Skill": "Athletics",
     "Bonus": 17
+  },
+  {
+    "ID": 418,
+    "Creature": "Mercenary 9 Human Fighter",
+    "Skill": "Perception",
+    "Bonus": 16
+  },
+  {
+    "ID": 419,
+    "Creature": "Mercenary 9 Human Fighter",
+    "Skill": "Stealth",
+    "Bonus": 12
+  },
+  {
+    "ID": 420,
+    "Creature": "Mercenary 9 Half-Elf Fighter",
+    "Skill": "Perception",
+    "Bonus": 13
+  },
+  {
+    "ID": 421,
+    "Creature": "Mercenary 9 Half-Elf Fighter",
+    "Skill": "Stealth",
+    "Bonus": 12
+  },
+  {
+    "ID": 422,
+    "Creature": "Mercenary 9 Human Archer",
+    "Skill": "Perception",
+    "Bonus": 16
+  },
+  {
+    "ID": 423,
+    "Creature": "Mercenary 9 Human Archer",
+    "Skill": "Stealth",
+    "Bonus": 15
+  },
+  {
+    "ID": 424,
+    "Creature": "Mercenary 9 Dwarf Fighter",
+    "Skill": "Perception",
+    "Bonus": 14
+  },
+  {
+    "ID": 425,
+    "Creature": "Mercenary 9 Dwarf Fighter",
+    "Skill": "Stealth",
+    "Bonus": 12
   }
 ]

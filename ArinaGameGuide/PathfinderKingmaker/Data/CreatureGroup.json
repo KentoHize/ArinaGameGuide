@@ -2430,5 +2430,13 @@
     "Position": "Center",
     "Stage": 1,
     "Memo": ""
+  },
+  {
+    "ID": 305,
+    "Name": "Brineheart Group A",
+    "Place": "Brineheart",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

@@ -3932,5 +3932,61 @@
     "DamageAdditiveBonus": 4,
     "OtherDamageBonus": "Fire 1d6",
     "SneakDamage": null
+  },
+  {
+    "ID": 321,
+    "Creature": "Mercenary 9 Human Fighter",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 22,
+    "Weapon": "Falchion +1",
+    "BasicDamage": "2d4",
+    "DamageAdditiveBonus": 25,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 322,
+    "Creature": "Mercenary 9 Half-Elf Fighter",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 21,
+    "Weapon": "Falchion +1",
+    "BasicDamage": "2d4",
+    "DamageAdditiveBonus": 25,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 323,
+    "Creature": "Mercenary 9 Human Archer",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AddtionalAttack": 0,
+    "AttackBonus": 18,
+    "Weapon": "Composite Longbow +1",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 14,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 324,
+    "Creature": "Mercenary 9 Human Fighter",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 20,
+    "Weapon": "Falchion +1",
+    "BasicDamage": "2d4",
+    "DamageAdditiveBonus": 23,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

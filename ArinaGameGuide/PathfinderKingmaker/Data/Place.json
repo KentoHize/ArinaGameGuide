@@ -1818,5 +1818,19 @@
     "HasPlot": true,
     "Description": "",
     "Memo": "Diplomancy 30\nDiplomancy 30\n\n謎事件"
+  },
+  {
+    "ID": 132,
+    "Name": "Brineheart",
+    "DisplayName": "Brineheart",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

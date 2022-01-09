@@ -1072,5 +1072,11 @@
     "Creature": "Enneo",
     "Condition": null,
     "CondtionGroup": "Boss Immunities"
+  },
+  {
+    "ID": 188,
+    "Creature": "Mercenary 9 Half-Elf Fighter",
+    "Condition": "Sleep",
+    "CondtionGroup": null
   }
 ]

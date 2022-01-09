@@ -4183,7 +4183,7 @@
           "IsUnique": false
         },
         {
-          "Name": "StartDate",
+          "Name": "CloseDate",
           "IsKey": false,
           "IsNullable": true,
           "Type": "Date",
@@ -4525,7 +4525,9 @@
           "IsNullable": true,
           "Type": "Choice",
           "Choices": [
-            "None"
+            "None",
+            "Unrest Level +1",
+            "Unrest Level -1"
           ],
           "FKTable": null,
           "FKColumn": null,
