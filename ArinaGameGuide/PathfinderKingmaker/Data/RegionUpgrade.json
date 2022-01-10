@@ -1,0 +1,86 @@
+[
+  {
+    "ID": 1,
+    "Region": "Shrike Hill",
+    "Name": "Diamond in the Rough",
+    "CName": "",
+    "Cost": 552,
+    "AdaptedAdvisor1": "Treasurer",
+    "AdaptedAdvisor2": "Grand Diplomat",
+    "AdaptedAdvisor3": "Curator",
+    "Description": "2-slot building in this or adjacent region boost Encomy, Relation or Culture bonus by 1\n\n4-slot bt 2",
+    "Memo": ""
+  },
+  {
+    "ID": 2,
+    "Region": "Shrike Hill",
+    "Name": "It's a Magical Place",
+    "CName": "",
+    "Cost": 531,
+    "AdaptedAdvisor1": "High Priest",
+    "AdaptedAdvisor2": "Magister",
+    "AdaptedAdvisor3": null,
+    "Description": "+5 bonus to High Priest and Magister solve Event in this region\n\n+5 competence bonus to Knowledge(Arcana) and Lore(Religion) in kingdom",
+    "Memo": ""
+  },
+  {
+    "ID": 3,
+    "Region": "Silverstep",
+    "Name": "Fish Farm Village",
+    "CName": "",
+    "Cost": 212,
+    "AdaptedAdvisor1": "Councilor",
+    "AdaptedAdvisor2": null,
+    "AdaptedAdvisor3": null,
+    "Description": "village building in this or adjacent region grants either a Community or Loyalty bonus -> +1 to both",
+    "Memo": ""
+  },
+  {
+    "ID": 4,
+    "Region": "Silverstep",
+    "Name": "Jewelry Center",
+    "CName": "",
+    "Cost": 191,
+    "AdaptedAdvisor1": "Treasurer",
+    "AdaptedAdvisor2": "Curator",
+    "AdaptedAdvisor3": null,
+    "Description": "Attract jewelry maker",
+    "Memo": ""
+  },
+  {
+    "ID": 5,
+    "Region": "Silverstep",
+    "Name": "Enigmatic Tales",
+    "CName": "",
+    "Cost": 170,
+    "AdaptedAdvisor1": "High Priest",
+    "AdaptedAdvisor2": "Magister",
+    "AdaptedAdvisor3": null,
+    "Description": "Cathedral +3 Divine\nMagical Academy +3 Arcane",
+    "Memo": ""
+  },
+  {
+    "ID": 6,
+    "Region": "Varnhold",
+    "Name": "Bread and Circuses",
+    "CName": "",
+    "Cost": 340,
+    "AdaptedAdvisor1": "Regent",
+    "AdaptedAdvisor2": "Councilor",
+    "AdaptedAdvisor3": "Treasurer",
+    "Description": "any building in town provide Community or Loyalty bonus also +1 Economy",
+    "Memo": ""
+  },
+  {
+    "ID": 7,
+    "Region": "Varnhold",
+    "Name": "Guard Headquarters",
+    "CName": "",
+    "Cost": 298,
+    "AdaptedAdvisor1": "Warden",
+    "AdaptedAdvisor2": null,
+    "AdaptedAdvisor3": null,
+    "Description": "any problem could resolved by the Warden in this or any adjacent region,\nroll 2 check and pick best",
+    "Memo": ""
+  }
+]

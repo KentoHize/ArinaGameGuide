@@ -1,0 +1,19 @@
+[
+  {
+    "ID": 1,
+    "Name": "Longhouse",
+    "CName": "",
+    "OccupySlot": 1,
+    "Cost": 50,
+    "UpgradeTo": null,
+    "StaticStat1": "Community",
+    "StaticStat1Adjustment": "1",
+    "StaticStat2": "Divine",
+    "StaticStat2Adjustment": "1",
+    "StaticStat3": "Culture",
+    "StaticStat3Adjustment": "1",
+    "StaticStat4": null,
+    "StaticStat4Adjustment": null,
+    "Description": ""
+  }
+]

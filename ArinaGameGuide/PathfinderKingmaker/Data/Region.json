@@ -1,0 +1,62 @@
+[
+  {
+    "ID": 1,
+    "Name": "Shrike Hill",
+    "CName": "",
+    "Settlement": "Tuskdale"
+  },
+  {
+    "ID": 2,
+    "Name": "Kamelands",
+    "CName": "",
+    "Settlement": "Shambling Steps"
+  },
+  {
+    "ID": 3,
+    "Name": "Silverstep",
+    "CName": "",
+    "Settlement": "Silvershire"
+  },
+  {
+    "ID": 4,
+    "Name": "Varnhold",
+    "CName": "",
+    "Settlement": "Varnhold"
+  },
+  {
+    "ID": 5,
+    "Name": "Outskirt",
+    "CName": "",
+    "Settlement": "Tradegard"
+  },
+  {
+    "ID": 6,
+    "Name": "North Narlmarches",
+    "CName": "",
+    "Settlement": "Tatzlford"
+  },
+  {
+    "ID": 7,
+    "Name": "South Narlmarches",
+    "CName": "",
+    "Settlement": "Narlkeep"
+  },
+  {
+    "ID": 8,
+    "Name": "Dire Narlmarches",
+    "CName": "",
+    "Settlement": "Direburg"
+  },
+  {
+    "ID": 9,
+    "Name": "Glenebon",
+    "CName": "",
+    "Settlement": "Glenshire"
+  },
+  {
+    "ID": 10,
+    "Name": "Dunsward",
+    "CName": "",
+    "Settlement": "Plainsgard"
+  }
+]
