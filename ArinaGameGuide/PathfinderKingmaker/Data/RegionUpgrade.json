@@ -82,5 +82,29 @@
     "AdaptedAdvisor3": null,
     "Description": "any problem could resolved by the Warden in this or any adjacent region,\nroll 2 check and pick best",
     "Memo": ""
+  },
+  {
+    "ID": 8,
+    "Region": "North Narlmarches",
+    "Name": "Erastil's Holy Place",
+    "CName": "",
+    "Cost": 128,
+    "AdaptedAdvisor1": "High Priest",
+    "AdaptedAdvisor2": null,
+    "AdaptedAdvisor3": null,
+    "Description": "+2 sacred bonus to attack and damage against animals and magical beasts,\n+5 Lore(Nature) in kingdom",
+    "Memo": ""
+  },
+  {
+    "ID": 9,
+    "Region": "North Narlmarches",
+    "Name": "Royal Hunting Grounds",
+    "CName": "",
+    "Cost": 170,
+    "AdaptedAdvisor1": "Councilor",
+    "AdaptedAdvisor2": "Grand Diplomat",
+    "AdaptedAdvisor3": "Curator",
+    "Description": "no special effects",
+    "Memo": ""
   }
 ]

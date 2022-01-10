@@ -1137,5 +1137,22 @@
     "Repeat": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 68,
+    "Name": "Mendev Crusaders",
+    "CName": "",
+    "Type": "Opportunity",
+    "RequiredDays": 0,
+    "DC": 27,
+    "AdaptedAdvisor1": null,
+    "AdaptedAdvisor2": null,
+    "AdaptedAdvisor3": null,
+    "HaveAdvantage": null,
+    "HaveDisadvantage": null,
+    "CloseDate": null,
+    "Repeat": false,
+    "Description": "",
+    "Memo": ""
   }
 ]
