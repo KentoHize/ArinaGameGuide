@@ -6,5 +6,13 @@
     "BestChoiceAdvisor1": "Linzi",
     "BestChoiceAdvisor2": null,
     "Memo": "Choice B Better"
+  },
+  {
+    "ID": 2,
+    "Stat": "Espionage",
+    "Rank": 2,
+    "BestChoiceAdvisor1": "Ekundayo",
+    "BestChoiceAdvisor2": null,
+    "Memo": "+3 Espionage"
   }
 ]
