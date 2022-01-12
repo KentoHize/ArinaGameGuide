@@ -557,7 +557,7 @@
     "HardSpotLevelMax": null,
     "HasPlot": false,
     "Description": "",
-    "Memo": ""
+    "Memo": "-----\nKing Event\nBluff 31\nDiplomancy 29\n\nDiplomancy 31\n\n2880 exp"
   },
   {
     "ID": 42,
@@ -1846,5 +1846,19 @@
     "HasPlot": false,
     "Description": "",
     "Memo": "\n\n"
+  },
+  {
+    "ID": 134,
+    "Name": "Runes of the Old Tower",
+    "DisplayName": "Runes of the Old Tower",
+    "CName": "",
+    "Type": "Dungeon",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]
