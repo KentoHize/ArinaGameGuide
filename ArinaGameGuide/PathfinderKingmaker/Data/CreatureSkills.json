@@ -2578,5 +2578,41 @@
     "Creature": "Erinyes Devil",
     "Skill": "Stealth",
     "Bonus": 20
+  },
+  {
+    "ID": 432,
+    "Creature": "Immense Mandragora",
+    "Skill": "Perception",
+    "Bonus": 32
+  },
+  {
+    "ID": 433,
+    "Creature": "Immense Mandragora",
+    "Skill": "Stealth",
+    "Bonus": 4
+  },
+  {
+    "ID": 434,
+    "Creature": "Primal Treant",
+    "Skill": "Persuasion",
+    "Bonus": 20
+  },
+  {
+    "ID": 435,
+    "Creature": "Primal Treant",
+    "Skill": "Lore(Nature)",
+    "Bonus": 16
+  },
+  {
+    "ID": 436,
+    "Creature": "Primal Treant",
+    "Skill": "Perception",
+    "Bonus": 30
+  },
+  {
+    "ID": 437,
+    "Creature": "Primal Treant",
+    "Skill": "Stealth",
+    "Bonus": 7
   }
 ]

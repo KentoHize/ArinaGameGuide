@@ -2446,5 +2446,45 @@
     "Position": "North East",
     "Stage": 1,
     "Memo": ""
+  },
+  {
+    "ID": 307,
+    "Name": "Adamantine Shield Fortress Group B",
+    "Place": "Adamantine Shield Fortress",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 308,
+    "Name": "Adamantine Shield Fortress Halls Group A",
+    "Place": "Adamantine Shield Fortress Halls",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 309,
+    "Name": "An Ancient Curse, Part Five Group A",
+    "Place": "Bald Hilltop",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 310,
+    "Name": "An Ancient Curse, Part Five Group B",
+    "Place": "Bald Hilltop",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 311,
+    "Name": "An Ancient Curse, Part Five Group C",
+    "Place": "Bald Hilltop",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

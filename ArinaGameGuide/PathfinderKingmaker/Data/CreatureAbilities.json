@@ -2311,5 +2311,50 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 259,
+    "Creature": "Mandragora Swarm",
+    "Ability": "Fast Healing",
+    "Amount": 10,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 260,
+    "Creature": "Immense Mandragora",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 261,
+    "Creature": "Primal Treant",
+    "Ability": "Regeneration",
+    "Amount": 5,
+    "DamageType1": "Cold Iron",
+    "DamageType2": "Fire",
+    "DC": null
+  },
+  {
+    "ID": 262,
+    "Creature": "Primal Treant",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 263,
+    "Creature": "Primal Treant",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

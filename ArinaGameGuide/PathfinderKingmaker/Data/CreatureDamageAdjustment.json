@@ -2091,5 +2091,61 @@
     "Type": "Immunity",
     "DamageType": "Fire",
     "Amount": null
+  },
+  {
+    "ID": 300,
+    "Creature": "Adamantine Golem",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 15
+  },
+  {
+    "ID": 301,
+    "Creature": "Mandragora Swarm",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 5
+  },
+  {
+    "ID": 302,
+    "Creature": "Mandragora Swarm",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 5
+  },
+  {
+    "ID": 303,
+    "Creature": "Mandragora Swarm",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 307,
+    "Creature": "Mandragora Swarm",
+    "Type": "Vulnerability",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 304,
+    "Creature": "Primal Treant",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 10
+  },
+  {
+    "ID": 305,
+    "Creature": "Primal Treant",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 306,
+    "Creature": "Primal Treant",
+    "Type": "Vulnerability",
+    "DamageType": "Fire",
+    "Amount": null
   }
 ]

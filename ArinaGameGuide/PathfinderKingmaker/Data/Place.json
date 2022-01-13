@@ -25,7 +25,7 @@
     "HardSpotLevelMax": null,
     "HasPlot": false,
     "Description": "",
-    "Memo": "Lost Dwarven Fortress"
+    "Memo": "Lost Dwarven Fortress\n\n------\n\n"
   },
   {
     "ID": 95,
@@ -1858,6 +1858,34 @@
     "HardSpotLevelMin": null,
     "HardSpotLevelMax": null,
     "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 135,
+    "Name": "Adamantine Shield Fortress Halls",
+    "DisplayName": "Adamantine Shield Fortress Halls",
+    "CName": "",
+    "Type": "CanNotRest",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "\n"
+  },
+  {
+    "ID": 136,
+    "Name": "Farnirras' Prison",
+    "DisplayName": "Farnirras' Prison",
+    "CName": "",
+    "Type": "Dungeon",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
     "Description": "",
     "Memo": ""
   }

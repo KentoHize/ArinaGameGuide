@@ -54,5 +54,19 @@
     "ItemPart5": "Timeworn Thassilonian Rune from the Tenebrous Depths",
     "DuplicatedItemPart": null,
     "DuplicatedItemPartCount": null
+  },
+  {
+    "ID": 5,
+    "Name": "Necklace of Double Crosses",
+    "CName": "",
+    "IsArtifact": true,
+    "MergedItem": "Necklace of Double Crosses",
+    "ItemPart1": null,
+    "ItemPart2": null,
+    "ItemPart3": null,
+    "ItemPart4": null,
+    "ItemPart5": null,
+    "DuplicatedItemPart": "Scorched Fragment of a Necklace",
+    "DuplicatedItemPartCount": 7
   }
 ]

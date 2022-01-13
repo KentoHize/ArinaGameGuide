@@ -152,5 +152,16 @@
     "AsCreature": "Linxia",
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 15,
+    "Name": "Jarmuld Skjegge",
+    "CName": "",
+    "Gender": "Male",
+    "Place": "Adamantine Shield Fortress",
+    "Position": "Center",
+    "AsCreature": "Jarmuld Skjegge",
+    "Description": "Torag's paladin from Skjegge clan\n\n(Harrim's Quest)",
+    "Memo": ""
   }
 ]

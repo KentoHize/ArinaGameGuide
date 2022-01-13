@@ -7488,5 +7488,65 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "Ally"
+  },
+  {
+    "ID": 751,
+    "CreatureGroup": "Adamantine Shield Fortress Group B",
+    "Creature": "Adamantine Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 752,
+    "CreatureGroup": "Adamantine Shield Fortress Halls Group A",
+    "Creature": "Adamantine Golem",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 753,
+    "CreatureGroup": "Adamantine Shield Fortress Halls Group A",
+    "Creature": "Jarmuld Skjegge",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 754,
+    "CreatureGroup": "An Ancient Curse, Part Five Group A",
+    "Creature": "Immense Mandragora",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 755,
+    "CreatureGroup": "An Ancient Curse, Part Five Group A",
+    "Creature": "Mandragora Swarm",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 756,
+    "CreatureGroup": "An Ancient Curse, Part Five Group B",
+    "Creature": "Primal Treant",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

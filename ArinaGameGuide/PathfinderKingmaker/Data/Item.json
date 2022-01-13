@@ -6951,5 +6951,39 @@
     "StoryItem": false,
     "Weight": 0.0,
     "Description": ""
+  },
+  {
+    "ID": 410,
+    "Name": "Scorched Fragment of a Necklace",
+    "DisplayName": "Scorched Fragment of a Necklace",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Collectable Item",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 100,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.25,
+    "Description": ""
+  },
+  {
+    "ID": 411,
+    "Name": "Necklace of Double Crosses",
+    "DisplayName": "Necklace of Double Crosses",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Necklace",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 1750,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.1,
+    "Description": "+4 to Trickery, Steath and Mobility\nMelee attack against flat-footed +2d6 sneak damage\n\nWhen Ally move away from wearer, forced attack of opportunity to ally occur"
   }
 ]

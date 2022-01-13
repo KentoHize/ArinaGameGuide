@@ -1084,5 +1084,29 @@
     "Creature": "Erinyes Devil",
     "Condition": "Poison",
     "CondtionGroup": null
+  },
+  {
+    "ID": 190,
+    "Creature": "Adamantine Golem",
+    "Condition": null,
+    "CondtionGroup": "Construct Immunities"
+  },
+  {
+    "ID": 191,
+    "Creature": "Mandragora Swarm",
+    "Condition": null,
+    "CondtionGroup": "Swarm Immunities"
+  },
+  {
+    "ID": 192,
+    "Creature": "Immense Mandragora",
+    "Condition": null,
+    "CondtionGroup": "Plant Immunities"
+  },
+  {
+    "ID": 193,
+    "Creature": "Primal Treant",
+    "Condition": null,
+    "CondtionGroup": "Plant Immunities"
   }
 ]

@@ -4072,5 +4072,47 @@
     "DamageAdditiveBonus": 19,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 331,
+    "Creature": "Immense Mandragora",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 12,
+    "AddtionalAttack": 0,
+    "AttackBonus": 27,
+    "Weapon": null,
+    "BasicDamage": "2d8",
+    "DamageAdditiveBonus": 27,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 332,
+    "Creature": "Immense Mandragora",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 12,
+    "AddtionalAttack": 1,
+    "AttackBonus": 27,
+    "Weapon": null,
+    "BasicDamage": "3d6",
+    "DamageAdditiveBonus": 27,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 333,
+    "Creature": "Primal Treant",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 9,
+    "AddtionalAttack": 1,
+    "AttackBonus": 30,
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 24,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]
