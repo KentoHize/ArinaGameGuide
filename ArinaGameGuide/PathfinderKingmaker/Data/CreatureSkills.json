@@ -2614,5 +2614,29 @@
     "Creature": "Primal Treant",
     "Skill": "Stealth",
     "Bonus": 7
+  },
+  {
+    "ID": 438,
+    "Creature": "Marquis Dazzlelight",
+    "Skill": "Mobility",
+    "Bonus": 32
+  },
+  {
+    "ID": 439,
+    "Creature": "Marquis Dazzlelight",
+    "Skill": "Persuasion",
+    "Bonus": 26
+  },
+  {
+    "ID": 440,
+    "Creature": "Marquis Dazzlelight",
+    "Skill": "Perception",
+    "Bonus": 42
+  },
+  {
+    "ID": 441,
+    "Creature": "Marquis Dazzlelight",
+    "Skill": "Stealth",
+    "Bonus": 48
   }
 ]

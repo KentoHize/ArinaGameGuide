@@ -7548,5 +7548,15 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 757,
+    "CreatureGroup": "An Ancient Curse, Part Five Group C",
+    "Creature": "Marquis Dazzlelight",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

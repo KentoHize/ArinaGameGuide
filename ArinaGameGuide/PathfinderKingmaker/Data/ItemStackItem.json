@@ -6118,5 +6118,13 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 767,
+    "ItemStack": "Diamond",
+    "Item": "Diamond",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

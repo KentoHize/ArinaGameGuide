@@ -2287,5 +2287,26 @@
     "OtherConsequence": "None",
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 110,
+    "Event": "Creeping Death",
+    "Advisor": "General",
+    "Companion": "Regongar",
+    "Result": "Managed To Perserve",
+    "Stat1": "Military",
+    "Stat1Adjustment": 4,
+    "Stat2": "Stability",
+    "Stat2Adjustment": 1,
+    "Stat3": "Espionage",
+    "Stat3Adjustment": 1,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": "None",
+    "Description": "",
+    "Memo": ""
   }
 ]
