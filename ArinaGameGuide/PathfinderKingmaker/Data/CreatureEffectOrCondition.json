@@ -727,5 +727,23 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 83,
+    "Creature": "Bandit 9 Achlemist",
+    "EffectOrCondition": "Mutagen - Dexterity",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 84,
+    "Creature": "Bandit 9 Achlemist",
+    "EffectOrCondition": "Barskin",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

@@ -4481,7 +4481,25 @@
           "IsUnique": false
         },
         {
-          "Name": "HaveDisadvantage",
+          "Name": "HaveDisadvantage1",
+          "IsKey": false,
+          "IsNullable": true,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": "Advisor",
+          "FKColumn": "Name",
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        },
+        {
+          "Name": "HaveDisadvantage2",
           "IsKey": false,
           "IsNullable": true,
           "Type": "String",

@@ -1356,5 +1356,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 98,
+    "Name": "Lesser Ring of Ultimate Protection",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Pitax River Bend",
+    "Position": "Center",
+    "ItemStack": "Lesser Ring of Ultimate Protection",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

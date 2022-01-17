@@ -1888,5 +1888,61 @@
     "HasPlot": true,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 137,
+    "Name": "Capital Inn",
+    "DisplayName": "Capital Inn",
+    "CName": "",
+    "Type": "Safe Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "Jubloist event\nPersuasion 35"
+  },
+  {
+    "ID": 138,
+    "Name": "Cave From Luna's Map",
+    "DisplayName": "Cave From Luna's Map",
+    "CName": "",
+    "Type": "Dungeon",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 139,
+    "Name": "Rushlight Fields",
+    "DisplayName": "Rushlight Fields",
+    "CName": "",
+    "Type": "CanNotRest",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": "Percepton 36\n\nIntimidate 36\nBluff 32\nStealth 28\n\n-------\nPicklock\nTrickery 24\nTrickery 36\nTrickery 46\n\n------\nAthletics 42 -> 46080 exp\nStealth 30\n\nTrickery  41 -> 30720 exp\nStealth 30\nTrickery 20\n\nAthletics 40  -> 23040 exp\nTrickery 35\nTrickery 50\n\n960 exp\n--------\nDiplomancy 40\nIntimidate 35\nStealth ??\n\nDiplomancy 36 -> 5760 exp\nIntimidate 27\nBluff 27\n\nBluff 35\nIntimidate 35 -> 3840 exp\nDiplomancy 35"
+  },
+  {
+    "ID": 140,
+    "Name": "Pitax River Bend",
+    "DisplayName": "Pitax River Bend",
+    "CName": "",
+    "Type": "Hunting Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "Athletics 32\nMobility 32\nLore(Nature) 32\n\nTrickery 32\nStealth 32 -> 1440 exp\n\nDiplomancy 38\nDiplomancy 32 -> 1440exp\nDiplomancy 25\n\nDiplomancy 38 -> 14640 exp"
   }
 ]

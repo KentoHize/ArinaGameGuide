@@ -2486,5 +2486,21 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 312,
+    "Name": "Cave From Luna's Map Group A",
+    "Place": "Cave From Luna's Map",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 313,
+    "Name": "Pitax River Bend Group A",
+    "Place": "Pitax River Bend",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

@@ -2412,7 +2412,7 @@
   {
     "ID": 5,
     "CreatureGroup": "Talon Peak Bandit Group",
-    "Creature": "Bandit_TP_3",
+    "Creature": "Bandit 9 Achlemist",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,
@@ -7554,6 +7554,76 @@
     "CreatureGroup": "An Ancient Curse, Part Five Group C",
     "Creature": "Marquis Dazzlelight",
     "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 758,
+    "CreatureGroup": "Cave From Luna's Map Group A",
+    "Creature": "Ghostly Guard",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 759,
+    "CreatureGroup": "Pitax River Bend Group A",
+    "Creature": "Bandit 9 Rouge",
+    "DisplayName": "Pirate Brawler",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 760,
+    "CreatureGroup": "Pitax River Bend Group A",
+    "Creature": "Bandit 9 Bard",
+    "DisplayName": "Pirate Bard",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 761,
+    "CreatureGroup": "Pitax River Bend Group A",
+    "Creature": "Bandit 9 Achlemist",
+    "DisplayName": "Pirate Achlemist",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 762,
+    "CreatureGroup": "Pitax River Bend Group A",
+    "Creature": "Bandit 8 Archer",
+    "DisplayName": "Pirate Brawler",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 763,
+    "CreatureGroup": "Pitax River Bend Group A",
+    "Creature": "Bandit 8 Fighter",
+    "DisplayName": "Pirate Brawler",
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 764,
+    "CreatureGroup": "Pitax River Bend Group A",
+    "Creature": "Bandit 7 Cleric",
+    "DisplayName": "Pirate Brawler",
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,

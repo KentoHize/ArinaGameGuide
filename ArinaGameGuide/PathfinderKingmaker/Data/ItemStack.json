@@ -1463,5 +1463,15 @@
     "ID": 294,
     "Name": "Diamond",
     "Memo": ""
+  },
+  {
+    "ID": 295,
+    "Name": "Greater Extend Metamagic Rod",
+    "Memo": ""
+  },
+  {
+    "ID": 296,
+    "Name": "Lesser Ring of Ultimate Protection",
+    "Memo": ""
   }
 ]

@@ -2638,5 +2638,23 @@
     "Creature": "Marquis Dazzlelight",
     "Skill": "Stealth",
     "Bonus": 48
+  },
+  {
+    "ID": 442,
+    "Creature": "Bandit 9 Achlemist",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 443,
+    "Creature": "Bandit 9 Achlemist",
+    "Skill": "Stealth",
+    "Bonus": 15
+  },
+  {
+    "ID": 444,
+    "Creature": "Bandit 9 Achlemist",
+    "Skill": "Trickery",
+    "Bonus": 20
   }
 ]

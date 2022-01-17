@@ -6126,5 +6126,21 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 768,
+    "ItemStack": "Greater Extend Metamagic Rod",
+    "Item": "Greater Extend Metamagic Rod",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 769,
+    "ItemStack": "Lesser Ring of Ultimate Protection",
+    "Item": "Lesser Ring of Ultimate Protection",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

@@ -6985,5 +6985,39 @@
     "StoryItem": false,
     "Weight": 0.1,
     "Description": "+4 to Trickery, Steath and Mobility\nMelee attack against flat-footed +2d6 sneak damage\n\nWhen Ally move away from wearer, forced attack of opportunity to ally occur"
+  },
+  {
+    "ID": 412,
+    "Name": "Greater Extend Metamagic Rod",
+    "DisplayName": "Greater Extend Metamagic Rod",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Rod",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 6125,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": ""
+  },
+  {
+    "ID": 413,
+    "Name": "Lesser Ring of Ultimate Protection",
+    "DisplayName": "Lesser Ring of Ultimate Protection",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Ring",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 19500,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.05,
+    "Description": "+4 resistance bonus\n+4 deflection AC\nSR 19\nDR 1/-"
   }
 ]
