@@ -1943,6 +1943,20 @@
     "HardSpotLevelMax": null,
     "HasPlot": false,
     "Description": "",
-    "Memo": "Athletics 32\nMobility 32\nLore(Nature) 32\n\nTrickery 32\nStealth 32 -> 1440 exp\n\nDiplomancy 38\nDiplomancy 32 -> 1440exp\nDiplomancy 25\n\nDiplomancy 38 -> 14640 exp"
+    "Memo": "Athletics 32\nMobility 32\nLore(Nature) 32\n\nTrickery 32\nStealth 32 -> 1440 exp\n\nDiplomancy 38 -> 11520 exp\nDiplomancy 32 -> 1440exp\nDiplomancy 25\n\nDiplomancy 38 -> 14640 exp"
+  },
+  {
+    "ID": 141,
+    "Name": "Pitax",
+    "DisplayName": "Pitax",
+    "CName": "",
+    "Type": "Safe Area",
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]
