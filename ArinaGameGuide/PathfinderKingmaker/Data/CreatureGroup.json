@@ -2502,5 +2502,61 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 314,
+    "Name": "Secret Sanctum Group B",
+    "Place": "Secret Sanctum",
+    "Position": "Center",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 315,
+    "Name": "City of Hollow Eyes Cultist Group A",
+    "Place": "City of Hollow Eyes",
+    "Position": "South",
+    "Stage": 2,
+    "Memo": ""
+  },
+  {
+    "ID": 316,
+    "Name": "City of Hollow Eyes Cultist Group B",
+    "Place": "City of Hollow Eyes",
+    "Position": "East",
+    "Stage": 2,
+    "Memo": ""
+  },
+  {
+    "ID": 317,
+    "Name": "City of Hollow Eyes Cultist Group C",
+    "Place": "City of Hollow Eyes",
+    "Position": "East",
+    "Stage": 2,
+    "Memo": ""
+  },
+  {
+    "ID": 318,
+    "Name": "City of Hollow Eyes Cultist Group D",
+    "Place": "City of Hollow Eyes",
+    "Position": "Center",
+    "Stage": 2,
+    "Memo": ""
+  },
+  {
+    "ID": 319,
+    "Name": "City of Hollow Eyes Cultist Group E",
+    "Place": "City of Hollow Eyes",
+    "Position": "Center",
+    "Stage": 2,
+    "Memo": ""
+  },
+  {
+    "ID": 320,
+    "Name": "City of Hollow Eyes Cultist Group F",
+    "Place": "City of Hollow Eyes",
+    "Position": "Center",
+    "Stage": 2,
+    "Memo": ""
   }
 ]

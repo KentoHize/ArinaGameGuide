@@ -2392,5 +2392,26 @@
     "OtherConsequence": "None",
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 115,
+    "Event": "The Hero's Reward",
+    "Advisor": "Regent",
+    "Companion": "Valerie",
+    "Result": "Success",
+    "Stat1": "Community",
+    "Stat1Adjustment": 6,
+    "Stat2": "Military",
+    "Stat2Adjustment": 3,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": "None",
+    "Description": "",
+    "Memo": ""
   }
 ]

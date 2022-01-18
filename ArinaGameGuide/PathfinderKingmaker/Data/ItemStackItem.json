@@ -6142,5 +6142,61 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 770,
+    "ItemStack": "Ruthgert, the First Faithful RS",
+    "Item": "Club +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 771,
+    "ItemStack": "Ruthgert, the First Faithful RS",
+    "Item": "Dagger +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 772,
+    "ItemStack": "Ruthgert, the First Faithful RS",
+    "Item": "Breastplate +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 773,
+    "ItemStack": "Ruthgert, the First Faithful RS",
+    "Item": "Belt of Physical Flow +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 774,
+    "ItemStack": "Ruthgert, the First Faithful RS",
+    "Item": "Amulet of Natural Armor +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 775,
+    "ItemStack": "Ruthgert, the First Faithful RS",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 776,
+    "ItemStack": "Ruthgert, the First Faithful RS",
+    "Item": "Ring of Protection +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]
