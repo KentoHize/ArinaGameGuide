@@ -15342,13 +15342,13 @@
     "BaseAttackBonus": 24,
     "CombatManeuverBonus": 39,
     "CombatManeuverDefense": 58,
-    "SpellResistance": 11,
+    "SpellResistance": 28,
     "SkinItem": null,
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
     "RemainItems": null,
-    "Memo": ""
+    "Memo": "SR 11-> 28"
   },
   {
     "ID": 359,

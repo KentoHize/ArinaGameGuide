@@ -2446,5 +2446,14 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 274,
+    "Creature": "Siroket",
+    "Ability": "Enraged Warrior",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]
