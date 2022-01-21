@@ -94,5 +94,11 @@
     "Name": "Mud Blast - Kinetic Blade",
     "CName": "",
     "DamageType": "Slash"
+  },
+  {
+    "ID": 17,
+    "Name": "Flaming Bite",
+    "CName": "",
+    "DamageType": "Slash/Bludgeon/Pierce"
   }
 ]

@@ -7908,5 +7908,65 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 793,
+    "CreatureGroup": "Blakemoor's Hideout Siroket 2",
+    "Creature": "Siroket",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 794,
+    "CreatureGroup": "Blakemoor's Hideout Siroket 2",
+    "Creature": "Erinyes Devil 14",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 795,
+    "CreatureGroup": "Blakemoor's Hideout Siroket 2",
+    "Creature": "Hell Hound",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 796,
+    "CreatureGroup": "Blakemoor's Hideout Siroket 3",
+    "Creature": "Siroket",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 797,
+    "CreatureGroup": "Blakemoor's Hideout Siroket 3",
+    "Creature": "Erinyes Devil 14",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 798,
+    "CreatureGroup": "Blakemoor's Hideout Siroket 3",
+    "Creature": "Hell Hound",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

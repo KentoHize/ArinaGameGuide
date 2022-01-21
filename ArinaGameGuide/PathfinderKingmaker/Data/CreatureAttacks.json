@@ -4212,5 +4212,19 @@
     "DamageAdditiveBonus": 18,
     "OtherDamageBonus": "Fire 1d6",
     "SneakDamage": null
+  },
+  {
+    "ID": 341,
+    "Creature": "Hell Hound",
+    "Form": "Flaming Bite",
+    "Type": "Other",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 11,
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 4,
+    "OtherDamageBonus": "Fire 1d6",
+    "SneakDamage": null
   }
 ]

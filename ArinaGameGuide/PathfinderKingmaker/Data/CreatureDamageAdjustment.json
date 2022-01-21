@@ -2252,5 +2252,19 @@
     "Type": "Immunity",
     "DamageType": "Fire",
     "Amount": null
+  },
+  {
+    "ID": 323,
+    "Creature": "Hell Hound",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 324,
+    "Creature": "Hell Hound",
+    "Type": "Vulnerability",
+    "DamageType": "Cold",
+    "Amount": null
   }
 ]

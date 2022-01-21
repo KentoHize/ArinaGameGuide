@@ -559,5 +559,16 @@
     "EnemyGroup2": null,
     "EnemyGroup3": null,
     "Memo": ""
+  },
+  {
+    "ID": 52,
+    "Name": "Blakemoor's Hideout Siroket",
+    "Place": "Blakemoor's Hideout",
+    "Position": "Center",
+    "HasPlot": true,
+    "EnemyGroup1": "Blakemoor's Hideout Siroket",
+    "EnemyGroup2": "Blakemoor's Hideout Siroket 2",
+    "EnemyGroup3": "Blakemoor's Hideout Siroket 3",
+    "Memo": ""
   }
 ]

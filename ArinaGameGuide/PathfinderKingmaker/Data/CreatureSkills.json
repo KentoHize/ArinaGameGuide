@@ -2722,5 +2722,11 @@
     "Creature": "Erinyes Devil 14",
     "Skill": "Stealth",
     "Bonus": 28
+  },
+  {
+    "ID": 456,
+    "Creature": "Hell Hound",
+    "Skill": "Perception",
+    "Bonus": 13
   }
 ]

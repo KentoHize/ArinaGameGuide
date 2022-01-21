@@ -2582,5 +2582,21 @@
     "Position": "Center",
     "Stage": 1,
     "Memo": ""
+  },
+  {
+    "ID": 324,
+    "Name": "Blakemoor's Hideout Siroket 2",
+    "Place": "Blakemoor's Hideout",
+    "Position": "North East",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 325,
+    "Name": "Blakemoor's Hideout Siroket 3",
+    "Place": "Blakemoor's Hideout",
+    "Position": "North West",
+    "Stage": 1,
+    "Memo": ""
   }
 ]
