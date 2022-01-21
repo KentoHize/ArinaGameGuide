@@ -6246,5 +6246,21 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 783,
+    "ItemStack": "Siroket RS",
+    "Item": "Capital Punishment",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 784,
+    "ItemStack": "Siroket RS",
+    "Item": "Breastplate +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

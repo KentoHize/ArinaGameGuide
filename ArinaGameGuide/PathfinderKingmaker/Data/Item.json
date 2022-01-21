@@ -7196,15 +7196,32 @@
     "DisplayName": "Capital Punishment",
     "DisplayCName": "",
     "Type": null,
-    "BaseItem": null,
-    "SpecialMaterial": null,
+    "BaseItem": "Greataxe",
+    "SpecialMaterial": "Adamantine",
     "CasterLevel": null,
     "Charges": null,
     "DC": null,
-    "SellPrice": 0,
+    "SellPrice": 22500,
     "ChangePrice": 0,
     "StoryItem": false,
-    "Weight": 0.0,
-    "Description": ""
+    "Weight": 12.0,
+    "Description": "+5 Axiomatic Keen"
+  },
+  {
+    "ID": 425,
+    "Name": "Blackemoor's Grimoire",
+    "DisplayName": "Blackemoor's Grimoire",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Usable",
+    "SpecialMaterial": null,
+    "CasterLevel": 1,
+    "Charges": 1,
+    "DC": 15,
+    "SellPrice": 45000,
+    "ChangePrice": 0,
+    "StoryItem": true,
+    "Weight": 2.0,
+    "Description": "Summon a movanic deva"
   }
 ]

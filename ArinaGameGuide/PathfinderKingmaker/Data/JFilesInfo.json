@@ -6647,7 +6647,8 @@
             "Herb",
             "Stone",
             "Corpse",
-            "Other"
+            "Other",
+            "Plot"
           ],
           "FKTable": null,
           "FKColumn": null,
