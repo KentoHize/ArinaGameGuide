@@ -6198,5 +6198,29 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 777,
+    "ItemStack": "Charred Mantle",
+    "Item": "Charred Mantle",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 778,
+    "ItemStack": "Penalty",
+    "Item": "Penalty",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 779,
+    "ItemStack": "Faterender",
+    "Item": "Faterender",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

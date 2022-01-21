@@ -1108,5 +1108,23 @@
     "Creature": "Primal Treant",
     "Condition": null,
     "CondtionGroup": "Plant Immunities"
+  },
+  {
+    "ID": 194,
+    "Creature": "Patient Shadow",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 195,
+    "Creature": "Patient Shadow",
+    "Condition": "Death",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 196,
+    "Creature": "Skillfully Crafted Golden Golem",
+    "Condition": null,
+    "CondtionGroup": "Construct Immunities"
   }
 ]

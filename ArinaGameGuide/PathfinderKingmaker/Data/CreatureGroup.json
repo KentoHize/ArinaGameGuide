@@ -2558,5 +2558,21 @@
     "Position": "Center",
     "Stage": 2,
     "Memo": ""
+  },
+  {
+    "ID": 321,
+    "Name": "Wicked Hill Patient Shadow",
+    "Place": "Wicked Hill",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 322,
+    "Name": "Ornate Ruins Group A",
+    "Place": "Ornate Ruins",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

@@ -1370,5 +1370,33 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 99,
+    "Name": "Charred Mantle Treasure",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Sharp Fangs Tribal Camp",
+    "Position": "North",
+    "ItemStack": "Charred Mantle",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 100,
+    "Name": "Ornate Ruins Treasure",
+    "CName": "",
+    "Type": "Crate",
+    "Place": "Ornate Ruins",
+    "Position": "Center",
+    "ItemStack": "Faterender",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

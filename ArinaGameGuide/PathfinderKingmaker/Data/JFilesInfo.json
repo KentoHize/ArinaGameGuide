@@ -5530,6 +5530,24 @@
           "IsUnique": false
         },
         {
+          "Name": "Region",
+          "IsKey": false,
+          "IsNullable": true,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": "Region",
+          "FKColumn": "Name",
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        },
+        {
           "Name": "SuggestedLevelMin",
           "IsKey": false,
           "IsNullable": false,

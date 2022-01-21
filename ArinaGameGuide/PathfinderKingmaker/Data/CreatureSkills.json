@@ -2656,5 +2656,41 @@
     "Creature": "Bandit 9 Achlemist",
     "Skill": "Trickery",
     "Bonus": 20
+  },
+  {
+    "ID": 445,
+    "Creature": "Patient Shadow",
+    "Skill": "Mobility",
+    "Bonus": 35
+  },
+  {
+    "ID": 446,
+    "Creature": "Patient Shadow",
+    "Skill": "Persuasion",
+    "Bonus": 33
+  },
+  {
+    "ID": 447,
+    "Creature": "Patient Shadow",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 25
+  },
+  {
+    "ID": 448,
+    "Creature": "Patient Shadow",
+    "Skill": "Lore(Nature)",
+    "Bonus": 25
+  },
+  {
+    "ID": 449,
+    "Creature": "Patient Shadow",
+    "Skill": "Perception",
+    "Bonus": 38
+  },
+  {
+    "ID": 450,
+    "Creature": "Patient Shadow",
+    "Skill": "Stealth",
+    "Bonus": 29
   }
 ]

@@ -7868,5 +7868,25 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 789,
+    "CreatureGroup": "Wicked Hill Patient Shadow",
+    "Creature": "Patient Shadow",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 790,
+    "CreatureGroup": "Ornate Ruins Group A",
+    "Creature": "Skillfully Crafted Golden Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": "Piece of Skymetal",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

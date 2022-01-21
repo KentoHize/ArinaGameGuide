@@ -2147,5 +2147,54 @@
     "Type": "Vulnerability",
     "DamageType": "Fire",
     "Amount": null
+  },
+  {
+    "ID": 308,
+    "Creature": "Patient Shadow",
+    "Type": "DamageReduction",
+    "DamageType": "Sliver and Magic",
+    "Amount": 10
+  },
+  {
+    "ID": 309,
+    "Creature": "Patient Shadow",
+    "Type": "DamageReduction",
+    "DamageType": "Good",
+    "Amount": 10
+  },
+  {
+    "ID": 310,
+    "Creature": "Patient Shadow",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 311,
+    "Creature": "Patient Shadow",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 312,
+    "Creature": "Patient Shadow",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 10
+  },
+  {
+    "ID": 313,
+    "Creature": "Patient Shadow",
+    "Type": "Immunity",
+    "DamageType": "Acid",
+    "Amount": null
+  },
+  {
+    "ID": 314,
+    "Creature": "Skillfully Crafted Golden Golem",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 15
   }
 ]
