@@ -2574,5 +2574,13 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 323,
+    "Name": "Blakemoor's Hideout Siroket",
+    "Place": "Blakemoor's Hideout",
+    "Position": "Center",
+    "Stage": 1,
+    "Memo": ""
   }
 ]

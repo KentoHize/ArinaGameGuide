@@ -6222,5 +6222,29 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 780,
+    "ItemStack": "Blakemoor's Hideout Treasure A",
+    "Item": "Charlatan's Locket",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 781,
+    "ItemStack": "Blakemoor's Hideout Treasure A",
+    "Item": "Robe of False Death",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 782,
+    "ItemStack": "Blakemoor's Hideout Treasure A",
+    "Item": "The Binding of the Prince",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

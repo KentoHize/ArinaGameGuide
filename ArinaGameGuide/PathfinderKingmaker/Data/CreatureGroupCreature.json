@@ -7888,5 +7888,25 @@
     "AdditonalItems": "Piece of Skymetal",
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 791,
+    "CreatureGroup": "Blakemoor's Hideout Siroket",
+    "Creature": "Siroket",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 792,
+    "CreatureGroup": "Blakemoor's Hideout Siroket",
+    "Creature": "Erinyes Devil 14",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

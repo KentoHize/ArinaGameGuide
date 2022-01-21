@@ -1126,5 +1126,35 @@
     "Creature": "Skillfully Crafted Golden Golem",
     "Condition": null,
     "CondtionGroup": "Construct Immunities"
+  },
+  {
+    "ID": 197,
+    "Creature": "Siroket",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 198,
+    "Creature": "Siroket",
+    "Condition": "Trip",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 199,
+    "Creature": "Siroket",
+    "Condition": "Difficult Terrain",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 200,
+    "Creature": "Siroket",
+    "Condition": "Prone",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 201,
+    "Creature": "Erinyes Devil 14",
+    "Condition": "Poison",
+    "CondtionGroup": null
   }
 ]

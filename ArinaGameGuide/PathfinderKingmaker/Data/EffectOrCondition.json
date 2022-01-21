@@ -574,5 +574,23 @@
     "IsGroup": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 66,
+    "Name": "Death Ward",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 67,
+    "Name": "Trip",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

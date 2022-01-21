@@ -1398,5 +1398,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 101,
+    "Name": "Blakemoor's Hideout Treasure A",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Blakemoor's Hideout",
+    "Position": "North East",
+    "ItemStack": "Blakemoor's Hideout Treasure A",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": 0,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

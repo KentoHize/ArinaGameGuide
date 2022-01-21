@@ -4184,5 +4184,33 @@
     "DamageAdditiveBonus": 17,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 339,
+    "Creature": "Siroket",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 41,
+    "Weapon": "Capital Punishment",
+    "BasicDamage": "1d12",
+    "DamageAdditiveBonus": 48,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 340,
+    "Creature": "Erinyes Devil 14",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AddtionalAttack": 0,
+    "AttackBonus": 24,
+    "Weapon": "Flaming Composite Longbow +1",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 18,
+    "OtherDamageBonus": "Fire 1d6",
+    "SneakDamage": null
   }
 ]

@@ -2692,5 +2692,35 @@
     "Creature": "Patient Shadow",
     "Skill": "Stealth",
     "Bonus": 29
+  },
+  {
+    "ID": 451,
+    "Creature": "Siroket",
+    "Skill": "Perception",
+    "Bonus": 27
+  },
+  {
+    "ID": 452,
+    "Creature": "Siroket",
+    "Skill": "Stealth",
+    "Bonus": 20
+  },
+  {
+    "ID": 453,
+    "Creature": "Erinyes Devil 14",
+    "Skill": "Persuasion",
+    "Bonus": 23
+  },
+  {
+    "ID": 454,
+    "Creature": "Erinyes Devil 14",
+    "Skill": "Perception",
+    "Bonus": 29
+  },
+  {
+    "ID": 455,
+    "Creature": "Erinyes Devil 14",
+    "Skill": "Stealth",
+    "Bonus": 28
   }
 ]

@@ -754,5 +754,32 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 86,
+    "Creature": "Siroket",
+    "EffectOrCondition": "True Seeing",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 87,
+    "Creature": "Siroket",
+    "EffectOrCondition": "Death Ward",
+    "Amount": null,
+    "Period": 1992,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 88,
+    "Creature": "Erinyes Devil 14",
+    "EffectOrCondition": "True Seeing",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]
