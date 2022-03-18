@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 1,
+    "Name": "Classic",
+    "CName": "",
+    "VersionNumber": 1.0
+  },
+  {
+    "ID": 2,
+    "Name": "1.3",
+    "CName": "",
+    "VersionNumber": 1.3
+  },
+  {
+    "ID": 3,
+    "Name": "Anniversary Edition",
+    "CName": "",
+    "VersionNumber": 1.4
+  },
+  {
+    "ID": 4,
+    "Name": "Final Cut",
+    "CName": "",
+    "VersionNumber": 1.5
+  }
+]

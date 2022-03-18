@@ -1,0 +1,41 @@
+[
+  {
+    "ID": 1,
+    "Name": "Original",
+    "CName": "",
+    "Location": "Brothel",
+    "DangerLevel": "Very High",
+    "Crowbar": 0,
+    "Shovel": 0,
+    "Sawblade": 0,
+    "Axe": 0,
+    "Pyre": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 2,
+    "Name": "Bandit",
+    "CName": "",
+    "Location": "St. Mary's Church",
+    "DangerLevel": "Very High",
+    "Crowbar": 0,
+    "Shovel": 0,
+    "Sawblade": 1,
+    "Axe": 14,
+    "Pyre": 44,
+    "Memo": ""
+  },
+  {
+    "ID": 3,
+    "Name": null,
+    "CName": null,
+    "Location": "Sniper Junction",
+    "DangerLevel": "High",
+    "Crowbar": 0,
+    "Shovel": 0,
+    "Sawblade": 0,
+    "Axe": 7,
+    "Pyre": 27,
+    "Memo": ""
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "ID": 1,
+    "Name": "Abandoned Cottage",
+    "CName": "",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 2,
+    "Name": "Brothel",
+    "CName": "妓院",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": true,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 3,
+    "Name": "Central Square",
+    "CName": "",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 4,
+    "Name": "City Hospital",
+    "CName": "城市醫院",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": true,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 5,
+    "Name": "Construction Site",
+    "CName": "建築工地",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 6,
+    "Name": "Decrepit Squat",
+    "CName": "貧民窟",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 7,
+    "Name": "Garage",
+    "CName": "汽修廠",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 8,
+    "Name": "Hotel",
+    "CName": "旅館",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": true,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 9,
+    "Name": "Military Outpost",
+    "CName": "軍隊哨站",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 10,
+    "Name": "Our Shelter",
+    "CName": "我們的避難所",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 11,
+    "Name": "Quiet House",
+    "CName": "寂靜小屋",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": true,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 12,
+    "Name": "Ruined Block of Flats",
+    "CName": "公寓廢墟",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 13,
+    "Name": "Ruined Villa",
+    "CName": "別墅廢墟",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 14,
+    "Name": "Semi-Detached House",
+    "CName": "半毀的房屋",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 15,
+    "Name": "Shelled Cottage",
+    "CName": "",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 16,
+    "Name": "Shelled School",
+    "CName": "被砲擊的學校",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": true,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 17,
+    "Name": "Small Apartment Building",
+    "CName": "小型公寓樓",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": true,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 18,
+    "Name": "Sniper Junction",
+    "CName": "狙擊中心",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 19,
+    "Name": "St. Mary's Church",
+    "CName": "聖瑪麗教堂",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 20,
+    "Name": "Supermarket",
+    "CName": "超市",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 21,
+    "Name": "Warhouse",
+    "CName": "倉庫",
+    "Pakage": "Classic",
+    "ForbiddenWhileSnow": true,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 22,
+    "Name": "Looted Gas Station",
+    "CName": "被搶劫的加油站",
+    "Pakage": "1.3",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 23,
+    "Name": "Old Town",
+    "CName": "",
+    "Pakage": "1.3",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 24,
+    "Name": "Air Port",
+    "CName": "機場",
+    "Pakage": "Anniversary Edition",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 25,
+    "Name": "Ghost House",
+    "CName": "鬼屋",
+    "Pakage": "Anniversary Edition",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 26,
+    "Name": "Port",
+    "CName": "碼頭",
+    "Pakage": "Anniversary Edition",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 27,
+    "Name": "Bakery",
+    "CName": "麵包店",
+    "Pakage": "Final Cut",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 28,
+    "Name": "Music Club",
+    "CName": "",
+    "Pakage": "Final Cut",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 29,
+    "Name": "Park",
+    "CName": "公園",
+    "Pakage": "Final Cut",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 30,
+    "Name": "Pharmacy",
+    "CName": "藥局",
+    "Pakage": "Final Cut",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 31,
+    "Name": "Railway Station",
+    "CName": "火車站",
+    "Pakage": "Final Cut",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 32,
+    "Name": "Ruined Toy Store",
+    "CName": "玩具店廢墟",
+    "Pakage": "Final Cut",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 33,
+    "Name": "Shelled Brewery",
+    "CName": "",
+    "Pakage": "Final Cut",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  },
+  {
+    "ID": 34,
+    "Name": "The Samuel Institute",
+    "CName": "",
+    "Pakage": "Final Cut",
+    "ForbiddenWhileSnow": false,
+    "WarArea": false,
+    "Memo": ""
+  }
+]
