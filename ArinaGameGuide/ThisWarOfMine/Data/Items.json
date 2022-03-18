@@ -307,7 +307,7 @@
   },
   {
     "ID": 35,
-    "Name": "Broken Toys",
+    "Name": "Broken Toy",
     "CName": "壞掉的玩具",
     "IsFurniture": false,
     "StackLimit": 4,
@@ -318,6 +318,177 @@
     "ID": 36,
     "Name": "Broken Guitar",
     "CName": "損壞的吉他",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 37,
+    "Name": "Toy Box",
+    "CName": "玩具盒",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 38,
+    "Name": "Advanced Workshop",
+    "CName": "高級工作台",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 39,
+    "Name": "Alcohol Distiller",
+    "CName": "酒精蒸餾器",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 40,
+    "Name": "Reinforced Door",
+    "CName": "加固門",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 43,
+    "Name": "Heat Lamp",
+    "CName": "電熱燈",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 42,
+    "Name": "Mixer",
+    "CName": "攪拌器",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 41,
+    "Name": "Thermo Regulator",
+    "CName": "溫度調節器",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 44,
+    "Name": "Fertilizer",
+    "CName": "化肥",
+    "IsFurniture": false,
+    "StackLimit": 4,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 45,
+    "Name": "Vegetable Garden",
+    "CName": "蔬菜園",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 46,
+    "Name": "Raw Food",
+    "CName": "食物",
+    "IsFurniture": false,
+    "StackLimit": 4,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 47,
+    "Name": "Improved Metal Workshop",
+    "CName": "進階金屬工作台",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 48,
+    "Name": "Knife",
+    "CName": "刀子",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 49,
+    "Name": "Pistol",
+    "CName": "手槍",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 50,
+    "Name": "Shotgun",
+    "CName": "散彈槍",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 51,
+    "Name": "Helmet",
+    "CName": "頭盔",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 52,
+    "Name": "Weapon Part",
+    "CName": "武器組件",
+    "IsFurniture": false,
+    "StackLimit": 4,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 53,
+    "Name": "Broken Pistal",
+    "CName": "",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 54,
+    "Name": "Broken Shotgun",
+    "CName": "",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 55,
+    "Name": "Damaged Helmet",
+    "CName": "",
     "IsFurniture": false,
     "StackLimit": 1,
     "HoldLimit": null,

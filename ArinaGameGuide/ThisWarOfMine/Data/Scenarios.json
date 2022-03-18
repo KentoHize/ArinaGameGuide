@@ -8,7 +8,7 @@
     "Crowbar": 0,
     "Shovel": 0,
     "Sawblade": 0,
-    "Axe": 0,
+    "Hatchet": 0,
     "Pyre": 0,
     "Memo": ""
   },
@@ -21,7 +21,7 @@
     "Crowbar": 0,
     "Shovel": 0,
     "Sawblade": 1,
-    "Axe": 14,
+    "Hatchet": 14,
     "Pyre": 44,
     "Memo": ""
   },
@@ -34,8 +34,21 @@
     "Crowbar": 0,
     "Shovel": 0,
     "Sawblade": 0,
-    "Axe": 7,
+    "Hatchet": 7,
     "Pyre": 27,
     "Memo": ""
+  },
+  {
+    "ID": 4,
+    "Name": "Scavenger",
+    "CName": null,
+    "Location": "Shelled School",
+    "DangerLevel": "Low",
+    "Crowbar": 1,
+    "Shovel": 4,
+    "Sawblade": 1,
+    "Hatchet": 0,
+    "Pyre": 0,
+    "Memo": "if Steal->2 Sawblade"
   }
 ]
