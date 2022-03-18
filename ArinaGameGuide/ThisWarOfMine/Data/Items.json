@@ -1,1 +1,326 @@
-[]
+[
+  {
+    "ID": 1,
+    "Name": "Armchair",
+    "CName": "扶椅",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 2,
+    "Name": "Bed",
+    "CName": "床",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 3,
+    "Name": "Workshop",
+    "CName": "工作台",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": 1,
+    "Description": ""
+  },
+  {
+    "ID": 4,
+    "Name": "Chair",
+    "CName": "椅子",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 5,
+    "Name": "Guitar",
+    "CName": "吉他",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 6,
+    "Name": "Radio",
+    "CName": "收音機",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 7,
+    "Name": "Simple Heater",
+    "CName": "簡易暖爐",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 8,
+    "Name": "Swing",
+    "CName": "鞦韆",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 9,
+    "Name": "Crude Stove",
+    "CName": "火爐",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 10,
+    "Name": "Herbal Garden",
+    "CName": "草藥園",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 11,
+    "Name": "Herbal Workshop",
+    "CName": "草藥工作台",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 12,
+    "Name": "Moonshine Still",
+    "CName": "釀酒器",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 13,
+    "Name": "Metal Workshop",
+    "CName": "金屬工作台",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 14,
+    "Name": "Trap For Small Animals",
+    "CName": "小型動物陷阱",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 15,
+    "Name": "Rainwater Collector",
+    "CName": "雨水收集器",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 16,
+    "Name": "Filter",
+    "CName": "濾嘴",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 17,
+    "Name": "Fuel",
+    "CName": "燃料",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 18,
+    "Name": "Bandages",
+    "CName": "繃帶",
+    "IsFurniture": false,
+    "StackLimit": 2,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 19,
+    "Name": "Herbal Meds",
+    "CName": "簡易藥品",
+    "IsFurniture": false,
+    "StackLimit": 2,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 20,
+    "Name": "Medications",
+    "CName": "藥品",
+    "IsFurniture": false,
+    "StackLimit": 2,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 21,
+    "Name": "Vegetables",
+    "CName": "蔬菜",
+    "IsFurniture": false,
+    "StackLimit": 4,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 22,
+    "Name": "Herbs",
+    "CName": "草藥",
+    "IsFurniture": false,
+    "StackLimit": 4,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 23,
+    "Name": "Saw Blade",
+    "CName": "鋸刃",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 24,
+    "Name": "Crow Bar",
+    "CName": "敲棍",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 25,
+    "Name": "Hatchet",
+    "CName": "斧頭",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 26,
+    "Name": "Lock Pick",
+    "CName": "開鎖器",
+    "IsFurniture": false,
+    "StackLimit": 4,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 27,
+    "Name": "Shovel",
+    "CName": "鏟子",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 28,
+    "Name": "Components",
+    "CName": "組件",
+    "IsFurniture": false,
+    "StackLimit": 4,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 29,
+    "Name": "Parts",
+    "CName": "部件",
+    "IsFurniture": false,
+    "StackLimit": 4,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 30,
+    "Name": "Clean Water",
+    "CName": "淨水",
+    "IsFurniture": false,
+    "StackLimit": 10,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 31,
+    "Name": "Wood",
+    "CName": "木材",
+    "IsFurniture": false,
+    "StackLimit": 2,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 32,
+    "Name": "Pure Alcohol",
+    "CName": "純酒精",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 33,
+    "Name": "Electric Parts",
+    "CName": "電子元件",
+    "IsFurniture": false,
+    "StackLimit": 4,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 34,
+    "Name": "Book",
+    "CName": "書本",
+    "IsFurniture": false,
+    "StackLimit": 2,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 35,
+    "Name": "Broken Toys",
+    "CName": "壞掉的玩具",
+    "IsFurniture": false,
+    "StackLimit": 4,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 36,
+    "Name": "Broken Guitar",
+    "CName": "損壞的吉他",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  }
+]
