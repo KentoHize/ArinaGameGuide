@@ -2,7 +2,7 @@
   {
     "ID": 1,
     "Name": "Abandoned Cottage",
-    "CName": "",
+    "CName": "廢棄小屋",
     "Pakage": "Classic",
     "ForbiddenWhileSnow": false,
     "WarArea": false,
@@ -290,7 +290,7 @@
   {
     "ID": 33,
     "Name": "Shelled Brewery",
-    "CName": "",
+    "CName": "被炸的酒廠",
     "Pakage": "Final Cut",
     "ForbiddenWhileSnow": false,
     "WarArea": false,

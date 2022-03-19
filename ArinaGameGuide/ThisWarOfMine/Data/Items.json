@@ -19,8 +19,8 @@
   },
   {
     "ID": 3,
-    "Name": "Workshop",
-    "CName": "工作台",
+    "Name": "Simple Workshop",
+    "CName": "簡易工作台",
     "IsFurniture": true,
     "StackLimit": 1,
     "HoldLimit": 1,
@@ -645,6 +645,15 @@
     "IsFurniture": true,
     "StackLimit": 1,
     "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 73,
+    "Name": "Improved Workshop",
+    "CName": "進階工作台",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": 1,
     "Description": ""
   }
 ]

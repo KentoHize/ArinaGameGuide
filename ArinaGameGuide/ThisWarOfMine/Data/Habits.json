@@ -1,0 +1,17 @@
+[
+  {
+    "ID": 1,
+    "Name": "Abstinent",
+    "CName": "禁慾者"
+  },
+  {
+    "ID": 2,
+    "Name": "Coffee Fans",
+    "CName": "咖啡迷"
+  },
+  {
+    "ID": 3,
+    "Name": "Smoker",
+    "CName": "吸菸者"
+  }
+]

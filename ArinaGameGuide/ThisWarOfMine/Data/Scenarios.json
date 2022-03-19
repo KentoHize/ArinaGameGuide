@@ -115,5 +115,31 @@
     "Hatchet": 0,
     "Pyre": 0,
     "Memo": ""
+  },
+  {
+    "ID": 10,
+    "Name": null,
+    "CName": null,
+    "Location": "Abandoned Cottage",
+    "DangerLevel": "None",
+    "Crowbar": 2,
+    "Shovel": 1,
+    "Sawblade": 0,
+    "Hatchet": 0,
+    "Pyre": 0,
+    "Memo": "5 武器組件\n\n手槍"
+  },
+  {
+    "ID": 11,
+    "Name": null,
+    "CName": null,
+    "Location": "Ruined Toy Store",
+    "DangerLevel": "None",
+    "Crowbar": 2,
+    "Shovel": 1,
+    "Sawblade": 0,
+    "Hatchet": 0,
+    "Pyre": 0,
+    "Memo": "7 weapon part"
   }
 ]

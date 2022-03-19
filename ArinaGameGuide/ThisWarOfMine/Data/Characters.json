@@ -1,0 +1,24 @@
+[
+  {
+    "ID": 1,
+    "Name": "Anton",
+    "CName": "安東",
+    "Gender": "Male",
+    "Characteristic": "Good Mathematicians",
+    "Habit": "Abstinent",
+    "CombatProficiency": "Low",
+    "Description": "I've been running into insufferable rubes or outright criminals",
+    "Memo": ""
+  },
+  {
+    "ID": 2,
+    "Name": "Cveta",
+    "CName": "茲維塔",
+    "Gender": "Female",
+    "Characteristic": "Loves Children",
+    "Habit": null,
+    "CombatProficiency": "Worst",
+    "Description": "Oh dear, that is embrassing. I know I'm not much an asset in this terrible situation.",
+    "Memo": ""
+  }
+]
