@@ -655,5 +655,14 @@
     "StackLimit": 1,
     "HoldLimit": 1,
     "Description": ""
+  },
+  {
+    "ID": 74,
+    "Name": "Improved Heater",
+    "CName": "進階暖爐",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
   }
 ]

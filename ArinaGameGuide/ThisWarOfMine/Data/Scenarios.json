@@ -10,6 +10,10 @@
     "Sawblade": 0,
     "Hatchet": 0,
     "Pyre": 0,
+    "ElectricParts": null,
+    "WeaponParts": null,
+    "Water": null,
+    "Parts": null,
     "Memo": ""
   },
   {
@@ -23,6 +27,10 @@
     "Sawblade": 1,
     "Hatchet": 14,
     "Pyre": 44,
+    "ElectricParts": null,
+    "WeaponParts": null,
+    "Water": null,
+    "Parts": null,
     "Memo": ""
   },
   {
@@ -36,20 +44,28 @@
     "Sawblade": 0,
     "Hatchet": 7,
     "Pyre": 27,
+    "ElectricParts": null,
+    "WeaponParts": null,
+    "Water": null,
+    "Parts": null,
     "Memo": ""
   },
   {
     "ID": 4,
-    "Name": "Scavenger",
+    "Name": "Scavengers",
     "CName": null,
     "Location": "Shelled School",
     "DangerLevel": "Low",
     "Crowbar": 1,
     "Shovel": 4,
     "Sawblade": 1,
-    "Hatchet": 0,
-    "Pyre": 0,
-    "Memo": "if Steal->2 Sawblade"
+    "Hatchet": 9,
+    "Pyre": 26,
+    "ElectricParts": null,
+    "WeaponParts": null,
+    "Water": null,
+    "Parts": null,
+    "Memo": "if Steal->2 Sawblade\n2 more Hatchet\n\n"
   },
   {
     "ID": 5,
@@ -62,6 +78,10 @@
     "Sawblade": 0,
     "Hatchet": 10,
     "Pyre": 30,
+    "ElectricParts": null,
+    "WeaponParts": null,
+    "Water": null,
+    "Parts": null,
     "Memo": ""
   },
   {
@@ -75,6 +95,10 @@
     "Sawblade": 1,
     "Hatchet": 6,
     "Pyre": 15,
+    "ElectricParts": null,
+    "WeaponParts": null,
+    "Water": null,
+    "Parts": null,
     "Memo": "not sure hatchet\n\nSnipper 2 location"
   },
   {
@@ -88,6 +112,10 @@
     "Sawblade": 0,
     "Hatchet": 1,
     "Pyre": 0,
+    "ElectricParts": null,
+    "WeaponParts": null,
+    "Water": null,
+    "Parts": null,
     "Memo": ""
   },
   {
@@ -101,6 +129,10 @@
     "Sawblade": 1,
     "Hatchet": 3,
     "Pyre": 10,
+    "ElectricParts": null,
+    "WeaponParts": null,
+    "Water": null,
+    "Parts": null,
     "Memo": "if steal -> Crowbar + 1(第二次變成無主物)"
   },
   {
@@ -114,6 +146,10 @@
     "Sawblade": 0,
     "Hatchet": 0,
     "Pyre": 0,
+    "ElectricParts": null,
+    "WeaponParts": null,
+    "Water": null,
+    "Parts": null,
     "Memo": ""
   },
   {
@@ -127,6 +163,10 @@
     "Sawblade": 0,
     "Hatchet": 0,
     "Pyre": 0,
+    "ElectricParts": null,
+    "WeaponParts": null,
+    "Water": null,
+    "Parts": null,
     "Memo": "5 武器組件\n\n手槍"
   },
   {
@@ -140,6 +180,61 @@
     "Sawblade": 0,
     "Hatchet": 0,
     "Pyre": 0,
+    "ElectricParts": null,
+    "WeaponParts": null,
+    "Water": null,
+    "Parts": null,
     "Memo": "7 weapon part"
+  },
+  {
+    "ID": 12,
+    "Name": "Scavengers",
+    "CName": null,
+    "Location": "Supermarket",
+    "DangerLevel": "Low",
+    "Crowbar": 2,
+    "Shovel": 0,
+    "Sawblade": 0,
+    "Hatchet": 0,
+    "Pyre": 0,
+    "ElectricParts": null,
+    "WeaponParts": null,
+    "Water": null,
+    "Parts": null,
+    "Memo": ""
+  },
+  {
+    "ID": 13,
+    "Name": null,
+    "CName": null,
+    "Location": "Music Club",
+    "DangerLevel": "Low",
+    "Crowbar": 0,
+    "Shovel": 0,
+    "Sawblade": 0,
+    "Hatchet": 0,
+    "Pyre": 0,
+    "ElectricParts": 1,
+    "WeaponParts": null,
+    "Water": null,
+    "Parts": 4,
+    "Memo": "Trade\nWater, Bandage, Medication, Food\n\nWant gun and Ammunition"
+  },
+  {
+    "ID": 14,
+    "Name": null,
+    "CName": null,
+    "Location": "City Hospital",
+    "DangerLevel": "Low",
+    "Crowbar": 1,
+    "Shovel": 0,
+    "Sawblade": 0,
+    "Hatchet": 0,
+    "Pyre": 0,
+    "ElectricParts": null,
+    "WeaponParts": null,
+    "Water": null,
+    "Parts": null,
+    "Memo": ""
   }
 ]

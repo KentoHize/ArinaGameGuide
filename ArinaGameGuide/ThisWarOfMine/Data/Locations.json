@@ -245,7 +245,7 @@
   {
     "ID": 28,
     "Name": "Music Club",
-    "CName": "",
+    "CName": "音樂俱樂部",
     "Pakage": "Final Cut",
     "ForbiddenWhileSnow": false,
     "WarArea": false,
@@ -299,7 +299,7 @@
   {
     "ID": 34,
     "Name": "The Samuel Institute",
-    "CName": "",
+    "CName": "賽繆爾研究院",
     "Pakage": "Final Cut",
     "ForbiddenWhileSnow": false,
     "WarArea": false,
