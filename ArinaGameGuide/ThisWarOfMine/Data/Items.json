@@ -407,7 +407,7 @@
   {
     "ID": 46,
     "Name": "Raw Food",
-    "CName": "食物",
+    "CName": "生食",
     "IsFurniture": false,
     "StackLimit": 4,
     "HoldLimit": null,
@@ -598,6 +598,24 @@
     "Name": "Damaged Vest",
     "CName": "損壞的防彈背心",
     "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 68,
+    "Name": "Cooked Food",
+    "CName": "熟食",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 69,
+    "Name": "Improved Stove",
+    "CName": "進階火爐",
+    "IsFurniture": true,
     "StackLimit": 1,
     "HoldLimit": null,
     "Description": ""
