@@ -16,9 +16,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 2,
@@ -37,9 +39,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 3,
@@ -58,9 +62,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 4,
@@ -79,9 +85,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 5,
@@ -100,9 +108,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 6,
@@ -121,9 +131,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": true,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": true,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 7,
@@ -142,9 +154,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 8,
@@ -163,9 +177,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 9,
@@ -184,9 +200,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 10,
@@ -205,9 +223,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 11,
@@ -226,9 +246,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 12,
@@ -247,9 +269,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 13,
@@ -268,9 +292,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 14,
@@ -289,9 +315,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 30
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 30,
+    "WaitTime": null
   },
   {
     "ID": 15,
@@ -310,9 +338,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 15
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 15,
+    "WaitTime": null
   },
   {
     "ID": 16,
@@ -331,9 +361,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 15
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 15,
+    "WaitTime": null
   },
   {
     "ID": 17,
@@ -352,9 +384,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 15
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 15,
+    "WaitTime": null
   },
   {
     "ID": 18,
@@ -373,9 +407,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": true,
-    "ChildMake": false,
-    "Time": 30
+    "NeedChilds": true,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 30,
+    "WaitTime": null
   },
   {
     "ID": 19,
@@ -394,9 +430,11 @@
     "Material5Count": 3,
     "Material6": "Electric Parts",
     "Material6Count": 4,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 20,
@@ -415,9 +453,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 15
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 15,
+    "WaitTime": null
   },
   {
     "ID": 21,
@@ -436,9 +476,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 15
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 15,
+    "WaitTime": null
   },
   {
     "ID": 22,
@@ -457,9 +499,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 15
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 15,
+    "WaitTime": null
   },
   {
     "ID": 23,
@@ -478,9 +522,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 30
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 30,
+    "WaitTime": null
   },
   {
     "ID": 24,
@@ -499,9 +545,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 25,
@@ -520,9 +568,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 26,
@@ -541,9 +591,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 30
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 30,
+    "WaitTime": null
   },
   {
     "ID": 27,
@@ -562,9 +614,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 28,
@@ -583,9 +637,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 30
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 30,
+    "WaitTime": null
   },
   {
     "ID": 29,
@@ -604,9 +660,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 30,
@@ -625,9 +683,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 31,
@@ -646,9 +706,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 33,
@@ -667,9 +729,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 34,
@@ -688,9 +752,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 35,
@@ -709,9 +775,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 36,
@@ -730,9 +798,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 15
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 15,
+    "WaitTime": null
   },
   {
     "ID": 37,
@@ -751,9 +821,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 38,
@@ -772,9 +844,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 39,
@@ -793,9 +867,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 15
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 15,
+    "WaitTime": null
   },
   {
     "ID": 40,
@@ -814,9 +890,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 60
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   },
   {
     "ID": 41,
@@ -835,9 +913,11 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 15
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 15,
+    "WaitTime": null
   },
   {
     "ID": 42,
@@ -856,8 +936,102 @@
     "Material5Count": null,
     "Material6": null,
     "Material6Count": null,
-    "HaveChilds": false,
-    "ChildMake": false,
-    "Time": 30
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 30,
+    "WaitTime": null
+  },
+  {
+    "ID": 43,
+    "Product": "Jump Rope",
+    "Quantity": 1,
+    "Tool": "Advanced Workshop",
+    "Material1": "Components",
+    "Material1Count": 3,
+    "Material2": "Broken Toy",
+    "Material2Count": 1,
+    "Material3": null,
+    "Material3Count": null,
+    "Material4": null,
+    "Material4Count": null,
+    "Material5": null,
+    "Material5Count": null,
+    "Material6": null,
+    "Material6Count": null,
+    "NeedChilds": false,
+    "ChildMakeOnly": true,
+    "ChildCanLearn": false,
+    "ProducingTime": 30,
+    "WaitTime": null
+  },
+  {
+    "ID": 44,
+    "Product": "Ball",
+    "Quantity": 1,
+    "Tool": "Advanced Workshop",
+    "Material1": "Components",
+    "Material1Count": 5,
+    "Material2": "Broken Toy",
+    "Material2Count": 2,
+    "Material3": null,
+    "Material3Count": null,
+    "Material4": null,
+    "Material4Count": null,
+    "Material5": null,
+    "Material5Count": null,
+    "Material6": null,
+    "Material6Count": null,
+    "NeedChilds": false,
+    "ChildMakeOnly": true,
+    "ChildCanLearn": false,
+    "ProducingTime": 30,
+    "WaitTime": null
+  },
+  {
+    "ID": 45,
+    "Product": "Clean Water",
+    "Quantity": 4,
+    "Tool": "Rainwater Collector",
+    "Material1": "Filter",
+    "Material1Count": 1,
+    "Material2": null,
+    "Material2Count": null,
+    "Material3": null,
+    "Material3Count": null,
+    "Material4": null,
+    "Material4Count": null,
+    "Material5": null,
+    "Material5Count": null,
+    "Material6": null,
+    "Material6Count": null,
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": true,
+    "ProducingTime": 30,
+    "WaitTime": 300
+  },
+  {
+    "ID": 46,
+    "Product": "Improved Herbal Workshop",
+    "Quantity": 1,
+    "Tool": null,
+    "Material1": "Wood",
+    "Material1Count": 24,
+    "Material2": "Components",
+    "Material2Count": 24,
+    "Material3": "Parts",
+    "Material3Count": 3,
+    "Material4": "Herbal Workshop",
+    "Material4Count": 1,
+    "Material5": "Electric Parts",
+    "Material5Count": 4,
+    "Material6": "Mixer",
+    "Material6Count": 1,
+    "NeedChilds": false,
+    "ChildMakeOnly": false,
+    "ChildCanLearn": false,
+    "ProducingTime": 60,
+    "WaitTime": null
   }
 ]

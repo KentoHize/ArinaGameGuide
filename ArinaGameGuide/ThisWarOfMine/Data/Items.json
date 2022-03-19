@@ -619,5 +619,32 @@
     "StackLimit": 1,
     "HoldLimit": null,
     "Description": ""
+  },
+  {
+    "ID": 70,
+    "Name": "Ball",
+    "CName": "球",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 71,
+    "Name": "Jump Rope",
+    "CName": "跳繩",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 72,
+    "Name": "Improved Herbal Workshop",
+    "CName": "進階草藥工作台",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
   }
 ]

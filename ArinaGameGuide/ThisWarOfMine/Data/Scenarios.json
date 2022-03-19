@@ -102,5 +102,18 @@
     "Hatchet": 3,
     "Pyre": 10,
     "Memo": "if steal -> Crowbar + 1(第二次變成無主物)"
+  },
+  {
+    "ID": 9,
+    "Name": "Trader",
+    "CName": null,
+    "Location": "Hotel",
+    "DangerLevel": "Low",
+    "Crowbar": 0,
+    "Shovel": 0,
+    "Sawblade": 0,
+    "Hatchet": 0,
+    "Pyre": 0,
+    "Memo": ""
   }
 ]

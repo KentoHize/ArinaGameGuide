@@ -842,7 +842,7 @@
           "IsUnique": false
         },
         {
-          "Name": "HaveChilds",
+          "Name": "NeedChilds",
           "IsKey": false,
           "IsNullable": false,
           "Type": "Boolean",
@@ -860,7 +860,7 @@
           "IsUnique": false
         },
         {
-          "Name": "ChildMake",
+          "Name": "ChildMakeOnly",
           "IsKey": false,
           "IsNullable": false,
           "Type": "Boolean",
@@ -878,9 +878,45 @@
           "IsUnique": false
         },
         {
-          "Name": "Time",
+          "Name": "ChildCanLearn",
           "IsKey": false,
           "IsNullable": false,
+          "Type": "Boolean",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        },
+        {
+          "Name": "ProducingTime",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "Integer",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        },
+        {
+          "Name": "WaitTime",
+          "IsKey": false,
+          "IsNullable": true,
           "Type": "Integer",
           "Choices": [],
           "FKTable": null,
