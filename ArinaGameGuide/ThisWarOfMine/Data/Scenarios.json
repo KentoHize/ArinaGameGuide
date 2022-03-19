@@ -50,5 +50,31 @@
     "Hatchet": 0,
     "Pyre": 0,
     "Memo": "if Steal->2 Sawblade"
+  },
+  {
+    "ID": 5,
+    "Name": null,
+    "CName": null,
+    "Location": "Air Port",
+    "DangerLevel": "High",
+    "Crowbar": 0,
+    "Shovel": 1,
+    "Sawblade": 0,
+    "Hatchet": 0,
+    "Pyre": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 6,
+    "Name": null,
+    "CName": null,
+    "Location": "Old Town",
+    "DangerLevel": "Medium",
+    "Crowbar": 2,
+    "Shovel": 2,
+    "Sawblade": 1,
+    "Hatchet": 0,
+    "Pyre": 0,
+    "Memo": ""
   }
 ]

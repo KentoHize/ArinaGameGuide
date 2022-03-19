@@ -20,7 +20,7 @@
   {
     "ID": 3,
     "Name": "Central Square",
-    "CName": "",
+    "CName": "中央廣場",
     "Pakage": "Classic",
     "ForbiddenWhileSnow": false,
     "WarArea": false,
@@ -200,7 +200,7 @@
   {
     "ID": 23,
     "Name": "Old Town",
-    "CName": "",
+    "CName": "舊城區",
     "Pakage": "1.3",
     "ForbiddenWhileSnow": false,
     "WarArea": false,

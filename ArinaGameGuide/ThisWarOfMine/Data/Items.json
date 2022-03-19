@@ -425,7 +425,7 @@
   {
     "ID": 48,
     "Name": "Knife",
-    "CName": "刀子",
+    "CName": "匕首",
     "IsFurniture": false,
     "StackLimit": 1,
     "HoldLimit": null,
@@ -470,7 +470,7 @@
   {
     "ID": 53,
     "Name": "Broken Pistal",
-    "CName": "",
+    "CName": "損壞的手槍",
     "IsFurniture": false,
     "StackLimit": 1,
     "HoldLimit": null,
@@ -479,7 +479,7 @@
   {
     "ID": 54,
     "Name": "Broken Shotgun",
-    "CName": "",
+    "CName": "損壞的散彈槍",
     "IsFurniture": false,
     "StackLimit": 1,
     "HoldLimit": null,
@@ -488,9 +488,45 @@
   {
     "ID": 55,
     "Name": "Damaged Helmet",
-    "CName": "",
+    "CName": "損壞的頭盔",
     "IsFurniture": false,
     "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 56,
+    "Name": "Cigarette",
+    "CName": "香菸",
+    "IsFurniture": false,
+    "StackLimit": 10,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 57,
+    "Name": "Homegrown Tobacco",
+    "CName": "自產菸草",
+    "IsFurniture": false,
+    "StackLimit": 4,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 58,
+    "Name": "Roll-Up Cigarette",
+    "CName": "卷菸",
+    "IsFurniture": false,
+    "StackLimit": 10,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 59,
+    "Name": "Tobacco",
+    "CName": "菸草",
+    "IsFurniture": false,
+    "StackLimit": 4,
     "HoldLimit": null,
     "Description": ""
   }

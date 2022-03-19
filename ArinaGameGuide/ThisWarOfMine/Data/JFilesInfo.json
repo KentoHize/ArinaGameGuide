@@ -590,6 +590,24 @@
           "IsUnique": false
         },
         {
+          "Name": "Quantity",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "Integer",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "1",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        },
+        {
           "Name": "Tool",
           "IsKey": false,
           "IsNullable": true,
@@ -824,7 +842,25 @@
           "IsUnique": false
         },
         {
-          "Name": "NeedChilds",
+          "Name": "HaveChilds",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "Boolean",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        },
+        {
+          "Name": "ChildMake",
           "IsKey": false,
           "IsNullable": false,
           "Type": "Boolean",
