@@ -589,7 +589,7 @@
     "Name": "Shell Casings",
     "CName": "彈殼",
     "IsFurniture": false,
-    "StackLimit": 10,
+    "StackLimit": 20,
     "HoldLimit": null,
     "Description": ""
   },
