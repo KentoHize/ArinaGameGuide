@@ -22,7 +22,7 @@
     "Name": "Central Square",
     "CName": "中央廣場",
     "Pakage": "Classic",
-    "ForbiddenWhileSnow": false,
+    "ForbiddenWhileSnow": true,
     "WarArea": false,
     "Memo": ""
   },
@@ -40,7 +40,7 @@
     "Name": "Construction Site",
     "CName": "建築工地",
     "Pakage": "Classic",
-    "ForbiddenWhileSnow": false,
+    "ForbiddenWhileSnow": true,
     "WarArea": false,
     "Memo": ""
   },
@@ -229,7 +229,7 @@
     "Name": "Port",
     "CName": "碼頭",
     "Pakage": "Anniversary Edition",
-    "ForbiddenWhileSnow": false,
+    "ForbiddenWhileSnow": true,
     "WarArea": false,
     "Memo": ""
   },

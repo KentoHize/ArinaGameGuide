@@ -57,10 +57,10 @@
     "CName": null,
     "Location": "Air Port",
     "DangerLevel": "High",
-    "Crowbar": 0,
-    "Shovel": 1,
+    "Crowbar": 1,
+    "Shovel": 2,
     "Sawblade": 0,
-    "Hatchet": 0,
+    "Hatchet": 10,
     "Pyre": 0,
     "Memo": ""
   },
@@ -73,8 +73,34 @@
     "Crowbar": 2,
     "Shovel": 2,
     "Sawblade": 1,
-    "Hatchet": 0,
+    "Hatchet": 6,
+    "Pyre": 15,
+    "Memo": "not sure hatchet\n\nSnipper 2 location"
+  },
+  {
+    "ID": 7,
+    "Name": null,
+    "CName": null,
+    "Location": "Ghost House",
+    "DangerLevel": "None",
+    "Crowbar": 0,
+    "Shovel": 0,
+    "Sawblade": 0,
+    "Hatchet": 1,
     "Pyre": 0,
     "Memo": ""
+  },
+  {
+    "ID": 8,
+    "Name": null,
+    "CName": null,
+    "Location": "Port",
+    "DangerLevel": "Low",
+    "Crowbar": 2,
+    "Shovel": 0,
+    "Sawblade": 1,
+    "Hatchet": 3,
+    "Pyre": 10,
+    "Memo": "if steal -> Crowbar + 1(第二次變成無主物)"
   }
 ]

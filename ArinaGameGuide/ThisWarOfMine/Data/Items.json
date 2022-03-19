@@ -529,5 +529,77 @@
     "StackLimit": 4,
     "HoldLimit": null,
     "Description": ""
+  },
+  {
+    "ID": 60,
+    "Name": "Advanced Metal Workshop",
+    "CName": "高級金屬工作台",
+    "IsFurniture": true,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 61,
+    "Name": "Assault Rifle",
+    "CName": "突襲步槍",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 62,
+    "Name": "Ammunition",
+    "CName": "子彈",
+    "IsFurniture": false,
+    "StackLimit": 20,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 63,
+    "Name": "Military Vest",
+    "CName": "軍用防彈背心",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 64,
+    "Name": "Broken Assault Rifle",
+    "CName": "損壞的突襲步槍",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 65,
+    "Name": "Gunpowder",
+    "CName": "火藥",
+    "IsFurniture": false,
+    "StackLimit": 10,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 66,
+    "Name": "Shell Casings",
+    "CName": "彈殼",
+    "IsFurniture": false,
+    "StackLimit": 10,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 67,
+    "Name": "Damaged Vest",
+    "CName": "損壞的防彈背心",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
   }
 ]
