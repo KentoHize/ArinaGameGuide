@@ -81,6 +81,24 @@
           "IsUnique": false
         },
         {
+          "Name": "IsChild",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "Boolean",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        },
+        {
           "Name": "Characteristic",
           "IsKey": false,
           "IsNullable": true,
