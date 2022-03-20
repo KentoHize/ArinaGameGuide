@@ -664,5 +664,14 @@
     "StackLimit": 1,
     "HoldLimit": null,
     "Description": ""
+  },
+  {
+    "ID": 75,
+    "Name": "Canned Food",
+    "CName": "罐裝食品",
+    "IsFurniture": false,
+    "StackLimit": 4,
+    "HoldLimit": null,
+    "Description": ""
   }
 ]

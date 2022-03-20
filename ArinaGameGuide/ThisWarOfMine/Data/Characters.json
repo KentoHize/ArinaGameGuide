@@ -62,7 +62,19 @@
   {
     "ID": 6,
     "Name": "Marin",
-    "CName": "",
+    "CName": "馬林",
+    "Gender": "Male",
+    "IsChild": false,
+    "Characteristic": null,
+    "Habit": null,
+    "CombatProficiency": null,
+    "Description": "I thought I'd been through hell before. I'm a fireman. I've entered blazing buildings to save lives more times than I care to remember. But back then I had people teamed up against a common foe, namely the fire. Nowadays, your former neighbor can kill you because your grandparents spoke a different language than his. This is true hell on earth.",
+    "Memo": ""
+  },
+  {
+    "ID": 7,
+    "Name": "Macro",
+    "CName": "馬可",
     "Gender": "Male",
     "IsChild": false,
     "Characteristic": null,

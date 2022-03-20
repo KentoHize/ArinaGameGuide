@@ -28,5 +28,11 @@
     "Name": "War Orphan",
     "CName": "戰爭孤兒",
     "Memo": ""
+  },
+  {
+    "ID": 6,
+    "Name": "Skilled Scavenger",
+    "CName": "老練拾荒者",
+    "Memo": ""
   }
 ]
