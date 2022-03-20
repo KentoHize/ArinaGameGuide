@@ -166,7 +166,7 @@
     "Name": "St. Mary's Church",
     "CName": "聖瑪麗教堂",
     "Pakage": "Classic",
-    "ForbiddenWhileSnow": false,
+    "ForbiddenWhileSnow": true,
     "WarArea": false,
     "Memo": ""
   },
@@ -175,7 +175,7 @@
     "Name": "Supermarket",
     "CName": "超市",
     "Pakage": "Classic",
-    "ForbiddenWhileSnow": false,
+    "ForbiddenWhileSnow": true,
     "WarArea": false,
     "Memo": ""
   },
@@ -301,7 +301,7 @@
     "Name": "The Samuel Institute",
     "CName": "賽繆爾研究院",
     "Pakage": "Final Cut",
-    "ForbiddenWhileSnow": false,
+    "ForbiddenWhileSnow": true,
     "WarArea": false,
     "Memo": ""
   }

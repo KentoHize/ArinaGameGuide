@@ -2,13 +2,31 @@
   {
     "ID": 1,
     "Name": "Good Mathematicians",
-    "CName": "",
+    "CName": "資深數學家",
     "Memo": ""
   },
   {
     "ID": 2,
     "Name": "Loves Children",
     "CName": "",
+    "Memo": ""
+  },
+  {
+    "ID": 3,
+    "Name": "Bolster Spirits",
+    "CName": "鼓舞精神",
+    "Memo": ""
+  },
+  {
+    "ID": 4,
+    "Name": "Talented Lawyer",
+    "CName": "天才律師",
+    "Memo": ""
+  },
+  {
+    "ID": 5,
+    "Name": "War Orphan",
+    "CName": "戰爭孤兒",
     "Memo": ""
   }
 ]

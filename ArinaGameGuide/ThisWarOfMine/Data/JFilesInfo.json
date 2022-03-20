@@ -119,7 +119,7 @@
         {
           "Name": "CombatProficiency",
           "IsKey": false,
-          "IsNullable": false,
+          "IsNullable": true,
           "Type": "Choice",
           "Choices": [
             "Best",
