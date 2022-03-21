@@ -673,5 +673,23 @@
     "StackLimit": 4,
     "HoldLimit": null,
     "Description": ""
+  },
+  {
+    "ID": 76,
+    "Name": "Med Ingredients",
+    "CName": "藥品原料",
+    "IsFurniture": false,
+    "StackLimit": 4,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 77,
+    "Name": "Quality Roll-Up",
+    "CName": "優質卷菸",
+    "IsFurniture": false,
+    "StackLimit": 10,
+    "HoldLimit": null,
+    "Description": ""
   }
 ]
