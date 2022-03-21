@@ -426,17 +426,17 @@
     "Crowbar": 0,
     "Shovel": 0,
     "Sawblade": 1,
-    "Hatchet": 0,
-    "Pyre": 0,
-    "PyreMax": 0,
+    "Hatchet": 3,
+    "Pyre": 10,
+    "PyreMax": 10,
     "Parts": 10,
-    "WeaponParts": null,
+    "WeaponParts": 0,
     "ElectricParts": 5,
     "CannedFood": null,
     "RawFood": null,
     "Vegetable": null,
-    "Water": 6,
+    "Water": 7,
     "DoubleCheck": "None",
-    "Memo": ""
+    "Memo": "3"
   }
 ]

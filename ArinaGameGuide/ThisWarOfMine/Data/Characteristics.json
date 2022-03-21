@@ -34,5 +34,11 @@
     "Name": "Skilled Scavenger",
     "CName": "老練拾荒者",
     "Memo": ""
+  },
+  {
+    "ID": 7,
+    "Name": "Handyman",
+    "CName": "心靈手巧",
+    "Memo": ""
   }
 ]

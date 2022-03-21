@@ -194,12 +194,12 @@
           "IsUnique": false
         },
         {
-          "Name": "Habit",
+          "Name": "Addiction",
           "IsKey": false,
           "IsNullable": true,
           "Type": "String",
           "Choices": [],
-          "FKTable": "Habits",
+          "FKTable": "Addictions",
           "FKColumn": "Name",
           "NumberOfRows": 1,
           "Display": false,
@@ -223,6 +223,24 @@
             "Low",
             "Worst"
           ],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        },
+        {
+          "Name": "InventorySize",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "Integer",
+          "Choices": [],
           "FKTable": null,
           "FKColumn": null,
           "NumberOfRows": 1,
@@ -274,7 +292,7 @@
       ]
     },
     {
-      "Name": "Habits",
+      "Name": "Addictions",
       "Columns": [
         {
           "Name": "ID",
@@ -539,11 +557,15 @@
           "IsUnique": false
         },
         {
-          "Name": "ForbiddenWhileSnow",
+          "Name": "SnowState",
           "IsKey": false,
           "IsNullable": false,
-          "Type": "Boolean",
-          "Choices": [],
+          "Type": "Choice",
+          "Choices": [
+            "Can Enter",
+            "Maybe Cannot Enter",
+            "Cannot Enter"
+          ],
           "FKTable": null,
           "FKColumn": null,
           "NumberOfRows": 1,

@@ -1,6 +1,11 @@
 [
   {
     "ID": 1,
+    "Name": "None",
+    "CName": "無"
+  },
+  {
+    "ID": 4,
     "Name": "Abstinent",
     "CName": "禁慾者"
   },
