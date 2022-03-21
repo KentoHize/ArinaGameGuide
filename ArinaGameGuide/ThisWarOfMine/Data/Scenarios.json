@@ -2,7 +2,7 @@
   {
     "ID": 1,
     "Name": "Original",
-    "CName": "",
+    "CName": null,
     "Location": "Brothel",
     "DangerLevel": "Very High",
     "Crowbar": 0,
@@ -18,20 +18,21 @@
     "RawFood": null,
     "Vegetable": null,
     "Water": null,
+    "DoubleCheck": "None",
     "Memo": ""
   },
   {
     "ID": 2,
     "Name": "Bandit",
-    "CName": "",
+    "CName": null,
     "Location": "St. Mary's Church",
     "DangerLevel": "Very High",
     "Crowbar": 0,
-    "Shovel": 0,
+    "Shovel": 3,
     "Sawblade": 1,
     "Hatchet": 14,
     "Pyre": 44,
-    "PyreMax": 0,
+    "PyreMax": 44,
     "Parts": null,
     "WeaponParts": null,
     "ElectricParts": null,
@@ -39,7 +40,8 @@
     "RawFood": null,
     "Vegetable": null,
     "Water": null,
-    "Memo": ""
+    "DoubleCheck": "None",
+    "Memo": "Hatchet 4\nPyre 12"
   },
   {
     "ID": 3,
@@ -52,7 +54,7 @@
     "Sawblade": 2,
     "Hatchet": 7,
     "Pyre": 27,
-    "PyreMax": 0,
+    "PyreMax": 27,
     "Parts": null,
     "WeaponParts": null,
     "ElectricParts": null,
@@ -60,7 +62,8 @@
     "RawFood": 2,
     "Vegetable": null,
     "Water": null,
-    "Memo": "2 E\n4 P\n\nHatchet 2\n\n5 Diamond"
+    "DoubleCheck": "None",
+    "Memo": "5 Diamond"
   },
   {
     "ID": 4,
@@ -81,6 +84,7 @@
     "RawFood": null,
     "Vegetable": null,
     "Water": null,
+    "DoubleCheck": "None",
     "Memo": "if Steal->2 Sawblade\n2 more Hatchet\n\n"
   },
   {
@@ -102,6 +106,7 @@
     "RawFood": null,
     "Vegetable": null,
     "Water": null,
+    "DoubleCheck": "None",
     "Memo": ""
   },
   {
@@ -123,6 +128,7 @@
     "RawFood": null,
     "Vegetable": null,
     "Water": null,
+    "DoubleCheck": "None",
     "Memo": "not sure hatchet\n\nSnipper 2 location"
   },
   {
@@ -144,6 +150,7 @@
     "RawFood": null,
     "Vegetable": null,
     "Water": null,
+    "DoubleCheck": "None",
     "Memo": ""
   },
   {
@@ -165,6 +172,7 @@
     "RawFood": null,
     "Vegetable": null,
     "Water": null,
+    "DoubleCheck": "None",
     "Memo": "if steal -> Crowbar + 1(第二次變成無主物)\n\n可先去3F偷藥"
   },
   {
@@ -186,6 +194,7 @@
     "RawFood": null,
     "Vegetable": null,
     "Water": null,
+    "DoubleCheck": "None",
     "Memo": ""
   },
   {
@@ -207,6 +216,7 @@
     "RawFood": null,
     "Vegetable": null,
     "Water": null,
+    "DoubleCheck": "None",
     "Memo": "5 武器組件\n\n手槍"
   },
   {
@@ -228,6 +238,7 @@
     "RawFood": null,
     "Vegetable": null,
     "Water": null,
+    "DoubleCheck": "None",
     "Memo": "7 weapon part"
   },
   {
@@ -241,15 +252,16 @@
     "Sawblade": 0,
     "Hatchet": 4,
     "Pyre": 10,
-    "PyreMax": 10,
-    "Parts": null,
-    "WeaponParts": null,
-    "ElectricParts": null,
-    "CannedFood": null,
-    "RawFood": null,
-    "Vegetable": null,
-    "Water": null,
-    "Memo": "4"
+    "PyreMax": 11,
+    "Parts": 8,
+    "WeaponParts": 4,
+    "ElectricParts": 5,
+    "CannedFood": 3,
+    "RawFood": 4,
+    "Vegetable": 1,
+    "Water": 9,
+    "DoubleCheck": "PartNotSure",
+    "Memo": "第一次需要快速離開"
   },
   {
     "ID": 13,
@@ -270,6 +282,7 @@
     "RawFood": null,
     "Vegetable": null,
     "Water": null,
+    "DoubleCheck": "None",
     "Memo": "Trade\nWater, Bandage, Medication, Food\n\nWant gun and Ammunition"
   },
   {
@@ -281,17 +294,18 @@
     "Crowbar": 1,
     "Shovel": 0,
     "Sawblade": 0,
-    "Hatchet": 0,
+    "Hatchet": 9,
     "Pyre": 0,
     "PyreMax": 0,
     "Parts": null,
     "WeaponParts": null,
     "ElectricParts": null,
-    "CannedFood": null,
+    "CannedFood": 1,
     "RawFood": null,
-    "Vegetable": null,
+    "Vegetable": 1,
     "Water": null,
-    "Memo": "if Steal Lockpick + 1"
+    "DoubleCheck": "None",
+    "Memo": "if Steal Lockpick + 1\n\n砍9\n\n沒柴"
   },
   {
     "ID": 15,
@@ -312,6 +326,7 @@
     "RawFood": null,
     "Vegetable": null,
     "Water": null,
+    "DoubleCheck": "None",
     "Memo": "if steal -> very many Hatchet"
   },
   {
@@ -333,6 +348,7 @@
     "RawFood": null,
     "Vegetable": null,
     "Water": null,
+    "DoubleCheck": "None",
     "Memo": "2"
   },
   {
@@ -354,6 +370,7 @@
     "RawFood": null,
     "Vegetable": null,
     "Water": null,
+    "DoubleCheck": "None",
     "Memo": "打完會撿東西"
   },
   {
@@ -375,6 +392,7 @@
     "RawFood": 3,
     "Vegetable": 2,
     "Water": 10,
+    "DoubleCheck": "None",
     "Memo": "5玩具"
   },
   {
@@ -396,6 +414,29 @@
     "RawFood": null,
     "Vegetable": null,
     "Water": null,
+    "DoubleCheck": "None",
     "Memo": "Can trade Hatchet, Saw Blade, Part, Weapon Part\n\nSometimes Electric Part\n\nSteal -> 1 more Crowbar"
+  },
+  {
+    "ID": 20,
+    "Name": null,
+    "CName": null,
+    "Location": "Decrepit Squat",
+    "DangerLevel": "Low",
+    "Crowbar": 0,
+    "Shovel": 0,
+    "Sawblade": 1,
+    "Hatchet": 0,
+    "Pyre": 0,
+    "PyreMax": 0,
+    "Parts": 10,
+    "WeaponParts": null,
+    "ElectricParts": 5,
+    "CannedFood": null,
+    "RawFood": null,
+    "Vegetable": null,
+    "Water": 6,
+    "DoubleCheck": "None",
+    "Memo": ""
   }
 ]
