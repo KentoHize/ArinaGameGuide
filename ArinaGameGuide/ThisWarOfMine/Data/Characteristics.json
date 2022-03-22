@@ -70,5 +70,11 @@
     "Name": "Fast Runner",
     "CName": "快跑選手",
     "Memo": ""
+  },
+  {
+    "ID": 13,
+    "Name": "Bargaining Skills",
+    "CName": "還價技巧",
+    "Memo": ""
   }
 ]

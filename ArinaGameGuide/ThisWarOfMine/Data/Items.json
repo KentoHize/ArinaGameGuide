@@ -50,7 +50,7 @@
     "CName": "收音機",
     "IsFurniture": true,
     "StackLimit": 1,
-    "HoldLimit": null,
+    "HoldLimit": 1,
     "Description": ""
   },
   {

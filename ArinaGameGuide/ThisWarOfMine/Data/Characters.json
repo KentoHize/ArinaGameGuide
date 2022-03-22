@@ -46,7 +46,7 @@
     "IsChild": false,
     "Characteristic": "Talented Lawyer",
     "Addiction": "Coffee Drinker",
-    "CombatProficiency": null,
+    "CombatProficiency": "Low",
     "InventorySize": 0,
     "Description": "Now that we're stuck together, I might as well tell you about me and my family. Father was a very practical man. He always reminded us of the importance of financial safety. That's why I became a lawyer like him, and my sister was to become a doctor. When the war broke out, we had a lot of saving on our family account. But the currency soon lost all value, the banks were closed and we had no foreign cash. In a matter of days we became poor.",
     "Memo": ""
@@ -153,6 +153,19 @@
     "CombatProficiency": "Moderate",
     "InventorySize": 12,
     "Description": "Before this whole mess begun, I lived with my wife and son in the better part of the city. I haven't seen them in a long time, I hope they are ok. I'm not doing so well, as you can see. Who needs football players during war? Nobody cares about sports when every day can be their last. So I scavenge the ruins like everyone elese, hoping for the best.",
+    "Memo": ""
+  },
+  {
+    "ID": 13,
+    "Name": "Katia",
+    "CName": "卡蒂亞",
+    "Gender": "Female",
+    "IsChild": false,
+    "Characteristic": "Bargaining Skills",
+    "Addiction": "Coffee Drinker",
+    "CombatProficiency": "Low",
+    "InventorySize": 12,
+    "Description": "I grew up in this city, but went abroad to study and started working as a reporter. I'd been away for years. When the troubles escalated into a war, I was picked to write reports on it. I'd have volunteered anyway, I was so anxious to check on my parents. But it was too late. I found my house in ruins, my family had disappeared. I've been looking for them ever since.",
     "Memo": ""
   }
 ]

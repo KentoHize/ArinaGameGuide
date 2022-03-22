@@ -66,7 +66,7 @@
     "Vegetable": 0,
     "Water": 0,
     "DoubleCheck": "CrowbarShovelSawbladeSure",
-    "Memo": "5 Diamond\nShotgun"
+    "Memo": "5 Diamond\nShotgun\n\n6下?"
   },
   {
     "ID": 4,
@@ -535,21 +535,21 @@
     "Location": "Semi-Detached House",
     "AppearOrder": 4,
     "DangerLevel": "Low",
-    "Crowbar": 0,
-    "Shovel": 0,
+    "Crowbar": 1,
+    "Shovel": 2,
     "Sawblade": 0,
-    "Hatchet": 0,
-    "Pyre": 0,
-    "PyreMax": 0,
-    "Parts": null,
-    "WeaponParts": null,
-    "ElectricParts": null,
-    "CannedFood": null,
-    "RawFood": null,
-    "Vegetable": null,
-    "Water": null,
+    "Hatchet": 4,
+    "Pyre": 13,
+    "PyreMax": 13,
+    "Parts": 4,
+    "WeaponParts": 4,
+    "ElectricParts": 4,
+    "CannedFood": 3,
+    "RawFood": 0,
+    "Vegetable": 0,
+    "Water": 4,
     "DoubleCheck": "None",
-    "Memo": ""
+    "Memo": "4 weapon part\n4 Electric part\n4 part\n\n4砍\n\nif steal -> Crowbar + 1"
   },
   {
     "ID": 25,
@@ -619,5 +619,28 @@
     "Water": null,
     "DoubleCheck": "None",
     "Memo": "不偷可以不用去"
+  },
+  {
+    "ID": 28,
+    "Name": null,
+    "CName": null,
+    "Location": "Ruined Villa",
+    "AppearOrder": null,
+    "DangerLevel": "Medium",
+    "Crowbar": 0,
+    "Shovel": 0,
+    "Sawblade": 0,
+    "Hatchet": 0,
+    "Pyre": 0,
+    "PyreMax": 0,
+    "Parts": null,
+    "WeaponParts": null,
+    "ElectricParts": null,
+    "CannedFood": null,
+    "RawFood": null,
+    "Vegetable": null,
+    "Water": null,
+    "DoubleCheck": "None",
+    "Memo": "can catch stuff"
   }
 ]

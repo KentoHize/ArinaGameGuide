@@ -794,7 +794,7 @@
         {
           "Name": "MaxProcessCount",
           "IsKey": false,
-          "IsNullable": false,
+          "IsNullable": true,
           "Type": "Integer",
           "Choices": [],
           "FKTable": null,
