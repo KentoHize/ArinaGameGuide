@@ -40,5 +40,35 @@
     "Name": "Handyman",
     "CName": "心靈手巧",
     "Memo": ""
+  },
+  {
+    "ID": 8,
+    "Name": "Tobacconist",
+    "CName": "菸草商人",
+    "Memo": ""
+  },
+  {
+    "ID": 9,
+    "Name": "Sneak Quietly",
+    "CName": "無聲潛入",
+    "Memo": ""
+  },
+  {
+    "ID": 10,
+    "Name": "Henrik's grandson",
+    "CName": "",
+    "Memo": ""
+  },
+  {
+    "ID": 11,
+    "Name": "Good Cook",
+    "CName": "大廚",
+    "Memo": ""
+  },
+  {
+    "ID": 12,
+    "Name": "Fast Runner",
+    "CName": "快跑選手",
+    "Memo": ""
   }
 ]

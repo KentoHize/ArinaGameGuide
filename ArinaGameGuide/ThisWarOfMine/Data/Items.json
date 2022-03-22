@@ -691,5 +691,23 @@
     "StackLimit": 10,
     "HoldLimit": null,
     "Description": ""
+  },
+  {
+    "ID": 78,
+    "Name": "Moonshine",
+    "CName": "自鑲酒",
+    "IsFurniture": false,
+    "StackLimit": 1,
+    "HoldLimit": null,
+    "Description": ""
+  },
+  {
+    "ID": 79,
+    "Name": "Sugar",
+    "CName": "糖",
+    "IsFurniture": false,
+    "StackLimit": 10,
+    "HoldLimit": null,
+    "Description": ""
   }
 ]

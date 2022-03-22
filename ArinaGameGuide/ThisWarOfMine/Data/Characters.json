@@ -89,5 +89,70 @@
     "InventorySize": 15,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 8,
+    "Name": "Henrik",
+    "CName": "亨里克",
+    "Gender": "Male",
+    "IsChild": false,
+    "Characteristic": "Tobacconist",
+    "Addiction": "Smoker",
+    "CombatProficiency": "Low",
+    "InventorySize": 10,
+    "Description": "I regret we could not meet in other circumstances. Before this whole dammned affair, I had been enjoying my retirement and looking after Ivanom when my son was at work. When those pro-secessionists started rousing the Vyseni minority. I told my son nothing good would come of it, but he wouldn't listen. He was captivated by the idea of independent Republic of Vysena. He joined the rebels, leaving Ivano with me. I haven't seen him since the siege began.",
+    "Memo": ""
+  },
+  {
+    "ID": 9,
+    "Name": "Arica",
+    "CName": "艾麗卡",
+    "Gender": "Female",
+    "IsChild": false,
+    "Characteristic": "Sneak Quietly",
+    "Addiction": "Smoker",
+    "CombatProficiency": "Good",
+    "InventorySize": 10,
+    "Description": "I'm a simple girl from the hood, and I know life. Street raised me more than my father did. That old sot beat me whenever he felt like it and knew how to make it hurt. That's all over now, he bit the dust in the first days of the war. I've been a cat burglar since I turned 14, you know how it is. I'm better at it than anyone you know and I can sneak like a fox. You'd be a fool kicking me out.",
+    "Memo": ""
+  },
+  {
+    "ID": 10,
+    "Name": "Ivano",
+    "CName": "伊凡諾",
+    "Gender": "Male",
+    "IsChild": true,
+    "Characteristic": "Henrik's grandson",
+    "Addiction": "None",
+    "CombatProficiency": null,
+    "InventorySize": 0,
+    "Description": "My dad is fighting the bad soldiers. He is brave and won't let them into the city. He said I am too yound to fight, but when I grow up I will be just like him. But don't tell grandpa, he doesn't like soldiers. Hey, do you know how to play war games?",
+    "Memo": ""
+  },
+  {
+    "ID": 11,
+    "Name": "Bruno",
+    "CName": "布魯諾",
+    "Gender": "Male",
+    "IsChild": false,
+    "Characteristic": "Good Cook",
+    "Addiction": "Smoker",
+    "CombatProficiency": "Moderate",
+    "InventorySize": 10,
+    "Description": "Before the war I used to own a restaurant. I even had my own TV show: \"Bruno's Cuisine\", I'm sure you've seen it. I visited beautiful places where I was filmed cooking exquisite dishes. All that seems of no improtance now, don't you think? Nowadays, you're lucky if you get your hands on some canned meat or a bag of rice. And who knows how long this war is going to last.",
+    "Memo": ""
+  },
+  {
+    "ID": 12,
+    "Name": "Pavle",
+    "CName": "帕夫列",
+    "Gender": "Male",
+    "IsChild": false,
+    "Characteristic": "Fast Runner",
+    "Addiction": "None",
+    "CombatProficiency": "Moderate",
+    "InventorySize": 12,
+    "Description": "Before this whole mess begun, I lived with my wife and son in the better part of the city. I haven't seen them in a long time, I hope they are ok. I'm not doing so well, as you can see. Who needs football players during war? Nobody cares about sports when every day can be their last. So I scavenge the ruins like everyone elese, hoping for the best.",
+    "Memo": ""
   }
 ]
