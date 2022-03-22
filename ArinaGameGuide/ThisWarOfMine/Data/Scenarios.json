@@ -20,7 +20,7 @@
     "Vegetable": null,
     "Water": null,
     "DoubleCheck": "None",
-    "Memo": ""
+    "Memo": "Hatchet 3~4\n\n1 Electric part"
   },
   {
     "ID": 2,
@@ -29,21 +29,21 @@
     "Location": "St. Mary's Church",
     "AppearOrder": 3,
     "DangerLevel": "Very High",
-    "Crowbar": 0,
-    "Shovel": 3,
+    "Crowbar": 1,
+    "Shovel": 4,
     "Sawblade": 1,
-    "Hatchet": 14,
-    "Pyre": 44,
+    "Hatchet": 15,
+    "Pyre": 41,
     "PyreMax": 44,
-    "Parts": null,
-    "WeaponParts": null,
-    "ElectricParts": null,
-    "CannedFood": null,
-    "RawFood": null,
-    "Vegetable": null,
-    "Water": null,
+    "Parts": 5,
+    "WeaponParts": 5,
+    "ElectricParts": 5,
+    "CannedFood": 3,
+    "RawFood": 3,
+    "Vegetable": 2,
+    "Water": 0,
     "DoubleCheck": "None",
-    "Memo": "Hatchet 2\nPyre 4\nShovel 2\nEP 2"
+    "Memo": "\n\n\n"
   },
   {
     "ID": 3,
@@ -88,8 +88,8 @@
     "RawFood": 2,
     "Vegetable": 0,
     "Water": 10,
-    "DoubleCheck": "None",
-    "Memo": "if Steal->2 Sawblade\n2 more Hatchet\n\n"
+    "DoubleCheck": "PyreSure",
+    "Memo": "if Steal-> +1 Sawblade"
   },
   {
     "ID": 5,
@@ -196,15 +196,15 @@
     "Hatchet": 0,
     "Pyre": 0,
     "PyreMax": 0,
-    "Parts": null,
-    "WeaponParts": null,
-    "ElectricParts": null,
-    "CannedFood": null,
-    "RawFood": null,
-    "Vegetable": null,
-    "Water": null,
-    "DoubleCheck": "None",
-    "Memo": ""
+    "Parts": 0,
+    "WeaponParts": 3,
+    "ElectricParts": 3,
+    "CannedFood": 0,
+    "RawFood": 0,
+    "Vegetable": 1,
+    "Water": 0,
+    "DoubleCheck": "CrowbarShovelSawbladeSure",
+    "Memo": "Safe \nmay trade Coffe and Medication"
   },
   {
     "ID": 10,
@@ -319,7 +319,7 @@
     "Vegetable": 1,
     "Water": null,
     "DoubleCheck": "CrowbarShovelSawbladeSure",
-    "Memo": "if Steal Lockpick + 1\n\n砍9\n\n沒柴\n\nPart 2\n有碎石堆\n需要SawBlade\n\n-Next-\nVege 沒找到\n2 6\n很多地方砍不出柴"
+    "Memo": "if Steal Lockpick + 1\n\n砍9\n\n沒柴\n\nPart 2\n有碎石堆\nSawBlade 1\n\n\n-Next\n3 Canned Food\n1 Raw Food\n1 Vegetable"
   },
   {
     "ID": 15,
@@ -596,5 +596,28 @@
     "Water": null,
     "DoubleCheck": "None",
     "Memo": ""
+  },
+  {
+    "ID": 27,
+    "Name": null,
+    "CName": null,
+    "Location": "Quiet House",
+    "AppearOrder": null,
+    "DangerLevel": "None",
+    "Crowbar": 0,
+    "Shovel": 0,
+    "Sawblade": 0,
+    "Hatchet": 1,
+    "Pyre": 3,
+    "PyreMax": 3,
+    "Parts": null,
+    "WeaponParts": null,
+    "ElectricParts": null,
+    "CannedFood": null,
+    "RawFood": null,
+    "Vegetable": null,
+    "Water": null,
+    "DoubleCheck": "None",
+    "Memo": "不偷可以不用去"
   }
 ]
