@@ -1,0 +1,17 @@
+[
+  {
+    "ID": 1,
+    "Name": "Can Enter",
+    "CName": "可進入"
+  },
+  {
+    "ID": 2,
+    "Name": "Maybe Can Enter",
+    "CName": "或許可進入"
+  },
+  {
+    "ID": 3,
+    "Name": "Cannot Enter",
+    "CName": "不能進入"
+  }
+]

@@ -34,7 +34,7 @@
     "Characteristic": "Bolster Spirits",
     "Addiction": "None",
     "CombatProficiency": null,
-    "InventorySize": 0,
+    "InventorySize": 12,
     "Description": "I was just accepted to the music academy when the war broke out. I had so many plans, I had dreams. I used to play the guitar, date boys, dance. My little brother Tadei always made me smile. It all seems a dream now, replaced by this nightmare we live in. Yet I still jope one day we can forget the war and carry on with our lives as if it had never happened.",
     "Memo": ""
   },
@@ -47,7 +47,7 @@
     "Characteristic": "Talented Lawyer",
     "Addiction": "Coffee Drinker",
     "CombatProficiency": "Low",
-    "InventorySize": 0,
+    "InventorySize": 10,
     "Description": "Now that we're stuck together, I might as well tell you about me and my family. Father was a very practical man. He always reminded us of the importance of financial safety. That's why I became a lawyer like him, and my sister was to become a doctor. When the war broke out, we had a lot of saving on our family account. But the currency soon lost all value, the banks were closed and we had no foreign cash. In a matter of days we became poor.",
     "Memo": ""
   },

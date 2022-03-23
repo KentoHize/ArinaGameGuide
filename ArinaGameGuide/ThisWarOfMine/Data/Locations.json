@@ -4,8 +4,8 @@
     "Name": "Abandoned Cottage",
     "CName": "廢棄小屋",
     "Pakage": "Classic",
-    "SnowState": "Can Enter",
-    "WarArea": false,
+    "SnowStat": "Can Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -13,8 +13,8 @@
     "Name": "Brothel",
     "CName": "妓院",
     "Pakage": "Classic",
-    "SnowState": "Maybe Cannot Enter",
-    "WarArea": false,
+    "SnowStat": "Maybe Can Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -22,8 +22,8 @@
     "Name": "Central Square",
     "CName": "中央廣場",
     "Pakage": "Classic",
-    "SnowState": "Cannot Enter",
-    "WarArea": false,
+    "SnowStat": "Cannot Enter",
+    "WarStat": "Cannot Enter",
     "Memo": ""
   },
   {
@@ -31,8 +31,8 @@
     "Name": "City Hospital",
     "CName": "城市醫院",
     "Pakage": "Classic",
-    "SnowState": "Cannot Enter",
-    "WarArea": false,
+    "SnowStat": "Cannot Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -40,8 +40,8 @@
     "Name": "Construction Site",
     "CName": "建築工地",
     "Pakage": "Classic",
-    "SnowState": "Cannot Enter",
-    "WarArea": true,
+    "SnowStat": "Cannot Enter",
+    "WarStat": "Maybe Can Enter",
     "Memo": ""
   },
   {
@@ -49,8 +49,8 @@
     "Name": "Decrepit Squat",
     "CName": "貧民窟",
     "Pakage": "Classic",
-    "SnowState": "Can Enter",
-    "WarArea": false,
+    "SnowStat": "Can Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -58,8 +58,8 @@
     "Name": "Garage",
     "CName": "汽修店",
     "Pakage": "Classic",
-    "SnowState": "Cannot Enter",
-    "WarArea": false,
+    "SnowStat": "Cannot Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -67,8 +67,8 @@
     "Name": "Hotel",
     "CName": "旅館",
     "Pakage": "Classic",
-    "SnowState": "Cannot Enter",
-    "WarArea": false,
+    "SnowStat": "Cannot Enter",
+    "WarStat": "Cannot Enter",
     "Memo": ""
   },
   {
@@ -76,8 +76,8 @@
     "Name": "Military Outpost",
     "CName": "軍隊哨站",
     "Pakage": "Classic",
-    "SnowState": "Can Enter",
-    "WarArea": true,
+    "SnowStat": "Can Enter",
+    "WarStat": "Cannot Enter",
     "Memo": ""
   },
   {
@@ -85,8 +85,8 @@
     "Name": "Our Shelter",
     "CName": "我們的避難所",
     "Pakage": "Classic",
-    "SnowState": "Can Enter",
-    "WarArea": false,
+    "SnowStat": "Can Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -94,8 +94,8 @@
     "Name": "Quiet House",
     "CName": "寂靜小屋",
     "Pakage": "Classic",
-    "SnowState": "Cannot Enter",
-    "WarArea": false,
+    "SnowStat": "Cannot Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -103,8 +103,8 @@
     "Name": "Ruined Block of Flats",
     "CName": "公寓廢墟",
     "Pakage": "Classic",
-    "SnowState": "Can Enter",
-    "WarArea": false,
+    "SnowStat": "Can Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -112,8 +112,8 @@
     "Name": "Ruined Villa",
     "CName": "別墅廢墟",
     "Pakage": "Classic",
-    "SnowState": "Cannot Enter",
-    "WarArea": true,
+    "SnowStat": "Cannot Enter",
+    "WarStat": "Cannot Enter",
     "Memo": ""
   },
   {
@@ -121,8 +121,8 @@
     "Name": "Semi-Detached House",
     "CName": "半毀的房屋",
     "Pakage": "Classic",
-    "SnowState": "Cannot Enter",
-    "WarArea": true,
+    "SnowStat": "Cannot Enter",
+    "WarStat": "Cannot Enter",
     "Memo": ""
   },
   {
@@ -130,8 +130,8 @@
     "Name": "Shelled Cottage",
     "CName": "",
     "Pakage": "Classic",
-    "SnowState": "Can Enter",
-    "WarArea": false,
+    "SnowStat": "Can Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -139,8 +139,8 @@
     "Name": "Shelled School",
     "CName": "被砲擊的學校",
     "Pakage": "Classic",
-    "SnowState": "Cannot Enter",
-    "WarArea": false,
+    "SnowStat": "Cannot Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -148,8 +148,8 @@
     "Name": "Small Apartment Building",
     "CName": "小型公寓樓",
     "Pakage": "Classic",
-    "SnowState": "Cannot Enter",
-    "WarArea": false,
+    "SnowStat": "Cannot Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -157,8 +157,8 @@
     "Name": "Sniper Junction",
     "CName": "狙擊中心",
     "Pakage": "Classic",
-    "SnowState": "Cannot Enter",
-    "WarArea": true,
+    "SnowStat": "Cannot Enter",
+    "WarStat": "Cannot Enter",
     "Memo": ""
   },
   {
@@ -166,8 +166,8 @@
     "Name": "St. Mary's Church",
     "CName": "聖瑪麗教堂",
     "Pakage": "Classic",
-    "SnowState": "Maybe Cannot Enter",
-    "WarArea": true,
+    "SnowStat": "Maybe Can Enter",
+    "WarStat": "Cannot Enter",
     "Memo": ""
   },
   {
@@ -175,8 +175,8 @@
     "Name": "Supermarket",
     "CName": "超市",
     "Pakage": "Classic",
-    "SnowState": "Cannot Enter",
-    "WarArea": true,
+    "SnowStat": "Cannot Enter",
+    "WarStat": "Cannot Enter",
     "Memo": ""
   },
   {
@@ -184,17 +184,17 @@
     "Name": "Warhouse",
     "CName": "倉庫",
     "Pakage": "Classic",
-    "SnowState": "Cannot Enter",
-    "WarArea": false,
+    "SnowStat": "Cannot Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
     "ID": 22,
     "Name": "Looted Gas Station",
-    "CName": "被搶劫的加油站",
+    "CName": "被洗劫的加油站",
     "Pakage": "1.3",
-    "SnowState": "Can Enter",
-    "WarArea": false,
+    "SnowStat": "Can Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -202,8 +202,8 @@
     "Name": "Old Town",
     "CName": "舊城區",
     "Pakage": "1.3",
-    "SnowState": "Can Enter",
-    "WarArea": false,
+    "SnowStat": "Can Enter",
+    "WarStat": "Cannot Enter",
     "Memo": ""
   },
   {
@@ -211,8 +211,8 @@
     "Name": "Air Port",
     "CName": "機場",
     "Pakage": "Anniversary Edition",
-    "SnowState": "Can Enter",
-    "WarArea": false,
+    "SnowStat": "Can Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -220,8 +220,8 @@
     "Name": "Ghost House",
     "CName": "鬼屋",
     "Pakage": "Anniversary Edition",
-    "SnowState": "Can Enter",
-    "WarArea": false,
+    "SnowStat": "Can Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -229,8 +229,8 @@
     "Name": "Port",
     "CName": "碼頭",
     "Pakage": "Anniversary Edition",
-    "SnowState": "Cannot Enter",
-    "WarArea": false,
+    "SnowStat": "Cannot Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -238,8 +238,8 @@
     "Name": "Bakery",
     "CName": "麵包店",
     "Pakage": "Final Cut",
-    "SnowState": "Can Enter",
-    "WarArea": false,
+    "SnowStat": "Can Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -247,8 +247,8 @@
     "Name": "Music Club",
     "CName": "音樂俱樂部",
     "Pakage": "Final Cut",
-    "SnowState": "Can Enter",
-    "WarArea": false,
+    "SnowStat": "Can Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -256,8 +256,8 @@
     "Name": "Park",
     "CName": "公園",
     "Pakage": "Final Cut",
-    "SnowState": "Can Enter",
-    "WarArea": false,
+    "SnowStat": "Can Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -265,8 +265,8 @@
     "Name": "Pharmacy",
     "CName": "藥局",
     "Pakage": "Final Cut",
-    "SnowState": "Can Enter",
-    "WarArea": false,
+    "SnowStat": "Can Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -274,8 +274,8 @@
     "Name": "Railway Station",
     "CName": "火車站",
     "Pakage": "Final Cut",
-    "SnowState": "Can Enter",
-    "WarArea": false,
+    "SnowStat": "Can Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -283,8 +283,8 @@
     "Name": "Ruined Toy Store",
     "CName": "玩具店廢墟",
     "Pakage": "Final Cut",
-    "SnowState": "Can Enter",
-    "WarArea": false,
+    "SnowStat": "Can Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -292,8 +292,8 @@
     "Name": "Shelled Brewery",
     "CName": "被炸的酒廠",
     "Pakage": "Final Cut",
-    "SnowState": "Can Enter",
-    "WarArea": false,
+    "SnowStat": "Can Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   },
   {
@@ -301,8 +301,8 @@
     "Name": "The Samuel Institute",
     "CName": "賽繆爾研究院",
     "Pakage": "Final Cut",
-    "SnowState": "Cannot Enter",
-    "WarArea": false,
+    "SnowStat": "Cannot Enter",
+    "WarStat": "Can Enter",
     "Memo": ""
   }
 ]

@@ -517,7 +517,7 @@
     "Name": "Roll-Up Cigarette",
     "CName": "卷菸",
     "IsFurniture": false,
-    "StackLimit": 10,
+    "StackLimit": 20,
     "HoldLimit": null,
     "Description": ""
   },
@@ -688,7 +688,7 @@
     "Name": "Quality Roll-Up",
     "CName": "優質卷菸",
     "IsFurniture": false,
-    "StackLimit": 10,
+    "StackLimit": 20,
     "HoldLimit": null,
     "Description": ""
   },
