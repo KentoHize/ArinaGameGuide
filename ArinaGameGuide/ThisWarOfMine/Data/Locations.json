@@ -22,7 +22,7 @@
     "Name": "Central Square",
     "CName": "中央廣場",
     "Pakage": "Classic",
-    "SnowStat": "Cannot Enter",
+    "SnowStat": "Maybe Can Enter",
     "WarStat": "Cannot Enter",
     "Memo": ""
   },
@@ -67,7 +67,7 @@
     "Name": "Hotel",
     "CName": "旅館",
     "Pakage": "Classic",
-    "SnowStat": "Cannot Enter",
+    "SnowStat": "Maybe Can Enter",
     "WarStat": "Cannot Enter",
     "Memo": ""
   },
@@ -112,7 +112,7 @@
     "Name": "Ruined Villa",
     "CName": "別墅廢墟",
     "Pakage": "Classic",
-    "SnowStat": "Cannot Enter",
+    "SnowStat": "Maybe Can Enter",
     "WarStat": "Cannot Enter",
     "Memo": ""
   },
@@ -122,7 +122,7 @@
     "CName": "半毀的房屋",
     "Pakage": "Classic",
     "SnowStat": "Cannot Enter",
-    "WarStat": "Cannot Enter",
+    "WarStat": "Maybe Can Enter",
     "Memo": ""
   },
   {
@@ -175,7 +175,7 @@
     "Name": "Supermarket",
     "CName": "超市",
     "Pakage": "Classic",
-    "SnowStat": "Cannot Enter",
+    "SnowStat": "Maybe Can Enter",
     "WarStat": "Cannot Enter",
     "Memo": ""
   },
@@ -211,7 +211,7 @@
     "Name": "Air Port",
     "CName": "機場",
     "Pakage": "Anniversary Edition",
-    "SnowStat": "Can Enter",
+    "SnowStat": "Maybe Can Enter",
     "WarStat": "Can Enter",
     "Memo": ""
   },
