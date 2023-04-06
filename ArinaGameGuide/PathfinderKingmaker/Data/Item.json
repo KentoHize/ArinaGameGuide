@@ -7223,5 +7223,39 @@
     "StoryItem": true,
     "Weight": 2.0,
     "Description": "Summon a movanic deva"
+  },
+  {
+    "ID": 426,
+    "Name": "Fortunate Fencer",
+    "DisplayName": "Fortunate Fencer",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Ring",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 19400,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.05,
+    "Description": "+2 Bonus to Melee Weapon Attack"
+  },
+  {
+    "ID": 427,
+    "Name": "Ironclad Will",
+    "DisplayName": "Ironclad Will",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Heavy Shield",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 9750,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 15.0,
+    "Description": "+4 Shield\n+4 Morale Will"
   }
 ]
