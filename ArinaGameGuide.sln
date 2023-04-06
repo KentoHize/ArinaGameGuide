@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31825.309
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ArinaGameGuide", "ArinaGameGuide\", "{18612655-B0DB-4683-A274-8B4939274F36}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_55710"
 		Debug.AspNetCompiler.PhysicalPath = "ArinaGameGuide\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55710\"
@@ -24,7 +24,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ArinaGameGuide", "ArinaGame
 		SlnRelativePath = "ArinaGameGuide\"
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpareFiles", "SpareFiles\SpareFiles.csproj", "{F1A986E3-73D5-4783-928F-BDD5B83F54A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpareFiles", "SpareFiles\SpareFiles.csproj", "{F1A986E3-73D5-4783-928F-BDD5B83F54A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
