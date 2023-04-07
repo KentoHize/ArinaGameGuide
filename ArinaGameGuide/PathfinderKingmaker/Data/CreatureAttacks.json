@@ -2247,7 +2247,7 @@
     "Range": 2,
     "AddtionalAttack": 0,
     "AttackBonus": 17,
-    "Weapon": "Quartstaff +1",
+    "Weapon": "Quarterstaff +1",
     "BasicDamage": "1d6",
     "DamageAdditiveBonus": 19,
     "OtherDamageBonus": null,
@@ -2387,7 +2387,7 @@
     "Range": 2,
     "AddtionalAttack": 0,
     "AttackBonus": 18,
-    "Weapon": "Quartstaff +1",
+    "Weapon": "Quarterstaff +1",
     "BasicDamage": "1d6",
     "DamageAdditiveBonus": 19,
     "OtherDamageBonus": null,
@@ -4266,6 +4266,20 @@
     "Weapon": "Longbow +2",
     "BasicDamage": "1d8",
     "DamageAdditiveBonus": 11,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 345,
+    "Creature": "Elf 8 Sorcerer",
+    "Form": "Bludgeoning Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 13,
+    "Weapon": "Quarterstaff +1",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 4,
     "OtherDamageBonus": null,
     "SneakDamage": null
   }

@@ -5016,8 +5016,8 @@
   },
   {
     "ID": 113,
-    "Name": "Quartstaff +1",
-    "DisplayName": "Quartstaff +1",
+    "Name": "Quarterstaff +1",
+    "DisplayName": "Quarterstaff +1",
     "DisplayCName": "",
     "Type": null,
     "BaseItem": "Quarterstaff",

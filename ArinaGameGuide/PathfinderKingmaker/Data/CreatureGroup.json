@@ -2598,5 +2598,13 @@
     "Position": "North West",
     "Stage": 1,
     "Memo": ""
+  },
+  {
+    "ID": 326,
+    "Name": "Nortellara Group A",
+    "Place": "Elven Camp",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

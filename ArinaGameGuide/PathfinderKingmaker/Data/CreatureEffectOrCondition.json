@@ -799,5 +799,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 92,
+    "Creature": "Elf 8 Sorcerer",
+    "EffectOrCondition": "Protective Aura",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

@@ -2266,5 +2266,12 @@
     "Type": "Vulnerability",
     "DamageType": "Cold",
     "Amount": null
+  },
+  {
+    "ID": 325,
+    "Creature": "Elf 8 Sorcerer",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 5
   }
 ]
