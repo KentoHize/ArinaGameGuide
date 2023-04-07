@@ -4226,5 +4226,19 @@
     "DamageAdditiveBonus": 4,
     "OtherDamageBonus": "Fire 1d6",
     "SneakDamage": null
+  },
+  {
+    "ID": 342,
+    "Creature": "Nortellara",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 3,
+    "AttackBonus": 24,
+    "Weapon": "Elven Curve Blade +3",
+    "BasicDamage": "1d10",
+    "DamageAdditiveBonus": 27,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

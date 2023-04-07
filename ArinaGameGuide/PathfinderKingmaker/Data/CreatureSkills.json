@@ -2728,5 +2728,17 @@
     "Creature": "Hell Hound",
     "Skill": "Perception",
     "Bonus": 13
+  },
+  {
+    "ID": 457,
+    "Creature": "Nortellara",
+    "Skill": "Perception",
+    "Bonus": 27
+  },
+  {
+    "ID": 458,
+    "Creature": "Nortellara",
+    "Skill": "Athletics",
+    "Bonus": 25
   }
 ]

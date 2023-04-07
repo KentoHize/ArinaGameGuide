@@ -781,5 +781,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 89,
+    "Creature": "Nortellara",
+    "EffectOrCondition": "Protective Aura",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

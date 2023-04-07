@@ -1156,5 +1156,41 @@
     "Creature": "Erinyes Devil 14",
     "Condition": "Poison",
     "CondtionGroup": null
+  },
+  {
+    "ID": 202,
+    "Creature": "Nortellara",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 203,
+    "Creature": "Nortellara",
+    "Condition": "Death",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 204,
+    "Creature": "Nortellara",
+    "Condition": "Sleep",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 205,
+    "Creature": "Nortellara",
+    "Condition": "ability score damage",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 206,
+    "Creature": "Nortellara",
+    "Condition": "drain",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 207,
+    "Creature": "Nortellara",
+    "Condition": "Petrified",
+    "CondtionGroup": null
   }
 ]

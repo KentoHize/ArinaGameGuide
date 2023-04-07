@@ -7257,5 +7257,22 @@
     "StoryItem": false,
     "Weight": 15.0,
     "Description": "+4 Shield\n+4 Morale Will"
+  },
+  {
+    "ID": 428,
+    "Name": "Elven Curve Blade +3",
+    "DisplayName": "Elven Curve Blade +3",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Elven Curve Blade",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

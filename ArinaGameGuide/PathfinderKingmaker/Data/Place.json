@@ -2203,5 +2203,20 @@
     "HasPlot": false,
     "Description": "",
     "Memo": "Kesten Root:\nGoblin Group\n\nHeadband of Inspired Wisdom +4\n\nWand of Lighting Bolt"
+  },
+  {
+    "ID": 149,
+    "Name": "Elven Camp",
+    "DisplayName": "Elven Camp",
+    "CName": "",
+    "Type": "Hunting Area",
+    "Region": null,
+    "SuggestedLevelMin": 14,
+    "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": ""
   }
 ]
