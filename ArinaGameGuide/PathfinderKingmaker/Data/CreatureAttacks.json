@@ -4240,5 +4240,33 @@
     "DamageAdditiveBonus": 27,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 343,
+    "Creature": "Elf 8 Fighter",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 1,
+    "AttackBonus": 22,
+    "Weapon": "Longsword +2",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 19,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 344,
+    "Creature": "Elf 10 Archer",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AddtionalAttack": 2,
+    "AttackBonus": 21,
+    "Weapon": "Longbow +2",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 11,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

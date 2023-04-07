@@ -1192,5 +1192,17 @@
     "Creature": "Nortellara",
     "Condition": "Petrified",
     "CondtionGroup": null
+  },
+  {
+    "ID": 208,
+    "Creature": "Elf 8 Fighter",
+    "Condition": "Sleep",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 209,
+    "Creature": "Elf 10 Archer",
+    "Condition": "Sleep",
+    "CondtionGroup": null
   }
 ]

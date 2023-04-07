@@ -790,5 +790,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 90,
+    "Creature": "Elf 8 Fighter",
+    "EffectOrCondition": "Protective Aura",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

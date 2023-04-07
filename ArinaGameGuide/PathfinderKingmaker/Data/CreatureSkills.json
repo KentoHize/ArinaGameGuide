@@ -2740,5 +2740,23 @@
     "Creature": "Nortellara",
     "Skill": "Athletics",
     "Bonus": 25
+  },
+  {
+    "ID": 459,
+    "Creature": "Elf 8 Fighter",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 460,
+    "Creature": "Elf 8 Fighter",
+    "Skill": "Stealth",
+    "Bonus": 12
+  },
+  {
+    "ID": 461,
+    "Creature": "Elf 10 Archer",
+    "Skill": "Perception",
+    "Bonus": 19
   }
 ]

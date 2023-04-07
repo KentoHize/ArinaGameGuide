@@ -7274,5 +7274,22 @@
     "StoryItem": false,
     "Weight": 0.0,
     "Description": ""
+  },
+  {
+    "ID": 429,
+    "Name": "Longbow +2",
+    "DisplayName": "Longbow +2",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Longbow",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]
