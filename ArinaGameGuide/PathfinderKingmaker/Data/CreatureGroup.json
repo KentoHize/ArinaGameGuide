@@ -2638,5 +2638,13 @@
     "Position": "East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 331,
+    "Name": "Smith Overseer Group",
+    "Place": "The Menagerie",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

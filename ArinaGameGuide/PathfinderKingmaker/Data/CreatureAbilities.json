@@ -2518,5 +2518,32 @@
     "DamageType1": "Acid",
     "DamageType2": "Fire",
     "DC": null
+  },
+  {
+    "ID": 282,
+    "Creature": "Smith Overseer",
+    "Ability": "Spell Combat",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 283,
+    "Creature": "Smith Overseer",
+    "Ability": "Spellstrike",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 284,
+    "Creature": "Smith Overseer",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

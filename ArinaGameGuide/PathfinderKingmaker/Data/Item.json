@@ -7410,5 +7410,22 @@
     "StoryItem": false,
     "Weight": 0.0,
     "Description": "Jugement 3 more times"
+  },
+  {
+    "ID": 437,
+    "Name": "Warhammer +1",
+    "DisplayName": "Warhammer +1",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Warhammer",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

@@ -1,5 +1,12 @@
 [
   {
+    "ID": 35,
+    "Name": "Adhesive Entaglement",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
     "ID": 6,
     "Name": "Aura of Madness",
     "CName": "",
@@ -12,6 +19,13 @@
     "CName": "",
     "DC": "20",
     "Description": "Fort DC 20 1d4 Str Con Cha dmg"
+  },
+  {
+    "ID": 44,
+    "Name": "Bane Weapon",
+    "CName": "",
+    "DC": "",
+    "Description": ""
   },
   {
     "ID": 10,
@@ -42,6 +56,13 @@
     "Description": ""
   },
   {
+    "ID": 38,
+    "Name": "Crane Style",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
     "ID": 14,
     "Name": "Deadly Aim",
     "CName": "",
@@ -54,6 +75,27 @@
     "CName": "",
     "DC": "21",
     "Description": "Fort 21 to 1d4 con"
+  },
+  {
+    "ID": 43,
+    "Name": "Deepest Fear",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 40,
+    "Name": "Disorienting Injury",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 49,
+    "Name": "Enraged Warrior",
+    "CName": "",
+    "DC": "",
+    "Description": ""
   },
   {
     "ID": 2,
@@ -77,6 +119,13 @@
     "Description": ""
   },
   {
+    "ID": 37,
+    "Name": "Fear Gaze",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
     "ID": 26,
     "Name": "Feather Step",
     "CName": "",
@@ -93,6 +142,13 @@
   {
     "ID": 32,
     "Name": "Improved Evasion",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 46,
+    "Name": "Improved Two-Weapon Fighting",
     "CName": "",
     "DC": "",
     "Description": ""
@@ -140,6 +196,20 @@
     "Description": ""
   },
   {
+    "ID": 36,
+    "Name": "Pertified Gaze",
+    "CName": "",
+    "DC": "29",
+    "Description": ""
+  },
+  {
+    "ID": 42,
+    "Name": "Physical Enhancement - Dexterity",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
     "ID": 17,
     "Name": "Piranha Strike",
     "CName": "",
@@ -175,6 +245,20 @@
     "Description": ""
   },
   {
+    "ID": 48,
+    "Name": "Protective Aura",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 41,
+    "Name": "Quarry",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
     "ID": 8,
     "Name": "Rage",
     "CName": "",
@@ -196,8 +280,22 @@
     "Description": ""
   },
   {
+    "ID": 34,
+    "Name": "Redcap",
+    "CName": "",
+    "DC": "",
+    "Description": "Fast Healing 3\n+4 dmg"
+  },
+  {
     "ID": 7,
     "Name": "Regeneration",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 39,
+    "Name": "Shroud of Water",
     "CName": "",
     "DC": "",
     "Description": ""
@@ -217,6 +315,13 @@
     "Description": ""
   },
   {
+    "ID": 45,
+    "Name": "Two-Weapon Fighting",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
     "ID": 5,
     "Name": "Wild Gaze",
     "CName": "",
@@ -231,97 +336,6 @@
     "Description": ""
   },
   {
-    "ID": 34,
-    "Name": "Redcap",
-    "CName": "",
-    "DC": "",
-    "Description": "Fast Healing 3\n+4 dmg"
-  },
-  {
-    "ID": 35,
-    "Name": "Adhesive Entaglement",
-    "CName": "",
-    "DC": "",
-    "Description": ""
-  },
-  {
-    "ID": 36,
-    "Name": "Pertified Gaze",
-    "CName": "",
-    "DC": "29",
-    "Description": ""
-  },
-  {
-    "ID": 37,
-    "Name": "Fear Gaze",
-    "CName": "",
-    "DC": "",
-    "Description": ""
-  },
-  {
-    "ID": 38,
-    "Name": "Crane Style",
-    "CName": "",
-    "DC": "",
-    "Description": ""
-  },
-  {
-    "ID": 39,
-    "Name": "Shroud of Water",
-    "CName": "",
-    "DC": "",
-    "Description": ""
-  },
-  {
-    "ID": 40,
-    "Name": "Disorienting Injury",
-    "CName": "",
-    "DC": "",
-    "Description": ""
-  },
-  {
-    "ID": 41,
-    "Name": "Quarry",
-    "CName": "",
-    "DC": "",
-    "Description": ""
-  },
-  {
-    "ID": 42,
-    "Name": "Physical Enhancement - Dexterity",
-    "CName": "",
-    "DC": "",
-    "Description": ""
-  },
-  {
-    "ID": 43,
-    "Name": "Deepest Fear",
-    "CName": "",
-    "DC": "",
-    "Description": ""
-  },
-  {
-    "ID": 44,
-    "Name": "Bane Weapon",
-    "CName": "",
-    "DC": "",
-    "Description": ""
-  },
-  {
-    "ID": 45,
-    "Name": "Two-Weapon Fighting",
-    "CName": "",
-    "DC": "",
-    "Description": ""
-  },
-  {
-    "ID": 46,
-    "Name": "Improved Two-Weapon Fighting",
-    "CName": "",
-    "DC": "",
-    "Description": ""
-  },
-  {
     "ID": 47,
     "Name": "Wing",
     "CName": "",
@@ -329,15 +343,15 @@
     "Description": ""
   },
   {
-    "ID": 48,
-    "Name": "Protective Aura",
+    "ID": 50,
+    "Name": "Spell Combat",
     "CName": "",
     "DC": "",
     "Description": ""
   },
   {
-    "ID": 49,
-    "Name": "Enraged Warrior",
+    "ID": 51,
+    "Name": "Spellstrike",
     "CName": "",
     "DC": "",
     "Description": ""

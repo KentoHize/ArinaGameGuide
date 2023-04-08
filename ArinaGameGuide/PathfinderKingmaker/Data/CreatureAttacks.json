@@ -4436,5 +4436,19 @@
     "DamageAdditiveBonus": null,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 357,
+    "Creature": "Smith Overseer",
+    "Form": "Bludgeoning Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 1,
+    "AttackBonus": 22,
+    "Weapon": "Warhammer +1",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 16,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

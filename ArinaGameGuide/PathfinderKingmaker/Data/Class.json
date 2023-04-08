@@ -187,5 +187,12 @@
     "CName": "",
     "ChanllegeRateMultiplier": 1.0,
     "PlayerClass": true
+  },
+  {
+    "ID": 28,
+    "Name": "Magus",
+    "CName": "",
+    "ChanllegeRateMultiplier": 1.0,
+    "PlayerClass": true
   }
 ]
