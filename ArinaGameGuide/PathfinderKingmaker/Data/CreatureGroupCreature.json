@@ -8038,5 +8038,45 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 806,
+    "CreatureGroup": "Nortellara Group C",
+    "Creature": "Elf 7 Lawful Wizard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 807,
+    "CreatureGroup": "Nortellara Group C",
+    "Creature": "Elf 9 Rogue",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 808,
+    "CreatureGroup": "Nortellara Group C",
+    "Creature": "Elf 9 Bard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 809,
+    "CreatureGroup": "Nortellara Group C",
+    "Creature": "Elf 10 Archer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

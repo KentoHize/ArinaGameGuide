@@ -4338,5 +4338,19 @@
     "DamageAdditiveBonus": 10,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 350,
+    "Creature": "Elf 7 Wizard",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 12,
+    "Weapon": "Quarterstaff +1",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 4,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

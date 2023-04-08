@@ -2614,5 +2614,13 @@
     "Position": "East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 328,
+    "Name": "Nortellara Group C",
+    "Place": "Elven Camp",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]
