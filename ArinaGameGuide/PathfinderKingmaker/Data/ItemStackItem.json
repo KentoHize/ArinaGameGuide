@@ -3298,7 +3298,7 @@
   {
     "ID": 548,
     "ItemStack": "MV + PoCM + QS1 + AoMF1 + CoR1",
-    "Item": "Quartstaff +1",
+    "Item": "Quarterstaff +2",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
@@ -6259,6 +6259,86 @@
     "ID": 784,
     "ItemStack": "Siroket RS",
     "Item": "Breastplate +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 785,
+    "ItemStack": "LS2 + HS3 + BP3",
+    "Item": "Longsword +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 786,
+    "ItemStack": "LS2 + HS3 + BP3",
+    "Item": "Heavy Shield +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 787,
+    "ItemStack": "LS2 + HS3 + BP3",
+    "Item": "Breastplate +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 788,
+    "ItemStack": "RS + LC1 + RoP1",
+    "Item": null,
+    "RandomItem": "Random Scroll",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 789,
+    "ItemStack": "RS + LC1 + RoP1",
+    "Item": "Light Crossbow +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 790,
+    "ItemStack": "RS + LC1 + RoP1",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 792,
+    "ItemStack": "RS + R2 + CS2 + RoP1",
+    "Item": null,
+    "RandomItem": "Random Scroll",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 793,
+    "ItemStack": "RS + R2 + CS2 + RoP1",
+    "Item": "Rapier +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 794,
+    "ItemStack": "RS + R2 + CS2 + RoP1",
+    "Item": "Chainshirt +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 795,
+    "ItemStack": "RS + R2 + CS2 + RoP1",
+    "Item": "Ring of Protection +1",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null

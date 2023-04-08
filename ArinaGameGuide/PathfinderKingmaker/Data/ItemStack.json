@@ -1503,5 +1503,20 @@
     "ID": 302,
     "Name": "Siroket RS",
     "Memo": ""
+  },
+  {
+    "ID": 303,
+    "Name": "LS2 + HS3 + BP3",
+    "Memo": ""
+  },
+  {
+    "ID": 304,
+    "Name": "RS + LC1 + RoP1",
+    "Memo": ""
+  },
+  {
+    "ID": 305,
+    "Name": "RS + R2 + CS2 + RoP1",
+    "Memo": ""
   }
 ]

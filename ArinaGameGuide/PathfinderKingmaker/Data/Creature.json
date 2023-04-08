@@ -15519,7 +15519,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "LS2 + HS3 + BP3",
     "Memo": ""
   },
   {
@@ -15648,7 +15648,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "RS + LC1 + RoP1",
     "Memo": ""
   },
   {
@@ -15734,7 +15734,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "RS + R2 + CS2 + RoP1",
     "Memo": ""
   },
   {
