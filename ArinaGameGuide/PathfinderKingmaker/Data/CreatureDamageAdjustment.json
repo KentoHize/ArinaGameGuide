@@ -2294,5 +2294,103 @@
     "Type": "DamageReduction",
     "DamageType": "Cold Iron",
     "Amount": 10
+  },
+  {
+    "ID": 329,
+    "Creature": "Autumn Golem",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 10
+  },
+  {
+    "ID": 330,
+    "Creature": "Autumn Golem",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 20
+  },
+  {
+    "ID": 331,
+    "Creature": "Autumn Golem",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 20
+  },
+  {
+    "ID": 332,
+    "Creature": "Autumn Golem",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 20
+  },
+  {
+    "ID": 333,
+    "Creature": "Autumn Golem",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 20
+  },
+  {
+    "ID": 334,
+    "Creature": "Autumn Golem",
+    "Type": "Resistance",
+    "DamageType": "Sonic",
+    "Amount": 20
+  },
+  {
+    "ID": 335,
+    "Creature": "Greater Autumn Golem",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 10
+  },
+  {
+    "ID": 336,
+    "Creature": "Greater Autumn Golem",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 20
+  },
+  {
+    "ID": 337,
+    "Creature": "Greater Autumn Golem",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 20
+  },
+  {
+    "ID": 338,
+    "Creature": "Greater Autumn Golem",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 20
+  },
+  {
+    "ID": 339,
+    "Creature": "Greater Autumn Golem",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 20
+  },
+  {
+    "ID": 340,
+    "Creature": "Greater Autumn Golem",
+    "Type": "Resistance",
+    "DamageType": "Sonic",
+    "Amount": 20
+  },
+  {
+    "ID": 341,
+    "Creature": "Mature Athach Weak",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 342,
+    "Creature": "Greater Athach",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
   }
 ]

@@ -601,5 +601,32 @@
     "IsGroup": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 69,
+    "Name": "Grapple",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 70,
+    "Name": "Spell - Baleful Polymorph",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 71,
+    "Name": "Mutagen - Strength",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

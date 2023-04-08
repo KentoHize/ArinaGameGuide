@@ -2689,5 +2689,50 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 301,
+    "Creature": "Autumn Golem",
+    "Ability": "Aura of Thorny Despair",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 302,
+    "Creature": "Greater Autumn Golem",
+    "Ability": "Aura of Thorny Despair",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 303,
+    "Creature": "Mature Athach Weak",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 304,
+    "Creature": "Mature Athach Weak",
+    "Ability": "Lunge",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 305,
+    "Creature": "Greater Athach",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

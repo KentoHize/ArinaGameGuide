@@ -862,5 +862,77 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 99,
+    "Creature": "Autumn Golem",
+    "EffectOrCondition": "Freedom of Movement",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 100,
+    "Creature": "Autumn Golem",
+    "EffectOrCondition": "Acidic Creature",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 101,
+    "Creature": "Greater Autumn Golem",
+    "EffectOrCondition": "Freedom of Movement",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 102,
+    "Creature": "Greater Autumn Golem",
+    "EffectOrCondition": "Acidic Creature",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 103,
+    "Creature": "Mature Athach Weak",
+    "EffectOrCondition": "Acidic Creature",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 105,
+    "Creature": "Greater Athach",
+    "EffectOrCondition": "Mutagen - Strength",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 104,
+    "Creature": "Greater Athach",
+    "EffectOrCondition": "Bull's Strength",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 106,
+    "Creature": "Greater Athach",
+    "EffectOrCondition": "Acidic Creature",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

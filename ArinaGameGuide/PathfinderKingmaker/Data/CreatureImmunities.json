@@ -1258,5 +1258,23 @@
     "Creature": "Bandit 14 Achlemist",
     "Condition": "Poison",
     "CondtionGroup": null
+  },
+  {
+    "ID": 219,
+    "Creature": "Autumn Golem",
+    "Condition": null,
+    "CondtionGroup": "Plant Immunities"
+  },
+  {
+    "ID": 221,
+    "Creature": "Autumn Golem",
+    "Condition": "Spell - Baleful Polymorph",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 222,
+    "Creature": "Greater Athach",
+    "Condition": "Spell - Magic Missile",
+    "CondtionGroup": null
   }
 ]

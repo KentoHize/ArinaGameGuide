@@ -1440,5 +1440,47 @@
     "LockDC": 35,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 104,
+    "Name": "Giggling Hill Treasure A",
+    "CName": "",
+    "Type": "Corpse",
+    "Place": "Giggling Hill",
+    "Position": "Deep Floor 1 South",
+    "ItemStack": "Giggling Hill Treasure A",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 105,
+    "Name": "Tenebrous Depth XIII Treasure A",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Tenebrous Depth XIII",
+    "Position": "East",
+    "ItemStack": "Tenebrous Depth XIII Treasure A",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 106,
+    "Name": "Tenebrous Depth XIII Treasure B",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Tenebrous Depth XIII",
+    "Position": "East",
+    "ItemStack": "Apex Predator",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

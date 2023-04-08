@@ -1702,5 +1702,53 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 149,
+    "Name": "Tenebrous Depth XIII Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Tenebrous Depth XIII",
+    "DisarmDC": 32,
+    "Position": "East",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 150,
+    "Name": "Tenebrous Depth XIII Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Tenebrous Depth XIII",
+    "DisarmDC": 30,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 151,
+    "Name": "Tenebrous Depth XIII Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Tenebrous Depth XIII",
+    "DisarmDC": 27,
+    "Position": "North",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 152,
+    "Name": "Tenebrous Depth XIII Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Tenebrous Depth XIII",
+    "DisarmDC": 30,
+    "Position": "South",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

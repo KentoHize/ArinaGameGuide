@@ -6894,5 +6894,45 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 865,
+    "ItemStack": "Giggling Hill Treasure A",
+    "Item": "Amulet of Agile Fists +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 866,
+    "ItemStack": "Giggling Hill Treasure A",
+    "Item": "Thundering Claw of the Bear God",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 867,
+    "ItemStack": "Tenebrous Depth XIII Treasure A",
+    "Item": "Belt of Physical Form +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 868,
+    "ItemStack": "Student's Copybook",
+    "Item": "Student's Copybook",
+    "RandomItem": null,
+    "Quantity": null,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 869,
+    "ItemStack": "Apex Predator",
+    "Item": "Apex Predator",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

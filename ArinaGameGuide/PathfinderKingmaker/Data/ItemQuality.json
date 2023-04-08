@@ -112,5 +112,29 @@
     "Item": "Unbound Blade",
     "Quality": "Shock",
     "Rank": null
+  },
+  {
+    "ID": 20,
+    "Item": "Thundering Claw of the Bear God",
+    "Quality": "Enhancement",
+    "Rank": 4
+  },
+  {
+    "ID": 21,
+    "Item": "Thundering Claw of the Bear God",
+    "Quality": "Shock",
+    "Rank": null
+  },
+  {
+    "ID": 22,
+    "Item": "Thundering Claw of the Bear God",
+    "Quality": "Thundering",
+    "Rank": null
+  },
+  {
+    "ID": 23,
+    "Item": "Thundering Claw of the Bear God",
+    "Quality": "Wrath of the Bear God",
+    "Rank": null
   }
 ]

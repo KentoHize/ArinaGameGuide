@@ -76,5 +76,17 @@
     "Name": "Agile",
     "CName": "",
     "Description": "Weapon Finesse"
+  },
+  {
+    "ID": 14,
+    "Name": "Thundering",
+    "CName": "",
+    "Description": "+1d6 sonic dmg"
+  },
+  {
+    "ID": 15,
+    "Name": "Wrath of the Bear God",
+    "CName": "",
+    "Description": "(Need Test)\nNature attack have shock\n\nWhen Change Shape\nsonic & electricty dmg change to 1d10\n\nif critical, become  a Call lighting Storm Spell target(5d6 dmg DC 24)"
   }
 ]

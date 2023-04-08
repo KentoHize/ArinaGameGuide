@@ -362,5 +362,12 @@
     "CName": "",
     "DC": "",
     "Description": ""
+  },
+  {
+    "ID": 53,
+    "Name": "Aura of Thorny Despair",
+    "CName": "",
+    "DC": "",
+    "Description": "Like Crushing Despair, 10 ft radius"
   }
 ]

@@ -8558,5 +8558,45 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 858,
+    "CreatureGroup": "Tenebrous Depth XIII Group A",
+    "Creature": "Stone Golem",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 859,
+    "CreatureGroup": "Tenebrous Depth XIII Group B",
+    "Creature": "Greater Autumn Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 860,
+    "CreatureGroup": "Tenebrous Depth XIII Group C",
+    "Creature": "Mature Athach Weak",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": "Student's Copybook",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 861,
+    "CreatureGroup": "Tenebrous Depth XIII Group D",
+    "Creature": "Greater Athach",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

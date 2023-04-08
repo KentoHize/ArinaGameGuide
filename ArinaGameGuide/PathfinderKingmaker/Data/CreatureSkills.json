@@ -2962,5 +2962,53 @@
     "Creature": "Dodgy Redcap Trickster",
     "Skill": "Stealth",
     "Bonus": 31
+  },
+  {
+    "ID": 496,
+    "Creature": "Smilodon 14",
+    "Skill": "Mobility",
+    "Bonus": 13
+  },
+  {
+    "ID": 497,
+    "Creature": "Smilodon 14",
+    "Skill": "Perception",
+    "Bonus": 24
+  },
+  {
+    "ID": 498,
+    "Creature": "Smilodon 14",
+    "Skill": "Athletics",
+    "Bonus": 27
+  },
+  {
+    "ID": 499,
+    "Creature": "Smilodon 14",
+    "Skill": "Stealth",
+    "Bonus": 18
+  },
+  {
+    "ID": 500,
+    "Creature": "Mature Athach Weak",
+    "Skill": "Perception",
+    "Bonus": 26
+  },
+  {
+    "ID": 501,
+    "Creature": "Mature Athach Weak",
+    "Skill": "Stealth",
+    "Bonus": 11
+  },
+  {
+    "ID": 502,
+    "Creature": "Greater Athach",
+    "Skill": "Perception",
+    "Bonus": 24
+  },
+  {
+    "ID": 503,
+    "Creature": "Greater Athach",
+    "Skill": "Stealth",
+    "Bonus": 10
   }
 ]
