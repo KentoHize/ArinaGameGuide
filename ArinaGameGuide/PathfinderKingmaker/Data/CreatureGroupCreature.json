@@ -8598,5 +8598,15 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 862,
+    "CreatureGroup": "Tenebrous Depth XIV Group A",
+    "Creature": "Poisonous Giant Flytrap",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

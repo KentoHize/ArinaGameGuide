@@ -2782,5 +2782,13 @@
     "Position": "East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 349,
+    "Name": "Tenebrous Depth XIV Group A",
+    "Place": "Tenebrous Depth XIV",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]
