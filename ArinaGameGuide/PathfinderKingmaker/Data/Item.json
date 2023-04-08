@@ -7427,5 +7427,39 @@
     "StoryItem": false,
     "Weight": 0.0,
     "Description": ""
+  },
+  {
+    "ID": 438,
+    "Name": "Thundercrack",
+    "DisplayName": "Thundercrack",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Scimitar",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 32000,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 4.0,
+    "Description": "+5 Runic\nMageblade\nShock\nAgile"
+  },
+  {
+    "ID": 439,
+    "Name": "Steelwind",
+    "DisplayName": "Steelwind",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Sai",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 11850,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": "+3 Greaterspeed"
   }
 ]

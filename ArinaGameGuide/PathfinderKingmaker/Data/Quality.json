@@ -39,7 +39,7 @@
     "ID": 7,
     "Name": "Speed",
     "CName": "",
-    "Description": "Full attack + 1 time"
+    "Description": "Full attack +1 time"
   },
   {
     "ID": 8,
@@ -52,5 +52,29 @@
     "Name": "Deterrence",
     "CName": "",
     "Description": "+5 competence to Intimidate"
+  },
+  {
+    "ID": 10,
+    "Name": "Greater Speed",
+    "CName": "",
+    "Description": "Full attack +2 times"
+  },
+  {
+    "ID": 11,
+    "Name": "Runic Mageblade",
+    "CName": "",
+    "Description": "+2 Enchancement if hold a touch spell"
+  },
+  {
+    "ID": 12,
+    "Name": "Shock",
+    "CName": "",
+    "Description": "1d6 electricity dmg"
+  },
+  {
+    "ID": 13,
+    "Name": "Agile",
+    "CName": "",
+    "Description": "Weapon Finesse"
   }
 ]

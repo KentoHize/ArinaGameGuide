@@ -2646,5 +2646,13 @@
     "Position": "North",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 332,
+    "Name": "The Menagerie Group B",
+    "Place": "The Menagerie",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

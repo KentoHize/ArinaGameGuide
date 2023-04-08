@@ -2830,5 +2830,11 @@
     "Creature": "Bandit 7 Conjurer",
     "Skill": "Stealth",
     "Bonus": 12
+  },
+  {
+    "ID": 474,
+    "Creature": "Troll 6",
+    "Skill": "Perception",
+    "Bonus": 17
   }
 ]

@@ -64,5 +64,41 @@
     "Item": "Ardent",
     "Quality": "Ardent",
     "Rank": null
+  },
+  {
+    "ID": 12,
+    "Item": "Steelwind",
+    "Quality": "Enhancement",
+    "Rank": 3
+  },
+  {
+    "ID": 13,
+    "Item": "Steelwind",
+    "Quality": "Greater Speed",
+    "Rank": null
+  },
+  {
+    "ID": 14,
+    "Item": "Thundercrack",
+    "Quality": "Enhancement",
+    "Rank": 5
+  },
+  {
+    "ID": 15,
+    "Item": "Thundercrack",
+    "Quality": "Runic Mageblade",
+    "Rank": null
+  },
+  {
+    "ID": 16,
+    "Item": "Thundercrack",
+    "Quality": "Shock",
+    "Rank": null
+  },
+  {
+    "ID": 17,
+    "Item": "Thundercrack",
+    "Quality": "Agile",
+    "Rank": null
   }
 ]

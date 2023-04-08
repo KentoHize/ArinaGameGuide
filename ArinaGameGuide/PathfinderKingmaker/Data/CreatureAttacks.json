@@ -4450,5 +4450,47 @@
     "DamageAdditiveBonus": 16,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 358,
+    "Creature": "Troll 6",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 0,
+    "AttackBonus": 13,
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 5,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 359,
+    "Creature": "Troll 6",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 0,
+    "AttackBonus": 13,
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 5,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 360,
+    "Creature": "Troll 6",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 0,
+    "AttackBonus": 12,
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 5,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

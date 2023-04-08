@@ -6614,5 +6614,77 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 830,
+    "ItemStack": "Smith Overseer RS",
+    "Item": "Warhammer +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 831,
+    "ItemStack": "Smith Overseer RS",
+    "Item": "Full Plate +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 832,
+    "ItemStack": "Smith Overseer RS",
+    "Item": "Belt of Giant Strength +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 833,
+    "ItemStack": "Smith Overseer RS",
+    "Item": "Headband of Vast Intelligence +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 834,
+    "ItemStack": "Smith Overseer RS",
+    "Item": "Amulet of Natural Armor +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 835,
+    "ItemStack": "Smith Overseer RS",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 836,
+    "ItemStack": "Smith Overseer RS",
+    "Item": "Cloak of Resistance +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 837,
+    "ItemStack": "The Menagerie Treasure A",
+    "Item": "Thundercrack",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 838,
+    "ItemStack": "The Menagerie Treasure A",
+    "Item": "Steelwind",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

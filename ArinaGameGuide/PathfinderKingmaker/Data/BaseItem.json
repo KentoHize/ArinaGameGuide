@@ -2056,5 +2056,26 @@
     "Strength": false,
     "Price": 0,
     "Weight": 0.0
+  },
+  {
+    "ID": 99,
+    "Name": "Sai",
+    "CName": "",
+    "Type": "Exotic Weapon",
+    "DamageType": "Pierce",
+    "ArmorClass": null,
+    "ArmorCheckPenalty": null,
+    "ArcaneSpellFailureChance": null,
+    "MaxDexterity": null,
+    "WeaponSize": "Light",
+    "Range": null,
+    "Damage": "1d4",
+    "CriticalHitRange": 1,
+    "CriticalHitMultiplier": 2,
+    "FinesseWeapon": false,
+    "MonkWeapon": false,
+    "Strength": false,
+    "Price": 0,
+    "Weight": 0.0
   }
 ]
