@@ -6694,5 +6694,117 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 840,
+    "ItemStack": "PoCM + CL + CS",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 841,
+    "ItemStack": "PoCM + CL + CS",
+    "Item": "Composite Longbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 842,
+    "ItemStack": "PoCM + CL + CS",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 843,
+    "ItemStack": "PoCM + MLS + TS + FP1",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 844,
+    "ItemStack": "PoCM + MLS + TS + FP1",
+    "Item": "Masterwork Longsword",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 845,
+    "ItemStack": "PoCM + MLS + TS + FP1",
+    "Item": "Tower Shield",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 846,
+    "ItemStack": "PoCM + MLS + TS + FP1",
+    "Item": "Full Plate +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 847,
+    "ItemStack": "LC + CS",
+    "Item": "Light Crossbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 848,
+    "ItemStack": "LC + CS",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 849,
+    "ItemStack": "Tribricent RS",
+    "Item": null,
+    "RandomItem": "Random Scroll",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 850,
+    "ItemStack": "Tribricent RS",
+    "Item": "Masterwork Light Crossbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 851,
+    "ItemStack": "Tribricent RS",
+    "Item": "Chainshirt +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 852,
+    "ItemStack": "Tribricent RS",
+    "Item": "Belt of Mighty Constitution +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 853,
+    "ItemStack": "Tribricent RS",
+    "Item": "Headband of Alluring Charisma +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

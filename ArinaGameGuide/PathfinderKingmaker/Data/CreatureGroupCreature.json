@@ -8228,5 +8228,245 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 825,
+    "CreatureGroup": "Littletown Group C",
+    "Creature": "Human 2 Bard",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 826,
+    "CreatureGroup": "Littletown Group C",
+    "Creature": "Human 9 Shield Fighter",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 827,
+    "CreatureGroup": "Littletown Group C",
+    "Creature": "Human 9 Bard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 828,
+    "CreatureGroup": "Littletown Group C",
+    "Creature": "Human 9 Archer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 829,
+    "CreatureGroup": "Littletown Group D",
+    "Creature": "Human 9 Shield Fighter",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 830,
+    "CreatureGroup": "Littletown Group D",
+    "Creature": "Human 2 Bard",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 831,
+    "CreatureGroup": "Littletown Group D",
+    "Creature": "Human 9 Bard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 832,
+    "CreatureGroup": "Tribricent Group",
+    "Creature": "Tribricent",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 833,
+    "CreatureGroup": "Tribricent Group",
+    "Creature": "Bandit Chastener 10 Fighter",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 834,
+    "CreatureGroup": "Tribricent Group",
+    "Creature": "Bandit 8 Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 835,
+    "CreatureGroup": "Tribricent Group",
+    "Creature": "Bandit 8 Fighter",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 836,
+    "CreatureGroup": "Tribricent Group",
+    "Creature": "Bandit 2 Bard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 837,
+    "CreatureGroup": "Tribricent Group",
+    "Creature": "Bandit 2 Bard",
+    "DisplayName": "Bard",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 838,
+    "CreatureGroup": "River Blade's Camp Group A",
+    "Creature": "Bandit 9 Rouge",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 839,
+    "CreatureGroup": "River Blade's Camp Group A",
+    "Creature": "Bandit 9 Bard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 840,
+    "CreatureGroup": "River Blade's Camp Group A",
+    "Creature": "Bandit 8 Fighter",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 841,
+    "CreatureGroup": "River Blade's Camp Group A",
+    "Creature": "Bandit 9 Achlemist",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 842,
+    "CreatureGroup": "River Blade's Camp Group B",
+    "Creature": "Bandit 8 Archer",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 843,
+    "CreatureGroup": "River Blade's Camp Group B",
+    "Creature": "Bandit 9 Rouge",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 846,
+    "CreatureGroup": "Ilora Nuski Group",
+    "Creature": "Ilora Nuski",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 844,
+    "CreatureGroup": "Ilora Nuski Group",
+    "Creature": "Bandit 9 Bard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 845,
+    "CreatureGroup": "Ilora Nuski Group",
+    "Creature": "Bandit 9 Rouge",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 847,
+    "CreatureGroup": "Ilora Nuski Group",
+    "Creature": "Bandit 8 Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 848,
+    "CreatureGroup": "Ilora Nuski Group",
+    "Creature": "Bandit 7 Transmuter",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

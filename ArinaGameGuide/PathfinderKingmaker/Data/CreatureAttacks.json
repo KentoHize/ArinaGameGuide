@@ -4534,5 +4534,19 @@
     "DamageAdditiveBonus": 8,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 364,
+    "Creature": "Tribricent",
+    "Form": "Slam",
+    "Type": "Primary",
+    "Range": 50,
+    "AddtionalAttack": 2,
+    "AttackBonus": 19,
+    "Weapon": "Masterwork Light Crossbow",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": null,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

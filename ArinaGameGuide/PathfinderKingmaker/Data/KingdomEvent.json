@@ -1798,5 +1798,41 @@
     "Repeat": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 101,
+    "Name": "Weak Pitaxian Influence",
+    "CName": "",
+    "Type": "Problem",
+    "RequiredDays": 25,
+    "DC": 24,
+    "AdaptedAdvisor1": "Regent",
+    "AdaptedAdvisor2": "Grand Diplomat",
+    "AdaptedAdvisor3": null,
+    "HaveAdvantage": null,
+    "HaveDisadvantage1": null,
+    "HaveDisadvantage2": null,
+    "CloseDate": "4713/08/01",
+    "Repeat": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 102,
+    "Name": "A New Priest of Abadar",
+    "CName": "",
+    "Type": "Opportunity",
+    "RequiredDays": 14,
+    "DC": 29,
+    "AdaptedAdvisor1": "Treasurer",
+    "AdaptedAdvisor2": "High Priest",
+    "AdaptedAdvisor3": "Minister",
+    "HaveAdvantage": null,
+    "HaveDisadvantage1": null,
+    "HaveDisadvantage2": null,
+    "CloseDate": "4713/08/01",
+    "Repeat": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

@@ -2678,5 +2678,53 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 336,
+    "Name": "Littletown Group C",
+    "Place": "Littletown",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 337,
+    "Name": "Littletown Group D",
+    "Place": "Littletown",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 338,
+    "Name": "Tribricent Group",
+    "Place": "Littletown",
+    "Position": "Deep Floor 1 Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 339,
+    "Name": "River Blade's Camp Group A",
+    "Place": "River Blade's Camp",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 340,
+    "Name": "River Blade's Camp Group B",
+    "Place": "River Blade's Camp",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 341,
+    "Name": "Ilora Nuski Group",
+    "Place": "River Blade's Camp",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

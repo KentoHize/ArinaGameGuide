@@ -7478,5 +7478,39 @@
     "StoryItem": false,
     "Weight": 4.0,
     "Description": "+4 Shock"
+  },
+  {
+    "ID": 441,
+    "Name": "Chainshirt +3",
+    "DisplayName": "Chainshirt +3",
+    "DisplayCName": "",
+    "Type": "Light Armor",
+    "BaseItem": null,
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 2312,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 25.0,
+    "Description": ""
+  },
+  {
+    "ID": 442,
+    "Name": "Headband of Alluring Charisma +4",
+    "DisplayName": "Headband of Alluring Charisma +4",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Helmet",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 4000,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": ""
   }
 ]

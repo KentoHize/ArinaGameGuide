@@ -2248,5 +2248,20 @@
     "HasPlot": true,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 152,
+    "Name": "River Blade's Camp",
+    "DisplayName": "River Blade's Camp",
+    "CName": "",
+    "Type": "Safe Area",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

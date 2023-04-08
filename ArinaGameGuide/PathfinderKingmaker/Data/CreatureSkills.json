@@ -2872,5 +2872,17 @@
     "Creature": "Human 2 Bard",
     "Skill": "Stealth",
     "Bonus": 7
+  },
+  {
+    "ID": 481,
+    "Creature": "Ilora Nuski",
+    "Skill": "Perception",
+    "Bonus": 27
+  },
+  {
+    "ID": 482,
+    "Creature": "Ilora Nuski",
+    "Skill": "Stealth",
+    "Bonus": 27
   }
 ]

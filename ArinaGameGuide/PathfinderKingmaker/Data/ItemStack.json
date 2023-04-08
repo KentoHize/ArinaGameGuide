@@ -1573,5 +1573,25 @@
     "ID": 316,
     "Name": "The Menagerie Treasure B",
     "Memo": ""
+  },
+  {
+    "ID": 317,
+    "Name": "PoCM + CL + CS",
+    "Memo": ""
+  },
+  {
+    "ID": 318,
+    "Name": "PoCM + MLS + TS + FP1",
+    "Memo": ""
+  },
+  {
+    "ID": 319,
+    "Name": "LC + CS",
+    "Memo": ""
+  },
+  {
+    "ID": 320,
+    "Name": "Tribricent RS",
+    "Memo": ""
   }
 ]

@@ -2590,5 +2590,14 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 290,
+    "Creature": "Tribricent",
+    "Ability": "Inspired Courage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

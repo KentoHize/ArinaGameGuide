@@ -1678,5 +1678,17 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 147,
+    "Name": "River Blade's Camp Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "River Blade's Camp",
+    "DisarmDC": 27,
+    "Position": "South",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]
