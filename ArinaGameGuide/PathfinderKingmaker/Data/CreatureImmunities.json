@@ -1216,5 +1216,23 @@
     "Creature": "Elf 8 Sorcerer",
     "Condition": "Spell - Magic Missile",
     "CondtionGroup": null
+  },
+  {
+    "ID": 212,
+    "Creature": "Elf 7 Wizard",
+    "Condition": "Sleep",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 213,
+    "Creature": "Elf 9 Rogue",
+    "Condition": "Sleep",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 214,
+    "Creature": "Elf 9 Bard",
+    "Condition": "Sleep",
+    "CondtionGroup": null
   }
 ]

@@ -7291,5 +7291,22 @@
     "StoryItem": false,
     "Weight": 0.0,
     "Description": ""
+  },
+  {
+    "ID": 430,
+    "Name": "Rapier +2",
+    "DisplayName": "Rapier +2",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Rapier",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

@@ -2758,5 +2758,41 @@
     "Creature": "Elf 10 Archer",
     "Skill": "Perception",
     "Bonus": 19
+  },
+  {
+    "ID": 462,
+    "Creature": "Elf 7 Wizard",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 463,
+    "Creature": "Elf 7 Wizard",
+    "Skill": "Stealth",
+    "Bonus": 13
+  },
+  {
+    "ID": 464,
+    "Creature": "Elf 9 Rogue",
+    "Skill": "Perception",
+    "Bonus": 25
+  },
+  {
+    "ID": 465,
+    "Creature": "Elf 9 Rogue",
+    "Skill": "Stealth",
+    "Bonus": 18
+  },
+  {
+    "ID": 466,
+    "Creature": "Elf 9 Bard",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 467,
+    "Creature": "Elf 9 Bard",
+    "Skill": "Stealth",
+    "Bonus": 21
   }
 ]

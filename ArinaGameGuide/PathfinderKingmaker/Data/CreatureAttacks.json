@@ -4282,5 +4282,61 @@
     "DamageAdditiveBonus": 4,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 346,
+    "Creature": "Elf 7 Wizard",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AddtionalAttack": 0,
+    "AttackBonus": 14,
+    "Weapon": "Light Crossbow +1",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 1,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 347,
+    "Creature": "Elf 9 Rogue",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 1,
+    "AttackBonus": 17,
+    "Weapon": "Dagger +1",
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 8,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 348,
+    "Creature": "Elf 9 Rogue",
+    "Form": "Piercing Weapon",
+    "Type": "Secondary",
+    "Range": 2,
+    "AddtionalAttack": 1,
+    "AttackBonus": 17,
+    "Weapon": "Dagger +1",
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 4,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 349,
+    "Creature": "Elf 9 Bard",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 1,
+    "AttackBonus": 19,
+    "Weapon": "Rapier +2",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 10,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]
