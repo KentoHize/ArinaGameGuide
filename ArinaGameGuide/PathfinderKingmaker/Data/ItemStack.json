@@ -1543,5 +1543,20 @@
     "ID": 310,
     "Name": "QS1 + PoCL + RS2 + BoMC2 + CoR1",
     "Memo": ""
+  },
+  {
+    "ID": 311,
+    "Name": "MV2 + FP",
+    "Memo": ""
+  },
+  {
+    "ID": 312,
+    "Name": "RS + LC + RoP1",
+    "Memo": ""
+  },
+  {
+    "ID": 313,
+    "Name": "Nyrd Zottenropple RS",
+    "Memo": ""
   }
 ]

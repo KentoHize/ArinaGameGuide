@@ -826,5 +826,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 95,
+    "Creature": "Bandit 7 Conjurer",
+    "EffectOrCondition": "Bear's Endurance",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

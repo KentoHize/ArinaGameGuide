@@ -6518,5 +6518,101 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 818,
+    "ItemStack": "MV2 + FP",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 819,
+    "ItemStack": "MV2 + FP",
+    "Item": "Full Plate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 820,
+    "ItemStack": "RS + LC + RoP1",
+    "Item": null,
+    "RandomItem": "Random Scroll",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 821,
+    "ItemStack": "RS + LC + RoP1",
+    "Item": "Light Crossbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 822,
+    "ItemStack": "RS + LC + RoP1",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 823,
+    "ItemStack": "Nyrd Zottenropple RS",
+    "Item": null,
+    "RandomItem": "Random Scroll",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 824,
+    "ItemStack": "Nyrd Zottenropple RS",
+    "Item": "Light Crossbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 825,
+    "ItemStack": "Nyrd Zottenropple RS",
+    "Item": "Belt of Mighty Constitution +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 826,
+    "ItemStack": "Nyrd Zottenropple RS",
+    "Item": "Headband of Vast Intelligence +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 827,
+    "ItemStack": "Nyrd Zottenropple RS",
+    "Item": "Amulet of Natural Armor +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 828,
+    "ItemStack": "Nyrd Zottenropple RS",
+    "Item": "Ring of Protection +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 829,
+    "ItemStack": "Nyrd Zottenropple RS",
+    "Item": "Cloak of Resistance +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

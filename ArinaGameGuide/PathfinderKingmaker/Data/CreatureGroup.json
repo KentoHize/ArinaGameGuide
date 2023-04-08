@@ -2625,9 +2625,17 @@
   },
   {
     "ID": 329,
-    "Name": "Troll Guard Group A",
+    "Name": "The Menagerie Group A",
     "Place": "The Menagerie",
     "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 330,
+    "Name": "Nyrd Zottenropple Group",
+    "Place": "The Menagerie",
+    "Position": "East",
     "Stage": 0,
     "Memo": ""
   }

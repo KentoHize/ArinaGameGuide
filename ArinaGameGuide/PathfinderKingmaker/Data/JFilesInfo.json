@@ -2767,6 +2767,7 @@
           "Choices": [
             "1",
             "2",
+            "None",
             "Ally"
           ],
           "FKTable": null,
@@ -4152,7 +4153,7 @@
           "FKTable": "ItemStack",
           "FKColumn": "Name",
           "NumberOfRows": 1,
-          "Display": false,
+          "Display": true,
           "RegularExpression": "",
           "Description": "",
           "MinValue": "",

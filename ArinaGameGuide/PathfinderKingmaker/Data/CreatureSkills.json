@@ -2818,5 +2818,17 @@
     "Creature": "Troll Guard",
     "Skill": "Perception",
     "Bonus": 26
+  },
+  {
+    "ID": 472,
+    "Creature": "Bandit 7 Conjurer",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 473,
+    "Creature": "Bandit 7 Conjurer",
+    "Skill": "Stealth",
+    "Bonus": 12
   }
 ]

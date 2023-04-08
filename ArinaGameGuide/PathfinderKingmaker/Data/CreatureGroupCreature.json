@@ -8081,10 +8081,50 @@
   },
   {
     "ID": 810,
-    "CreatureGroup": "Troll Guard Group A",
+    "CreatureGroup": "The Menagerie Group A",
     "Creature": "Troll Guard",
     "DisplayName": null,
     "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 811,
+    "CreatureGroup": "Nyrd Zottenropple Group",
+    "Creature": "Ancient Wyvern",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "None"
+  },
+  {
+    "ID": 812,
+    "CreatureGroup": "Nyrd Zottenropple Group",
+    "Creature": "Troll Guard",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "None"
+  },
+  {
+    "ID": 813,
+    "CreatureGroup": "Nyrd Zottenropple Group",
+    "Creature": "Bandit 7 Conjurer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 814,
+    "CreatureGroup": "Nyrd Zottenropple Group",
+    "Creature": "Nyrd Zottenropple",
+    "DisplayName": null,
+    "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
