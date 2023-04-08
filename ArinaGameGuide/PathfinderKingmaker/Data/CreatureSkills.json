@@ -2890,5 +2890,77 @@
     "Creature": "Bandit 14 Achlemist",
     "Skill": "Stealth",
     "Bonus": 28
+  },
+  {
+    "ID": 484,
+    "Creature": "Rowdy Redcap Savage",
+    "Skill": "Mobility",
+    "Bonus": 13
+  },
+  {
+    "ID": 485,
+    "Creature": "Rowdy Redcap Savage",
+    "Skill": "Persuasion",
+    "Bonus": 15
+  },
+  {
+    "ID": 486,
+    "Creature": "Rowdy Redcap Savage",
+    "Skill": "Lore(Nature)",
+    "Bonus": 14
+  },
+  {
+    "ID": 487,
+    "Creature": "Rowdy Redcap Savage",
+    "Skill": "Perception",
+    "Bonus": 29
+  },
+  {
+    "ID": 488,
+    "Creature": "Rowdy Redcap Savage",
+    "Skill": "Athletics",
+    "Bonus": 13
+  },
+  {
+    "ID": 489,
+    "Creature": "Rowdy Redcap Savage",
+    "Skill": "Stealth",
+    "Bonus": 28
+  },
+  {
+    "ID": 490,
+    "Creature": "Dodgy Redcap Trickster",
+    "Skill": "Mobility",
+    "Bonus": 16
+  },
+  {
+    "ID": 491,
+    "Creature": "Dodgy Redcap Trickster",
+    "Skill": "Persuasion",
+    "Bonus": 15
+  },
+  {
+    "ID": 492,
+    "Creature": "Dodgy Redcap Trickster",
+    "Skill": "Lore(Nature)",
+    "Bonus": 14
+  },
+  {
+    "ID": 493,
+    "Creature": "Dodgy Redcap Trickster",
+    "Skill": "Perception",
+    "Bonus": 23
+  },
+  {
+    "ID": 494,
+    "Creature": "Dodgy Redcap Trickster",
+    "Skill": "Athletics",
+    "Bonus": 17
+  },
+  {
+    "ID": 495,
+    "Creature": "Dodgy Redcap Trickster",
+    "Skill": "Stealth",
+    "Bonus": 31
   }
 ]

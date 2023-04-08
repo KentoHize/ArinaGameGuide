@@ -4562,5 +4562,61 @@
     "DamageAdditiveBonus": null,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 366,
+    "Creature": "Rowdy Redcap Savage",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 2,
+    "AttackBonus": 24,
+    "Weapon": "Masterwork Scythe",
+    "BasicDamage": "2d4",
+    "DamageAdditiveBonus": 25,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 367,
+    "Creature": "Rowdy Redcap Savage",
+    "Form": "Kick",
+    "Type": "Other",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 17,
+    "Weapon": null,
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 11,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 368,
+    "Creature": "Dodgy Redcap Trickster",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 2,
+    "AttackBonus": 22,
+    "Weapon": "Masterwork Scythe",
+    "BasicDamage": "2d4",
+    "DamageAdditiveBonus": 26,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 369,
+    "Creature": "Dodgy Redcap Trickster",
+    "Form": "Kick",
+    "Type": "Other",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 15,
+    "Weapon": null,
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 11,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

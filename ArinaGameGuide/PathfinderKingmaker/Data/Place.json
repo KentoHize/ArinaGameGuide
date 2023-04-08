@@ -2263,5 +2263,20 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 153,
+    "Name": "Giggling Hill",
+    "DisplayName": "Giggling Hill",
+    "CName": "",
+    "Type": "Safe Area",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

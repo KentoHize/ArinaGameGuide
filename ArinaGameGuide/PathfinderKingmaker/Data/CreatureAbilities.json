@@ -2608,5 +2608,86 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 292,
+    "Creature": "Rowdy Redcap Savage",
+    "Ability": "Redcap",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 293,
+    "Creature": "Rowdy Redcap Savage",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 294,
+    "Creature": "Rowdy Redcap Savage",
+    "Ability": "Reckless Stance",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 295,
+    "Creature": "Rowdy Redcap Savage",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 296,
+    "Creature": "Rowdy Redcap Savage",
+    "Ability": "Protective Aura",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 297,
+    "Creature": "Rowdy Redcap Savage",
+    "Ability": "Inspire Ferocity",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 298,
+    "Creature": "Rowdy Redcap Savage",
+    "Ability": "Fast Healing",
+    "Amount": 3,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 299,
+    "Creature": "Dodgy Redcap Trickster",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 300,
+    "Creature": "Dodgy Redcap Trickster",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

@@ -2742,5 +2742,13 @@
     "Position": "North",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 344,
+    "Name": "Giggling Hill Group A",
+    "Place": "Giggling Hill",
+    "Position": "Deep Floor 1",
+    "Stage": 0,
+    "Memo": ""
   }
 ]
