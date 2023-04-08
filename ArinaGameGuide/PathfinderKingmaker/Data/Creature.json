@@ -12810,7 +12810,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": "MV + MSC + BP",
+    "RemainItems": "MV2 + MSC + BP",
     "Memo": ""
   },
   {
@@ -16422,7 +16422,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "MV2 + MSC + BP",
     "Memo": ""
   },
   {
@@ -16465,7 +16465,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "MV2 + MSC + SL",
     "Memo": ""
   }
 ]
