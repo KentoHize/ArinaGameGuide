@@ -570,5 +570,16 @@
     "EnemyGroup2": "Blakemoor's Hideout Siroket 2",
     "EnemyGroup3": "Blakemoor's Hideout Siroket 3",
     "Memo": ""
+  },
+  {
+    "ID": 53,
+    "Name": "Nortellara Group",
+    "Place": "Elven Camp",
+    "Position": "East",
+    "HasPlot": true,
+    "EnemyGroup1": "Nortellara Group A",
+    "EnemyGroup2": "Nortellara Group B",
+    "EnemyGroup3": "Nortellara Group C",
+    "Memo": ""
   }
 ]

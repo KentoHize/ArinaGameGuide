@@ -2812,5 +2812,11 @@
     "Creature": "Elf 9 LC Bard",
     "Skill": "Stealth",
     "Bonus": 19
+  },
+  {
+    "ID": 471,
+    "Creature": "Troll Guard",
+    "Skill": "Perception",
+    "Bonus": 26
   }
 ]

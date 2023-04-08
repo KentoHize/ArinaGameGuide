@@ -463,7 +463,7 @@
     "HaveDisadvantage1": null,
     "HaveDisadvantage2": null,
     "CloseDate": "4713/03/01",
-    "Repeat": false,
+    "Repeat": true,
     "Description": "",
     "Memo": ""
   },
@@ -1579,7 +1579,7 @@
     "HaveDisadvantage1": null,
     "HaveDisadvantage2": null,
     "CloseDate": "4713/04/01",
-    "Repeat": false,
+    "Repeat": true,
     "Description": "",
     "Memo": ""
   },
@@ -1597,7 +1597,7 @@
     "HaveDisadvantage1": null,
     "HaveDisadvantage2": null,
     "CloseDate": "4713/03/01",
-    "Repeat": false,
+    "Repeat": true,
     "Description": "",
     "Memo": ""
   },
@@ -1777,6 +1777,24 @@
     "HaveDisadvantage1": null,
     "HaveDisadvantage2": null,
     "CloseDate": "4712/10/01",
+    "Repeat": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 100,
+    "Name": "Fey Backdoors",
+    "CName": "",
+    "Type": "Opportunity",
+    "RequiredDays": 21,
+    "DC": 34,
+    "AdaptedAdvisor1": "Regent",
+    "AdaptedAdvisor2": "Magister",
+    "AdaptedAdvisor3": null,
+    "HaveAdvantage": null,
+    "HaveDisadvantage1": "Regent",
+    "HaveDisadvantage2": null,
+    "CloseDate": "4713/07/01",
     "Repeat": false,
     "Description": "",
     "Memo": ""

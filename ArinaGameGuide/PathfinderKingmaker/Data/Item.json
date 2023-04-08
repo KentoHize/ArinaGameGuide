@@ -7393,5 +7393,22 @@
     "StoryItem": false,
     "Weight": 1.0,
     "Description": ""
+  },
+  {
+    "ID": 436,
+    "Name": "Sigent of the Incorruptible",
+    "DisplayName": "Sigent of the Incorruptible",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Ring",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 7500,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": "Jugement 3 more times"
   }
 ]

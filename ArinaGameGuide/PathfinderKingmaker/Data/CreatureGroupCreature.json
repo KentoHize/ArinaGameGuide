@@ -8078,5 +8078,15 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 810,
+    "CreatureGroup": "Troll Guard Group A",
+    "Creature": "Troll Guard",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

@@ -2509,5 +2509,14 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 281,
+    "Creature": "Troll Guard",
+    "Ability": "Regeneration",
+    "Amount": 5,
+    "DamageType1": "Acid",
+    "DamageType2": "Fire",
+    "DC": null
   }
 ]

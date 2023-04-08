@@ -4366,5 +4366,47 @@
     "DamageAdditiveBonus": 3,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 352,
+    "Creature": "Troll Guard",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 0,
+    "AttackBonus": 24,
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 13,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 353,
+    "Creature": "Troll Guard",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 0,
+    "AttackBonus": 24,
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 13,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 354,
+    "Creature": "Troll Guard",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 0,
+    "AttackBonus": 23,
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 11,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

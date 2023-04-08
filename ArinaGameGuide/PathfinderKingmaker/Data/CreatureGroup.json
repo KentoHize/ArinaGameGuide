@@ -2622,5 +2622,13 @@
     "Position": "East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 329,
+    "Name": "Troll Guard Group A",
+    "Place": "The Menagerie",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]
