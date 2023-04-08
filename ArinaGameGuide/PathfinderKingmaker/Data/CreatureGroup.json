@@ -2790,5 +2790,37 @@
     "Position": "North East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 350,
+    "Name": "Tenebrous Depth XIV Group B",
+    "Place": "Tenebrous Depth XIV",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 351,
+    "Name": "Tenebrous Depth XIV Group C",
+    "Place": "Tenebrous Depth XIV",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 352,
+    "Name": "Tenebrous Depth XIV Group D",
+    "Place": "Tenebrous Depth XIV",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 353,
+    "Name": "Tenebrous Depth XIV Group E",
+    "Place": "Tenebrous Depth XIV",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

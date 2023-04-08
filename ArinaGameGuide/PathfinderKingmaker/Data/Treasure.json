@@ -1482,5 +1482,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 107,
+    "Name": "Tenebrous Depth XIV Treasure A",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Tenebrous Depth XIV",
+    "Position": "East",
+    "ItemStack": "Tenebrous Depth XIV Treasure A",
+    "PerceptionDC": null,
+    "TrapDC": 27,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

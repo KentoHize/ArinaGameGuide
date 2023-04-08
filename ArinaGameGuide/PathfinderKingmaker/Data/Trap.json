@@ -1762,5 +1762,17 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 154,
+    "Name": "Tenebrous Depth XIV Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Tenebrous Depth XIV",
+    "DisarmDC": 27,
+    "Position": "East",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

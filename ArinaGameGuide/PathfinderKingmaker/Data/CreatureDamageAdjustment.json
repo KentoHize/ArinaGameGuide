@@ -2392,5 +2392,40 @@
     "Type": "Resistance",
     "DamageType": "Cold",
     "Amount": 10
+  },
+  {
+    "ID": 343,
+    "Creature": "Poisonous Giant Flytrap",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 20
+  },
+  {
+    "ID": 344,
+    "Creature": "Wild Hunt Monarch",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 15
+  },
+  {
+    "ID": 346,
+    "Creature": "Wild Hunt Monarch",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 345,
+    "Creature": "Wild Hunt Monarch",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 10
+  },
+  {
+    "ID": 347,
+    "Creature": "Wild Hunt Monarch",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": null
   }
 ]

@@ -4758,5 +4758,47 @@
     "DamageAdditiveBonus": 27,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 380,
+    "Creature": "Poisonous Giant Flytrap",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 9,
+    "AddtionalAttack": 3,
+    "AttackBonus": 25,
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 22,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 381,
+    "Creature": "Wild Hunt Monarch",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 6,
+    "AddtionalAttack": 2,
+    "AttackBonus": 32,
+    "Weapon": "Glaive +3",
+    "BasicDamage": "1d10",
+    "DamageAdditiveBonus": 36,
+    "OtherDamageBonus": "2d6",
+    "SneakDamage": null
+  },
+  {
+    "ID": 382,
+    "Creature": "Wild Hunt Monarch",
+    "Form": "Gore",
+    "Type": "Other",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 21,
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 10,
+    "OtherDamageBonus": "2d6",
+    "SneakDamage": null
   }
 ]

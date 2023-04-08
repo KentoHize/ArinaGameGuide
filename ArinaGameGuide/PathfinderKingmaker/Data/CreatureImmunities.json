@@ -1276,5 +1276,17 @@
     "Creature": "Greater Athach",
     "Condition": "Spell - Magic Missile",
     "CondtionGroup": null
+  },
+  {
+    "ID": 223,
+    "Creature": "Poisonous Giant Flytrap",
+    "Condition": null,
+    "CondtionGroup": "Plant Immunities"
+  },
+  {
+    "ID": 224,
+    "Creature": "Poisonous Giant Flytrap",
+    "Condition": "Spell - Baleful Polymorph",
+    "CondtionGroup": null
   }
 ]

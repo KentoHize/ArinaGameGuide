@@ -3010,5 +3010,41 @@
     "Creature": "Greater Athach",
     "Skill": "Stealth",
     "Bonus": 10
+  },
+  {
+    "ID": 504,
+    "Creature": "Poisonous Giant Flytrap",
+    "Skill": "Perception",
+    "Bonus": 28
+  },
+  {
+    "ID": 505,
+    "Creature": "Wild Hunt Monarch",
+    "Skill": "Mobility",
+    "Bonus": 38
+  },
+  {
+    "ID": 506,
+    "Creature": "Wild Hunt Monarch",
+    "Skill": "Persuasion",
+    "Bonus": 39
+  },
+  {
+    "ID": 507,
+    "Creature": "Wild Hunt Monarch",
+    "Skill": "Lore(Nature)",
+    "Bonus": 39
+  },
+  {
+    "ID": 508,
+    "Creature": "Wild Hunt Monarch",
+    "Skill": "Perception",
+    "Bonus": 43
+  },
+  {
+    "ID": 509,
+    "Creature": "Wild Hunt Monarch",
+    "Skill": "Stealth",
+    "Bonus": 38
   }
 ]

@@ -6934,5 +6934,29 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 870,
+    "ItemStack": "Tenebrous Depth XIV Treasure A",
+    "Item": "Club +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 871,
+    "ItemStack": "Tenebrous Depth XIV Treasure A",
+    "Item": "The Captor's Diary",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 872,
+    "ItemStack": "Glaive +3",
+    "Item": "Glaive +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

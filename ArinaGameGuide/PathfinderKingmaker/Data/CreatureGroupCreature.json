@@ -8608,5 +8608,65 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 863,
+    "CreatureGroup": "Tenebrous Depth XIV Group B",
+    "Creature": "Redcap Trickster",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 864,
+    "CreatureGroup": "Tenebrous Depth XIV Group B",
+    "Creature": "Redcap Savage",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 865,
+    "CreatureGroup": "Tenebrous Depth XIV Group C",
+    "Creature": "Smilodon-like Treant",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 866,
+    "CreatureGroup": "Tenebrous Depth XIV Group D",
+    "Creature": "Wild Hunt Archer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 867,
+    "CreatureGroup": "Tenebrous Depth XIV Group D",
+    "Creature": "Redcap Savage",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 868,
+    "CreatureGroup": "Tenebrous Depth XIV Group E",
+    "Creature": "Wild Hunt Monarch",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]
