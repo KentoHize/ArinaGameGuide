@@ -100,5 +100,17 @@
     "Item": "Thundercrack",
     "Quality": "Agile",
     "Rank": null
+  },
+  {
+    "ID": 18,
+    "Item": "Unbound Blade",
+    "Quality": "Enhancement",
+    "Rank": 4
+  },
+  {
+    "ID": 19,
+    "Item": "Unbound Blade",
+    "Quality": "Shock",
+    "Rank": null
   }
 ]

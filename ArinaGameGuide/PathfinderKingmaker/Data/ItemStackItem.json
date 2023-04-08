@@ -6686,5 +6686,13 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 839,
+    "ItemStack": "The Menagerie Treasure B",
+    "Item": "Unbound Blade",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

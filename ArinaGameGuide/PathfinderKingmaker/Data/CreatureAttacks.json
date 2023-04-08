@@ -4492,5 +4492,47 @@
     "DamageAdditiveBonus": 5,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 361,
+    "Creature": "Human 9 Archer",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AddtionalAttack": 2,
+    "AttackBonus": 17,
+    "Weapon": "Composite Longbow",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 14,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 362,
+    "Creature": "Human 9 Bard",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AddtionalAttack": 0,
+    "AttackBonus": 14,
+    "Weapon": "Light Crossbow",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": null,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 363,
+    "Creature": "Human 9 Shield Fighter",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 1,
+    "AttackBonus": 20,
+    "Weapon": "Masterwork Longsword",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 8,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

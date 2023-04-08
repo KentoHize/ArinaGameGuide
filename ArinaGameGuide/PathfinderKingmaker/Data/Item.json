@@ -7461,5 +7461,22 @@
     "StoryItem": false,
     "Weight": 1.0,
     "Description": "+3 Greaterspeed"
+  },
+  {
+    "ID": 440,
+    "Name": "Unbound Blade",
+    "DisplayName": "Unbound Blade",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Longsword",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 16750,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 4.0,
+    "Description": "+4 Shock"
   }
 ]

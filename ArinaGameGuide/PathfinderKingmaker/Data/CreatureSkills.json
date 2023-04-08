@@ -2836,5 +2836,41 @@
     "Creature": "Troll 6",
     "Skill": "Perception",
     "Bonus": 17
+  },
+  {
+    "ID": 475,
+    "Creature": "Human 9 Archer",
+    "Skill": "Athletics",
+    "Bonus": 16
+  },
+  {
+    "ID": 476,
+    "Creature": "Human 9 Bard",
+    "Skill": "Athletics",
+    "Bonus": 12
+  },
+  {
+    "ID": 477,
+    "Creature": "Human 9 Shield Fighter",
+    "Skill": "Mobility",
+    "Bonus": 8
+  },
+  {
+    "ID": 478,
+    "Creature": "Human 9 Shield Fighter",
+    "Skill": "Stealth",
+    "Bonus": 39
+  },
+  {
+    "ID": 479,
+    "Creature": "Human 2 Bard",
+    "Skill": "Perception",
+    "Bonus": 10
+  },
+  {
+    "ID": 480,
+    "Creature": "Human 2 Bard",
+    "Skill": "Stealth",
+    "Bonus": 7
   }
 ]

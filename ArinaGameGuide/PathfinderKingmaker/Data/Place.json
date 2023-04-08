@@ -2233,5 +2233,20 @@
     "HasPlot": true,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 151,
+    "Name": "Littletown",
+    "DisplayName": "Littletown",
+    "CName": "",
+    "Type": "Hunting Area",
+    "Region": "Pitax",
+    "SuggestedLevelMin": 14,
+    "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": ""
   }
 ]

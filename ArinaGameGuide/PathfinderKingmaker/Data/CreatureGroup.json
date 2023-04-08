@@ -2654,5 +2654,29 @@
     "Position": "West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 333,
+    "Name": "The Menagerie Group C",
+    "Place": "The Menagerie",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 334,
+    "Name": "Littletown Group A",
+    "Place": "Littletown",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 335,
+    "Name": "Littletown Group B",
+    "Place": "Littletown",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]
