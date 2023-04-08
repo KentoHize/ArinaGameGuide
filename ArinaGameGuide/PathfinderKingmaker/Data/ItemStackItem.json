@@ -6342,5 +6342,181 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 796,
+    "ItemStack": "RJ2 + RC + LB2 + PoCL + CS2 + RoP1",
+    "Item": null,
+    "RandomItem": "Random Jewelry",
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 797,
+    "ItemStack": "RJ2 + RC + LB2 + PoCL + CS2 + RoP1",
+    "Item": null,
+    "RandomItem": "Random Coins",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 798,
+    "ItemStack": "RJ2 + RC + LB2 + PoCL + CS2 + RoP1",
+    "Item": "Longbow +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 799,
+    "ItemStack": "RJ2 + RC + LB2 + PoCL + CS2 + RoP1",
+    "Item": "Potion of Cure Light Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 800,
+    "ItemStack": "RJ2 + RC + LB2 + PoCL + CS2 + RoP1",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 801,
+    "ItemStack": "D1 + D1 + CS1 + RoP1",
+    "Item": "Dagger +1",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 802,
+    "ItemStack": "D1 + D1 + CS1 + RoP1",
+    "Item": "Chainshirt +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 803,
+    "ItemStack": "D1 + D1 + CS1 + RoP1",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 804,
+    "ItemStack": "RS + LC1 + CS2 + RoP1",
+    "Item": null,
+    "RandomItem": "Random Scroll",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 805,
+    "ItemStack": "RS + LC1 + CS2 + RoP1",
+    "Item": "Light Crossbow +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 807,
+    "ItemStack": "RS + LC1 + CS2 + RoP1",
+    "Item": "Chainshirt +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 806,
+    "ItemStack": "RS + LC1 + CS2 + RoP1",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 808,
+    "ItemStack": "QS1 + PoCL + RS2 + PA2 + BoID2",
+    "Item": "Quarterstaff +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 809,
+    "ItemStack": "QS1 + PoCL + RS2 + PA2 + BoID2",
+    "Item": "Potion of Cure Light Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 810,
+    "ItemStack": "QS1 + PoCL + RS2 + PA2 + BoID2",
+    "Item": null,
+    "RandomItem": "Random Scroll",
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 811,
+    "ItemStack": "QS1 + PoCL + RS2 + PA2 + BoID2",
+    "Item": "Padded Armor +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 812,
+    "ItemStack": "QS1 + PoCL + RS2 + PA2 + BoID2",
+    "Item": "Belt of Incredible Dexterity +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 813,
+    "ItemStack": "QS1 + PoCL + RS2 + BoMC2 + CoR1",
+    "Item": "Quarterstaff +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 814,
+    "ItemStack": "QS1 + PoCL + RS2 + BoMC2 + CoR1",
+    "Item": "Potion of Cure Light Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 815,
+    "ItemStack": "QS1 + PoCL + RS2 + BoMC2 + CoR1",
+    "Item": null,
+    "RandomItem": "Random Scroll",
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 816,
+    "ItemStack": "QS1 + PoCL + RS2 + BoMC2 + CoR1",
+    "Item": "Belt of Mighty Constitution +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 817,
+    "ItemStack": "QS1 + PoCL + RS2 + BoMC2 + CoR1",
+    "Item": "Cloak of Resistance +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

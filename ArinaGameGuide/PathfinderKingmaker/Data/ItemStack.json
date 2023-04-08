@@ -1518,5 +1518,30 @@
     "ID": 305,
     "Name": "RS + R2 + CS2 + RoP1",
     "Memo": ""
+  },
+  {
+    "ID": 306,
+    "Name": "RJ2 + RC + LB2 + PoCL + CS2 + RoP1",
+    "Memo": ""
+  },
+  {
+    "ID": 307,
+    "Name": "D1 + D1 + CS1 + RoP1",
+    "Memo": ""
+  },
+  {
+    "ID": 308,
+    "Name": "RS + LC1 + CS2 + RoP1",
+    "Memo": ""
+  },
+  {
+    "ID": 309,
+    "Name": "QS1 + PoCL + RS2 + PA2 + BoID2",
+    "Memo": ""
+  },
+  {
+    "ID": 310,
+    "Name": "QS1 + PoCL + RS2 + BoMC2 + CoR1",
+    "Memo": ""
   }
 ]

@@ -2800,5 +2800,17 @@
     "Creature": "Elf 7 Wizard",
     "Skill": "Perception",
     "Bonus": 18
+  },
+  {
+    "ID": 469,
+    "Creature": "Elf 9 LC Bard",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 470,
+    "Creature": "Elf 9 LC Bard",
+    "Skill": "Stealth",
+    "Bonus": 19
   }
 ]

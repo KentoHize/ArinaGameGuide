@@ -15562,7 +15562,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "RJ2 + RC + LB2 + PoCL + CS2 + RoP1",
     "Memo": ""
   },
   {
@@ -15605,7 +15605,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "QS1 + PoCL + RS2 + PA2 + BoID2",
     "Memo": ""
   },
   {
@@ -15691,7 +15691,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "D1 + D1 + CS1 + RoP1",
     "Memo": ""
   },
   {
@@ -15777,7 +15777,50 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "QS1 + PoCL + RS2 + BoMC2 + CoR1",
+    "Memo": ""
+  },
+  {
+    "ID": 370,
+    "Name": "Elf 9 LC Bard",
+    "DisplayName": "Elf",
+    "DisplayCName": "",
+    "Race": "Elf",
+    "Alignment": "Chaotic Good",
+    "Size": "Medium",
+    "Speed": 30,
+    "Initialive": 10,
+    "Strength": 18,
+    "Dexterity": 22,
+    "Constitution": 16,
+    "Intelligence": 16,
+    "Wisdom": 12,
+    "Charisma": 24,
+    "Class1": "Bard",
+    "Class1Level": 9,
+    "Class2": null,
+    "Class2Level": null,
+    "Class3": null,
+    "Class3Level": null,
+    "Class4": null,
+    "Class4Level": null,
+    "Exp": 90,
+    "Hitpoint": 86,
+    "AC": 25,
+    "Falt-FootedAC": 21,
+    "TouchAC": 19,
+    "Fortitude": 8,
+    "Reflex": 14,
+    "Will": 11,
+    "BaseAttackBonus": 6,
+    "CombatManeuverBonus": 16,
+    "CombatManeuverDefense": 33,
+    "SpellResistance": null,
+    "SkinItem": null,
+    "SkinDC": null,
+    "Swarm": false,
+    "Undead": false,
+    "RemainItems": "RS + LC1 + CS2 + RoP1",
     "Memo": ""
   }
 ]

@@ -4352,5 +4352,19 @@
     "DamageAdditiveBonus": 4,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 351,
+    "Creature": "Elf 9 Bard",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AddtionalAttack": 1,
+    "AttackBonus": 20,
+    "Weapon": "Light Crossbow +1",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 3,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

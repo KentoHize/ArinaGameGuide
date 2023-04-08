@@ -1246,5 +1246,11 @@
     "Creature": "Elf 7 Lawful Wizard",
     "Condition": "Spell - Magic Missile",
     "CondtionGroup": null
+  },
+  {
+    "ID": 217,
+    "Creature": "Elf 9 LC Bard",
+    "Condition": "Sleep",
+    "CondtionGroup": null
   }
 ]
