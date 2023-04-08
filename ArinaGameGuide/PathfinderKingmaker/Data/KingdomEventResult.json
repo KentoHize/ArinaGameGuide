@@ -2707,5 +2707,26 @@
     "OtherConsequence": "None",
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 130,
+    "Event": "Celebrity",
+    "Advisor": "Treasurer",
+    "Companion": "Jubilost",
+    "Result": "Success",
+    "Stat1": "Economy",
+    "Stat1Adjustment": 3,
+    "Stat2": "Divine",
+    "Stat2Adjustment": 3,
+    "Stat3": "Arcane",
+    "Stat3Adjustment": 3,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": -20,
+    "OtherConsequence": "None",
+    "Description": "",
+    "Memo": ""
   }
 ]

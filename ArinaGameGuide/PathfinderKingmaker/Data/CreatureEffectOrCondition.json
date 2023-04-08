@@ -835,5 +835,32 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 96,
+    "Creature": "Bandit 14 Achlemist",
+    "EffectOrCondition": "Greater Mutagen - Dexterity and Constitution",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 97,
+    "Creature": "Bandit 14 Achlemist",
+    "EffectOrCondition": "Barskin",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 98,
+    "Creature": "Bandit 14 Achlemist",
+    "EffectOrCondition": "Shield",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

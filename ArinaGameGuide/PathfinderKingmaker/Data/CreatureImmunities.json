@@ -1252,5 +1252,11 @@
     "Creature": "Elf 9 LC Bard",
     "Condition": "Sleep",
     "CondtionGroup": null
+  },
+  {
+    "ID": 218,
+    "Creature": "Bandit 14 Achlemist",
+    "Condition": "Poison",
+    "CondtionGroup": null
   }
 ]

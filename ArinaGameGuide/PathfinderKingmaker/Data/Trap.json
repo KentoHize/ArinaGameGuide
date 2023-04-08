@@ -1690,5 +1690,17 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 148,
+    "Name": "River Blade's Camp Trap",
+    "CName": "",
+    "Type": "Acid Fog",
+    "Place": "River Blade's Camp",
+    "DisarmDC": null,
+    "Position": "East",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

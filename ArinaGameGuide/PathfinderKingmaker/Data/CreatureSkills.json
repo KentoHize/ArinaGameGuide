@@ -2884,5 +2884,11 @@
     "Creature": "Ilora Nuski",
     "Skill": "Stealth",
     "Bonus": 27
+  },
+  {
+    "ID": 483,
+    "Creature": "Bandit 14 Achlemist",
+    "Skill": "Stealth",
+    "Bonus": 28
   }
 ]

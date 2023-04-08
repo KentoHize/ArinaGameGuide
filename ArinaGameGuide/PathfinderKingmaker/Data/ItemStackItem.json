@@ -6806,5 +6806,69 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 854,
+    "ItemStack": "Bandit 14 Achlemist RS",
+    "Item": "Potion of Heroism",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 855,
+    "ItemStack": "Bandit 14 Achlemist RS",
+    "Item": "Light Crossbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 856,
+    "ItemStack": "Bandit 14 Achlemist RS",
+    "Item": "Acid Flask",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 857,
+    "ItemStack": "Bandit 14 Achlemist RS",
+    "Item": "Alchemist's Fire",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 858,
+    "ItemStack": "Bandit 14 Achlemist RS",
+    "Item": "Leather Armor +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 859,
+    "ItemStack": "Bandit 14 Achlemist RS",
+    "Item": "Headband of Vast Intelligence +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 860,
+    "ItemStack": "Bandit 14 Achlemist RS",
+    "Item": "Amulet of Natural Armor +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 861,
+    "ItemStack": "Bandit 14 Achlemist RS",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

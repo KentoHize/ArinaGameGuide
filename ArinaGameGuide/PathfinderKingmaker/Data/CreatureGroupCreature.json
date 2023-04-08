@@ -8468,5 +8468,75 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 849,
+    "CreatureGroup": "River Blade's Camp Group C",
+    "Creature": "Bandit 7 Rouge",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 850,
+    "CreatureGroup": "River Blade's Camp Group C",
+    "Creature": "Bandit 9 Bard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 851,
+    "CreatureGroup": "River Blade's Camp Group C",
+    "Creature": "Bandit 9 Rouge",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 852,
+    "CreatureGroup": "River Blade's Camp Group C",
+    "Creature": "Bandit 7 Cleric",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 855,
+    "CreatureGroup": "River Blade's Camp Group D",
+    "Creature": "Bandit 14 Achlemist",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 853,
+    "CreatureGroup": "River Blade's Camp Group D",
+    "Creature": "Bandit 9 Rouge",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 854,
+    "CreatureGroup": "River Blade's Camp Group D",
+    "Creature": "Bandit 9 Achlemist",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

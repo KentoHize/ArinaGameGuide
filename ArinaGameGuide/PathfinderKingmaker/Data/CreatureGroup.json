@@ -2726,5 +2726,21 @@
     "Position": "West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 342,
+    "Name": "River Blade's Camp Group C",
+    "Place": "River Blade's Camp",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 343,
+    "Name": "River Blade's Camp Group D",
+    "Place": "River Blade's Camp",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

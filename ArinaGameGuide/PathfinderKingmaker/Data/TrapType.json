@@ -58,5 +58,11 @@
     "Name": "Fireball(SP)",
     "CName": "",
     "Special": true
+  },
+  {
+    "ID": 11,
+    "Name": "Acid Fog",
+    "CName": "",
+    "Special": false
   }
 ]

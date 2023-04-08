@@ -4548,5 +4548,19 @@
     "DamageAdditiveBonus": null,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 365,
+    "Creature": "Bandit 14 Achlemist",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AddtionalAttack": 2,
+    "AttackBonus": 23,
+    "Weapon": "Light Crossbow",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": null,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

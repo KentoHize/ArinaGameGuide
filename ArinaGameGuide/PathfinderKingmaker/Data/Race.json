@@ -136,7 +136,7 @@
     "ID": 20,
     "Name": "Aberration",
     "MainRace": "Aberration",
-    "SubRace": "",
+    "SubRace": "Aberration",
     "KnowledgeSkill": "Knowledge(Arcana)"
   },
   {
@@ -165,6 +165,13 @@
     "Name": "Devil",
     "MainRace": "Outsider",
     "SubRace": "Devil",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 25,
+    "Name": "Halfling",
+    "MainRace": "Halfling",
+    "SubRace": "Halfling",
     "KnowledgeSkill": null
   }
 ]
