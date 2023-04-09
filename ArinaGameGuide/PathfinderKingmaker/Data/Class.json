@@ -194,5 +194,19 @@
     "CName": "",
     "ChanllegeRateMultiplier": 1.0,
     "PlayerClass": true
+  },
+  {
+    "ID": 29,
+    "Name": "Dragon Disciple",
+    "CName": "",
+    "ChanllegeRateMultiplier": 1.0,
+    "PlayerClass": true
+  },
+  {
+    "ID": 30,
+    "Name": "Monk",
+    "CName": "",
+    "ChanllegeRateMultiplier": 1.0,
+    "PlayerClass": true
   }
 ]

@@ -1390,5 +1390,17 @@
     "Creature": "Tree That Weep",
     "Condition": "Spell - Baleful Polymorph",
     "CondtionGroup": null
+  },
+  {
+    "ID": 242,
+    "Creature": "Wererat 12 Alchemist",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 243,
+    "Creature": "Gardener",
+    "Condition": "Difficult Terrain",
+    "CondtionGroup": null
   }
 ]

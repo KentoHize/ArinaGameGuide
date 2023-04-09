@@ -2982,5 +2982,13 @@
     "Position": "South West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 374,
+    "Name": "Whiterose Abbey Group B",
+    "Place": "Whiterose Abbey",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

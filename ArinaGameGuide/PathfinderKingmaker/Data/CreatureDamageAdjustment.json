@@ -2707,5 +2707,19 @@
     "Type": "DamageReduction",
     "DamageType": "Silver",
     "Amount": 10
+  },
+  {
+    "ID": 388,
+    "Creature": "Wererat 12 Alchemist",
+    "Type": "DamageReduction",
+    "DamageType": "Silver",
+    "Amount": 10
+  },
+  {
+    "ID": 389,
+    "Creature": "Gardener",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
   }
 ]

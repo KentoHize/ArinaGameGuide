@@ -7094,5 +7094,93 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 890,
+    "ItemStack": "Ring of Chaos",
+    "Item": "Ring of Chaos",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 891,
+    "ItemStack": "Gardener RS",
+    "Item": null,
+    "RandomItem": "Random Scroll",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 892,
+    "ItemStack": "Gardener RS",
+    "Item": null,
+    "RandomItem": "Random Drink",
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 893,
+    "ItemStack": "Gardener RS",
+    "Item": "White Rose Chardonnay",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 894,
+    "ItemStack": "Gardener RS",
+    "Item": "Headband of Alluring Charisma +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 895,
+    "ItemStack": "Gardener RS",
+    "Item": "Amulet of Natural Armor +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 896,
+    "ItemStack": "Gardener RS",
+    "Item": "Ring of Protection +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 897,
+    "ItemStack": "MC + LA",
+    "Item": "Masterwork Club",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 898,
+    "ItemStack": "MC + LA",
+    "Item": "Leather Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 899,
+    "ItemStack": "Whiterose Abbey Treasure B",
+    "Item": "Singing Edge",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 900,
+    "ItemStack": "Whiterose Abbey Treasure B",
+    "Item": "Chipped Magnifying Glass with the Technic League's Brand",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

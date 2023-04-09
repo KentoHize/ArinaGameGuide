@@ -1538,5 +1538,33 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 111,
+    "Name": "Whiterose Abbey Treasure A",
+    "CName": "",
+    "Type": "Void",
+    "Place": "Whiterose Abbey",
+    "Position": "Center",
+    "ItemStack": "Ring of Chaos",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 112,
+    "Name": "Whiterose Abbey Treasure B",
+    "CName": "",
+    "Type": "Void",
+    "Place": "Whiterose Abbey",
+    "Position": "North West",
+    "ItemStack": "Whiterose Abbey Treasure B",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

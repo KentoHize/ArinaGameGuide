@@ -1673,5 +1673,30 @@
     "ID": 336,
     "Name": "MLS + CS",
     "Memo": ""
+  },
+  {
+    "ID": 337,
+    "Name": "Ring of Chaos",
+    "Memo": ""
+  },
+  {
+    "ID": 338,
+    "Name": "Gardener RS",
+    "Memo": ""
+  },
+  {
+    "ID": 339,
+    "Name": "Random Drink",
+    "Memo": ""
+  },
+  {
+    "ID": 340,
+    "Name": "MC + LA",
+    "Memo": ""
+  },
+  {
+    "ID": 341,
+    "Name": "Whiterose Abbey Treasure B",
+    "Memo": ""
   }
 ]
