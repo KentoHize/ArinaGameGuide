@@ -1288,5 +1288,35 @@
     "Creature": "Poisonous Giant Flytrap",
     "Condition": "Spell - Baleful Polymorph",
     "CondtionGroup": null
+  },
+  {
+    "ID": 225,
+    "Creature": "The Captive",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 226,
+    "Creature": "The Captive",
+    "Condition": "Death",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 227,
+    "Creature": "The Captive",
+    "Condition": "ability score damage",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 228,
+    "Creature": "The Captive",
+    "Condition": "drain",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 229,
+    "Creature": "The Captive",
+    "Condition": "Petrified",
+    "CondtionGroup": null
   }
 ]

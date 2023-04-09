@@ -2761,5 +2761,41 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 309,
+    "Creature": "Wild Hunt Scout",
+    "Ability": "Wild Gaze",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": 29
+  },
+  {
+    "ID": 310,
+    "Creature": "The Captive",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 311,
+    "Creature": "The Captive",
+    "Ability": "Spell Combat",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 312,
+    "Creature": "The Captive",
+    "Ability": "Spellstrike",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

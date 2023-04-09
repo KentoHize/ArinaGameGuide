@@ -3046,5 +3046,59 @@
     "Creature": "Wild Hunt Monarch",
     "Skill": "Stealth",
     "Bonus": 38
+  },
+  {
+    "ID": 510,
+    "Creature": "Wild Hunt Scout",
+    "Skill": "Mobility",
+    "Bonus": 38
+  },
+  {
+    "ID": 511,
+    "Creature": "Wild Hunt Scout",
+    "Skill": "Perception",
+    "Bonus": 40
+  },
+  {
+    "ID": 512,
+    "Creature": "Wild Hunt Scout",
+    "Skill": "Stealth",
+    "Bonus": 38
+  },
+  {
+    "ID": 513,
+    "Creature": "The Captive",
+    "Skill": "Mobility",
+    "Bonus": 35
+  },
+  {
+    "ID": 514,
+    "Creature": "The Captive",
+    "Skill": "Persuasion",
+    "Bonus": 36
+  },
+  {
+    "ID": 515,
+    "Creature": "The Captive",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 26
+  },
+  {
+    "ID": 516,
+    "Creature": "The Captive",
+    "Skill": "Lore(Nature)",
+    "Bonus": 23
+  },
+  {
+    "ID": 517,
+    "Creature": "The Captive",
+    "Skill": "Perception",
+    "Bonus": 38
+  },
+  {
+    "ID": 518,
+    "Creature": "The Captive",
+    "Skill": "Stealth",
+    "Bonus": 27
   }
 ]

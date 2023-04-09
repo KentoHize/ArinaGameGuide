@@ -4800,5 +4800,61 @@
     "DamageAdditiveBonus": 10,
     "OtherDamageBonus": "2d6",
     "SneakDamage": null
+  },
+  {
+    "ID": 383,
+    "Creature": "Wild Hunt Scout",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 2,
+    "AttackBonus": 24,
+    "Weapon": "Scimitar",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": null,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 384,
+    "Creature": "The Captive",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 0,
+    "AttackBonus": 28,
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 19,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 385,
+    "Creature": "The Captive",
+    "Form": "Claw",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 1,
+    "AttackBonus": 29,
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 19,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 386,
+    "Creature": "The Captive",
+    "Form": "Tail",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 1,
+    "AttackBonus": 23,
+    "Weapon": null,
+    "BasicDamage": "1d12",
+    "DamageAdditiveBonus": 19,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

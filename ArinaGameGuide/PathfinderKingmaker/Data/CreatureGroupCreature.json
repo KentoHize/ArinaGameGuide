@@ -8718,5 +8718,85 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": "Fiery Creature",
     "Team": "1"
+  },
+  {
+    "ID": 874,
+    "CreatureGroup": "Tenebrous Depth XV Group C",
+    "Creature": "Ferocious Devourer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 875,
+    "CreatureGroup": "Tenebrous Depth XV Group D",
+    "Creature": "Ferocious Devourer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 876,
+    "CreatureGroup": "Tenebrous Depth XV Group E",
+    "Creature": "Greater Dread Zombie Cyclops",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 877,
+    "CreatureGroup": "Tenebrous Depth XV Group E",
+    "Creature": "Dread Zombie Cyclops Priest",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Fiery Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 878,
+    "CreatureGroup": "Tenebrous Depth XVI Group A",
+    "Creature": "Wild Hunt Scout",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 879,
+    "CreatureGroup": "Tenebrous Depth XVI Group A",
+    "Creature": "Wild Hunt Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 880,
+    "CreatureGroup": "Tenebrous Depth XVI Group B",
+    "Creature": "The Captive",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 881,
+    "CreatureGroup": "Tenebrous Depth XVI Group B",
+    "Creature": "The Captor",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

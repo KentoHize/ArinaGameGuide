@@ -7665,5 +7665,22 @@
     "StoryItem": false,
     "Weight": 0.0,
     "Description": "+4 Int, Wis, Cha\n5/melee"
+  },
+  {
+    "ID": 452,
+    "Name": "Scimitar",
+    "DisplayName": "Scimitar",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Scimitar",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

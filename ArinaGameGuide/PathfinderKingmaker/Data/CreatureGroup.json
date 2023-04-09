@@ -2838,5 +2838,45 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 356,
+    "Name": "Tenebrous Depth XV Group C",
+    "Place": "Tenebrous Depth XV",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 357,
+    "Name": "Tenebrous Depth XV Group D",
+    "Place": "Tenebrous Depth XV",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 358,
+    "Name": "Tenebrous Depth XV Group E",
+    "Place": "Tenebrous Depth XV",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 359,
+    "Name": "Tenebrous Depth XVI Group A",
+    "Place": "Tenebrous Depth XVI",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 360,
+    "Name": "Tenebrous Depth XVI Group B",
+    "Place": "Tenebrous Depth XVI",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

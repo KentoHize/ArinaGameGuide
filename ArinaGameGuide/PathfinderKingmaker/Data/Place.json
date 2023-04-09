@@ -2323,5 +2323,20 @@
     "HasPlot": false,
     "Description": "",
     "Memo": "Lore(Religion 19)"
+  },
+  {
+    "ID": 157,
+    "Name": "Tenebrous Depth XVI",
+    "DisplayName": "Tenebrous Depth XVI",
+    "CName": "",
+    "Type": "Dungeon",
+    "Region": null,
+    "SuggestedLevelMin": 16,
+    "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

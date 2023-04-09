@@ -934,5 +934,23 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 107,
+    "Creature": "The Captive",
+    "EffectOrCondition": "Shield",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 108,
+    "Creature": "The Captive",
+    "EffectOrCondition": "Displacement",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

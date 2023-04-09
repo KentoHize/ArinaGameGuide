@@ -2427,5 +2427,75 @@
     "Type": "Immunity",
     "DamageType": "Cold",
     "Amount": null
+  },
+  {
+    "ID": 348,
+    "Creature": "Wild Hunt Scout",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 15
+  },
+  {
+    "ID": 349,
+    "Creature": "Wild Hunt Scout",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 350,
+    "Creature": "Wild Hunt Scout",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 10
+  },
+  {
+    "ID": 351,
+    "Creature": "Wild Hunt Scout",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 352,
+    "Creature": "The Captive",
+    "Type": "DamageReduction",
+    "DamageType": "Sliver and Magic",
+    "Amount": 10
+  },
+  {
+    "ID": 353,
+    "Creature": "The Captive",
+    "Type": "DamageReduction",
+    "DamageType": "Good",
+    "Amount": 10
+  },
+  {
+    "ID": 355,
+    "Creature": "The Captive",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 356,
+    "Creature": "The Captive",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 354,
+    "Creature": "The Captive",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 357,
+    "Creature": "The Captive",
+    "Type": "Immunity",
+    "DamageType": "Acid",
+    "Amount": null
   }
 ]
