@@ -7038,5 +7038,61 @@
     "RandomItem": "Money and Valuables",
     "Quantity": 6,
     "RandomQuantity": null
+  },
+  {
+    "ID": 883,
+    "ItemStack": "Black Dragon Breastplate",
+    "Item": "Black Dragon Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 884,
+    "ItemStack": "2MSS + CS",
+    "Item": "Masterwork Shortsword",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 885,
+    "ItemStack": "2MSS + CS",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 886,
+    "ItemStack": "CL + CS",
+    "Item": "Composite Longbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 887,
+    "ItemStack": "CL + CS",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 888,
+    "ItemStack": "MLS + CS",
+    "Item": "Masterwork Longsword",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 889,
+    "ItemStack": "MLS + CS",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

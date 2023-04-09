@@ -2926,5 +2926,61 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 367,
+    "Name": "Lady Primrose Group",
+    "Place": "Forest Ballroom",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 368,
+    "Name": "Dreamscape Group A",
+    "Place": "Dreamscape",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 369,
+    "Name": "Dreamscape Group B",
+    "Place": "Dreamscape",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 370,
+    "Name": "Dreamscape Group C",
+    "Place": "Dreamscape",
+    "Position": "Deep Floor 1",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 371,
+    "Name": "Dreamscape Group D",
+    "Place": "Dreamscape",
+    "Position": "Deep Floor 1",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 372,
+    "Name": "Dreamscape Group E",
+    "Place": "Dreamscape",
+    "Position": "Deep Floor 1",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 373,
+    "Name": "Whiterose Abbey Group A",
+    "Place": "Whiterose Abbey",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

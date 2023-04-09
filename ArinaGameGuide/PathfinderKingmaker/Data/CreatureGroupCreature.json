@@ -8878,5 +8878,175 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 892,
+    "CreatureGroup": "Lady Primrose Group",
+    "Creature": "Lady Primrose",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 890,
+    "CreatureGroup": "Lady Primrose Group",
+    "Creature": "Primal Treant",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 891,
+    "CreatureGroup": "Dreamscape Group A",
+    "Creature": "Defaced Sister",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 893,
+    "CreatureGroup": "Dreamscape Group B",
+    "Creature": "Will-o'-wisp 9",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 894,
+    "CreatureGroup": "Dreamscape Group B",
+    "Creature": "Will-o'-wisp 9",
+    "DisplayName": "Viscount Smoulderburn",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 895,
+    "CreatureGroup": "Dreamscape Group B",
+    "Creature": "Will-o'-wisp 9",
+    "DisplayName": "Marquis Dazzlelight",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 896,
+    "CreatureGroup": "Dreamscape Group B",
+    "Creature": "Will-o'-wisp 9",
+    "DisplayName": "Count Shimmerglow",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 897,
+    "CreatureGroup": "Dreamscape Group C",
+    "Creature": "Tristian",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 898,
+    "CreatureGroup": "Dreamscape Group C",
+    "Creature": "Armag",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 899,
+    "CreatureGroup": "Dreamscape Group C",
+    "Creature": "The Stag Lord",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 900,
+    "CreatureGroup": "Dreamscape Group D",
+    "Creature": "Castruccio Irovetti",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 901,
+    "CreatureGroup": "Dreamscape Group E",
+    "Creature": "Self Copy",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 903,
+    "CreatureGroup": "Whiterose Abbey Group A",
+    "Creature": "Greater Weretiger 10 Fighter",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 902,
+    "CreatureGroup": "Whiterose Abbey Group A",
+    "Creature": "Wererat 12 Rogue",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 904,
+    "CreatureGroup": "Whiterose Abbey Group A",
+    "Creature": "Human 9 Shield Fighter",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 905,
+    "CreatureGroup": "Whiterose Abbey Group A",
+    "Creature": "Human 9 Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 906,
+    "CreatureGroup": "Whiterose Abbey Group A",
+    "Creature": "Greater Weretiger 10 Archer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

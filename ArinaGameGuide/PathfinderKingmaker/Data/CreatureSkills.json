@@ -3220,5 +3220,167 @@
     "Creature": "Ancient Will-o'-wisp",
     "Skill": "Stealth",
     "Bonus": 54
+  },
+  {
+    "ID": 539,
+    "Creature": "Lady Primrose",
+    "Skill": "Mobility",
+    "Bonus": 40
+  },
+  {
+    "ID": 540,
+    "Creature": "Lady Primrose",
+    "Skill": "Persuasion",
+    "Bonus": 40
+  },
+  {
+    "ID": 541,
+    "Creature": "Lady Primrose",
+    "Skill": "Lore(Nature)",
+    "Bonus": 38
+  },
+  {
+    "ID": 542,
+    "Creature": "Lady Primrose",
+    "Skill": "Perception",
+    "Bonus": 42
+  },
+  {
+    "ID": 543,
+    "Creature": "Lady Primrose",
+    "Skill": "Athletics",
+    "Bonus": 36
+  },
+  {
+    "ID": 544,
+    "Creature": "Lady Primrose",
+    "Skill": "Stealth",
+    "Bonus": 60
+  },
+  {
+    "ID": 545,
+    "Creature": "Will-o'-wisp 9",
+    "Skill": "Mobility",
+    "Bonus": 23
+  },
+  {
+    "ID": 546,
+    "Creature": "Will-o'-wisp 9",
+    "Skill": "Persuasion",
+    "Bonus": 16
+  },
+  {
+    "ID": 547,
+    "Creature": "Will-o'-wisp 9",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 548,
+    "Creature": "Will-o'-wisp 9",
+    "Skill": "Stealth",
+    "Bonus": 27
+  },
+  {
+    "ID": 549,
+    "Creature": "Tristian",
+    "Skill": "Persuasion",
+    "Bonus": 15
+  },
+  {
+    "ID": 550,
+    "Creature": "Tristian",
+    "Skill": "Lore(Nature)",
+    "Bonus": 14
+  },
+  {
+    "ID": 551,
+    "Creature": "Tristian",
+    "Skill": "Lore(Religion)",
+    "Bonus": 17
+  },
+  {
+    "ID": 552,
+    "Creature": "Tristian",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 553,
+    "Creature": "The Stag Lord",
+    "Skill": "Mobility",
+    "Bonus": 19
+  },
+  {
+    "ID": 554,
+    "Creature": "The Stag Lord",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 555,
+    "Creature": "The Stag Lord",
+    "Skill": "Stealth",
+    "Bonus": 17
+  },
+  {
+    "ID": 556,
+    "Creature": "Greater Weretiger 10 Fighter",
+    "Skill": "Mobility",
+    "Bonus": 13
+  },
+  {
+    "ID": 557,
+    "Creature": "Greater Weretiger 10 Fighter",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 558,
+    "Creature": "Greater Weretiger 10 Fighter",
+    "Skill": "Stealth",
+    "Bonus": 13
+  },
+  {
+    "ID": 559,
+    "Creature": "Wererat 12 Rogue",
+    "Skill": "Mobility",
+    "Bonus": 20
+  },
+  {
+    "ID": 560,
+    "Creature": "Wererat 12 Rogue",
+    "Skill": "Perception",
+    "Bonus": 33
+  },
+  {
+    "ID": 561,
+    "Creature": "Wererat 12 Rogue",
+    "Skill": "Stealth",
+    "Bonus": 68
+  },
+  {
+    "ID": 562,
+    "Creature": "Wererat 12 Rogue",
+    "Skill": "Trickery",
+    "Bonus": 22
+  },
+  {
+    "ID": 563,
+    "Creature": "Greater Weretiger 10 Archer",
+    "Skill": "Mobility",
+    "Bonus": 13
+  },
+  {
+    "ID": 564,
+    "Creature": "Greater Weretiger 10 Archer",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 565,
+    "Creature": "Greater Weretiger 10 Archer",
+    "Skill": "Stealth",
+    "Bonus": 13
   }
 ]

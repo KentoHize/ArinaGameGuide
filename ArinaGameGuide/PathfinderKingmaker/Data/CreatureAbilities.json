@@ -2851,5 +2851,77 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 319,
+    "Creature": "Lady Primrose",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 320,
+    "Creature": "Lady Primrose",
+    "Ability": "Fast Healing",
+    "Amount": 10,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 321,
+    "Creature": "The Stag Lord",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 322,
+    "Creature": "The Stag Lord",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 323,
+    "Creature": "Greater Weretiger 10 Fighter",
+    "Ability": "Power Attack",
+    "Amount": 15,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 324,
+    "Creature": "Wererat 12 Rogue",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 325,
+    "Creature": "Greater Weretiger 10 Archer",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 326,
+    "Creature": "Greater Weretiger 10 Archer",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

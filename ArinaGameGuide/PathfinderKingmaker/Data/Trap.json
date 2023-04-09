@@ -1858,5 +1858,41 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 162,
+    "Name": "Whiterose Abbey Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Whiterose Abbey",
+    "DisarmDC": 34,
+    "Position": "South East",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 163,
+    "Name": "Whiterose Abbey Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Whiterose Abbey",
+    "DisarmDC": 29,
+    "Position": "South East",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 164,
+    "Name": "Whiterose Abbey Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Whiterose Abbey",
+    "DisarmDC": 29,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

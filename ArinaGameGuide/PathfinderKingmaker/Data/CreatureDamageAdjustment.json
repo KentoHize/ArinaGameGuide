@@ -2651,5 +2651,61 @@
     "Type": "Vulnerability",
     "DamageType": "Magic Missile",
     "Amount": null
+  },
+  {
+    "ID": 380,
+    "Creature": "Lady Primrose",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 15
+  },
+  {
+    "ID": 381,
+    "Creature": "Lady Primrose",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 30
+  },
+  {
+    "ID": 382,
+    "Creature": "Lady Primrose",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 30
+  },
+  {
+    "ID": 383,
+    "Creature": "Lady Primrose",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 30
+  },
+  {
+    "ID": 384,
+    "Creature": "The Stag Lord",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 385,
+    "Creature": "Greater Weretiger 10 Fighter",
+    "Type": "DamageReduction",
+    "DamageType": "Silver",
+    "Amount": 10
+  },
+  {
+    "ID": 386,
+    "Creature": "Wererat 12 Rogue",
+    "Type": "DamageReduction",
+    "DamageType": "Silver",
+    "Amount": 10
+  },
+  {
+    "ID": 387,
+    "Creature": "Greater Weretiger 10 Archer",
+    "Type": "DamageReduction",
+    "DamageType": "Silver",
+    "Amount": 10
   }
 ]

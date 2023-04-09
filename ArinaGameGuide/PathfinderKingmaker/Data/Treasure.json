@@ -1524,5 +1524,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 110,
+    "Name": "Weeping Grove Treasure A",
+    "CName": "",
+    "Type": "Corpse",
+    "Place": "Weeping Grove",
+    "Position": "North",
+    "ItemStack": "Black Dragon Breastplate",
+    "PerceptionDC": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

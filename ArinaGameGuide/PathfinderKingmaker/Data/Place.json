@@ -2368,5 +2368,50 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 160,
+    "Name": "Forest Ballroom",
+    "DisplayName": "Forest Ballroom",
+    "CName": "",
+    "Type": "Hunting Area",
+    "Region": null,
+    "SuggestedLevelMin": 16,
+    "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 161,
+    "Name": "Dreamscape",
+    "DisplayName": "Dreamscape",
+    "CName": "",
+    "Type": "Dungeon",
+    "Region": null,
+    "SuggestedLevelMin": 14,
+    "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": "Choice many->\nCharisma 20\nIntelligence 20"
+  },
+  {
+    "ID": 162,
+    "Name": "Whiterose Abbey",
+    "DisplayName": "Whiterose Abbey",
+    "CName": "",
+    "Type": "Dungeon",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]
