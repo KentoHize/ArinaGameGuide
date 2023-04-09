@@ -8798,5 +8798,45 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 882,
+    "CreatureGroup": "Tenebrous Depth XVI Group C",
+    "Creature": "Hamadryad",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 883,
+    "CreatureGroup": "Tenebrous Depth XVI Group C",
+    "Creature": "Wild Hunt Scout",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature",
+    "Team": "1"
+  },
+  {
+    "ID": 884,
+    "CreatureGroup": "Tenebrous Depth XVI Group D",
+    "Creature": "Poisonous Giant Flytrap",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature and Blur",
+    "Team": "1"
+  },
+  {
+    "ID": 885,
+    "CreatureGroup": "Tenebrous Depth XVI Group E",
+    "Creature": "Lesser Jabberwock",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": "Enchanting Creature and Blur",
+    "Team": "1"
   }
 ]

@@ -2877,6 +2877,30 @@
     "Place": "Tenebrous Depth XVI",
     "Position": "Center",
     "Stage": 0,
+    "Memo": "Captor & Captive"
+  },
+  {
+    "ID": 361,
+    "Name": "Tenebrous Depth XVI Group C",
+    "Place": "Tenebrous Depth XVI",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 362,
+    "Name": "Tenebrous Depth XVI Group D",
+    "Place": "Tenebrous Depth XVI",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 363,
+    "Name": "Tenebrous Depth XVI Group E",
+    "Place": "Tenebrous Depth XVI",
+    "Position": "North West",
+    "Stage": 0,
     "Memo": ""
   }
 ]

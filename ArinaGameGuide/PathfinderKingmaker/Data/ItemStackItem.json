@@ -6974,5 +6974,53 @@
     "RandomItem": "Money and Valuables",
     "Quantity": 5,
     "RandomQuantity": null
+  },
+  {
+    "ID": 875,
+    "ItemStack": "The Captor RS",
+    "Item": "Belt of Mighty Constitution +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 876,
+    "ItemStack": "The Captor RS",
+    "Item": "Headband of Vast Intelligence +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 877,
+    "ItemStack": "The Captor RS",
+    "Item": "Amulet of Natural Armor +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 878,
+    "ItemStack": "The Captor RS",
+    "Item": "Ring of Protection +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 879,
+    "ItemStack": "The Captor RS",
+    "Item": "Cloak of Resistance +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 880,
+    "ItemStack": "Speed Composite Longbow +2",
+    "Item": "Speed Composite Longbow +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

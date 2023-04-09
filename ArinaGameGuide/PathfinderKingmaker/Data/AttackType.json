@@ -18,16 +18,46 @@
     "DamageType": "Slash/Bludgeon"
   },
   {
+    "ID": 17,
+    "Name": "Flaming Bite",
+    "CName": "",
+    "DamageType": "Slash/Bludgeon/Pierce"
+  },
+  {
     "ID": 9,
     "Name": "Gore",
     "CName": "",
     "DamageType": "Pierce"
   },
   {
+    "ID": 15,
+    "Name": "Hoof",
+    "CName": "",
+    "DamageType": "Bludgeon"
+  },
+  {
+    "ID": 14,
+    "Name": "Kick",
+    "CName": "",
+    "DamageType": "Bludgeon"
+  },
+  {
+    "ID": 16,
+    "Name": "Mud Blast - Kinetic Blade",
+    "CName": "",
+    "DamageType": "Slash"
+  },
+  {
     "ID": 2,
     "Name": "Piercing Weapon",
     "CName": "",
     "DamageType": "Pierce"
+  },
+  {
+    "ID": 13,
+    "Name": "Root",
+    "CName": "",
+    "DamageType": "Bludgeon"
   },
   {
     "ID": 11,
@@ -72,33 +102,9 @@
     "DamageType": "Slash/Bludgeon/Pierce"
   },
   {
-    "ID": 13,
-    "Name": "Root",
+    "ID": 18,
+    "Name": "Wing",
     "CName": "",
     "DamageType": "Bludgeon"
-  },
-  {
-    "ID": 14,
-    "Name": "Kick",
-    "CName": "",
-    "DamageType": "Bludgeon"
-  },
-  {
-    "ID": 15,
-    "Name": "Hoof",
-    "CName": "",
-    "DamageType": "Bludgeon"
-  },
-  {
-    "ID": 16,
-    "Name": "Mud Blast - Kinetic Blade",
-    "CName": "",
-    "DamageType": "Slash"
-  },
-  {
-    "ID": 17,
-    "Name": "Flaming Bite",
-    "CName": "",
-    "DamageType": "Slash/Bludgeon/Pierce"
   }
 ]

@@ -1906,5 +1906,23 @@
     "Repeat": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 107,
+    "Name": "Going South",
+    "CName": "",
+    "Type": "Opportunity",
+    "RequiredDays": 21,
+    "DC": 31,
+    "AdaptedAdvisor1": "General",
+    "AdaptedAdvisor2": "Treasurer",
+    "AdaptedAdvisor3": "Minister",
+    "HaveAdvantage": null,
+    "HaveDisadvantage1": null,
+    "HaveDisadvantage2": null,
+    "CloseDate": "4713/09/01",
+    "Repeat": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

@@ -3100,5 +3100,71 @@
     "Creature": "The Captive",
     "Skill": "Stealth",
     "Bonus": 27
+  },
+  {
+    "ID": 519,
+    "Creature": "Hamadryad",
+    "Skill": "Mobility",
+    "Bonus": 31
+  },
+  {
+    "ID": 520,
+    "Creature": "Hamadryad",
+    "Skill": "Persuasion",
+    "Bonus": 31
+  },
+  {
+    "ID": 521,
+    "Creature": "Hamadryad",
+    "Skill": "Lore(Nature)",
+    "Bonus": 29
+  },
+  {
+    "ID": 522,
+    "Creature": "Hamadryad",
+    "Skill": "Perception",
+    "Bonus": 33
+  },
+  {
+    "ID": 523,
+    "Creature": "Hamadryad",
+    "Skill": "Athletics",
+    "Bonus": 23
+  },
+  {
+    "ID": 524,
+    "Creature": "Hamadryad",
+    "Skill": "Stealth",
+    "Bonus": 31
+  },
+  {
+    "ID": 525,
+    "Creature": "Lesser Jabberwock",
+    "Skill": "Persuasion",
+    "Bonus": 34
+  },
+  {
+    "ID": 526,
+    "Creature": "Lesser Jabberwock",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 27
+  },
+  {
+    "ID": 527,
+    "Creature": "Lesser Jabberwock",
+    "Skill": "Perception",
+    "Bonus": 39
+  },
+  {
+    "ID": 528,
+    "Creature": "Lesser Jabberwock",
+    "Skill": "Athletics",
+    "Bonus": 39
+  },
+  {
+    "ID": 529,
+    "Creature": "Lesser Jabberwock",
+    "Skill": "Stealth",
+    "Bonus": 23
   }
 ]

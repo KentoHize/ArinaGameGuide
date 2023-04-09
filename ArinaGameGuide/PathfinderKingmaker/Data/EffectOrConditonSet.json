@@ -93,5 +93,15 @@
     "ID": 19,
     "Name": "Battering Creature",
     "CName": ""
+  },
+  {
+    "ID": 20,
+    "Name": "Enchanting Creature and Blur",
+    "CName": ""
+  },
+  {
+    "ID": 21,
+    "Name": "Dragon Immunities",
+    "CName": ""
   }
 ]

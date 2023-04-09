@@ -448,5 +448,25 @@
     "ID": 90,
     "EffectOrConditionSet": "Battering Creature",
     "EffectOrConditon": "Battering Creature"
+  },
+  {
+    "ID": 91,
+    "EffectOrConditionSet": "Enchanting Creature and Blur",
+    "EffectOrConditon": "Enchanting Creature"
+  },
+  {
+    "ID": 92,
+    "EffectOrConditionSet": "Enchanting Creature and Blur",
+    "EffectOrConditon": "Blur"
+  },
+  {
+    "ID": 93,
+    "EffectOrConditionSet": "Dragon Immunities",
+    "EffectOrConditon": "Sleep"
+  },
+  {
+    "ID": 94,
+    "EffectOrConditionSet": "Dragon Immunities",
+    "EffectOrConditon": "Paralyzed"
   }
 ]

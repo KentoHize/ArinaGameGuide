@@ -1834,5 +1834,17 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 160,
+    "Name": "Tenebrous Depth XVI Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Tenebrous Depth XVI",
+    "DisarmDC": 32,
+    "Position": "North East",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

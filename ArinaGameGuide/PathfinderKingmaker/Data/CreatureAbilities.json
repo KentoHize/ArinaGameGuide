@@ -2797,5 +2797,41 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 313,
+    "Creature": "Hamadryad",
+    "Ability": "Fast Healing",
+    "Amount": 5,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 314,
+    "Creature": "Hamadryad",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 315,
+    "Creature": "Lesser Jabberwock",
+    "Ability": "Fast Healing",
+    "Amount": 15,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 316,
+    "Creature": "Lesser Jabberwock",
+    "Ability": "Power Attack",
+    "Amount": 15,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

@@ -2497,5 +2497,89 @@
     "Type": "Immunity",
     "DamageType": "Acid",
     "Amount": null
+  },
+  {
+    "ID": 358,
+    "Creature": "The Captor",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 10
+  },
+  {
+    "ID": 359,
+    "Creature": "The Captor",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 360,
+    "Creature": "Hamadryad",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 361,
+    "Creature": "Hamadryad",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 30
+  },
+  {
+    "ID": 362,
+    "Creature": "Hamadryad",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 30
+  },
+  {
+    "ID": 363,
+    "Creature": "Hamadryad",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 30
+  },
+  {
+    "ID": 364,
+    "Creature": "Lesser Jabberwock",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 15
+  },
+  {
+    "ID": 365,
+    "Creature": "Hamadryad",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 30
+  },
+  {
+    "ID": 366,
+    "Creature": "Lesser Jabberwock",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 30
+  },
+  {
+    "ID": 367,
+    "Creature": "Lesser Jabberwock",
+    "Type": "Resistance",
+    "DamageType": "Sonic",
+    "Amount": 30
+  },
+  {
+    "ID": 368,
+    "Creature": "Lesser Jabberwock",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 369,
+    "Creature": "Lesser Jabberwock",
+    "Type": "Vulnerability",
+    "DamageType": "Cold",
+    "Amount": null
   }
 ]

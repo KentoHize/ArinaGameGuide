@@ -1318,5 +1318,17 @@
     "Creature": "The Captive",
     "Condition": "Petrified",
     "CondtionGroup": null
+  },
+  {
+    "ID": 230,
+    "Creature": "The Captor",
+    "Condition": "Spell - Magic Missile",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 231,
+    "Creature": "Lesser Jabberwock",
+    "Condition": null,
+    "CondtionGroup": "Dragon Immunities"
   }
 ]
