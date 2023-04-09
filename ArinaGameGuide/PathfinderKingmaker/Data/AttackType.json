@@ -106,5 +106,11 @@
     "Name": "Wing",
     "CName": "",
     "DamageType": "Bludgeon"
+  },
+  {
+    "ID": 19,
+    "Name": "Branch",
+    "CName": "",
+    "DamageType": "Bludgeon"
   }
 ]

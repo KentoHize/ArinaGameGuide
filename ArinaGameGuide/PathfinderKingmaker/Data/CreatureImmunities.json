@@ -1330,5 +1330,65 @@
     "Creature": "Lesser Jabberwock",
     "Condition": null,
     "CondtionGroup": "Dragon Immunities"
+  },
+  {
+    "ID": 232,
+    "Creature": "Ankou",
+    "Condition": "Spell - Prismatic Spray",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 233,
+    "Creature": "Spawn of Rovagug",
+    "Condition": "Mind-Affecting",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 234,
+    "Creature": "Spawn of Rovagug",
+    "Condition": "Poison",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 235,
+    "Creature": "Spawn of Rovagug",
+    "Condition": "Polymorph",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 236,
+    "Creature": "Spawn of Rovagug",
+    "Condition": "Petrified",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 237,
+    "Creature": "Spawn of Rovagug",
+    "Condition": "Spell - Baleful Polymorph",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 238,
+    "Creature": "Spawn of Rovagug",
+    "Condition": "Sleep",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 239,
+    "Creature": "Spawn of Rovagug",
+    "Condition": "Prone",
+    "CondtionGroup": null
+  },
+  {
+    "ID": 240,
+    "Creature": "Tree That Weep",
+    "Condition": null,
+    "CondtionGroup": "Plant Immunities"
+  },
+  {
+    "ID": 241,
+    "Creature": "Tree That Weep",
+    "Condition": "Spell - Baleful Polymorph",
+    "CondtionGroup": null
   }
 ]

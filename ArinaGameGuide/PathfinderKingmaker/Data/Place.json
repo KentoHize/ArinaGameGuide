@@ -2333,10 +2333,40 @@
     "Region": null,
     "SuggestedLevelMin": 16,
     "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": 20,
+    "HardSpotLevelMax": 40,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "Knowledge(World) 19"
+  },
+  {
+    "ID": 158,
+    "Name": "Inconspicuous Ravine",
+    "DisplayName": "Inconspicuous Ravine",
+    "CName": "",
+    "Type": "Hunting Area",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
     "HardSpotLevelMin": null,
     "HardSpotLevelMax": null,
     "HasPlot": false,
     "Description": "",
-    "Memo": "Knowledge(World) 19"
+    "Memo": ""
+  },
+  {
+    "ID": 159,
+    "Name": "Weeping Grove",
+    "DisplayName": "Weeping Grove",
+    "CName": "",
+    "Type": "Hunting Area",
+    "Region": null,
+    "SuggestedLevelMin": 16,
+    "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

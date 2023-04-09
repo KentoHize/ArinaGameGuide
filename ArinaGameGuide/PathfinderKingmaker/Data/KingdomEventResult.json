@@ -3001,5 +3001,26 @@
     "OtherConsequence": "None",
     "Description": "And \nCluture + 20\nRelation + 3",
     "Memo": ""
+  },
+  {
+    "ID": 144,
+    "Event": "A New Priest of Abadar",
+    "Advisor": "Treasurer",
+    "Companion": "Jubilost",
+    "Result": "Triumph",
+    "Stat1": "Economy",
+    "Stat1Adjustment": 7,
+    "Stat2": "Relations",
+    "Stat2Adjustment": 4,
+    "Stat3": "Divine",
+    "Stat3Adjustment": 4,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": "None",
+    "Description": "",
+    "Memo": ""
   }
 ]

@@ -7750,5 +7750,39 @@
     "StoryItem": false,
     "Weight": 3.0,
     "Description": ""
+  },
+  {
+    "ID": 457,
+    "Name": "Jabberwock Scales",
+    "DisplayName": "Jabberwock Scales",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Skin",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 1750,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 30.0,
+    "Description": ""
+  },
+  {
+    "ID": 458,
+    "Name": "Tormentor",
+    "DisplayName": "Tormentor",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Falchion",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 16000,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 8.0,
+    "Description": "+5\n-1 saving throws when hit\n-2 against curse(stack)"
   }
 ]

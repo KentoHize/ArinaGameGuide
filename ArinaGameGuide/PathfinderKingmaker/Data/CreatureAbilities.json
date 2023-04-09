@@ -2833,5 +2833,23 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 317,
+    "Creature": "Spawn of Rovagug",
+    "Ability": "Power Attack",
+    "Amount": 15,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 318,
+    "Creature": "Tree That Weep",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

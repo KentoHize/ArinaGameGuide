@@ -1510,5 +1510,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 109,
+    "Name": "Tenebrous Depth XVI Treasure A",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Tenebrous Depth XVI",
+    "Position": "North West",
+    "ItemStack": "Tenebrous Depth XVI Treasure A",
+    "PerceptionDC": null,
+    "TrapDC": 25,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

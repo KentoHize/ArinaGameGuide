@@ -988,5 +988,41 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 113,
+    "Creature": "Spawn of Rovagug",
+    "EffectOrCondition": "Freedom of Movement",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 114,
+    "Creature": "Spawn of Rovagug",
+    "EffectOrCondition": "Fast Healing",
+    "Amount": 20,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 115,
+    "Creature": "Spawn of Rovagug",
+    "EffectOrCondition": "True Seeing",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 116,
+    "Creature": "Ancient Will-o'-wisp",
+    "EffectOrCondition": "Spell",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

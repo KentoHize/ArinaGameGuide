@@ -2902,5 +2902,29 @@
     "Position": "North West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 364,
+    "Name": "Tenebrous Depth XVI Group F",
+    "Place": "Tenebrous Depth XVI",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 365,
+    "Name": "Spawn of Rovagug",
+    "Place": "Tenebrous Depth XVI",
+    "Position": "Deep Floor 1",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 366,
+    "Name": "Weeping Grove Group A",
+    "Place": "Weeping Grove",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

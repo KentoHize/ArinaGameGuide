@@ -7022,5 +7022,21 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 881,
+    "ItemStack": "Tenebrous Depth XVI Treasure A",
+    "Item": "Tormentor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 882,
+    "ItemStack": "Tenebrous Depth XVI Treasure A",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 6,
+    "RandomQuantity": null
   }
 ]

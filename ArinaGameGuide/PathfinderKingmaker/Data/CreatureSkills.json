@@ -3166,5 +3166,59 @@
     "Creature": "Lesser Jabberwock",
     "Skill": "Stealth",
     "Bonus": 23
+  },
+  {
+    "ID": 530,
+    "Creature": "Ankou",
+    "Skill": "Persuasion",
+    "Bonus": 27
+  },
+  {
+    "ID": 531,
+    "Creature": "Ankou",
+    "Skill": "Athletics",
+    "Bonus": 24
+  },
+  {
+    "ID": 532,
+    "Creature": "Ankou",
+    "Skill": "Stealth",
+    "Bonus": 24
+  },
+  {
+    "ID": 533,
+    "Creature": "Tree That Weep",
+    "Skill": "Perception",
+    "Bonus": 41
+  },
+  {
+    "ID": 534,
+    "Creature": "Tree That Weep",
+    "Skill": "Stealth",
+    "Bonus": 27
+  },
+  {
+    "ID": 535,
+    "Creature": "Ancient Will-o'-wisp",
+    "Skill": "Mobility",
+    "Bonus": 30
+  },
+  {
+    "ID": 536,
+    "Creature": "Ancient Will-o'-wisp",
+    "Skill": "Persuasion",
+    "Bonus": 23
+  },
+  {
+    "ID": 537,
+    "Creature": "Ancient Will-o'-wisp",
+    "Skill": "Perception",
+    "Bonus": 28
+  },
+  {
+    "ID": 538,
+    "Creature": "Ancient Will-o'-wisp",
+    "Skill": "Stealth",
+    "Bonus": 54
   }
 ]
