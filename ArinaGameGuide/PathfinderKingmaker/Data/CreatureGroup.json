@@ -2822,5 +2822,21 @@
     "Position": "East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 354,
+    "Name": "Tenebrous Depth XV Group A",
+    "Place": "Tenebrous Depth XV",
+    "Position": "South East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 355,
+    "Name": "Tenebrous Depth XV Group B",
+    "Place": "Tenebrous Depth XV",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

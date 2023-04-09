@@ -7648,5 +7648,22 @@
     "StoryItem": false,
     "Weight": 10.0,
     "Description": ""
+  },
+  {
+    "ID": 451,
+    "Name": "Philosopher's hat",
+    "DisplayName": "Philosopher's hat",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Helmet",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 17500,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": "+4 Int, Wis, Cha\n5/melee"
   }
 ]

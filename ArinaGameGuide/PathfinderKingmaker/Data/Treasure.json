@@ -1496,5 +1496,19 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 108,
+    "Name": "Tenebrous Depth XV Treasure A",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Tenebrous Depth XV",
+    "Position": "East",
+    "ItemStack": "Tenebrous Depth XV Treasure A",
+    "PerceptionDC": null,
+    "TrapDC": 25,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

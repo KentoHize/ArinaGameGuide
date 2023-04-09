@@ -6958,5 +6958,21 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 873,
+    "ItemStack": "Tenebrous Depth XV Treasure A",
+    "Item": "Philosopher's hat",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 874,
+    "ItemStack": "Tenebrous Depth XV Treasure A",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 5,
+    "RandomQuantity": null
   }
 ]

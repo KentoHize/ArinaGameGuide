@@ -2307,6 +2307,21 @@
     "HardSpotLevelMax": null,
     "HasPlot": false,
     "Description": "",
-    "Memo": ""
+    "Memo": "Lore(Nature) 19"
+  },
+  {
+    "ID": 156,
+    "Name": "Tenebrous Depth XV",
+    "DisplayName": "Tenebrous Depth XV",
+    "CName": "",
+    "Type": "Dungeon",
+    "Region": null,
+    "SuggestedLevelMin": 16,
+    "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "Lore(Religion 19)"
   }
 ]

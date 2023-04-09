@@ -1774,5 +1774,17 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 155,
+    "Name": "Tenebrous Depth XV Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Tenebrous Depth XV",
+    "DisarmDC": 30,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]
