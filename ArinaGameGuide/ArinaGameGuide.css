@@ -4,8 +4,7 @@
 }
 
 .main {
-   margin: 30px;
-   width: 1020px;
+   margin: 30px;   
 }
 
 .indexLeft {
@@ -15,8 +14,8 @@
     overflow: auto;    
 }
 
-.indexMain {    
-    margin-left: 20px;
-    width: 700px;
-    float:left;
+.indexMain {
+    margin-left: 20px;    
+    float: left;
+    overflow: auto;
 }

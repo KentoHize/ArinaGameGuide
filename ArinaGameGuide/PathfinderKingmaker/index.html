@@ -20,11 +20,10 @@
 
         <a id="placeTag" href="#">Place</a>
     </header>
-    <div class="main">
-
-        <div id="index" class="indexLeft">
+    <div id="main" class="main">
+        <div id="index" class="indexLeft">            
         </div>
-        <div id="main" class="indexMain">
+        <div id="innerMain" class="indexMain">
         </div>
     </div>
     <footer></footer>
@@ -35,12 +34,14 @@
         document.getElementById('placeTag').addEventListener("click",
             () => loadDataIndex(document,
                 document.getElementById(`index`),
-                document.getElementById(`main`),
+                document.getElementById(`innerMain`),
                 'PathfinderKingmaker', 'Place',
-                "ID", null, "Name"));
+                "Name", null, "Name"));
         
         //document.getElementById("index").height = window.innerHeight - 200;
         document.getElementById("index").setAttribute(`style`, `height:${window.innerHeight - 200}px`)
+        document.getElementById("innerMain").setAttribute(`style`, `height:${window.innerHeight - 200}px; width: ${ window.innerWidth - 360 }px`)
+        document.getElementById("main").setAttribute(`style`, `width:${window.innerWidth - 40}px`)
         
         //= "height:" + window.innerHeight - 200 + "px";
         //alert(document.getElementById("index").style);
