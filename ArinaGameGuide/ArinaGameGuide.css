@@ -26,3 +26,9 @@
     border-width:1px;
     border-style:solid;
 }
+
+.divTopBar {
+    height:30px;
+    padding:3px;
+    overflow:auto;
+}

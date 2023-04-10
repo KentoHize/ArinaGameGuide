@@ -14,7 +14,7 @@ export function loadDataIndex(document, indexDiv, contentDiv, pageName, dataName
             for (let i = 0; i < d.length; i++) {
                 let child = document.createElement(`div`);
                 let a = document.createElement(`a`);
-                a.href = `#`;
+                a.href = `javascript:;`;
                 a.textContent = d[i][nameId];
                 if (id2)
                     a.addEventListener("click",
