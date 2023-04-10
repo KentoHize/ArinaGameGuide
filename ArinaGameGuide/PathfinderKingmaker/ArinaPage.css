@@ -11,12 +11,6 @@ p {
     margin-block-end: 0;
 }
 
-.indexMain {
-    text-align: center;
-    margin: auto;
-    width: 300px;
-}
-
 @media screen and (min-width: 600px) {
     .indexMain {
         width: 500px;

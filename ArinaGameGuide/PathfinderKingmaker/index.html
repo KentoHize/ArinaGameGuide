@@ -5,50 +5,46 @@
     <title></title>
     <link rel="stylesheet" href="ArinaPage.css">
     <link rel="stylesheet" href="../ArinaGameGuide.css">
+    <!--<script type="module" src="../ArinaGameGuide.js"></script>-->
     <!--<script src="../js/Ansrabrar.js"></script>-->
     <!--<script src="../js/Characters/Heroes/Riana.js"></script>-->
 </head>
 <body>
     <div style="text-align:center">
-        <h3>Pathfinder: Kingmaker 攻略網頁</h3>
+        <h3>Pathfinder: Kingmaker 資料區</h3>
     </div>
     <br />
-    <div class="indexMain">
-        <a href="javascript:loadCompanion()">Companion</a>
+    <header class="header"><!--  -->
+        <!--<a href="javascript:loadPage('place', 'index');">Place</a>-->
+        <!--<a href="#" onclick="javascript:loadPage('place', 'index')">Place</a>-->
+
+        <a id="placeTag" href="#">Place</a>
+    </header>
+    <div class="main">
+
+        <div id="index" class="indexLeft">
+        </div>
+        <div id="main" class="indexMain">
+        </div>
     </div>
-    <div id="main" class="main"></div>
-
+    <footer></footer>
     <script type="module">
-        import { Doc, Div } from "../js/Ansrabrar.js";
-        import { Riana } from "../js/Characters/Heroes/Riana.js";
-        let doc = new Doc();
-        
-        var a = Riana.CreateDiv(doc, "aaa", 200, 200, false, false, doc);
-        Riana.CreateText("aaa", a);
-        
-        document.addEventListener("DOMContentLoaded", function (event) {
-            doc.printTo(document);
-        });
-        
-        //Companion
-        function loadCompanion() {
-            var divMain = document.getElementById("main");
-            //var PData, BRData;
-            //var divMain = document.getElementById("main");
-            var xhttp = new XMLHttpRequest();
-            xhttp.responseType = 'html';
-            xhttp.open("GET", "Companion.html?v=" + Math.random(), true);
-            xhttp.onreadystatechange = function () {
-                if (this.readyState == 4 && this.status == 200) {
-                    var bodyContent = this.response.substring(this.response.indexOf("<body>") + 6);
-                    bodyContent = bodyContent.substring(0, bodyContent.indexOf("</body>"));
-                    //alert(bodyContent);
-                    divMain.innerHTML = bodyContent;
-                }
-            }
-            xhttp.send();
+        import { loadPage, loadDataIndex } from "../ArinaGameGuide.js";
+        //document.getElementById('placeTag').addEventListener("click",
+        //    () => loadPage('place', 'index'));
+        document.getElementById('placeTag').addEventListener("click",
+            () => loadDataIndex('PathfinderKingmaker', 'Place', 'index', document));
 
-        }
-    </script>
+        //import { Doc, Div } from "../js/Ansrabrar.js";
+        //import { Riana } from "../js/Characters/Heroes/Riana.js";
+        //let doc = new Doc();
+
+        //var a = Riana.CreateDiv(doc, "aaa", 200, 200, false, false, doc);
+        //Riana.CreateText("aaa", a);
+
+        //document.addEventListener("DOMContentLoaded", function (event) {
+        //    doc.printTo(document);
+        //});
+    </script>    
 </body>
 </html>
