@@ -1,15 +1,10 @@
 import { Unity } from "./Unity.js";
 
-//export async function Test() {
-//    let a = await import(`../Data/CreatureGroup.json`, { assert: { type: `json` } });
-//    let b = await import(`../Data/Trap.json`, { assert: { type: `json` } });
-//    alert(b.default);
-//}
+var data = [];
 
 export async function Initialize(div, id1, id2) {
-
+    data = [];
     Unity.RecordHistoryPage(`Place`, id1, id2);
-    let data = [];
 
     function findPosition(position) {
         if (position == null)
@@ -24,11 +19,15 @@ export async function Initialize(div, id1, id2) {
 
     //Creature Group
     let sdata = [];
+    let stages = [0];
     let cg = (await import(`../Data/CreatureGroup.json`, { assert: { type: `json` } })).default;
     
     for (let i = 0; i < cg.length; i++) {
         if (cg[i].Place == id1) {
             sdata.push({ cg: cg[i], cgc: [] });
+            if (cg[i].Stage != 0)
+                if (!stages.includes(cg[i].Stage))
+                    stages.push(cg[i].Stage);
         }
     }
 
@@ -75,43 +74,14 @@ export async function Initialize(div, id1, id2) {
         if (tr[i].Place == id1)
             findPosition(tr[i].Position).value.push({ type: `TR`, data: tr[i] });
 
-    ///Display
+    
     data.sort((a, b) => Unity.SortPosition(a.key, b.key));
-    let parent;
-    let child;
-    let child2;
-    let t;
-    //alert(data.length);
-    for (let i = 0; i < data.length; i++) {
-        if (data[i].key == `None`)
-            continue;
-        t = document.createTextNode(data[i].key);
-        div.appendChild(t);
-        for (let j = 0; j < data[i].value.length; j++) {
-            parent = document.createElement(`div`);
-            if (data[i].value[j].type == `CG`) {
-                parent.setAttribute(`class`, `divGroup1`);
-                for (let k = 0; k < data[i].value[j].data.cgc.length; k++) {
-                    child = document.createElement(`div`);
-                    child.textContent = data[i].value[j].data.cgc[k].Creature;
-                    parent.appendChild(child);
-                }
-            }
-            else if (data[i].value[j].type == `TS`) {
-                parent.setAttribute(`class`, `divGroup1`);
-                for (let k = 0; k < data[i].value[j].data.isi.length; k++) {
-                    child = document.createElement(`div`);
-                    child.textContent = 'T ' + data[i].value[j].data.isi[k].Item;                    
-                    parent.appendChild(child);
-                }
-            }
-            else {
-                parent.textContent = data[i].value[j].data.Type + `  DC:` + data[i].value[j].data.DisarmDC;
-            }
+    stages.sort();
+    ///Display
+    DisplayDetail(`mainDiv`, id1, stages);
+    
+    
 
-            div.appendChild(parent);
-        }
-    }
     //    if (i == 0 || data[i].Position != data[i - 1].Position) {
     //        if (data[i].Position != null && data[i].Position != `None`) {
     //            let t = document.createTextNode(data[i].Position);
@@ -134,4 +104,59 @@ export async function Initialize(div, id1, id2) {
     //    parent.appendChild(child);
     //}
     ///Encounter
+}
+
+export function DisplayDetail(divID, id1, stages, stage = 0) {
+    let parent;
+    let child;
+    let div = document.getElementById(divID);
+    //let child2;
+    div.innerHTML = ``;
+    
+    let t;    
+    for (let i = 0; i < data.length; i++) {
+        if (data[i].key == `None`)
+            continue;
+        t = document.createTextNode(data[i].key);
+        div.appendChild(t);
+        for (let j = 0; j < data[i].value.length; j++) {
+            parent = document.createElement(`div`);
+            if (data[i].value[j].type == `CG` && data[i].value[j].data.cg.Stage == stage) {
+                parent.setAttribute(`class`, `divGroup1`);
+                for (let k = 0; k < data[i].value[j].data.cgc.length; k++) {
+                    child = document.createElement(`div`);
+                    child.textContent = data[i].value[j].data.cgc[k].Creature;
+                    parent.appendChild(child);
+                }
+            }
+            else if (data[i].value[j].type == `TS`) {
+                parent.setAttribute(`class`, `divGroup1`);
+                for (let k = 0; k < data[i].value[j].data.isi.length; k++) {
+                    child = document.createElement(`div`);
+                    child.textContent = 'T ' + data[i].value[j].data.isi[k].Item;
+                    parent.appendChild(child);
+                }
+            }
+            else if (data[i].value[j].type == `TR`) {
+                parent.textContent = data[i].value[j].data.Type + `  DC:` + data[i].value[j].data.DisarmDC;
+            }
+            div.appendChild(parent);
+        }
+    }
+
+    let stageDiv = document.getElementById(`stageDiv`);
+    stageDiv.innerHTML = ``;
+
+    t = document.createTextNode(id1 + `  `);    
+    stageDiv.appendChild(t);
+    //StagePanel
+    for (let i = 0; i < stages.length; i++) {
+        let aDiv = document.createElement(`a`);
+        aDiv.href = `javascript:;`;
+        //aDiv.href = `javascript:DisplayDetail(\'${divID}\', \'${id1}\', [${stages}], ${i});`;        
+        aDiv.textContent = i == 0 ? `S` : i;
+        aDiv.setAttribute(`style`, `margin-right:5px`);
+        aDiv.addEventListener(`click`, () => { DisplayDetail(divID, id1, stages, i) });
+        stageDiv.appendChild(aDiv);
+    }
 }

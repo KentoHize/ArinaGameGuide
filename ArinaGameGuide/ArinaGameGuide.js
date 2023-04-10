@@ -44,7 +44,7 @@ export function loadDataContent(div, pageName, dataName, id1, id2 = null) {
         if (this.readyState == 4 && this.status == 200) {
             var bodyContent = this.response.substring(this.response.indexOf("<body>") + 6);
             bodyContent = bodyContent.substring(0, bodyContent.lastIndexOf("</body>"));
-            div.innerHTML = bodyContent;            
+            div.innerHTML = bodyContent;
             import(`./` + pageName + `/js/` + dataName + `.js`).then(m => { m.Initialize(div, id1, id2); });
         }
     }
