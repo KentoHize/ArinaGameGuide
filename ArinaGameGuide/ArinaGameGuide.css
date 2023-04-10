@@ -5,19 +5,18 @@
 
 .main {
    margin: 30px;
-   width: 1000px;
+   width: 1020px;
 }
 
 .indexLeft {
-    width: 300px;    
-    /* height: stretch; */
+    width: 300px;
     margin-left: 0;
     float: left;
     overflow: auto;    
 }
 
 .indexMain {    
-    margin-left: 0;
+    margin-left: 20px;
     width: 700px;
     float:left;
 }
