@@ -29,11 +29,19 @@
     </div>
     <footer></footer>
     <script type="module">
-        import { loadPage, loadDataIndex } from "../ArinaGameGuide.js";
+        import { loadDataContent, loadDataIndex } from "../ArinaGameGuide.js";
         //document.getElementById('placeTag').addEventListener("click",
         //    () => loadPage('place', 'index'));
         document.getElementById('placeTag').addEventListener("click",
-            () => loadDataIndex('PathfinderKingmaker', 'Place', 'index', document));
+            () => loadDataIndex(document,
+                document.getElementById(`index`),
+                document.getElementById(`main`),
+                'PathfinderKingmaker', 'Place',
+                "ID", null, "Name"));
+
+        
+        //= "height:" + window.innerHeight - 200 + "px";
+        //alert(document.getElementById("index").style);
 
         //import { Doc, Div } from "../js/Ansrabrar.js";
         //import { Riana } from "../js/Characters/Heroes/Riana.js";
@@ -41,6 +49,7 @@
 
         //var a = Riana.CreateDiv(doc, "aaa", 200, 200, false, false, doc);
         //Riana.CreateText("aaa", a);
+        
 
         //document.addEventListener("DOMContentLoaded", function (event) {
         //    doc.printTo(document);

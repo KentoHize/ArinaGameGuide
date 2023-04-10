@@ -9,11 +9,11 @@
 }
 
 .indexLeft {
-    width: 300px;
-    height: fit-content;
+    width: 300px;    
+    /* height: stretch; */
     margin-left: 0;
     float: left;
-    overflow-x: auto;
+    overflow: auto;    
 }
 
 .indexMain {    
