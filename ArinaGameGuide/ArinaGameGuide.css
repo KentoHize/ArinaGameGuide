@@ -19,3 +19,10 @@
     float: left;
     overflow: auto;
 }
+
+.divGroup1 {
+    margin-bottom:3px;
+    display:block;
+    border-width:1px;
+    border-style:solid;
+}

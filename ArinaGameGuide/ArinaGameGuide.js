@@ -1,6 +1,10 @@
 //import { Doc, Div } from "./js/Ansrabrar.js";
 //import { Riana } from "./js/Characters/Heroes/Riana.js";
 
+function getDataPath(pageName, dataName) {
+    return "./" + pageName + "/Data/" + dataName + ".json";
+}
+
 export function loadDataIndex(document, indexDiv, contentDiv, pageName, dataName, id1, id2, nameId) {
     import(getDataPath(pageName, dataName), { assert: { type: 'json' } }).then(
         m => {
@@ -25,8 +29,7 @@ export function loadDataIndex(document, indexDiv, contentDiv, pageName, dataName
             }
 
             //doc.printTo(document, div);         
-        }
-    );
+        });
 }
 
 export function loadDataContent(div, pageName, dataName, id1, id2 = null) {    
@@ -48,6 +51,3 @@ export function loadDataContent(div, pageName, dataName, id1, id2 = null) {
     xhttp.send();
 }
 
-function getDataPath(pageName, dataName) {
-    return "./" + pageName + "/Data/" + dataName + ".json";
-}

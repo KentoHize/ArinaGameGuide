@@ -17,4 +17,9 @@ export class Unity {
         }
         throw `Sort Position Error`;
     }
+
+    static RecordHistoryPage(page, id1 = null, id2 = null, params = null)
+    {
+        Unity.HistoryPages.push({ page: page, id1: id1, id2: id2, params: params });
+    }
 }
