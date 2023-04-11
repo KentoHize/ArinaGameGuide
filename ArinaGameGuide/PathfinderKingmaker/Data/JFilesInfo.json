@@ -1659,7 +1659,7 @@
           "IsUnique": false
         },
         {
-          "Name": "Falt-FootedAC",
+          "Name": "Flat-FootedAC",
           "IsKey": false,
           "IsNullable": false,
           "Type": "Integer",
@@ -2842,7 +2842,7 @@
           "IsUnique": false
         },
         {
-          "Name": "CondtionGroup",
+          "Name": "ConditionGroup",
           "IsKey": false,
           "IsNullable": true,
           "Type": "String",

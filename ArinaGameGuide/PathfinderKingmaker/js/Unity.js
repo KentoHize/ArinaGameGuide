@@ -54,6 +54,11 @@ export class Unity {
         loadDataContent(div, Unity.PageName, target.page, target.id1, target.id2);
     }
 
+    //static RefreshBackForwardState()
+    //{
+
+    //}
+
     static GetAlginmentAcronym(alignment) {
         if (alignment == `Lawful Good`)
             return `LG`;

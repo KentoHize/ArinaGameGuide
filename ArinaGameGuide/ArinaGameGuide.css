@@ -1,29 +1,35 @@
-﻿.header{    
-    text-align:center;
+﻿* {
+    font-family: 'Times New Roman';
+    /*font-family:Consolas;*/
+    font-size: 20px;
+}
+
+.header {
+    text-align: center;
 }
 
 .main {
-   margin: 30px;   
+    margin: 30px;
 }
 
 .indexLeft {
     width: 300px;
     margin-left: 0;
     float: left;
-    overflow: auto;    
+    overflow: auto;
 }
 
 .indexMain {
-    margin-left: 20px;    
+    margin-left: 20px;
     float: left;
     overflow: auto;
 }
 
 .divGroup1 {
-    margin-bottom:3px;
-    display:block;
-    border-width:1px;
-    border-style:solid;
+    margin-bottom: 3px;
+    display: block;
+    border-width: 1px;
+    border-style: solid;
 }
 
 .divTopBar {
@@ -36,10 +42,28 @@
 
 .backLink {
     margin-left: 20px;
-    float:left;
+    float: left;
 }
 
 .forwardLink {
     margin-right: 20px;
     float: right;
+}
+
+.floatTable {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    float: left;
+    border-width: 1px;
+    border-style: solid;
+}
+
+    .floatTable th, td {
+        border-width: 1px;
+        border-style: solid;
+    }
+
+.floatDiv {
+    float: left;
 }

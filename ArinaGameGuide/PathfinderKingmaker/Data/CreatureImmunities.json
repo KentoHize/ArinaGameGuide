@@ -3,1404 +3,1404 @@
     "ID": 62,
     "Creature": "Acid-imbued Giant Slug",
     "Condition": null,
-    "CondtionGroup": "Vermin Immunities"
+    "ConditionGroup": "Vermin Immunities"
   },
   {
     "ID": 63,
     "Creature": "Acid-imbued Giant Slug",
     "Condition": "Prone",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 118,
     "Creature": "Ancient Soul Eater 12",
     "Condition": null,
-    "CondtionGroup": "Soul Eater Immunities"
+    "ConditionGroup": "Soul Eater Immunities"
   },
   {
     "ID": 119,
     "Creature": "Ancient Soul Eater 15",
     "Condition": null,
-    "CondtionGroup": "Soul Eater Immunities"
+    "ConditionGroup": "Soul Eater Immunities"
   },
   {
     "ID": 134,
     "Creature": "Ancient Water Elemental",
     "Condition": null,
-    "CondtionGroup": "Elemental Immunities"
+    "ConditionGroup": "Elemental Immunities"
   },
   {
     "ID": 9,
     "Creature": "Ancient Wyvern",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 10,
     "Creature": "Ancient Wyvern",
     "Condition": "Paralyzed",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 111,
     "Creature": "Anguished Barbarian Zombie",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 120,
     "Creature": "Astradaemon",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 121,
     "Creature": "Astradaemon",
     "Condition": "Death",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 112,
     "Creature": "Bloody Bones Beast",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 122,
     "Creature": "Cephal Lorentus",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 5,
     "Creature": "Doomspider",
     "Condition": "Web",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 94,
     "Creature": "Dread Zombie Cyclops",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 99,
     "Creature": "Dread Zombie Cyclops Priest",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 124,
     "Creature": "Dread Zombie Lord",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 113,
     "Creature": "Dugath",
     "Condition": null,
-    "CondtionGroup": "Boss Immunities"
+    "ConditionGroup": "Boss Immunities"
   },
   {
     "ID": 92,
     "Creature": "Elder Earth Elemental",
     "Condition": null,
-    "CondtionGroup": "Elemental Immunities"
+    "ConditionGroup": "Elemental Immunities"
   },
   {
     "ID": 108,
     "Creature": "Enervated Sorcerer Zombie",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 93,
     "Creature": "Ferocious Dread Zombie Cyclops",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 116,
     "Creature": "Ferocious Soul Eater",
     "Condition": null,
-    "CondtionGroup": "Soul Eater Immunities"
+    "ConditionGroup": "Soul Eater Immunities"
   },
   {
     "ID": 123,
     "Creature": "Ferocious Zombie Lord Axeman",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 61,
     "Creature": "Fionn",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 21,
     "Creature": "Ghost",
     "Condition": null,
-    "CondtionGroup": "Incorporeal Immunities"
+    "ConditionGroup": "Incorporeal Immunities"
   },
   {
     "ID": 23,
     "Creature": "Ghostly Guard",
     "Condition": null,
-    "CondtionGroup": "Incorporeal Immunities"
+    "ConditionGroup": "Incorporeal Immunities"
   },
   {
     "ID": 22,
     "Creature": "Ghostly Mage Guard",
     "Condition": null,
-    "CondtionGroup": "Incorporeal Immunities"
+    "ConditionGroup": "Incorporeal Immunities"
   },
   {
     "ID": 132,
     "Creature": "Golden Golem",
     "Condition": null,
-    "CondtionGroup": "Construct Immunities"
+    "ConditionGroup": "Construct Immunities"
   },
   {
     "ID": 12,
     "Creature": "Grag Linnorm",
     "Condition": "Grape",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 13,
     "Creature": "Grag Linnorm",
     "Condition": "Prone",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 14,
     "Creature": "Grag Linnorm",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 15,
     "Creature": "Grag Linnorm",
     "Condition": "Paralyzed",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 16,
     "Creature": "Grag Linnorm",
     "Condition": "Entangled",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 17,
     "Creature": "Grag Linnorm",
     "Condition": "Difficult Terrain",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 18,
     "Creature": "Grag Linnorm",
     "Condition": "Slowed",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 19,
     "Creature": "Grag Linnorm",
     "Condition": "Staggered",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 20,
     "Creature": "Grag Linnorm",
     "Condition": "Immobilized",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 43,
     "Creature": "Grag Linnorm 16 Dragon",
     "Condition": "Grape",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 44,
     "Creature": "Grag Linnorm 16 Dragon",
     "Condition": "Prone",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 45,
     "Creature": "Grag Linnorm 16 Dragon",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 46,
     "Creature": "Grag Linnorm 16 Dragon",
     "Condition": "Paralyzed",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 47,
     "Creature": "Grag Linnorm 16 Dragon",
     "Condition": "Entangled",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 48,
     "Creature": "Grag Linnorm 16 Dragon",
     "Condition": "Difficult Terrain",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 49,
     "Creature": "Grag Linnorm 16 Dragon",
     "Condition": "Slowed",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 50,
     "Creature": "Grag Linnorm 16 Dragon",
     "Condition": "Staggered",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 51,
     "Creature": "Grag Linnorm 16 Dragon",
     "Condition": "Immobilized",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 115,
     "Creature": "Greater Dread Zombie Cyclops",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 73,
     "Creature": "Greater Tatzlwyrm",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 74,
     "Creature": "Greater Tatzlwyrm",
     "Condition": "Paralyzed",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 127,
     "Creature": "Greater Zombie Lord",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 131,
     "Creature": "Greater Zombie Lord Axeman",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 130,
     "Creature": "Greater Zombie Lord Spearman",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 110,
     "Creature": "Hopeless Cleric Zombie",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 2,
     "Creature": "Hydra",
     "Condition": "Prone",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 133,
     "Creature": "Iron Golem",
     "Condition": null,
-    "CondtionGroup": "Construct Immunities"
+    "ConditionGroup": "Construct Immunities"
   },
   {
     "ID": 31,
     "Creature": "Lady of Shallows",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 32,
     "Creature": "Lady of Shallows",
     "Condition": "Difficult Terrain",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 64,
     "Creature": "Matsero Janush",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 65,
     "Creature": "Matsero Janush",
     "Condition": "Death",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 66,
     "Creature": "Matsero Janush",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 67,
     "Creature": "Matsero Janush",
     "Condition": "ability score damage",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 68,
     "Creature": "Matsero Janush",
     "Condition": "drain",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 69,
     "Creature": "Matsero Janush",
     "Condition": "Spell - Magic Missile",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 70,
     "Creature": "Matsero Janush",
     "Condition": "Petrified",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 71,
     "Creature": "Moray",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 72,
     "Creature": "Moray",
     "Condition": "Difficult Terrain",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 76,
     "Creature": "Morhalan",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 77,
     "Creature": "Morhalan",
     "Condition": "Death",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 78,
     "Creature": "Morhalan",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 79,
     "Creature": "Morhalan",
     "Condition": "ability score damage",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 80,
     "Creature": "Morhalan",
     "Condition": "drain",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 81,
     "Creature": "Morhalan",
     "Condition": "Spell - Magic Missile",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 82,
     "Creature": "Morhalan",
     "Condition": "Petrified",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 60,
     "Creature": "Nightmare Skeleton Soldier",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 128,
     "Creature": "Nightmare Zombie Lord",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 126,
     "Creature": "Nightmare Zombie Lord Spearman",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 41,
     "Creature": "Nixie Prankster",
     "Condition": "Difficult Terrain",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 83,
     "Creature": "Ntavi",
     "Condition": null,
-    "CondtionGroup": "Boss Immunities"
+    "ConditionGroup": "Boss Immunities"
   },
   {
     "ID": 52,
     "Creature": "Poacher Alchemist",
     "Condition": "Grape",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 53,
     "Creature": "Poacher Alchemist",
     "Condition": "Spell - Magic Missile",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 54,
     "Creature": "Poacher Alchemist",
     "Condition": "Paralyzed",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 55,
     "Creature": "Poacher Alchemist",
     "Condition": "Entangled",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 56,
     "Creature": "Poacher Alchemist",
     "Condition": "Difficult Terrain",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 57,
     "Creature": "Poacher Alchemist",
     "Condition": "Slowed",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 58,
     "Creature": "Poacher Alchemist",
     "Condition": "Staggered",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 59,
     "Creature": "Poacher Alchemist",
     "Condition": "Immobilized",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 114,
     "Creature": "Poisonous Hydra",
     "Condition": "Prone",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 42,
     "Creature": "Poisonous Primal Doomhydra",
     "Condition": "Prone",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 4,
     "Creature": "Primal Giant Spider",
     "Condition": "Web",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 6,
     "Creature": "Primal Spider Matriarch",
     "Condition": "Web",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 11,
     "Creature": "Purple Worm",
     "Condition": "Prone",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 1,
     "Creature": "Quickhydra",
     "Condition": "Prone",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 3,
     "Creature": "Quickspider",
     "Condition": "Web",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 7,
     "Creature": "Quickspider Swarm",
     "Condition": "Web",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 8,
     "Creature": "Quickspider Swarm",
     "Condition": "Mind-Affecting",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 75,
     "Creature": "Ravan Swarm",
     "Condition": null,
-    "CondtionGroup": "Swarm Immunities"
+    "ConditionGroup": "Swarm Immunities"
   },
   {
     "ID": 95,
     "Creature": "Restless Spectre",
     "Condition": null,
-    "CondtionGroup": "Incorporeal Immunities"
+    "ConditionGroup": "Incorporeal Immunities"
   },
   {
     "ID": 96,
     "Creature": "Restless Spectre",
     "Condition": "Prone",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 117,
     "Creature": "Soul Eater",
     "Condition": null,
-    "CondtionGroup": "Soul Eater Immunities"
+    "ConditionGroup": "Soul Eater Immunities"
   },
   {
     "ID": 106,
     "Creature": "Spectre",
     "Condition": null,
-    "CondtionGroup": "Incorporeal Immunities"
+    "ConditionGroup": "Incorporeal Immunities"
   },
   {
     "ID": 107,
     "Creature": "Surrenedered Fighter Zombie",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 24,
     "Creature": "The Fallen Priestess",
     "Condition": "Grape",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 25,
     "Creature": "The Fallen Priestess",
     "Condition": "Paralyzed",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 26,
     "Creature": "The Fallen Priestess",
     "Condition": "Entangled",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 27,
     "Creature": "The Fallen Priestess",
     "Condition": "Difficult Terrain",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 28,
     "Creature": "The Fallen Priestess",
     "Condition": "Slowed",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 29,
     "Creature": "The Fallen Priestess",
     "Condition": "Staggered",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 30,
     "Creature": "The Fallen Priestess",
     "Condition": "Immobilized",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 98,
     "Creature": "Thick-skinned Dread Zombie Cyclops",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 84,
     "Creature": "Thundervine",
     "Condition": "Mind-Affecting",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 85,
     "Creature": "Thundervine",
     "Condition": "Compulsion",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 86,
     "Creature": "Thundervine",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 87,
     "Creature": "Thundervine",
     "Condition": "Charmed",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 88,
     "Creature": "Thundervine",
     "Condition": "Stunned",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 89,
     "Creature": "Thundervine",
     "Condition": "Polymorph",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 90,
     "Creature": "Thundervine",
     "Condition": "Paralyzed",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 91,
     "Creature": "Thundervine",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 109,
     "Creature": "Unlucky Ranger Zombie",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 135,
     "Creature": "Vordakai",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 136,
     "Creature": "Vordakai's Raven",
     "Condition": "Fear",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 137,
     "Creature": "Vordakai's Raven",
     "Condition": "Frightened",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 129,
     "Creature": "Willas Gunderson",
     "Condition": null,
-    "CondtionGroup": "Incorporeal Immunities"
+    "ConditionGroup": "Incorporeal Immunities"
   },
   {
     "ID": 125,
     "Creature": "Zombie",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 97,
     "Creature": "Zombie Cyclops",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 100,
     "Creature": "Barbarian 10 Druid",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 101,
     "Creature": "Quickwood",
     "Condition": null,
-    "CondtionGroup": "Plant Immunities"
+    "ConditionGroup": "Plant Immunities"
   },
   {
     "ID": 102,
     "Creature": "Shambling Mound",
     "Condition": null,
-    "CondtionGroup": "Plant Immunities"
+    "ConditionGroup": "Plant Immunities"
   },
   {
     "ID": 103,
     "Creature": "Giant Flytrap",
     "Condition": null,
-    "CondtionGroup": "Plant Immunities"
+    "ConditionGroup": "Plant Immunities"
   },
   {
     "ID": 104,
     "Creature": "Primal Shambling Mound",
     "Condition": null,
-    "CondtionGroup": "Plant Immunities"
+    "ConditionGroup": "Plant Immunities"
   },
   {
     "ID": 105,
     "Creature": "Stone Golem",
     "Condition": null,
-    "CondtionGroup": "Construct Immunities"
+    "ConditionGroup": "Construct Immunities"
   },
   {
     "ID": 138,
     "Creature": "Defaced Sister 20",
     "Condition": "Difficult Terrain",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 139,
     "Creature": "Ferocious Devourer 21",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 140,
     "Creature": "Dreadful Soul Eater",
     "Condition": null,
-    "CondtionGroup": "Soul Eater Immunities"
+    "ConditionGroup": "Soul Eater Immunities"
   },
   {
     "ID": 141,
     "Creature": "Skillfully Crafted Stone Golem",
     "Condition": null,
-    "CondtionGroup": "Construct Immunities"
+    "ConditionGroup": "Construct Immunities"
   },
   {
     "ID": 142,
     "Creature": "Agile Zombie",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 143,
     "Creature": "Thick-skinned 29 Dread Zombie Cyclops",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 144,
     "Creature": "Sturdy Zombie",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 145,
     "Creature": "Zombie 6",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 146,
     "Creature": "Greater Skeletal Champion",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 147,
     "Creature": "Ferocious Skeletal Champion",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 148,
     "Creature": "Greater Earth Elemental",
     "Condition": null,
-    "CondtionGroup": "Elemental Immunities"
+    "ConditionGroup": "Elemental Immunities"
   },
   {
     "ID": 149,
     "Creature": "Greater Fire Elemental",
     "Condition": null,
-    "CondtionGroup": "Elemental Immunities"
+    "ConditionGroup": "Elemental Immunities"
   },
   {
     "ID": 150,
     "Creature": "Nightmare Skeletal Champion Archer",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 151,
     "Creature": "Ferocious Skeletal Champion Archer",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 152,
     "Creature": "Greater Air Elemental",
     "Condition": null,
-    "CondtionGroup": "Elemental Immunities"
+    "ConditionGroup": "Elemental Immunities"
   },
   {
     "ID": 153,
     "Creature": "Armag with Ancient Armag's Sword",
     "Condition": null,
-    "CondtionGroup": "Boss Immunities"
+    "ConditionGroup": "Boss Immunities"
   },
   {
     "ID": 154,
     "Creature": "Armag with Ancient Armag's Sword",
     "Condition": "Spell - Magic Missile",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 155,
     "Creature": "Sorcerer Medusa",
     "Condition": "Spell - Magic Missile",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 156,
     "Creature": "Watchful Omen",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 157,
     "Creature": "Watchful Omen",
     "Condition": "Death",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 158,
     "Creature": "Skillfully Crafted Iron Golem",
     "Condition": null,
-    "CondtionGroup": "Construct Immunities"
+    "ConditionGroup": "Construct Immunities"
   },
   {
     "ID": 159,
     "Creature": "Druid 10 Druid",
     "Condition": "Disease",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 160,
     "Creature": "Druid 10 Druid",
     "Condition": "Nauseated",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 161,
     "Creature": "Quickwood 14",
     "Condition": null,
-    "CondtionGroup": "Plant Immunities"
+    "ConditionGroup": "Plant Immunities"
   },
   {
     "ID": 162,
     "Creature": "Duergar Defender",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 163,
     "Creature": "Iron Fury Duergar",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 164,
     "Creature": "Duergar Geokineticist Initiate",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 165,
     "Creature": "Elite Duergar Defender",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 166,
     "Creature": "Duergar Tyrant Archshaman",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 167,
     "Creature": "Duergar Tyrant Archshaman",
     "Condition": "Disease",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 168,
     "Creature": "Duergar Tyrant Archshaman",
     "Condition": "Nauseated",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 169,
     "Creature": "Duergar Geokineticist",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 170,
     "Creature": "Steel Fury Duergar",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 171,
     "Creature": "Duergar Shaman",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 172,
     "Creature": "Elder Fire Elemental",
     "Condition": null,
-    "CondtionGroup": "Elemental Immunities"
+    "ConditionGroup": "Elemental Immunities"
   },
   {
     "ID": 173,
     "Creature": "Water Mephit",
     "Condition": "Stinking Cloud",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 174,
     "Creature": "Huge Fire Elemental",
     "Condition": null,
-    "CondtionGroup": "Elemental Immunities"
+    "ConditionGroup": "Elemental Immunities"
   },
   {
     "ID": 175,
     "Creature": "Greater Skeletal Champion Berserker",
     "Condition": null,
-    "CondtionGroup": "Undead Immunities"
+    "ConditionGroup": "Undead Immunities"
   },
   {
     "ID": 176,
     "Creature": "Ghostly Mage Guard 16",
     "Condition": null,
-    "CondtionGroup": "Incorporeal Immunities"
+    "ConditionGroup": "Incorporeal Immunities"
   },
   {
     "ID": 177,
     "Creature": "Poisonous Primal Hydra",
     "Condition": "Prone",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 178,
     "Creature": "Poisonous Shambling Mound",
     "Condition": null,
-    "CondtionGroup": "Plant Immunities"
+    "ConditionGroup": "Plant Immunities"
   },
   {
     "ID": 179,
     "Creature": "The Wicked Chanter",
     "Condition": "Fear",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 180,
     "Creature": "The Wicked Chanter",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 181,
     "Creature": "Hellknight of the Rack 10 Elf Wizard",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 182,
     "Creature": "Hellknight of the Rack 10 Cleric",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 183,
     "Creature": "Hellknight of the Rack 10 Cleric Boss",
     "Condition": "Fear",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 184,
     "Creature": "Hellknight of the Rack 10 Cleric Boss",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 185,
     "Creature": "Large of Fire Elemental",
     "Condition": null,
-    "CondtionGroup": "Elemental Immunities"
+    "ConditionGroup": "Elemental Immunities"
   },
   {
     "ID": 186,
     "Creature": "Leafless Lady",
     "Condition": "Fear",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 187,
     "Creature": "Enneo",
     "Condition": null,
-    "CondtionGroup": "Boss Immunities"
+    "ConditionGroup": "Boss Immunities"
   },
   {
     "ID": 188,
     "Creature": "Mercenary 9 Half-Elf Fighter",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 189,
     "Creature": "Erinyes Devil",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 190,
     "Creature": "Adamantine Golem",
     "Condition": null,
-    "CondtionGroup": "Construct Immunities"
+    "ConditionGroup": "Construct Immunities"
   },
   {
     "ID": 191,
     "Creature": "Mandragora Swarm",
     "Condition": null,
-    "CondtionGroup": "Swarm Immunities"
+    "ConditionGroup": "Swarm Immunities"
   },
   {
     "ID": 192,
     "Creature": "Immense Mandragora",
     "Condition": null,
-    "CondtionGroup": "Plant Immunities"
+    "ConditionGroup": "Plant Immunities"
   },
   {
     "ID": 193,
     "Creature": "Primal Treant",
     "Condition": null,
-    "CondtionGroup": "Plant Immunities"
+    "ConditionGroup": "Plant Immunities"
   },
   {
     "ID": 194,
     "Creature": "Patient Shadow",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 195,
     "Creature": "Patient Shadow",
     "Condition": "Death",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 196,
     "Creature": "Skillfully Crafted Golden Golem",
     "Condition": null,
-    "CondtionGroup": "Construct Immunities"
+    "ConditionGroup": "Construct Immunities"
   },
   {
     "ID": 197,
     "Creature": "Siroket",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 198,
     "Creature": "Siroket",
     "Condition": "Trip",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 199,
     "Creature": "Siroket",
     "Condition": "Difficult Terrain",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 200,
     "Creature": "Siroket",
     "Condition": "Prone",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 201,
     "Creature": "Erinyes Devil 14",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 202,
     "Creature": "Nortellara",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 203,
     "Creature": "Nortellara",
     "Condition": "Death",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 204,
     "Creature": "Nortellara",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 205,
     "Creature": "Nortellara",
     "Condition": "ability score damage",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 206,
     "Creature": "Nortellara",
     "Condition": "drain",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 207,
     "Creature": "Nortellara",
     "Condition": "Petrified",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 208,
     "Creature": "Elf 8 Fighter",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 209,
     "Creature": "Elf 10 Archer",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 210,
     "Creature": "Elf 8 Sorcerer",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 211,
     "Creature": "Elf 8 Sorcerer",
     "Condition": "Spell - Magic Missile",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 212,
     "Creature": "Elf 7 Wizard",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 213,
     "Creature": "Elf 9 Rogue",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 214,
     "Creature": "Elf 9 Bard",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 215,
     "Creature": "Elf 7 Lawful Wizard",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 216,
     "Creature": "Elf 7 Lawful Wizard",
     "Condition": "Spell - Magic Missile",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 217,
     "Creature": "Elf 9 LC Bard",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 218,
     "Creature": "Bandit 14 Achlemist",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 219,
     "Creature": "Autumn Golem",
     "Condition": null,
-    "CondtionGroup": "Plant Immunities"
+    "ConditionGroup": "Plant Immunities"
   },
   {
     "ID": 221,
     "Creature": "Autumn Golem",
     "Condition": "Spell - Baleful Polymorph",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 222,
     "Creature": "Greater Athach",
     "Condition": "Spell - Magic Missile",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 223,
     "Creature": "Poisonous Giant Flytrap",
     "Condition": null,
-    "CondtionGroup": "Plant Immunities"
+    "ConditionGroup": "Plant Immunities"
   },
   {
     "ID": 224,
     "Creature": "Poisonous Giant Flytrap",
     "Condition": "Spell - Baleful Polymorph",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 225,
     "Creature": "The Captive",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 226,
     "Creature": "The Captive",
     "Condition": "Death",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 227,
     "Creature": "The Captive",
     "Condition": "ability score damage",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 228,
     "Creature": "The Captive",
     "Condition": "drain",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 229,
     "Creature": "The Captive",
     "Condition": "Petrified",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 230,
     "Creature": "The Captor",
     "Condition": "Spell - Magic Missile",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 231,
     "Creature": "Lesser Jabberwock",
     "Condition": null,
-    "CondtionGroup": "Dragon Immunities"
+    "ConditionGroup": "Dragon Immunities"
   },
   {
     "ID": 232,
     "Creature": "Ankou",
     "Condition": "Spell - Prismatic Spray",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 233,
     "Creature": "Spawn of Rovagug",
     "Condition": "Mind-Affecting",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 234,
     "Creature": "Spawn of Rovagug",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 235,
     "Creature": "Spawn of Rovagug",
     "Condition": "Polymorph",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 236,
     "Creature": "Spawn of Rovagug",
     "Condition": "Petrified",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 237,
     "Creature": "Spawn of Rovagug",
     "Condition": "Spell - Baleful Polymorph",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 238,
     "Creature": "Spawn of Rovagug",
     "Condition": "Sleep",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 239,
     "Creature": "Spawn of Rovagug",
     "Condition": "Prone",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 240,
     "Creature": "Tree That Weep",
     "Condition": null,
-    "CondtionGroup": "Plant Immunities"
+    "ConditionGroup": "Plant Immunities"
   },
   {
     "ID": 241,
     "Creature": "Tree That Weep",
     "Condition": "Spell - Baleful Polymorph",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 242,
     "Creature": "Wererat 12 Alchemist",
     "Condition": "Poison",
-    "CondtionGroup": null
+    "ConditionGroup": null
   },
   {
     "ID": 243,
     "Creature": "Gardener",
     "Condition": "Difficult Terrain",
-    "CondtionGroup": null
+    "ConditionGroup": null
   }
 ]

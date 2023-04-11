@@ -2023,7 +2023,7 @@
     "Range": 6,
     "AddtionalAttack": 0,
     "AttackBonus": 19,
-    "Weapon": "Greataxe +1",
+    "Weapon": null,
     "BasicDamage": "1d8",
     "DamageAdditiveBonus": 10,
     "OtherDamageBonus": null,
