@@ -1335,7 +1335,7 @@
           "IsUnique": false
         },
         {
-          "Name": "Initialive",
+          "Name": "Initiative",
           "IsKey": false,
           "IsNullable": false,
           "Type": "Integer",

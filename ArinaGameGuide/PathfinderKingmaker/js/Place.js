@@ -1,18 +1,16 @@
 import { Unity } from "./Unity.js";
 
-var data = [];
-
 export async function Initialize(div, id1, id2) {
-    data = [];
+    Unity.Data = [];
     Unity.RecordHistoryPage(`Place`, id1, id2);
 
     function findPosition(position) {
         if (position == null)
             position = `None`;
-        let target = data.find(m => m.key == position);
+        let target = Unity.Data.find(m => m.key == position);
         if (target == undefined) {
             target = { key: position, value: [] };
-            data.push(target);
+            Unity.Data.push(target);
         }
         return target;
     }
@@ -75,7 +73,7 @@ export async function Initialize(div, id1, id2) {
             findPosition(tr[i].Position).value.push({ type: `TR`, data: tr[i] });
 
     
-    data.sort((a, b) => Unity.SortPosition(a.key, b.key));
+    Unity.Data.sort((a, b) => Unity.SortPosition(a.key, b.key));
     stages.sort();
     ///Display
     DisplayDetail(`mainDiv`, id1, stages);
@@ -109,36 +107,35 @@ export async function Initialize(div, id1, id2) {
 export function DisplayDetail(divID, id1, stages, stage = 0) {
     let parent;
     let child;
-    let div = document.getElementById(divID);
-    //let child2;
+    let div = document.getElementById(divID);    
     div.innerHTML = ``;
     
     let t;    
-    for (let i = 0; i < data.length; i++) {
-        if (data[i].key == `None`)
+    for (let i = 0; i < Unity.Data.length; i++) {
+        if (Unity.Data[i].key == `None`)
             continue;
-        t = document.createTextNode(data[i].key);
+        t = document.createTextNode(Unity.Data[i].key);
         div.appendChild(t);
-        for (let j = 0; j < data[i].value.length; j++) {
+        for (let j = 0; j < Unity.Data[i].value.length; j++) {
             parent = document.createElement(`div`);
-            if (data[i].value[j].type == `CG` && data[i].value[j].data.cg.Stage == stage) {
+            if (Unity.Data[i].value[j].type == `CG` && Unity.Data[i].value[j].data.cg.Stage == stage) {
                 parent.setAttribute(`class`, `divGroup1`);
-                for (let k = 0; k < data[i].value[j].data.cgc.length; k++) {
+                for (let k = 0; k < Unity.Data[i].value[j].data.cgc.length; k++) {
                     child = document.createElement(`div`);
-                    child.textContent = data[i].value[j].data.cgc[k].Creature;
+                    child.textContent = Unity.Data[i].value[j].data.cgc[k].Creature;
                     parent.appendChild(child);
                 }
             }
-            else if (data[i].value[j].type == `TS`) {
+            else if (Unity.Data[i].value[j].type == `TS`) {
                 parent.setAttribute(`class`, `divGroup1`);
-                for (let k = 0; k < data[i].value[j].data.isi.length; k++) {
+                for (let k = 0; k < Unity.Data[i].value[j].data.isi.length; k++) {
                     child = document.createElement(`div`);
-                    child.textContent = 'T ' + data[i].value[j].data.isi[k].Item;
+                    child.textContent = 'T ' + Unity.Data[i].value[j].data.isi[k].Item;
                     parent.appendChild(child);
                 }
             }
-            else if (data[i].value[j].type == `TR`) {
-                parent.textContent = data[i].value[j].data.Type + `  DC:` + data[i].value[j].data.DisarmDC;
+            else if (Unity.Data[i].value[j].type == `TR`) {
+                parent.textContent = Unity.Data[i].value[j].data.Type + `  DC:` + Unity.Data[i].value[j].data.DisarmDC;
             }
             div.appendChild(parent);
         }

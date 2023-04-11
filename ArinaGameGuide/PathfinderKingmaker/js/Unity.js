@@ -1,5 +1,6 @@
 export class Unity {
     static HistoryPages = [];
+    static Data = [];
     static SortPosition(a, b)
     {
         const order = [null, `None`, `Center`, `East`, `South East`, `South`, `South West`, `West`, `North West`,
@@ -21,5 +22,27 @@ export class Unity {
     static RecordHistoryPage(page, id1 = null, id2 = null, params = null)
     {
         Unity.HistoryPages.push({ page: page, id1: id1, id2: id2, params: params });
+    }
+
+    static GetAlginmentAcronym(alignment) {
+        if (alignment == `Lawful Good`)
+            return `LG`;
+        else if (alignment == `Neutral Good`)
+            return `NG`;
+        else if (alignment == `Chaotic Good`)
+            return `CG`;
+        else if (alignment == `Lawful Neutral`)
+            return `LN`;
+        else if (alignment == `Neutral`)
+            return `N`;
+        else if (alignment == `Chaotic Neutral`)
+            return `CN`;
+        else if (alignment == `Lawful Evil`)
+            return `LE`;
+        else if (alignment == `Neutral Evil`)
+            return `NE`;
+        else if (alignment == `Chaotic Evil`)
+            return `CE`;
+        return null;
     }
 }

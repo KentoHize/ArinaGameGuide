@@ -18,7 +18,8 @@
         <!--<a href="javascript:loadPage('place', 'index');">Place</a>-->
         <!--<a href="#" onclick="javascript:loadPage('place', 'index')">Place</a>-->
 
-        <a id="placeTag" href="#">Place</a>
+        <a id="placeTag" href="javascript:;">Place</a>
+        <a id="creatureTag" href="javascript:;">Creature</a>
     </header>
     <div id="main" class="main">
         <div id="index" class="indexLeft">            
@@ -37,10 +38,17 @@
                 document.getElementById(`innerMain`),
                 'PathfinderKingmaker', 'Place',
                 "Name", null, "Name"));
+
+        document.getElementById('creatureTag').addEventListener("click",
+            () => loadDataIndex(document,
+                document.getElementById(`index`),
+                document.getElementById(`innerMain`),
+                'PathfinderKingmaker', 'Creature',
+                "Name", null, "Name"));
         
         //document.getElementById("index").height = window.innerHeight - 200;
-        document.getElementById("index").setAttribute(`style`, `height:${window.innerHeight - 200}px`)
-        document.getElementById("innerMain").setAttribute(`style`, `height:${window.innerHeight - 200}px; width: ${ window.innerWidth - 360 }px`)
+        document.getElementById("index").setAttribute(`style`, `height:${window.innerHeight - 100}px`)
+        document.getElementById("innerMain").setAttribute(`style`, `height:${window.innerHeight - 100}px; width: ${ window.innerWidth - 360 }px`)
         document.getElementById("main").setAttribute(`style`, `width:${window.innerWidth - 40}px`)
         
         //= "height:" + window.innerHeight - 200 + "px";
