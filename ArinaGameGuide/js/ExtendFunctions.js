@@ -31,7 +31,7 @@ class ExtendFunctions {
             return null;
         str = str[1].split('&');
         return str[0];
-    }
+    }    
 }
 
 Aritiafel.ExtendFunctions = ExtendFunctions;
