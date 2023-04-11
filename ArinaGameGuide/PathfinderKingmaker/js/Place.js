@@ -1,4 +1,5 @@
 import { Unity } from "./Unity.js";
+import { loadDataContent } from "../../ArinaGameGuide.js";
 
 export async function Initialize(div, id1, id2) {
     Unity.Data = [];
@@ -61,10 +62,8 @@ export async function Initialize(div, id1, id2) {
             a.isi.push(isi[i]);
     }
 
-    for (let i = 0; i < sdata.length; i++) {
-        console.log(sdata[i].ts.Name + ' ' + sdata[i].is.Name);
+    for (let i = 0; i < sdata.length; i++)         
         findPosition(sdata[i].ts.Position).value.push({ type: `TS`, data: sdata[i] });
-    }     
 
     //Trap    
     let tr = (await import(`../Data/Trap.json`, { assert: { type: `json` } })).default;
@@ -76,7 +75,7 @@ export async function Initialize(div, id1, id2) {
     Unity.Data.sort((a, b) => Unity.SortPosition(a.key, b.key));
     stages.sort();
     ///Display
-    DisplayDetail(`mainDiv`, id1, stages);
+    DisplayDetail(div, `mainDiv`, id1, stages);
     
     
 
@@ -104,9 +103,8 @@ export async function Initialize(div, id1, id2) {
     ///Encounter
 }
 
-export function DisplayDetail(divID, id1, stages, stage = 0) {
-    let parent;
-    let child;
+export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
+    let parent, child, child2;    
     let div = document.getElementById(divID);    
     div.innerHTML = ``;
     
@@ -122,7 +120,11 @@ export function DisplayDetail(divID, id1, stages, stage = 0) {
                 parent.setAttribute(`class`, `divGroup1`);
                 for (let k = 0; k < Unity.Data[i].value[j].data.cgc.length; k++) {
                     child = document.createElement(`div`);
-                    child.textContent = Unity.Data[i].value[j].data.cgc[k].Creature;
+                    child2 = document.createElement(`a`);
+                    child2.href = `javascript:;`;
+                    child2.addEventListener(`click`, () => { loadDataContent(mdiv, 'PathfinderKingmaker', 'Creature', Unity.Data[i].value[j].data.cgc[k].Creature); });
+                    child2.textContent = Unity.Data[i].value[j].data.cgc[k].Creature;
+                    child.appendChild(child2);
                     parent.appendChild(child);
                 }
             }
@@ -135,7 +137,10 @@ export function DisplayDetail(divID, id1, stages, stage = 0) {
                 }
             }
             else if (Unity.Data[i].value[j].type == `TR`) {
-                parent.textContent = Unity.Data[i].value[j].data.Type + `  DC:` + Unity.Data[i].value[j].data.DisarmDC;
+                if (Unity.Data[i].value[j].data.DisarmDC == null)
+                    parent.textContent = Unity.Data[i].value[j].data.Type;
+                else
+                    parent.textContent = Unity.Data[i].value[j].data.Type + `  DC:` + Unity.Data[i].value[j].data.DisarmDC;
             }
             div.appendChild(parent);
         }
@@ -144,7 +149,9 @@ export function DisplayDetail(divID, id1, stages, stage = 0) {
     let stageDiv = document.getElementById(`stageDiv`);
     stageDiv.innerHTML = ``;
 
-    t = document.createTextNode(id1 + `  `);    
+    t = document.createElement(`h`);
+    t.textContent = id1 + ` `;
+    //t = document.createTextNode(id1 + `  `);    
     stageDiv.appendChild(t);
     //StagePanel
     for (let i = 0; i < stages.length; i++) {
@@ -153,7 +160,7 @@ export function DisplayDetail(divID, id1, stages, stage = 0) {
         //aDiv.href = `javascript:DisplayDetail(\'${divID}\', \'${id1}\', [${stages}], ${i});`;        
         aDiv.textContent = i == 0 ? `S` : i;
         aDiv.setAttribute(`style`, `margin-right:5px`);
-        aDiv.addEventListener(`click`, () => { DisplayDetail(divID, id1, stages, i) });
+        aDiv.addEventListener(`click`, () => { DisplayDetail(mdiv, divID, id1, stages, i) });
         stageDiv.appendChild(aDiv);
     }
 }
