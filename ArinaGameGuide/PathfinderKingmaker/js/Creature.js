@@ -1,8 +1,11 @@
 ﻿import { Unity } from "./Unity.js";
 
 export async function Initialize(div, id1, id2) {
-    Unity.Data = [];
-    Unity.RecordHistoryPage(`Creature`, id1, id2);
+    Unity.Data = [];    
+    if (Unity.BrowsingHistoryPage == 0)
+        Unity.RecordHistoryPage(`Creature`, id1, id2);
+    else
+        Unity.BrowsingHistoryPage = 0;
 
     let ct = (await import(`../Data/Creature.json`, { assert: { type: `json` } })).default;
     let c = ct.find(m => m.Name == id1);

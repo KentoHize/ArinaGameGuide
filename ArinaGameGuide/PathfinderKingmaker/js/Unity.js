@@ -1,6 +1,12 @@
+import { loadDataContent } from "../../js/ArinaGameGuide.js";
+
 export class Unity {
+    static PageName = `PathfinderKingmaker`; //const
     static HistoryPages = [];
+    static HistoryPagesPointer = 0;
+    static BrowsingHistoryPage = 0;
     static Data = [];
+    
     static SortPosition(a, b)
     {
         const order = [null, `None`, `Center`, `East`, `South East`, `South`, `South West`, `West`, `North West`,
@@ -20,8 +26,32 @@ export class Unity {
     }
 
     static RecordHistoryPage(page, id1 = null, id2 = null, params = null)
-    {
+    {   
+        while (Unity.HistoryPagesPointer != 0) {
+            Unity.HistoryPagesPointer--;
+            Unity.HistoryPages.pop();
+        }        
         Unity.HistoryPages.push({ page: page, id1: id1, id2: id2, params: params });
+    }
+
+    static GoBackPage(div)
+    {   
+        if (Unity.HistoryPages.length == 1)
+            return false;
+        Unity.BrowsingHistoryPage = 1;
+        Unity.HistoryPagesPointer++;
+        let target = Unity.HistoryPages[Unity.HistoryPages.length - Unity.HistoryPagesPointer - 1];        
+        loadDataContent(div, Unity.PageName, target.page, target.id1, target.id2);
+    }
+
+    static GoForwardPage(div)
+    {
+        if (Unity.HistoryPagesPointer == 0)        
+            return false;
+        Unity.BrowsingHistoryPage = 1;
+        Unity.HistoryPagesPointer--;
+        let target = Unity.HistoryPages[Unity.HistoryPages.length - Unity.HistoryPagesPointer - 1];
+        loadDataContent(div, Unity.PageName, target.page, target.id1, target.id2);
     }
 
     static GetAlginmentAcronym(alignment) {

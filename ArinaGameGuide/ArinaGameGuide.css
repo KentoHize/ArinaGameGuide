@@ -1,5 +1,4 @@
-﻿.header{
-    width:1000px;
+﻿.header{    
     text-align:center;
 }
 
@@ -33,4 +32,14 @@
     padding-bottom: 3px;
     padding-left: 5px;
     overflow: auto;
+}
+
+.backLink {
+    margin-left: 20px;
+    float:left;
+}
+
+.forwardLink {
+    margin-right: 20px;
+    float: right;
 }

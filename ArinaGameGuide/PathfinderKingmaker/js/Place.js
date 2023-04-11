@@ -1,9 +1,12 @@
 import { Unity } from "./Unity.js";
-import { loadDataContent } from "../../ArinaGameGuide.js";
+import { loadDataContent } from "../../js/ArinaGameGuide.js";
 
 export async function Initialize(div, id1, id2) {
-    Unity.Data = [];
-    Unity.RecordHistoryPage(`Place`, id1, id2);
+    Unity.Data = [];   
+    if (Unity.BrowsingHistoryPage == 0)
+        Unity.RecordHistoryPage(`Place`, id1, id2);
+    else
+        Unity.BrowsingHistoryPage = 0;
 
     function findPosition(position) {
         if (position == null)
@@ -74,55 +77,32 @@ export async function Initialize(div, id1, id2) {
     
     Unity.Data.sort((a, b) => Unity.SortPosition(a.key, b.key));
     stages.sort();
-    ///Display
+    //Display
     DisplayDetail(div, `mainDiv`, id1, stages);
-    
-    
-
-    //    if (i == 0 || data[i].Position != data[i - 1].Position) {
-    //        if (data[i].Position != null && data[i].Position != `None`) {
-    //            let t = document.createTextNode(data[i].Position);
-    //            div.appendChild(t);
-    //        }
-    //        parent = document.createElement(`div`);
-    //        div.appendChild(parent);
-    //    }
-    //    let child = document.createElement(`div`);
-    //    let a = document.createElement(`a`);
-    //    a.href = `#`;
-    //    a.textContent = data[i].Name;
-    //    //if (id2)
-    //    //    a.addEventListener("click",
-    //    //        () => loadDataContent(contentDiv, pageName, dataName, d[i][id1], d[i][id2]));
-    //    //else
-    //    //    a.addEventListener("click",
-    //    //        () => loadDataContent(contentDiv, pageName, dataName, d[i][id1]));            
-    //    child.appendChild(a);
-    //    parent.appendChild(child);
-    //}
-    ///Encounter
 }
 
 export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
-    let parent, child, child2;    
+    let parent, child, child2, t;
+    
     let div = document.getElementById(divID);    
     div.innerHTML = ``;
-    
-    let t;    
+
     for (let i = 0; i < Unity.Data.length; i++) {
+        let haveStuff = 0;
         if (Unity.Data[i].key == `None`)
-            continue;
+            continue;        
         t = document.createTextNode(Unity.Data[i].key);
         div.appendChild(t);
         for (let j = 0; j < Unity.Data[i].value.length; j++) {
             parent = document.createElement(`div`);
             if (Unity.Data[i].value[j].type == `CG` && Unity.Data[i].value[j].data.cg.Stage == stage) {
+                haveStuff = 1;
                 parent.setAttribute(`class`, `divGroup1`);
                 for (let k = 0; k < Unity.Data[i].value[j].data.cgc.length; k++) {
                     child = document.createElement(`div`);
                     child2 = document.createElement(`a`);
                     child2.href = `javascript:;`;
-                    child2.addEventListener(`click`, () => { loadDataContent(mdiv, 'PathfinderKingmaker', 'Creature', Unity.Data[i].value[j].data.cgc[k].Creature); });
+                    child2.addEventListener(`click`, () => { loadDataContent(mdiv, Unity.PageName, 'Creature', Unity.Data[i].value[j].data.cgc[k].Creature); });
                     child2.textContent = Unity.Data[i].value[j].data.cgc[k].Creature;
                     child.appendChild(child2);
                     parent.appendChild(child);
@@ -144,20 +124,20 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
             }
             div.appendChild(parent);
         }
+        if (haveStuff == 0)
+            t.remove();
     }
 
     let stageDiv = document.getElementById(`stageDiv`);
     stageDiv.innerHTML = ``;
 
     t = document.createElement(`h`);
-    t.textContent = id1 + ` `;
-    //t = document.createTextNode(id1 + `  `);    
+    t.textContent = id1 + ` `;    
     stageDiv.appendChild(t);
     //StagePanel
     for (let i = 0; i < stages.length; i++) {
         let aDiv = document.createElement(`a`);
-        aDiv.href = `javascript:;`;
-        //aDiv.href = `javascript:DisplayDetail(\'${divID}\', \'${id1}\', [${stages}], ${i});`;        
+        aDiv.href = `javascript:;`;        
         aDiv.textContent = i == 0 ? `S` : i;
         aDiv.setAttribute(`style`, `margin-right:5px`);
         aDiv.addEventListener(`click`, () => { DisplayDetail(mdiv, divID, id1, stages, i) });

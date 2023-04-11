@@ -3,23 +3,20 @@
 <head>
     <meta charset="utf-8" />
     <title></title>
-    <link rel="stylesheet" href="ArinaPage.css">
+    <link rel="stylesheet" href="../ArinaPage.css">
     <link rel="stylesheet" href="../ArinaGameGuide.css">
-    <!--<script type="module" src="../ArinaGameGuide.js"></script>-->
-    <!--<script src="../js/Ansrabrar.js"></script>-->
-    <!--<script src="../js/Characters/Heroes/Riana.js"></script>-->
 </head>
 <body>
     <!--<div style="text-align:center">
         <h3>Pathfinder: Kingmaker 資料區</h3>
     </div>
     <br />-->
-    <header class="header"><!--  -->
-        <!--<a href="javascript:loadPage('place', 'index');">Place</a>-->
-        <!--<a href="#" onclick="javascript:loadPage('place', 'index')">Place</a>-->
-
+    <header class="header">
+        <a id="backTag" class="backLink" href="javascript:;">Back</a>
         <a id="placeTag" href="javascript:;">Place</a>
         <a id="creatureTag" href="javascript:;">Creature</a>
+        <a id="forwardTag" class="forwardLink" href="javascript:;">Forward</a>
+
     </header>
     <div id="main" class="main">
         <div id="index" class="indexLeft">            
@@ -30,23 +27,28 @@
     <footer></footer>
     <script type="module">
         import { loadDataContent, loadDataIndex } from "../js/ArinaGameGuide.js";
-        //document.getElementById('placeTag').addEventListener("click",
-        //    () => loadPage('place', 'index'));
+        import { Unity } from "./js/Unity.js";
+
+        document.getElementById('backTag').addEventListener("click",
+            () => Unity.GoBackPage(document.getElementById(`innerMain`)));
+
+        document.getElementById('forwardTag').addEventListener("click",
+            () => Unity.GoForwardPage(document.getElementById(`innerMain`)));
+
         document.getElementById('placeTag').addEventListener("click",
             () => loadDataIndex(document,
                 document.getElementById(`index`),
                 document.getElementById(`innerMain`),
-                'PathfinderKingmaker', 'Place',
+                Unity.PageName, 'Place',
                 "Name", null, "Name"));
 
         document.getElementById('creatureTag').addEventListener("click",
             () => loadDataIndex(document,
                 document.getElementById(`index`),
                 document.getElementById(`innerMain`),
-                'PathfinderKingmaker', 'Creature',
+                Unity.PageName, 'Creature',
                 "Name", null, "Name"));
         
-        //document.getElementById("index").height = window.innerHeight - 200;
         document.getElementById("index").setAttribute(`style`, `height:${window.innerHeight - 100}px`)
         document.getElementById("innerMain").setAttribute(`style`, `height:${window.innerHeight - 100}px; width: ${ window.innerWidth - 360 }px`)
         document.getElementById("main").setAttribute(`style`, `width:${window.innerWidth - 40}px`)
@@ -60,7 +62,6 @@
 
         //var a = Riana.CreateDiv(doc, "aaa", 200, 200, false, false, doc);
         //Riana.CreateText("aaa", a);
-        
 
         //document.addEventListener("DOMContentLoaded", function (event) {
         //    doc.printTo(document);
