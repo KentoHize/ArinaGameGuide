@@ -136,5 +136,29 @@
     "Item": "Thundering Claw of the Bear God",
     "Quality": "Wrath of the Bear God",
     "Rank": null
+  },
+  {
+    "ID": 24,
+    "Item": "Deadly Grace",
+    "Quality": "Enhancement",
+    "Rank": 1
+  },
+  {
+    "ID": 25,
+    "Item": "Deadly Grace",
+    "Quality": "Agile",
+    "Rank": null
+  },
+  {
+    "ID": 26,
+    "Item": "Deadly Grace",
+    "Quality": "Keen",
+    "Rank": null
+  },
+  {
+    "ID": 27,
+    "Item": "Deadly Grace",
+    "Quality": "Unfair Advantage",
+    "Rank": null
   }
 ]

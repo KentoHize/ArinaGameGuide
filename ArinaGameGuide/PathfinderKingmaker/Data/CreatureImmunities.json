@@ -1402,5 +1402,11 @@
     "Creature": "Gardener",
     "Condition": "Difficult Terrain",
     "ConditionGroup": null
+  },
+  {
+    "ID": 244,
+    "Creature": "Elf 9 Shock Rogue",
+    "Condition": "Sleep",
+    "ConditionGroup": null
   }
 ]

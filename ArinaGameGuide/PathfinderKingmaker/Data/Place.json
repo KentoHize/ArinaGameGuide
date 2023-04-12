@@ -2413,5 +2413,20 @@
     "HasPlot": false,
     "Description": "",
     "Memo": "Knowledge(World) 30\nAthletic 30\n\nDarkwind"
+  },
+  {
+    "ID": 163,
+    "Name": "Pitax 2",
+    "DisplayName": "Pitax",
+    "CName": "",
+    "Type": "Safe Area",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

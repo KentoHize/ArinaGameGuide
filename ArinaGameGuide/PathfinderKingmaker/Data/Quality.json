@@ -88,5 +88,17 @@
     "Name": "Wrath of the Bear God",
     "CName": "",
     "Description": "(Need Test)\nNature attack have shock\n\nWhen Change Shape\nsonic & electricty dmg change to 1d10\n\nif critical, become  a Call lighting Storm Spell target(5d6 dmg DC 24)"
+  },
+  {
+    "ID": 16,
+    "Name": "Unfair Advantage",
+    "CName": "",
+    "Description": "Hit DC 15 Fort for 2d6 acid dmg 3 round"
+  },
+  {
+    "ID": 17,
+    "Name": "Keen",
+    "CName": "",
+    "Description": "Doubles the threat range"
   }
 ]

@@ -3406,5 +3406,53 @@
     "Creature": "Gardener",
     "Skill": "Knowledge(Arcana)",
     "Bonus": 22
+  },
+  {
+    "ID": 570,
+    "Creature": "Soldier 6 Fighter",
+    "Skill": "Athletics",
+    "Bonus": 10
+  },
+  {
+    "ID": 571,
+    "Creature": "Human 14 Longspear Fighter",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 572,
+    "Creature": "Human 14 Longspear Fighter",
+    "Skill": "Athletics",
+    "Bonus": 22
+  },
+  {
+    "ID": 573,
+    "Creature": "Bandit 9 Keen Rogue",
+    "Skill": "Perception",
+    "Bonus": 23
+  },
+  {
+    "ID": 574,
+    "Creature": "Bandit 9 Keen Rogue",
+    "Skill": "Stealth",
+    "Bonus": 16
+  },
+  {
+    "ID": 575,
+    "Creature": "Human 17 Barbarian",
+    "Skill": "Athletics",
+    "Bonus": 28
+  },
+  {
+    "ID": 576,
+    "Creature": "Elf 9 Shock Rogue",
+    "Skill": "Perception",
+    "Bonus": 25
+  },
+  {
+    "ID": 577,
+    "Creature": "Elf 9 Shock Rogue",
+    "Skill": "Stealth",
+    "Bonus": 17
   }
 ]

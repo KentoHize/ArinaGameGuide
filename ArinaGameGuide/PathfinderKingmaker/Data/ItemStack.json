@@ -1698,5 +1698,40 @@
     "ID": 341,
     "Name": "Whiterose Abbey Treasure B",
     "Memo": ""
+  },
+  {
+    "ID": 342,
+    "Name": "SD2 + MD + CS + RoP1",
+    "Memo": ""
+  },
+  {
+    "ID": 343,
+    "Name": "RS + LS + CS",
+    "Memo": ""
+  },
+  {
+    "ID": 344,
+    "Name": "PoCM + MBD + HP",
+    "Memo": ""
+  },
+  {
+    "ID": 345,
+    "Name": "KD1 + MD + CS + RopP1",
+    "Memo": ""
+  },
+  {
+    "ID": 346,
+    "Name": "MLS + PoCL + AF + AMF + BM",
+    "Memo": ""
+  },
+  {
+    "ID": 347,
+    "Name": "Stefano Moskni RS",
+    "Memo": ""
+  },
+  {
+    "ID": 348,
+    "Name": "Human 17 Barbarian RS",
+    "Memo": ""
   }
 ]

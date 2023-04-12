@@ -2077,5 +2077,26 @@
     "Strength": false,
     "Price": 0,
     "Weight": 0.0
+  },
+  {
+    "ID": 100,
+    "Name": "Bardiche",
+    "CName": "Bardiche",
+    "Type": "Martial Weapon",
+    "DamageType": "Slash",
+    "ArmorClass": null,
+    "ArmorCheckPenalty": null,
+    "ArcaneSpellFailureChance": null,
+    "MaxDexterity": null,
+    "WeaponSize": "Two-handed",
+    "Range": 6,
+    "Damage": "1d10",
+    "CriticalHitRange": 2,
+    "CriticalHitMultiplier": 2,
+    "FinesseWeapon": false,
+    "MonkWeapon": false,
+    "Strength": false,
+    "Price": 12,
+    "Weight": 14.0
   }
 ]

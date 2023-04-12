@@ -2990,5 +2990,21 @@
     "Position": "North West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 375,
+    "Name": "Pitax Final Battle Group A",
+    "Place": "Pitax 2",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": "Guard 2\n\nTemple Guard 3"
+  },
+  {
+    "ID": 376,
+    "Name": "Pitax Final Battle Group B",
+    "Place": "Pitax 2",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

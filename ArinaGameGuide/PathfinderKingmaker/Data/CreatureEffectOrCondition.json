@@ -1033,5 +1033,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 118,
+    "Creature": "Stefano Moskni",
+    "EffectOrCondition": "Blur",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

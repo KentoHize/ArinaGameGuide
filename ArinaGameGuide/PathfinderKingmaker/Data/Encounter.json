@@ -581,5 +581,16 @@
     "EnemyGroup2": "Nortellara Group B",
     "EnemyGroup3": "Nortellara Group C",
     "Memo": ""
+  },
+  {
+    "ID": 54,
+    "Name": "Pitax Final Battle",
+    "Place": "Pitax 2",
+    "Position": "North East",
+    "HasPlot": true,
+    "EnemyGroup1": "Pitax Final Battle Group A",
+    "EnemyGroup2": "Pitax Final Battle Group B",
+    "EnemyGroup3": null,
+    "Memo": ""
   }
 ]

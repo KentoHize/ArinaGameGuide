@@ -7182,5 +7182,269 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 901,
+    "ItemStack": "SD2 + MD + CS + RoP1",
+    "Item": "Shock Dagger +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 902,
+    "ItemStack": "SD2 + MD + CS + RoP1",
+    "Item": "Masterwork Dagger",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 903,
+    "ItemStack": "SD2 + MD + CS + RoP1",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 904,
+    "ItemStack": "SD2 + MD + CS + RoP1",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 905,
+    "ItemStack": "RS + LS + CS",
+    "Item": null,
+    "RandomItem": "Random Scroll",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 906,
+    "ItemStack": "RS + LS + CS",
+    "Item": "Longspear",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 907,
+    "ItemStack": "RS + LS + CS",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 908,
+    "ItemStack": "PoCM + MBD + HP",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 909,
+    "ItemStack": "PoCM + MBD + HP",
+    "Item": "Masterwork Bardiche",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 910,
+    "ItemStack": "PoCM + MBD + HP",
+    "Item": "Half-Plate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 911,
+    "ItemStack": "KD1 + MD + CS + RopP1",
+    "Item": "Keen Dagger +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 912,
+    "ItemStack": "KD1 + MD + CS + RopP1",
+    "Item": "Masterwork Dagger",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 913,
+    "ItemStack": "KD1 + MD + CS + RopP1",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 914,
+    "ItemStack": "KD1 + MD + CS + RopP1",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 915,
+    "ItemStack": "MLS + PoCL + AF + AMF + BM",
+    "Item": "Masterwork Longspear",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 916,
+    "ItemStack": "MLS + PoCL + AF + AMF + BM",
+    "Item": "Potion of Cure Light Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 917,
+    "ItemStack": "MLS + PoCL + AF + AMF + BM",
+    "Item": "Acid Flask",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 918,
+    "ItemStack": "MLS + PoCL + AF + AMF + BM",
+    "Item": "Alchemist's Fire",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 919,
+    "ItemStack": "MLS + PoCL + AF + AMF + BM",
+    "Item": "Banded Mail",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 920,
+    "ItemStack": "Stefano Moskni RS",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 4,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 921,
+    "ItemStack": "Stefano Moskni RS",
+    "Item": "Deadly Grace",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 922,
+    "ItemStack": "Stefano Moskni RS",
+    "Item": "Lighting Duelist",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 923,
+    "ItemStack": "Stefano Moskni RS",
+    "Item": "Chainshirt +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 924,
+    "ItemStack": "Stefano Moskni RS",
+    "Item": "Amulet of Natural Armor +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 925,
+    "ItemStack": "Stefano Moskni RS",
+    "Item": "Ring of Protection +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 926,
+    "ItemStack": "Stefano Moskni RS",
+    "Item": "Gold Ring",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 927,
+    "ItemStack": "Stefano Moskni RS",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 928,
+    "ItemStack": "Human 17 Barbarian RS",
+    "Item": "Earth Breaker +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 929,
+    "ItemStack": "Human 17 Barbarian RS",
+    "Item": "Full Plate +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 930,
+    "ItemStack": "Human 17 Barbarian RS",
+    "Item": "Belt of Physical Might +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 931,
+    "ItemStack": "Human 17 Barbarian RS",
+    "Item": "Amulet of Natural Armor +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 932,
+    "ItemStack": "Human 17 Barbarian RS",
+    "Item": "Ring of Protection +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 933,
+    "ItemStack": "Human 17 Barbarian RS",
+    "Item": "Cloak of Resistance +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

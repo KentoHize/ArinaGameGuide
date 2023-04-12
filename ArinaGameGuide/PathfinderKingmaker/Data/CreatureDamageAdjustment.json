@@ -2721,5 +2721,12 @@
     "Type": "Resistance",
     "DamageType": "Electricity",
     "Amount": 10
+  },
+  {
+    "ID": 390,
+    "Creature": "Human 17 Barbarian",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 6
   }
 ]

@@ -9098,5 +9098,135 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 912,
+    "CreatureGroup": "Pitax Final Battle Group A",
+    "Creature": "Human 9 Shield Fighter",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 913,
+    "CreatureGroup": "Pitax Final Battle Group A",
+    "Creature": "Soldier 6 Fighter",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 914,
+    "CreatureGroup": "Pitax Final Battle Group A",
+    "Creature": "Human 14 Longspear Fighter",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 915,
+    "CreatureGroup": "Pitax Final Battle Group A",
+    "Creature": "Elf 9 Shock Rogue",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 916,
+    "CreatureGroup": "Pitax Final Battle Group A",
+    "Creature": "Bandit 9 Keen Rogue",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 917,
+    "CreatureGroup": "Pitax Final Battle Group A",
+    "Creature": "Ilora Nuski",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 918,
+    "CreatureGroup": "Pitax Final Battle Group A",
+    "Creature": "Stefano Moskni",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 919,
+    "CreatureGroup": "Pitax Final Battle Group A",
+    "Creature": "Atalia Gitaren",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 920,
+    "CreatureGroup": "Pitax Final Battle Group A",
+    "Creature": "Bandit 2 Bard",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 921,
+    "CreatureGroup": "Pitax Final Battle Group B",
+    "Creature": "Human 9 Shield Fighter",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 922,
+    "CreatureGroup": "Pitax Final Battle Group B",
+    "Creature": "Human 9 Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 923,
+    "CreatureGroup": "Pitax Final Battle Group B",
+    "Creature": "Human 9 Bard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 924,
+    "CreatureGroup": "Pitax Final Battle Group B",
+    "Creature": "Human 17 Barbarian",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]
