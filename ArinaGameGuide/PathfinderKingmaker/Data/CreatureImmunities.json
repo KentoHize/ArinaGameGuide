@@ -1438,5 +1438,23 @@
     "Creature": "Gnome 17 Wizard",
     "Condition": "Spell - Magic Missile",
     "ConditionGroup": null
+  },
+  {
+    "ID": 261,
+    "Creature": "Reaford Tabulus Vallersteil",
+    "Condition": null,
+    "ConditionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 262,
+    "Creature": "Reaford Tabulus Vallersteil",
+    "Condition": "precision damage",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 263,
+    "Creature": "Reaford Tabulus Vallersteil",
+    "Condition": "Prone",
+    "ConditionGroup": null
   }
 ]

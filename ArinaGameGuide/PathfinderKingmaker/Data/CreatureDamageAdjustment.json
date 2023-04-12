@@ -2777,5 +2777,33 @@
     "Type": "DamageReduction",
     "DamageType": "Magic",
     "Amount": 10
+  },
+  {
+    "ID": 398,
+    "Creature": "Reaford Tabulus Vallersteil",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
+  },
+  {
+    "ID": 399,
+    "Creature": "Reaford Tabulus Vallersteil",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 5
+  },
+  {
+    "ID": 400,
+    "Creature": "Reaford Tabulus Vallersteil",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 401,
+    "Creature": "Reaford Tabulus Vallersteil",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

@@ -3604,5 +3604,17 @@
     "Creature": "Gedovius",
     "Skill": "Stealth",
     "Bonus": 41
+  },
+  {
+    "ID": 603,
+    "Creature": "Reaford Tabulus Vallersteil",
+    "Skill": "Stealth",
+    "Bonus": 10
+  },
+  {
+    "ID": 604,
+    "Creature": "Avinash Jurrg",
+    "Skill": "Perception",
+    "Bonus": 37
   }
 ]

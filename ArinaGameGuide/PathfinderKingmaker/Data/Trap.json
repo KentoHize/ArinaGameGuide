@@ -2026,5 +2026,29 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 177,
+    "Name": "Pitax Royal Palace Trap",
+    "CName": "",
+    "Type": "Hellfire",
+    "Place": "Pitax Royal Palace",
+    "DisarmDC": null,
+    "Position": "West",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 178,
+    "Name": "Pitax Royal Palace Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Pitax Royal Palace",
+    "DisarmDC": 32,
+    "Position": "West",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

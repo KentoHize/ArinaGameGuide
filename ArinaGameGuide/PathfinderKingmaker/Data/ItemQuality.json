@@ -208,5 +208,35 @@
     "Item": "Corrosive Shortsword +2",
     "Quality": "Corrosive",
     "Rank": null
+  },
+  {
+    "ID": 36,
+    "Item": "Unstoppable Khanda",
+    "Quality": "Enhancement",
+    "Rank": 4
+  },
+  {
+    "ID": 37,
+    "Item": "Unstoppable Khanda",
+    "Quality": "Beguiling",
+    "Rank": null
+  },
+  {
+    "ID": 38,
+    "Item": "Unstoppable Khanda",
+    "Quality": "Impervious",
+    "Rank": null
+  },
+  {
+    "ID": 39,
+    "Item": "Unstoppable Khanda",
+    "Quality": "Unyielding",
+    "Rank": null
+  },
+  {
+    "ID": 40,
+    "Item": "Unstoppable Khanda",
+    "Quality": "Venomous",
+    "Rank": null
   }
 ]

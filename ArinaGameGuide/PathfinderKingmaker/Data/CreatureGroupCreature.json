@@ -9688,5 +9688,55 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 972,
+    "CreatureGroup": "Hannis Drelev",
+    "Creature": "Hannis Drelev",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 973,
+    "CreatureGroup": "Reaford Tabulus Vallersteil",
+    "Creature": "Reaford Tabulus Vallersteil",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 974,
+    "CreatureGroup": "Avinash Jurrg Group",
+    "Creature": "Avinash Jurrg",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 975,
+    "CreatureGroup": "Avinash Jurrg Group",
+    "Creature": "Troll Royal Guard Berserk",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 976,
+    "CreatureGroup": "Avinash Jurrg Group",
+    "Creature": "Troll Royal Guard Veteran",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

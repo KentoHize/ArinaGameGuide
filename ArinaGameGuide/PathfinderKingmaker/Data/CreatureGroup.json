@@ -3150,5 +3150,29 @@
     "Position": "East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 395,
+    "Name": "Hannis Drelev",
+    "Place": "Pitax Royal Palace Storage",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 396,
+    "Name": "Reaford Tabulus Vallersteil",
+    "Place": "Pitax Royal Palace Storage",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 397,
+    "Name": "Avinash Jurrg Group",
+    "Place": "Pitax Royal Palace",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

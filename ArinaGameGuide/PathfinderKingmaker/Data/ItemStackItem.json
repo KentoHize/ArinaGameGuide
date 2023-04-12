@@ -7870,5 +7870,205 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 987,
+    "ItemStack": "Gedovius RS",
+    "Item": "Belt of Physical Flow +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 988,
+    "ItemStack": "Gedovius RS",
+    "Item": "Manticore Skin Boots",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 989,
+    "ItemStack": "Gedovius RS",
+    "Item": "Ring of Protection +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 990,
+    "ItemStack": "Reaford Tabulus Vallersteil RS",
+    "Item": "Forst Quarterstaff +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 991,
+    "ItemStack": "Reaford Tabulus Vallersteil RS",
+    "Item": "Dark Master's Robe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 992,
+    "ItemStack": "Reaford Tabulus Vallersteil RS",
+    "Item": "Gloves of Elvenkind",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 993,
+    "ItemStack": "Avinash Jurrg RS",
+    "Item": "General's Bedroom Key",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 994,
+    "ItemStack": "Avinash Jurrg RS",
+    "Item": "Unstoppable Khanda",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 995,
+    "ItemStack": "Avinash Jurrg RS",
+    "Item": "Full Plate +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 997,
+    "ItemStack": "Avinash Jurrg RS",
+    "Item": "Belt of Giant Strength +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 998,
+    "ItemStack": "Avinash Jurrg RS",
+    "Item": "Headband of Vast Intelligence +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 999,
+    "ItemStack": "Avinash Jurrg RS",
+    "Item": "Amulet of Natural Armor +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1000,
+    "ItemStack": "Avinash Jurrg RS",
+    "Item": "Ring of Protection +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1001,
+    "ItemStack": "Pitax Royal Palace Treasure J",
+    "Item": "Rusty Horseshoe",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1002,
+    "ItemStack": "Pitax Royal Palace Treasure J",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 14,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1003,
+    "ItemStack": "Pitax Royal Palace Treasure J",
+    "Item": "Skymetal Cogwheel",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1004,
+    "ItemStack": "Pitax Royal Palace Treasure K",
+    "Item": "Maya's Charm",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1005,
+    "ItemStack": "Pitax Royal Palace Treasure K",
+    "Item": "Flaming Kurkri +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1006,
+    "ItemStack": "Pitax Royal Palace Treasure L",
+    "Item": "Jasper",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1007,
+    "ItemStack": "Pitax Royal Palace Treasure L",
+    "Item": "Potion of Blur",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1008,
+    "ItemStack": "Pitax Royal Palace Treasure L",
+    "Item": "Bloodstone",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1009,
+    "ItemStack": "Pitax Royal Palace Treasure L",
+    "Item": "Jade",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1010,
+    "ItemStack": "Pitax Royal Palace Treasure L",
+    "Item": "Scroll of Ray of Enfeeblement",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1011,
+    "ItemStack": "Pitax Royal Palace Treasure L",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 270,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1012,
+    "ItemStack": "Pitax Royal Palace Treasure L",
+    "Item": "Broken Drill with the Technic League's Brand",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

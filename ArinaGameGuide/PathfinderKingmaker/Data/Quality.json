@@ -124,5 +124,29 @@
     "Name": "Corrosive",
     "CName": "",
     "Description": "+1d6 acid dmg"
+  },
+  {
+    "ID": 22,
+    "Name": "Beguiling",
+    "CName": "",
+    "Description": "+4 Persuasion"
+  },
+  {
+    "ID": 23,
+    "Name": "Impervious",
+    "CName": "",
+    "Description": "DR 5/piercing"
+  },
+  {
+    "ID": 24,
+    "Name": "Venomous",
+    "CName": "",
+    "Description": "DC 17 fort or poisoned 6 round, 1d2 wisdom dmg and daze 1 round\n"
+  },
+  {
+    "ID": 25,
+    "Name": "Unyielding",
+    "CName": "",
+    "Description": "+8 save vs mind-affecting"
   }
 ]

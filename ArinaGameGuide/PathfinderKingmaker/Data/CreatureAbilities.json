@@ -3139,5 +3139,32 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 351,
+    "Creature": "Avinash Jurrg",
+    "Ability": "Spell Combat",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 352,
+    "Creature": "Avinash Jurrg",
+    "Ability": "Spellstrike",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 353,
+    "Creature": "Avinash Jurrg",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

@@ -5626,5 +5626,33 @@
     "DamageAdditiveBonus": 9,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 442,
+    "Creature": "Reaford Tabulus Vallersteil",
+    "Form": "Bludgeoning Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 3,
+    "AttackBonus": 25,
+    "Weapon": "Forst Quarterstaff +2",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 5,
+    "OtherDamageBonus": "1d6 Cold",
+    "SneakDamage": null
+  },
+  {
+    "ID": 443,
+    "Creature": "Avinash Jurrg",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 6,
+    "AddtionalAttack": 3,
+    "AttackBonus": 34,
+    "Weapon": "Unstoppable Khanda",
+    "BasicDamage": "2d8",
+    "DamageAdditiveBonus": 29,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

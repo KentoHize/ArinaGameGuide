@@ -27,6 +27,15 @@
     "Memo": ""
   },
   {
+    "ID": 65,
+    "Name": "Battering Creature",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
     "ID": 47,
     "Name": "Bear's Endurance",
     "CName": "",
@@ -36,8 +45,35 @@
     "Memo": ""
   },
   {
+    "ID": 61,
+    "Name": "Bless",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
     "ID": 9,
     "Name": "Blur",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 56,
+    "Name": "Bull's Strength",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 60,
+    "Name": "Cat's Grace",
     "CName": "",
     "IsCondition": false,
     "IsGroup": false,
@@ -108,6 +144,15 @@
     "Memo": ""
   },
   {
+    "ID": 66,
+    "Name": "Death Ward",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
     "ID": 21,
     "Name": "Difficult Terrain",
     "CName": "",
@@ -153,10 +198,28 @@
     "Memo": ""
   },
   {
+    "ID": 62,
+    "Name": "Effortless Armor",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
     "ID": 28,
     "Name": "Emotion",
     "CName": "",
     "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 63,
+    "Name": "Enchanting Creature",
+    "CName": "",
+    "IsCondition": false,
     "IsGroup": false,
     "Description": "",
     "Memo": ""
@@ -198,8 +261,26 @@
     "Memo": ""
   },
   {
+    "ID": 57,
+    "Name": "Feather Step",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
     "ID": 15,
     "Name": "Fiery Creature",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 75,
+    "Name": "Fox's Cunning",
     "CName": "",
     "IsCondition": false,
     "IsGroup": false,
@@ -229,6 +310,24 @@
     "Name": "Grape",
     "CName": "",
     "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 69,
+    "Name": "Grapple",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 68,
+    "Name": "Greater Mutagen - Dexterity and Constitution",
+    "CName": "",
+    "IsCondition": false,
     "IsGroup": false,
     "Description": "",
     "Memo": ""
@@ -299,6 +398,15 @@
   {
     "ID": 49,
     "Name": "Mutagen - Dexterity",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 71,
+    "Name": "Mutagen - Strength",
     "CName": "",
     "IsCondition": false,
     "IsGroup": false,
@@ -396,6 +504,15 @@
     "Memo": ""
   },
   {
+    "ID": 58,
+    "Name": "Resist Fire",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
     "ID": 43,
     "Name": "Shield",
     "CName": "",
@@ -409,6 +526,15 @@
     "Name": "Sickened",
     "CName": "",
     "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 74,
+    "Name": "Sight",
+    "CName": "",
+    "IsCondition": false,
     "IsGroup": false,
     "Description": "",
     "Memo": ""
@@ -432,8 +558,35 @@
     "Memo": ""
   },
   {
+    "ID": 73,
+    "Name": "Spell",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 70,
+    "Name": "Spell - Baleful Polymorph",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
     "ID": 46,
     "Name": "Spell - Magic Missile",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 72,
+    "Name": "Spell - Prismatic Spray",
     "CName": "",
     "IsCondition": false,
     "IsGroup": false,
@@ -459,8 +612,35 @@
     "Memo": ""
   },
   {
+    "ID": 64,
+    "Name": "Stinking Cloud",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
     "ID": 33,
     "Name": "Stunned",
+    "CName": "",
+    "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 59,
+    "Name": "Summon",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 67,
+    "Name": "Trip",
     "CName": "",
     "IsCondition": true,
     "IsGroup": false,
@@ -486,170 +666,8 @@
     "Memo": ""
   },
   {
-    "ID": 56,
-    "Name": "Bull's Strength",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 57,
-    "Name": "Feather Step",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 58,
-    "Name": "Resist Fire",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 59,
-    "Name": "Summon",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 60,
-    "Name": "Cat's Grace",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 61,
-    "Name": "Bless",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 62,
-    "Name": "Effortless Armor",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 63,
-    "Name": "Enchanting Creature",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 64,
-    "Name": "Stinking Cloud",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 65,
-    "Name": "Battering Creature",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 66,
-    "Name": "Death Ward",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 67,
-    "Name": "Trip",
-    "CName": "",
-    "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 68,
-    "Name": "Greater Mutagen - Dexterity and Constitution",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 69,
-    "Name": "Grapple",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 70,
-    "Name": "Spell - Baleful Polymorph",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 71,
-    "Name": "Mutagen - Strength",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 72,
-    "Name": "Spell - Prismatic Spray",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 73,
-    "Name": "Spell",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 74,
-    "Name": "Sight",
+    "ID": 76,
+    "Name": "Invisibility, Greater",
     "CName": "",
     "IsCondition": false,
     "IsGroup": false,
