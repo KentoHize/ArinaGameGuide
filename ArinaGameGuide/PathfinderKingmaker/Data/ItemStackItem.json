@@ -8070,5 +8070,117 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1013,
+    "ItemStack": "Engelidis RS",
+    "Item": "Headband of Alluring Charisma +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1014,
+    "ItemStack": "Engelidis RS",
+    "Item": "Charm of the Deep Waters",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1015,
+    "ItemStack": "Castruccio Irovetti RS",
+    "Item": "Gilded Key",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1016,
+    "ItemStack": "Castruccio Irovetti RS",
+    "Item": "Briar",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1017,
+    "ItemStack": "Castruccio Irovetti RS",
+    "Item": "Blackemoor's Grimoire (Movanic Deva)",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1018,
+    "ItemStack": "Castruccio Irovetti RS",
+    "Item": "Rod of Razors",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1019,
+    "ItemStack": "Castruccio Irovetti RS",
+    "Item": "Lesser Quicken Metamagic Rod",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1020,
+    "ItemStack": "Castruccio Irovetti RS",
+    "Item": "Singing Steel Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1021,
+    "ItemStack": "Castruccio Irovetti RS",
+    "Item": "Belt of Physical Perfection +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1022,
+    "ItemStack": "Castruccio Irovetti RS",
+    "Item": "Headband of Mental Perfection +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1023,
+    "ItemStack": "Castruccio Irovetti RS",
+    "Item": "Amulet of Natural Armor +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1024,
+    "ItemStack": "Castruccio Irovetti RS",
+    "Item": "Ring of Protection +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1025,
+    "ItemStack": "Castruccio Irovetti RS",
+    "Item": "Ring of Luck",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1026,
+    "ItemStack": "Castruccio Irovetti RS",
+    "Item": "Cloak of Resistance +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

@@ -3174,5 +3174,37 @@
     "Position": "West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 398,
+    "Name": "Pitax Royal Palace Group K",
+    "Place": "Pitax Royal Palace",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 399,
+    "Name": "Pitax Royal Palace Group L",
+    "Place": "Pitax Royal Palace",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 400,
+    "Name": "Castruccio Irovetti Group A",
+    "Place": "Pitax Royal Palace",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 401,
+    "Name": "Castruccio Irovetti Group B",
+    "Place": "Pitax Royal Palace",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

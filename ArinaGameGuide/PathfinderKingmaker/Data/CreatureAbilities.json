@@ -3166,5 +3166,23 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 354,
+    "Creature": "Engelidis 17",
+    "Ability": "Poisonous Aura",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 355,
+    "Creature": "Castruccio Irovetti",
+    "Ability": "Lesser Quicken Metamagic Rod",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

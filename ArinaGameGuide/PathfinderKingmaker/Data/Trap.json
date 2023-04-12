@@ -2050,5 +2050,17 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 179,
+    "Name": "Pitax Royal Palace Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Pitax Royal Palace",
+    "DisarmDC": 32,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

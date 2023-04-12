@@ -603,5 +603,16 @@
     "EnemyGroup2": "Pitax Royal Palace Group C",
     "EnemyGroup3": null,
     "Memo": ""
+  },
+  {
+    "ID": 56,
+    "Name": "Castruccio Irovetti Final",
+    "Place": "Pitax Royal Palace",
+    "Position": "North",
+    "HasPlot": true,
+    "EnemyGroup1": "Castruccio Irovetti Group A",
+    "EnemyGroup2": "Castruccio Irovetti Group B",
+    "EnemyGroup3": null,
+    "Memo": ""
   }
 ]

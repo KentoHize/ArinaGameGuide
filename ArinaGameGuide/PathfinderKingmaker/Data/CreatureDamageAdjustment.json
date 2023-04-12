@@ -2805,5 +2805,12 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 402,
+    "Creature": "Engelidis 17",
+    "Type": "DamageReduction",
+    "DamageType": "Pierce",
+    "Amount": 10
   }
 ]

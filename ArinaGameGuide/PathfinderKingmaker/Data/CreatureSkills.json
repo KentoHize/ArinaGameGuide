@@ -3616,5 +3616,71 @@
     "Creature": "Avinash Jurrg",
     "Skill": "Perception",
     "Bonus": 37
+  },
+  {
+    "ID": 605,
+    "Creature": "Castruccio Irovetti",
+    "Skill": "Mobility",
+    "Bonus": 27
+  },
+  {
+    "ID": 606,
+    "Creature": "Castruccio Irovetti",
+    "Skill": "Persuasion",
+    "Bonus": 40
+  },
+  {
+    "ID": 607,
+    "Creature": "Castruccio Irovetti",
+    "Skill": "Perception",
+    "Bonus": 37
+  },
+  {
+    "ID": 608,
+    "Creature": "Castruccio Irovetti",
+    "Skill": "Trickery",
+    "Bonus": 29
+  },
+  {
+    "ID": 609,
+    "Creature": "Castruccio Irovetti",
+    "Skill": "Use Magic Device",
+    "Bonus": 34
+  },
+  {
+    "ID": 610,
+    "Creature": "Engelidis 17",
+    "Skill": "Mobility",
+    "Bonus": 29
+  },
+  {
+    "ID": 611,
+    "Creature": "Engelidis 17",
+    "Skill": "Persuasion",
+    "Bonus": 41
+  },
+  {
+    "ID": 612,
+    "Creature": "Engelidis 17",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 31
+  },
+  {
+    "ID": 613,
+    "Creature": "Engelidis 17",
+    "Skill": "Perception",
+    "Bonus": 34
+  },
+  {
+    "ID": 614,
+    "Creature": "Engelidis 17",
+    "Skill": "Athletics",
+    "Bonus": 26
+  },
+  {
+    "ID": 615,
+    "Creature": "Engelidis 17",
+    "Skill": "Stealth",
+    "Bonus": 25
   }
 ]
