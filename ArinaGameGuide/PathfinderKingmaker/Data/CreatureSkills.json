@@ -3526,5 +3526,35 @@
     "Creature": "Troll Guard Veteran",
     "Skill": "Stealth",
     "Bonus": 7
+  },
+  {
+    "ID": 590,
+    "Creature": "Alasen",
+    "Skill": "Mobility",
+    "Bonus": 26
+  },
+  {
+    "ID": 591,
+    "Creature": "Alasen",
+    "Skill": "Persuasion",
+    "Bonus": 26
+  },
+  {
+    "ID": 592,
+    "Creature": "Alasen",
+    "Skill": "Perception",
+    "Bonus": 31
+  },
+  {
+    "ID": 593,
+    "Creature": "Alasen",
+    "Skill": "Stealth",
+    "Bonus": 26
+  },
+  {
+    "ID": 594,
+    "Creature": "Gnome 17 Wizard",
+    "Skill": "Perception",
+    "Bonus": 25
   }
 ]

@@ -1954,5 +1954,41 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 170,
+    "Name": "Pitax Royal Palace Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Pitax Royal Palace",
+    "DisarmDC": 32,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 171,
+    "Name": "Pitax Royal Palace Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Pitax Royal Palace",
+    "DisarmDC": 32,
+    "Position": "North East",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 172,
+    "Name": "Pitax Royal Palace Trap",
+    "CName": "",
+    "Type": "Polar Ray",
+    "Place": "Pitax Royal Palace",
+    "DisarmDC": null,
+    "Position": "East",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

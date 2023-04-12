@@ -2702,7 +2702,7 @@
   {
     "ID": 151,
     "CreatureGroup": "Tenebrous Depth II Group F",
-    "Creature": "Wererat_8_Alchemist",
+    "Creature": "Wererat 8 Alchemist",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,
@@ -9320,6 +9320,16 @@
     "Team": "1"
   },
   {
+    "ID": 947,
+    "CreatureGroup": "Pitax Royal Palace Group D",
+    "Creature": "Mimic",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
     "ID": 935,
     "CreatureGroup": "Pitax Royal Palace Group E",
     "Creature": "Human 9 Bard",
@@ -9365,6 +9375,106 @@
     "Creature": "Troll Guard Veteran",
     "DisplayName": null,
     "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 940,
+    "CreatureGroup": "Pitax Royal Palace Group F",
+    "Creature": "Wererat 12 Rogue",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 950,
+    "CreatureGroup": "Pitax Royal Palace Group G",
+    "Creature": "Wererat 12 Rogue",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 941,
+    "CreatureGroup": "Alasen Group",
+    "Creature": "Alasen",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 942,
+    "CreatureGroup": "Alasen Group",
+    "Creature": "Greater Weretiger 10 Fighter",
+    "DisplayName": null,
+    "Quantity": 11,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 949,
+    "CreatureGroup": "Alasen Group",
+    "Creature": "Greater Weretiger 10 Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 943,
+    "CreatureGroup": "Alasen Group",
+    "Creature": "Wererat 12 Alchemist",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 944,
+    "CreatureGroup": "Vyar Zottenropple And Luar Zottenropple",
+    "Creature": "Gnome 17 Wizard",
+    "DisplayName": "Luar Zottenropple",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 945,
+    "CreatureGroup": "Vyar Zottenropple And Luar Zottenropple",
+    "Creature": "Gnome 17 Wizard",
+    "DisplayName": "Vyar Zottenropple",
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 946,
+    "CreatureGroup": "Vyar Zottenropple And Luar Zottenropple",
+    "Creature": "Golden Golem",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 948,
+    "CreatureGroup": "Single Weretiger",
+    "Creature": "Greater Weretiger 10 Archer",
+    "DisplayName": null,
+    "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"

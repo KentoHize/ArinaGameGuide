@@ -369,5 +369,12 @@
     "CName": "",
     "DC": "",
     "Description": "Like Crushing Despair, 10 ft radius"
+  },
+  {
+    "ID": 54,
+    "Name": "Brutal Beating",
+    "CName": "",
+    "DC": "",
+    "Description": ""
   }
 ]

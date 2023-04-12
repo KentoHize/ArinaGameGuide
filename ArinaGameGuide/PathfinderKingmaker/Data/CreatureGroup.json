@@ -3046,5 +3046,45 @@
     "Position": "South",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 382,
+    "Name": "Pitax Royal Palace Group F",
+    "Place": "Pitax Royal Palace",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 386,
+    "Name": "Pitax Royal Palace Group G",
+    "Place": "Pitax Royal Palace",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 383,
+    "Name": "Alasen Group",
+    "Place": "Pitax Royal Palace",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 384,
+    "Name": "Vyar Zottenropple And Luar Zottenropple",
+    "Place": "Pitax Royal Palace",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 385,
+    "Name": "Single Weretiger",
+    "Place": "Pitax Royal Palace",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

@@ -76,5 +76,11 @@
     "Name": "Insanity",
     "CName": "",
     "Special": false
+  },
+  {
+    "ID": 14,
+    "Name": "Polar Ray",
+    "CName": "",
+    "Special": false
   }
 ]

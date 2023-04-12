@@ -1708,5 +1708,35 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 115,
+    "Name": "Pitax Royal Palace Treasure B",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Pitax Royal Palace",
+    "Position": "East",
+    "ItemStack": "Pitax Royal Palace Treasure B",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 116,
+    "Name": "Pitax Royal Palace Treasure C",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Pitax Royal Palace",
+    "Position": "East",
+    "ItemStack": "Authority",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

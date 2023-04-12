@@ -592,5 +592,16 @@
     "EnemyGroup2": "Pitax Group B",
     "EnemyGroup3": null,
     "Memo": ""
+  },
+  {
+    "ID": 55,
+    "Name": "Pitax Royal Palace Alarm",
+    "Place": "Pitax Royal Palace",
+    "Position": "West",
+    "HasPlot": false,
+    "EnemyGroup1": "Pitax Royal Palace Group B",
+    "EnemyGroup2": "Pitax Royal Palace Group C",
+    "EnemyGroup3": null,
+    "Memo": ""
   }
 ]

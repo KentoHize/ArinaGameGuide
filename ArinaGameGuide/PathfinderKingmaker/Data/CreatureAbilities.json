@@ -3094,5 +3094,32 @@
     "DamageType1": "Acid",
     "DamageType2": "Fire",
     "DC": null
+  },
+  {
+    "ID": 346,
+    "Creature": "Alasen",
+    "Ability": "Disorienting Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 347,
+    "Creature": "Alasen",
+    "Ability": "Brutal Beating",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 348,
+    "Creature": "Alasen",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

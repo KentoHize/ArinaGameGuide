@@ -7494,5 +7494,109 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 940,
+    "ItemStack": "SL3 + BoGS4 + AoNA2 + RoP3",
+    "Item": "Studded Leather +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 941,
+    "ItemStack": "SL3 + BoGS4 + AoNA2 + RoP3",
+    "Item": "Belt of Giant Strength +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 942,
+    "ItemStack": "SL3 + BoGS4 + AoNA2 + RoP3",
+    "Item": "Amulet of Natural Armor +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 943,
+    "ItemStack": "SL3 + BoGS4 + AoNA2 + RoP3",
+    "Item": "Ring of Protection +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 945,
+    "ItemStack": "Pitax Royal Palace Treasure B",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 5,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 944,
+    "ItemStack": "Pitax Royal Palace Treasure B",
+    "Item": "Piece of Skymetal",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 946,
+    "ItemStack": "Authority",
+    "Item": "Authority",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 947,
+    "ItemStack": "Gnome 17 Wizard RS",
+    "Item": "Masterwork Light Crossbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 948,
+    "ItemStack": "Gnome 17 Wizard RS",
+    "Item": "Belt of Mighty Constitution +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 949,
+    "ItemStack": "Gnome 17 Wizard RS",
+    "Item": "Headband of Vast Intelligence +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 950,
+    "ItemStack": "Gnome 17 Wizard RS",
+    "Item": "Ring of Protection +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 951,
+    "ItemStack": "Gnome 17 Wizard RS",
+    "Item": "Amulet of Natural Armor +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 952,
+    "ItemStack": "Gnome 17 Wizard RS",
+    "Item": "Cloak of Resistance +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

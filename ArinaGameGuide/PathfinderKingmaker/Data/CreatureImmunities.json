@@ -1432,5 +1432,11 @@
     "Creature": "Mimic 22 Alchemist",
     "Condition": "Spell - Magic Missile",
     "ConditionGroup": null
+  },
+  {
+    "ID": 260,
+    "Creature": "Gnome 17 Wizard",
+    "Condition": "Spell - Magic Missile",
+    "ConditionGroup": null
   }
 ]
