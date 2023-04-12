@@ -2491,7 +2491,7 @@
   },
   {
     "ID": 168,
-    "Name": "Pitax Royal Palace Storage",
+    "Name": "Pitax Royal Palace Basement",
     "DisplayName": "Pitax Royal Palace",
     "CName": "",
     "Type": "Dungeon",
@@ -2503,5 +2503,20 @@
     "HasPlot": false,
     "Description": "",
     "Memo": "Athletics DC 40"
+  },
+  {
+    "ID": 169,
+    "Name": "Pitax Royal Palace King's Chambers",
+    "DisplayName": "Pitax Royal Palace",
+    "CName": "",
+    "Type": "Dungeon",
+    "Region": "Pitax",
+    "SuggestedLevelMin": 16,
+    "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

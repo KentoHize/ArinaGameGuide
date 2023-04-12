@@ -3499,7 +3499,7 @@
           "MaxValue": "",
           "MaxLength": 0,
           "AutoGenerateKey": false,
-          "IsUnique": true
+          "IsUnique": false
         },
         {
           "Name": "DisplayCName",

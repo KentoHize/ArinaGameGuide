@@ -1918,5 +1918,35 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 129,
+    "Name": "Pitax Royal Palace King's Chambers' Treasure A",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Pitax Royal Palace King's Chambers",
+    "Position": "North East",
+    "ItemStack": "Pitax Royal Palace King's Chambers' Treasure A",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 130,
+    "Name": "Pitax Royal Palace King's Chambers' Treasure B",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Pitax Royal Palace King's Chambers",
+    "Position": "North East",
+    "ItemStack": "Pitax Royal Palace King's Chambers' Treasure B",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

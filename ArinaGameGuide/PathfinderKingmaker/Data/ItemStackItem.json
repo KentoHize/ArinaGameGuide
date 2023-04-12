@@ -8182,5 +8182,101 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1027,
+    "ItemStack": "Pitax Royal Palace King's Chambers' Treasure A",
+    "Item": "Bottle of Oil",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1028,
+    "ItemStack": "Pitax Royal Palace King's Chambers' Treasure A",
+    "Item": "Decorated Scabbard 5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1029,
+    "ItemStack": "Pitax Royal Palace King's Chambers' Treasure A",
+    "Item": "Diamond Dust",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1030,
+    "ItemStack": "Pitax Royal Palace King's Chambers' Treasure A",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 17,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1031,
+    "ItemStack": "Pitax Royal Palace King's Chambers' Treasure A",
+    "Item": "Piece of Skymetal",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1032,
+    "ItemStack": "Pitax Royal Palace King's Chambers' Treasure B",
+    "Item": "Vulgar Statuette",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1033,
+    "ItemStack": "Pitax Royal Palace King's Chambers' Treasure B",
+    "Item": "The Path of Splendid Glory",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1034,
+    "ItemStack": "Pitax Royal Palace King's Chambers' Treasure B",
+    "Item": "Scroll of Longstrider",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1035,
+    "ItemStack": "Pitax Royal Palace King's Chambers' Treasure B",
+    "Item": "Silver Chain",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1036,
+    "ItemStack": "Pitax Royal Palace King's Chambers' Treasure B",
+    "Item": "Scroll of Burst of Nettles",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1037,
+    "ItemStack": "Pitax Royal Palace King's Chambers' Treasure B",
+    "Item": "Scroll of Shield",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1038,
+    "ItemStack": "Pitax Royal Palace King's Chambers' Treasure B",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 150,
+    "RandomQuantity": null
   }
 ]

@@ -9621,7 +9621,7 @@
   },
   {
     "ID": 965,
-    "CreatureGroup": "Pitax Royal Palace Storage Group A",
+    "CreatureGroup": "Pitax Royal Palace Basement Group A",
     "Creature": "Wererat 12 Rogue",
     "DisplayName": null,
     "Quantity": 4,
@@ -9631,7 +9631,7 @@
   },
   {
     "ID": 966,
-    "CreatureGroup": "Pitax Royal Palace Storage Group A",
+    "CreatureGroup": "Pitax Royal Palace Basement Group A",
     "Creature": "Human 9 Shield Fighter",
     "DisplayName": null,
     "Quantity": 4,
@@ -9641,7 +9641,7 @@
   },
   {
     "ID": 967,
-    "CreatureGroup": "Pitax Royal Palace Storage Group A",
+    "CreatureGroup": "Pitax Royal Palace Basement Group A",
     "Creature": "Human 9 Archer",
     "DisplayName": null,
     "Quantity": 4,
@@ -9651,7 +9651,7 @@
   },
   {
     "ID": 968,
-    "CreatureGroup": "Pitax Royal Palace Storage Group A",
+    "CreatureGroup": "Pitax Royal Palace Basement Group A",
     "Creature": "Human 9 Bard",
     "DisplayName": null,
     "Quantity": 2,
@@ -9661,7 +9661,7 @@
   },
   {
     "ID": 969,
-    "CreatureGroup": "Pitax Royal Palace Storage Group A",
+    "CreatureGroup": "Pitax Royal Palace Basement Group A",
     "Creature": "Wererat 12 Alchemist",
     "DisplayName": null,
     "Quantity": 1,

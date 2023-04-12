@@ -3137,8 +3137,8 @@
   },
   {
     "ID": 393,
-    "Name": "Pitax Royal Palace Storage Group A",
-    "Place": "Pitax Royal Palace Storage",
+    "Name": "Pitax Royal Palace Basement Group A",
+    "Place": "Pitax Royal Palace Basement",
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
@@ -3146,7 +3146,7 @@
   {
     "ID": 394,
     "Name": "Gedovius Group",
-    "Place": "Pitax Royal Palace Storage",
+    "Place": "Pitax Royal Palace Basement",
     "Position": "East",
     "Stage": 0,
     "Memo": ""
@@ -3154,7 +3154,7 @@
   {
     "ID": 395,
     "Name": "Hannis Drelev",
-    "Place": "Pitax Royal Palace Storage",
+    "Place": "Pitax Royal Palace Basement",
     "Position": "East",
     "Stage": 0,
     "Memo": ""
@@ -3162,7 +3162,7 @@
   {
     "ID": 396,
     "Name": "Reaford Tabulus Vallersteil",
-    "Place": "Pitax Royal Palace Storage",
+    "Place": "Pitax Royal Palace Basement",
     "Position": "North East",
     "Stage": 0,
     "Memo": ""
