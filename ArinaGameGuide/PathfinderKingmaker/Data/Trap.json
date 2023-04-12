@@ -1924,7 +1924,7 @@
     "Name": "Pitax 2 Trap",
     "CName": "",
     "Type": "Finger Death",
-    "Place": "Pitax 2",
+    "Place": "Pitax Main Square",
     "DisarmDC": null,
     "Position": "North",
     "RelatedEncounter": null,
@@ -1992,13 +1992,37 @@
     "Memo": ""
   },
   {
-    "ID": 173,
+    "ID": 175,
     "Name": "Pitax Royal Palace Trap",
     "CName": "",
     "Type": "Unknown Trap",
     "Place": "Pitax Royal Palace",
     "DisarmDC": 32,
-    "Position": "East",
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 174,
+    "Name": "Pitax Port Treasure Trap",
+    "CName": "",
+    "Type": "Firestorm",
+    "Place": "Pitax Port",
+    "DisarmDC": null,
+    "Position": null,
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 176,
+    "Name": "Pitax Royal Palace Storage Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Pitax Royal Palace Storage",
+    "DisarmDC": 32,
+    "Position": "Center",
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""

@@ -3556,5 +3556,53 @@
     "Creature": "Gnome 17 Wizard",
     "Skill": "Perception",
     "Bonus": 25
+  },
+  {
+    "ID": 595,
+    "Creature": "Troll Royal Guard Veteran",
+    "Skill": "Perception",
+    "Bonus": 32
+  },
+  {
+    "ID": 596,
+    "Creature": "Troll Royal Guard Veteran",
+    "Skill": "Stealth",
+    "Bonus": 9
+  },
+  {
+    "ID": 597,
+    "Creature": "Gaetane",
+    "Skill": "Mobility",
+    "Bonus": 20
+  },
+  {
+    "ID": 598,
+    "Creature": "Gaetane",
+    "Skill": "Perception",
+    "Bonus": 22
+  },
+  {
+    "ID": 600,
+    "Creature": "Gaetane",
+    "Skill": "Stealth",
+    "Bonus": 22
+  },
+  {
+    "ID": 599,
+    "Creature": "Gaetane",
+    "Skill": "Trickery",
+    "Bonus": 20
+  },
+  {
+    "ID": 601,
+    "Creature": "Gedovius",
+    "Skill": "Perception",
+    "Bonus": 39
+  },
+  {
+    "ID": 602,
+    "Creature": "Gedovius",
+    "Skill": "Stealth",
+    "Bonus": 41
   }
 ]

@@ -7662,5 +7662,213 @@
     "RandomItem": null,
     "Quantity": 10,
     "RandomQuantity": null
+  },
+  {
+    "ID": 961,
+    "ItemStack": "Pitax Royal Palace Treasure G",
+    "Item": "Arbiter's Robe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 962,
+    "ItemStack": "Pitax Royal Palace Treasure G",
+    "Item": "Charoite Wyven",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 964,
+    "ItemStack": "Pitax Royal Palace Treasure H",
+    "Item": "Carved Urn",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 963,
+    "ItemStack": "Pitax Royal Palace Treasure H",
+    "Item": "Skymetal Cogwheel",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 966,
+    "ItemStack": "Pitax Royal Palace Treasure H",
+    "Item": "Carved Urn",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 965,
+    "ItemStack": "Pitax Royal Palace Treasure H",
+    "Item": "Carved Beads",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 967,
+    "ItemStack": "Pitax Royal Palace Treasure H",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 17,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 968,
+    "ItemStack": "Pitax Port Treasure B",
+    "Item": "Composite Shortbow",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 969,
+    "ItemStack": "Pitax Port Treasure B",
+    "Item": "Wooden Spoon",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 970,
+    "ItemStack": "Pitax Port Treasure B",
+    "Item": "Handaxe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 971,
+    "ItemStack": "Pitax Port Treasure B",
+    "Item": "Silver Statuette",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 972,
+    "ItemStack": "Pitax Port Treasure B",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 83,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 973,
+    "ItemStack": "Pitax Port Treasure B",
+    "Item": "Skymetal Cogwheel",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 974,
+    "ItemStack": "River Fox's Memento Pendant",
+    "Item": "River Fox's Memento Pendant",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 975,
+    "ItemStack": "Pitax Royal Palace Treasure I",
+    "Item": "Scroll of Protection from Law, Communal",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 976,
+    "ItemStack": "Pitax Royal Palace Treasure I",
+    "Item": "Clear Quartz",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 977,
+    "ItemStack": "Pitax Royal Palace Treasure I",
+    "Item": "Exquisite Pearl",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 978,
+    "ItemStack": "Pitax Royal Palace Treasure I",
+    "Item": "Copper Ring",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 979,
+    "ItemStack": "Pitax Royal Palace Treasure I",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 855,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 980,
+    "ItemStack": "Pitax Royal Palace Treasure I",
+    "Item": "Piece of Skymetal",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 981,
+    "ItemStack": "Gaetane RS",
+    "Item": "Piece of Skymetal",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 982,
+    "ItemStack": "Gaetane RS",
+    "Item": "Allslayer",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 983,
+    "ItemStack": "Gaetane RS",
+    "Item": "Corrosive Shortsword +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 984,
+    "ItemStack": "Gaetane RS",
+    "Item": "Amulet of Natural Armor +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 985,
+    "ItemStack": "Gaetane RS",
+    "Item": "Ring of Protection +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 986,
+    "ItemStack": "Gaetane RS",
+    "Item": "Bracers of Armor +8",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

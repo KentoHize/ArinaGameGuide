@@ -112,5 +112,17 @@
     "Name": "Wrath of the Bear God",
     "CName": "",
     "Description": "(Need Test)\nNature attack have shock\n\nWhen Change Shape\nsonic & electricty dmg change to 1d10\n\nif critical, become  a Call lighting Storm Spell target(5d6 dmg DC 24)"
+  },
+  {
+    "ID": 20,
+    "Name": "Unstoppable",
+    "CName": "",
+    "Description": "ignore all damage reduction and immunties"
+  },
+  {
+    "ID": 21,
+    "Name": "Corrosive",
+    "CName": "",
+    "Description": "+1d6 acid dmg"
   }
 ]

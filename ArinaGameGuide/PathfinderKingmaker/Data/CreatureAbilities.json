@@ -3121,5 +3121,23 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 349,
+    "Creature": "Troll Royal Guard Veteran",
+    "Ability": "Regeneration",
+    "Amount": 5,
+    "DamageType1": "Acid",
+    "DamageType2": "Fire",
+    "DC": null
+  },
+  {
+    "ID": 350,
+    "Creature": "Gedovius",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

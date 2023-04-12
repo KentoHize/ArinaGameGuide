@@ -82,5 +82,11 @@
     "Name": "Polar Ray",
     "CName": "",
     "Special": false
+  },
+  {
+    "ID": 15,
+    "Name": "Firestorm",
+    "CName": "",
+    "Special": false
   }
 ]

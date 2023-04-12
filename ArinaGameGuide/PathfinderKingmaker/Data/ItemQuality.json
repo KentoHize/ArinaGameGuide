@@ -178,5 +178,35 @@
     "Item": "Prehistoric Tooth",
     "Quality": "Necrotic Burst",
     "Rank": null
+  },
+  {
+    "ID": 31,
+    "Item": "Allslayer",
+    "Quality": "Enhancement",
+    "Rank": 5
+  },
+  {
+    "ID": 33,
+    "Item": "Allslayer",
+    "Quality": "Keen",
+    "Rank": null
+  },
+  {
+    "ID": 32,
+    "Item": "Allslayer",
+    "Quality": "Unstoppable",
+    "Rank": null
+  },
+  {
+    "ID": 34,
+    "Item": "Corrosive Shortsword +2",
+    "Quality": "Enhancement",
+    "Rank": 2
+  },
+  {
+    "ID": 35,
+    "Item": "Corrosive Shortsword +2",
+    "Quality": "Corrosive",
+    "Rank": null
   }
 ]

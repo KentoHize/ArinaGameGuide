@@ -2994,7 +2994,7 @@
   {
     "ID": 375,
     "Name": "Pitax Group A",
-    "Place": "Pitax 2",
+    "Place": "Pitax Main Square",
     "Position": "North East",
     "Stage": 0,
     "Memo": "Guard 2\n\nTemple Guard 3"
@@ -3002,7 +3002,7 @@
   {
     "ID": 376,
     "Name": "Pitax Group B",
-    "Place": "Pitax 2",
+    "Place": "Pitax Main Square",
     "Position": "North East",
     "Stage": 0,
     "Memo": ""
@@ -3083,6 +3083,70 @@
     "ID": 385,
     "Name": "Single Weretiger",
     "Place": "Pitax Royal Palace",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 387,
+    "Name": "Pitax Royal Palace Alarm Group A",
+    "Place": "Pitax Royal Palace",
+    "Position": "South East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 388,
+    "Name": "Pitax Royal Palace Group H",
+    "Place": "Pitax Royal Palace",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 389,
+    "Name": "Eimar Deschamps",
+    "Place": "Pitax Academy",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 390,
+    "Name": "Gaetane Group",
+    "Place": "Pitax Royal Palace",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 391,
+    "Name": "Pitax Royal Palace Group I",
+    "Place": "Pitax Royal Palace",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 392,
+    "Name": "Pitax Royal Palace Group J",
+    "Place": "Pitax Royal Palace",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 393,
+    "Name": "Pitax Royal Palace Storage Group A",
+    "Place": "Pitax Royal Palace Storage",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 394,
+    "Name": "Gedovius Group",
+    "Place": "Pitax Royal Palace Storage",
     "Position": "East",
     "Stage": 0,
     "Memo": ""

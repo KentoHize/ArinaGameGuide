@@ -2763,5 +2763,19 @@
     "Type": "Immunity",
     "DamageType": "Fire",
     "Amount": null
+  },
+  {
+    "ID": 396,
+    "Creature": "Gaetane",
+    "Type": "DamageReduction",
+    "DamageType": "Silver",
+    "Amount": 10
+  },
+  {
+    "ID": 397,
+    "Creature": "Gedovius",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
   }
 ]

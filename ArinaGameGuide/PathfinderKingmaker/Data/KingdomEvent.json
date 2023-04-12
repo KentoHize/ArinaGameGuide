@@ -1813,7 +1813,7 @@
     "HaveDisadvantage1": null,
     "HaveDisadvantage2": null,
     "CloseDate": "4713/08/01",
-    "Repeat": false,
+    "Repeat": true,
     "Description": "",
     "Memo": ""
   },

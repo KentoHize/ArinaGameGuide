@@ -9478,5 +9478,215 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 951,
+    "CreatureGroup": "Pitax Royal Palace Alarm Group A",
+    "Creature": "Troll Royal Guard Berserk",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 952,
+    "CreatureGroup": "Pitax Royal Palace Alarm Group A",
+    "Creature": "Human 9 Bard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 953,
+    "CreatureGroup": "Pitax Royal Palace Alarm Group A",
+    "Creature": "Human 9 Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 954,
+    "CreatureGroup": "Pitax Royal Palace Group H",
+    "Creature": "Troll Guard Veteran",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 955,
+    "CreatureGroup": "Eimar Deschamps",
+    "Creature": "Eimar Deschamps",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 956,
+    "CreatureGroup": "Gaetane Group",
+    "Creature": "Gaetane",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 957,
+    "CreatureGroup": "Gaetane Group",
+    "Creature": "Human 9 Bard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 958,
+    "CreatureGroup": "Gaetane Group",
+    "Creature": "Human 9 Shield Fighter",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 960,
+    "CreatureGroup": "Gaetane Group",
+    "Creature": "Human 9 Archer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 959,
+    "CreatureGroup": "Gaetane Group",
+    "Creature": "Wererat 12 Rogue",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 961,
+    "CreatureGroup": "Gaetane Group",
+    "Creature": "Greater Weretiger 10 Fighter",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 962,
+    "CreatureGroup": "Pitax Royal Palace Group I",
+    "Creature": "Wererat 12 Rogue",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 963,
+    "CreatureGroup": "Pitax Royal Palace Group J",
+    "Creature": "Human 9 Shield Fighter",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 964,
+    "CreatureGroup": "Pitax Royal Palace Group J",
+    "Creature": "Human 9 Archer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 965,
+    "CreatureGroup": "Pitax Royal Palace Storage Group A",
+    "Creature": "Wererat 12 Rogue",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 966,
+    "CreatureGroup": "Pitax Royal Palace Storage Group A",
+    "Creature": "Human 9 Shield Fighter",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 967,
+    "CreatureGroup": "Pitax Royal Palace Storage Group A",
+    "Creature": "Human 9 Archer",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 968,
+    "CreatureGroup": "Pitax Royal Palace Storage Group A",
+    "Creature": "Human 9 Bard",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 969,
+    "CreatureGroup": "Pitax Royal Palace Storage Group A",
+    "Creature": "Wererat 12 Alchemist",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 970,
+    "CreatureGroup": "Gedovius Group",
+    "Creature": "Gedovius",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 971,
+    "CreatureGroup": "Gedovius Group",
+    "Creature": "Ferocious Smilodon",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]
