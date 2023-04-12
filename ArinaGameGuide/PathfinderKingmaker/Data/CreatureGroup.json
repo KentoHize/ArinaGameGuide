@@ -2993,7 +2993,7 @@
   },
   {
     "ID": 375,
-    "Name": "Pitax Final Battle Group A",
+    "Name": "Pitax Group A",
     "Place": "Pitax 2",
     "Position": "North East",
     "Stage": 0,
@@ -3001,9 +3001,17 @@
   },
   {
     "ID": 376,
-    "Name": "Pitax Final Battle Group B",
+    "Name": "Pitax Group B",
     "Place": "Pitax 2",
     "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 377,
+    "Name": "Pitax Royal Palace Group A",
+    "Place": "Pitax Royal Palace",
+    "Position": "Center",
     "Stage": 0,
     "Memo": ""
   }

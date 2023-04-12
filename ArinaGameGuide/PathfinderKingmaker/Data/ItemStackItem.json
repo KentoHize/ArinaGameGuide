@@ -7446,5 +7446,13 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 934,
+    "ItemStack": "Ring of Law",
+    "Item": "Ring of Law",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

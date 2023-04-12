@@ -1918,5 +1918,17 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 167,
+    "Name": "Pitax 2 Trap",
+    "CName": "",
+    "Type": "Finger Death",
+    "Place": "Pitax 2",
+    "DisarmDC": null,
+    "Position": "North",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

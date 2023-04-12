@@ -584,12 +584,12 @@
   },
   {
     "ID": 54,
-    "Name": "Pitax Final Battle",
+    "Name": "Pitax Group",
     "Place": "Pitax 2",
     "Position": "North East",
     "HasPlot": true,
-    "EnemyGroup1": "Pitax Final Battle Group A",
-    "EnemyGroup2": "Pitax Final Battle Group B",
+    "EnemyGroup1": "Pitax Group A",
+    "EnemyGroup2": "Pitax Group B",
     "EnemyGroup3": null,
     "Memo": ""
   }

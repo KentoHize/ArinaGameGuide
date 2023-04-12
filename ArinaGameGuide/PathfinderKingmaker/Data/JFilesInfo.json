@@ -6736,6 +6736,24 @@
           "IsUnique": false
         },
         {
+          "Name": "Trap",
+          "IsKey": false,
+          "IsNullable": true,
+          "Type": "Integer",
+          "Choices": [],
+          "FKTable": "Trap",
+          "FKColumn": "ID",
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        },
+        {
           "Name": "TrapDC",
           "IsKey": false,
           "IsNullable": true,

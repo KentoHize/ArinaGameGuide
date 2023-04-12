@@ -8039,5 +8039,22 @@
     "StoryItem": false,
     "Weight": 14.0,
     "Description": ""
+  },
+  {
+    "ID": 474,
+    "Name": "Ring of Law",
+    "DisplayName": "Ring of Law",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Ring",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 11000,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.05,
+    "Description": "+4 deflection AC\nimmune to confusion and fear, only lawful can use"
   }
 ]

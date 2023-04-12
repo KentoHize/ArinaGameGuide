@@ -64,5 +64,11 @@
     "Name": "Acid Fog",
     "CName": "",
     "Special": false
+  },
+  {
+    "ID": 12,
+    "Name": "Finger Death",
+    "CName": "",
+    "Special": false
   }
 ]
