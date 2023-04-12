@@ -70,5 +70,11 @@
     "Name": "Finger Death",
     "CName": "",
     "Special": false
+  },
+  {
+    "ID": 13,
+    "Name": "Insanity",
+    "CName": "",
+    "Special": false
   }
 ]

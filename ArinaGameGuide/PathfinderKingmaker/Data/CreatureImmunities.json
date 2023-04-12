@@ -1408,5 +1408,29 @@
     "Creature": "Elf 9 Shock Rogue",
     "Condition": "Sleep",
     "ConditionGroup": null
+  },
+  {
+    "ID": 256,
+    "Creature": "Ooze 10",
+    "Condition": null,
+    "ConditionGroup": "Ooze Immunites"
+  },
+  {
+    "ID": 257,
+    "Creature": "Ooze 8",
+    "Condition": null,
+    "ConditionGroup": "Ooze Immunites"
+  },
+  {
+    "ID": 258,
+    "Creature": "Mimic 22 Alchemist",
+    "Condition": "Poison",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 259,
+    "Creature": "Mimic 22 Alchemist",
+    "Condition": "Spell - Magic Missile",
+    "ConditionGroup": null
   }
 ]

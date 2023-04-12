@@ -468,5 +468,55 @@
     "ID": 94,
     "EffectOrConditionSet": "Dragon Immunities",
     "EffectOrConditon": "Paralyzed"
+  },
+  {
+    "ID": 95,
+    "EffectOrConditionSet": "Ooze Immunites",
+    "EffectOrConditon": "Mind-Affecting"
+  },
+  {
+    "ID": 96,
+    "EffectOrConditionSet": "Ooze Immunites",
+    "EffectOrConditon": "Compulsion"
+  },
+  {
+    "ID": 97,
+    "EffectOrConditionSet": "Ooze Immunites",
+    "EffectOrConditon": "Poison"
+  },
+  {
+    "ID": 98,
+    "EffectOrConditionSet": "Ooze Immunites",
+    "EffectOrConditon": "Charmed"
+  },
+  {
+    "ID": 99,
+    "EffectOrConditionSet": "Ooze Immunites",
+    "EffectOrConditon": "Stunned"
+  },
+  {
+    "ID": 100,
+    "EffectOrConditionSet": "Ooze Immunites",
+    "EffectOrConditon": "Sight"
+  },
+  {
+    "ID": 101,
+    "EffectOrConditionSet": "Ooze Immunites",
+    "EffectOrConditon": "Critical Hits"
+  },
+  {
+    "ID": 102,
+    "EffectOrConditionSet": "Ooze Immunites",
+    "EffectOrConditon": "precision damage"
+  },
+  {
+    "ID": 103,
+    "EffectOrConditionSet": "Ooze Immunites",
+    "EffectOrConditon": "Prone"
+  },
+  {
+    "ID": 104,
+    "EffectOrConditionSet": "Ooze Immunites",
+    "EffectOrConditon": "Sleep"
   }
 ]

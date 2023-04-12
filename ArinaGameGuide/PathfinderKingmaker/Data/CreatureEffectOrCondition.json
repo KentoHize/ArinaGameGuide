@@ -1042,5 +1042,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 119,
+    "Creature": "Mimic 22 Alchemist",
+    "EffectOrCondition": "Greater Mutagen - Dexterity and Constitution",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

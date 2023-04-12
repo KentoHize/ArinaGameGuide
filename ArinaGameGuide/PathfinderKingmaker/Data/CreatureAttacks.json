@@ -5346,5 +5346,33 @@
     "DamageAdditiveBonus": 3,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 422,
+    "Creature": "Ooze 10",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 7,
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 14,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 423,
+    "Creature": "Ooze 8",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 14,
+    "Weapon": null,
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 11,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

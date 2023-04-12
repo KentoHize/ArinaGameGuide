@@ -3014,5 +3014,29 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 378,
+    "Name": "Pitax Royal Palace Group B",
+    "Place": "Pitax Royal Palace",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 379,
+    "Name": "Pitax Royal Palace Group C",
+    "Place": "Pitax Royal Palace",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 380,
+    "Name": "Pitax Royal Palace Group D",
+    "Place": "Pitax Royal Palace",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

@@ -3454,5 +3454,53 @@
     "Creature": "Elf 9 Shock Rogue",
     "Skill": "Stealth",
     "Bonus": 17
+  },
+  {
+    "ID": 578,
+    "Creature": "Ooze 10",
+    "Skill": "Perception",
+    "Bonus": 14
+  },
+  {
+    "ID": 579,
+    "Creature": "Ooze 10",
+    "Skill": "Stealth",
+    "Bonus": 58
+  },
+  {
+    "ID": 580,
+    "Creature": "Ooze 8",
+    "Skill": "Perception",
+    "Bonus": 12
+  },
+  {
+    "ID": 581,
+    "Creature": "Ooze 8",
+    "Skill": "Stealth",
+    "Bonus": 63
+  },
+  {
+    "ID": 582,
+    "Creature": "Mimic 22 Alchemist",
+    "Skill": "Mobility",
+    "Bonus": 17
+  },
+  {
+    "ID": 583,
+    "Creature": "Mimic 22 Alchemist",
+    "Skill": "Perception",
+    "Bonus": 22
+  },
+  {
+    "ID": 584,
+    "Creature": "Mimic 22 Alchemist",
+    "Skill": "Athletics",
+    "Bonus": 22
+  },
+  {
+    "ID": 585,
+    "Creature": "Mimic 22 Alchemist",
+    "Skill": "Stealth",
+    "Bonus": 67
   }
 ]

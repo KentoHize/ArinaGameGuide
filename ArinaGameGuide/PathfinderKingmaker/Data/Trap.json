@@ -1930,5 +1930,29 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 168,
+    "Name": "Pitax Royal Palace Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Pitax Royal Palace",
+    "DisarmDC": 32,
+    "Position": "West",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 169,
+    "Name": "Pitax Royal Palace Trap",
+    "CName": "",
+    "Type": "Insanity",
+    "Place": "Pitax Royal Palace",
+    "DisarmDC": null,
+    "Position": "West",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

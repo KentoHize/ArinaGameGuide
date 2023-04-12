@@ -103,5 +103,10 @@
     "ID": 21,
     "Name": "Dragon Immunities",
     "CName": ""
+  },
+  {
+    "ID": 22,
+    "Name": "Ooze Immunites",
+    "CName": ""
   }
 ]

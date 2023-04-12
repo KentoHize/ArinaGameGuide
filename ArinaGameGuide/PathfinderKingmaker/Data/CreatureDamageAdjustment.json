@@ -2728,5 +2728,19 @@
     "Type": "DamageReduction",
     "DamageType": "None",
     "Amount": 6
+  },
+  {
+    "ID": 391,
+    "Creature": "Ooze 10",
+    "Type": "Immunity",
+    "DamageType": "Acid",
+    "Amount": null
+  },
+  {
+    "ID": 392,
+    "Creature": "Mimic 22 Alchemist",
+    "Type": "Immunity",
+    "DamageType": "Acid",
+    "Amount": null
   }
 ]

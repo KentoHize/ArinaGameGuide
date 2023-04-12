@@ -9258,5 +9258,65 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 928,
+    "CreatureGroup": "Pitax Royal Palace Group B",
+    "Creature": "Golden Golem",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 929,
+    "CreatureGroup": "Pitax Royal Palace Group C",
+    "Creature": "Golden Golem",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 930,
+    "CreatureGroup": "Pitax Royal Palace Group C",
+    "Creature": "Human 9 Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 932,
+    "CreatureGroup": "Pitax Royal Palace Group D",
+    "Creature": "Ooze 10",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 933,
+    "CreatureGroup": "Pitax Royal Palace Group D",
+    "Creature": "Ooze 8",
+    "DisplayName": null,
+    "Quantity": 6,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 934,
+    "CreatureGroup": "Pitax Royal Palace Group D",
+    "Creature": "Mimic 22 Alchemist",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]
