@@ -12,6 +12,12 @@
     "DamageType": "Bludgeon"
   },
   {
+    "ID": 19,
+    "Name": "Branch",
+    "CName": "",
+    "DamageType": "Bludgeon"
+  },
+  {
     "ID": 5,
     "Name": "Claw",
     "CName": "",
@@ -104,12 +110,6 @@
   {
     "ID": 18,
     "Name": "Wing",
-    "CName": "",
-    "DamageType": "Bludgeon"
-  },
-  {
-    "ID": 19,
-    "Name": "Branch",
     "CName": "",
     "DamageType": "Bludgeon"
   }

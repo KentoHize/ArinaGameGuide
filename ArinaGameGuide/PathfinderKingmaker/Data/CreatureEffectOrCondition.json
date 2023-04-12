@@ -1051,5 +1051,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 120,
+    "Creature": "Troll Guard Veteran",
+    "EffectOrCondition": "Bear's Endurance",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

@@ -1693,5 +1693,20 @@
     "LockDC": null,
     "RelatedEncounter": "Pitax Group",
     "Memo": ""
+  },
+  {
+    "ID": 114,
+    "Name": "Pitax Royal Palace Treasure A",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Pitax Royal Palace",
+    "Position": "North West",
+    "ItemStack": "Pitax Royal Palace Treasure A",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

@@ -3038,5 +3038,13 @@
     "Position": "North West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 381,
+    "Name": "Pitax Royal Palace Group E",
+    "Place": "Pitax Royal Palace",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

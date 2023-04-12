@@ -160,5 +160,23 @@
     "Item": "Deadly Grace",
     "Quality": "Unfair Advantage",
     "Rank": null
+  },
+  {
+    "ID": 28,
+    "Item": "Prehistoric Tooth",
+    "Quality": "Enhancement",
+    "Rank": 4
+  },
+  {
+    "ID": 29,
+    "Item": "Prehistoric Tooth",
+    "Quality": "Lethal",
+    "Rank": null
+  },
+  {
+    "ID": 30,
+    "Item": "Prehistoric Tooth",
+    "Quality": "Necrotic Burst",
+    "Rank": null
   }
 ]

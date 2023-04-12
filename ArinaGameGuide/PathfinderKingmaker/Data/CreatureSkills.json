@@ -3502,5 +3502,29 @@
     "Creature": "Mimic 22 Alchemist",
     "Skill": "Stealth",
     "Bonus": 67
+  },
+  {
+    "ID": 586,
+    "Creature": "Troll Royal Guard Berserk",
+    "Skill": "Persuasion",
+    "Bonus": 32
+  },
+  {
+    "ID": 587,
+    "Creature": "Troll Royal Guard Berserk",
+    "Skill": "Stealth",
+    "Bonus": 15
+  },
+  {
+    "ID": 588,
+    "Creature": "Troll Guard Veteran",
+    "Skill": "Perception",
+    "Bonus": 30
+  },
+  {
+    "ID": 589,
+    "Creature": "Troll Guard Veteran",
+    "Skill": "Stealth",
+    "Bonus": 7
   }
 ]

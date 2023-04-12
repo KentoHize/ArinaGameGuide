@@ -3049,5 +3049,50 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 341,
+    "Creature": "Troll Royal Guard Berserk",
+    "Ability": "Regeneration",
+    "Amount": 5,
+    "DamageType1": "Acid",
+    "DamageType2": "Fire",
+    "DC": null
+  },
+  {
+    "ID": 342,
+    "Creature": "Troll Royal Guard Berserk",
+    "Ability": "Reckless Stance",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 343,
+    "Creature": "Troll Royal Guard Berserk",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 344,
+    "Creature": "Troll Royal Guard Berserk",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 345,
+    "Creature": "Troll Guard Veteran",
+    "Ability": "Regeneration",
+    "Amount": 5,
+    "DamageType1": "Acid",
+    "DamageType2": "Fire",
+    "DC": null
   }
 ]

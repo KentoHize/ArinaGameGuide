@@ -7454,5 +7454,45 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 935,
+    "ItemStack": "Pitax Royal Palace Treasure A",
+    "Item": "Sovereign",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 936,
+    "ItemStack": "Pitax Royal Palace Treasure A",
+    "Item": "Prehistoric Tooth",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 937,
+    "ItemStack": "Pitax Royal Palace Treasure A",
+    "Item": "Lost Key",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 938,
+    "ItemStack": "MV + BP",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 939,
+    "ItemStack": "MV + BP",
+    "Item": "Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

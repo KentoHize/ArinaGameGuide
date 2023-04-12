@@ -7,6 +7,13 @@
     "KnowledgeSkill": null
   },
   {
+    "ID": 20,
+    "Name": "Aberration",
+    "MainRace": "Aberration",
+    "SubRace": "Aberration",
+    "KnowledgeSkill": "Knowledge(Arcana)"
+  },
+  {
     "ID": 2,
     "Name": "Animal",
     "MainRace": "Animal",
@@ -21,11 +28,32 @@
     "KnowledgeSkill": null
   },
   {
+    "ID": 24,
+    "Name": "Devil",
+    "MainRace": "Outsider",
+    "SubRace": "Devil",
+    "KnowledgeSkill": null
+  },
+  {
     "ID": 6,
     "Name": "Dragon",
     "MainRace": "Dragon",
     "SubRace": "Dragon",
     "KnowledgeSkill": null
+  },
+  {
+    "ID": 21,
+    "Name": "Dwarf",
+    "MainRace": "Humanoid",
+    "SubRace": "Dwarf",
+    "KnowledgeSkill": "Knowledge(Arcana)"
+  },
+  {
+    "ID": 22,
+    "Name": "Elf",
+    "MainRace": "Humanoid",
+    "SubRace": "Elf",
+    "KnowledgeSkill": "Knowledge(Arcana)"
   },
   {
     "ID": 8,
@@ -60,6 +88,20 @@
     "Name": "Half-Elf",
     "MainRace": "Half-Elf",
     "SubRace": "Half-Elf",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 25,
+    "Name": "Halfling",
+    "MainRace": "Halfling",
+    "SubRace": "Halfling",
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 23,
+    "Name": "Half-Orc",
+    "MainRace": "Humanoid",
+    "SubRace": "Half-Orc",
     "KnowledgeSkill": null
   },
   {
@@ -130,48 +172,6 @@
     "Name": "Weretiger",
     "MainRace": "Human",
     "SubRace": "Weretiger",
-    "KnowledgeSkill": null
-  },
-  {
-    "ID": 20,
-    "Name": "Aberration",
-    "MainRace": "Aberration",
-    "SubRace": "Aberration",
-    "KnowledgeSkill": "Knowledge(Arcana)"
-  },
-  {
-    "ID": 21,
-    "Name": "Dwarf",
-    "MainRace": "Humanoid",
-    "SubRace": "Dwarf",
-    "KnowledgeSkill": "Knowledge(Arcana)"
-  },
-  {
-    "ID": 22,
-    "Name": "Elf",
-    "MainRace": "Humanoid",
-    "SubRace": "Elf",
-    "KnowledgeSkill": "Knowledge(Arcana)"
-  },
-  {
-    "ID": 23,
-    "Name": "Half-Orc",
-    "MainRace": "Humanoid",
-    "SubRace": "Half-Orc",
-    "KnowledgeSkill": null
-  },
-  {
-    "ID": 24,
-    "Name": "Devil",
-    "MainRace": "Outsider",
-    "SubRace": "Devil",
-    "KnowledgeSkill": null
-  },
-  {
-    "ID": 25,
-    "Name": "Halfling",
-    "MainRace": "Halfling",
-    "SubRace": "Halfling",
     "KnowledgeSkill": null
   }
 ]

@@ -2742,5 +2742,12 @@
     "Type": "Immunity",
     "DamageType": "Acid",
     "Amount": null
+  },
+  {
+    "ID": 393,
+    "Creature": "Troll Royal Guard Berserk",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 1
   }
 ]

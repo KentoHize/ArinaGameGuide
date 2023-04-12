@@ -1,5 +1,35 @@
 [
   {
+    "ID": 13,
+    "Name": "Agile",
+    "CName": "",
+    "Description": "Weapon Finesse"
+  },
+  {
+    "ID": 5,
+    "Name": "Arcane inscriptions",
+    "CName": "",
+    "Description": "+2 Enhancement bonus to attak with touch spell"
+  },
+  {
+    "ID": 8,
+    "Name": "Ardent",
+    "CName": "",
+    "Description": "+5 competence on Athletics"
+  },
+  {
+    "ID": 6,
+    "Name": "Breaker of Wills",
+    "CName": "",
+    "Description": "Hit -3 Will 1 minute"
+  },
+  {
+    "ID": 9,
+    "Name": "Deterrence",
+    "CName": "",
+    "Description": "+5 competence to Intimidate"
+  },
+  {
     "ID": 1,
     "Name": "Elite Expertise",
     "CName": "",
@@ -18,46 +48,28 @@
     "Description": "Rage +2 Better"
   },
   {
-    "ID": 4,
-    "Name": "Vicious",
-    "CName": "",
-    "Description": "Hit\n2d6 to enemy\n1d6 to self"
-  },
-  {
-    "ID": 5,
-    "Name": "Arcane inscriptions",
-    "CName": "",
-    "Description": "+2 Enhancement bonus to attak with touch spell"
-  },
-  {
-    "ID": 6,
-    "Name": "Breaker of Wills",
-    "CName": "",
-    "Description": "Hit -3 Will 1 minute"
-  },
-  {
-    "ID": 7,
-    "Name": "Speed",
-    "CName": "",
-    "Description": "Full attack +1 time"
-  },
-  {
-    "ID": 8,
-    "Name": "Ardent",
-    "CName": "",
-    "Description": "+5 competence on Athletics"
-  },
-  {
-    "ID": 9,
-    "Name": "Deterrence",
-    "CName": "",
-    "Description": "+5 competence to Intimidate"
-  },
-  {
     "ID": 10,
     "Name": "Greater Speed",
     "CName": "",
     "Description": "Full attack +2 times"
+  },
+  {
+    "ID": 17,
+    "Name": "Keen",
+    "CName": "",
+    "Description": "Doubles the threat range"
+  },
+  {
+    "ID": 18,
+    "Name": "Lethal",
+    "CName": "",
+    "Description": "Doubles the threat range(stack with other quality)"
+  },
+  {
+    "ID": 19,
+    "Name": "Necrotic Burst",
+    "CName": "",
+    "Description": "1d6 negative dmg\n1d10 when critical for every critical mutiplier after x1"
   },
   {
     "ID": 11,
@@ -72,10 +84,10 @@
     "Description": "1d6 electricity dmg"
   },
   {
-    "ID": 13,
-    "Name": "Agile",
+    "ID": 7,
+    "Name": "Speed",
     "CName": "",
-    "Description": "Weapon Finesse"
+    "Description": "Full attack +1 time"
   },
   {
     "ID": 14,
@@ -84,21 +96,21 @@
     "Description": "+1d6 sonic dmg"
   },
   {
-    "ID": 15,
-    "Name": "Wrath of the Bear God",
-    "CName": "",
-    "Description": "(Need Test)\nNature attack have shock\n\nWhen Change Shape\nsonic & electricty dmg change to 1d10\n\nif critical, become  a Call lighting Storm Spell target(5d6 dmg DC 24)"
-  },
-  {
     "ID": 16,
     "Name": "Unfair Advantage",
     "CName": "",
     "Description": "Hit DC 15 Fort for 2d6 acid dmg 3 round"
   },
   {
-    "ID": 17,
-    "Name": "Keen",
+    "ID": 4,
+    "Name": "Vicious",
     "CName": "",
-    "Description": "Doubles the threat range"
+    "Description": "Hit\n2d6 to enemy\n1d6 to self"
+  },
+  {
+    "ID": 15,
+    "Name": "Wrath of the Bear God",
+    "CName": "",
+    "Description": "(Need Test)\nNature attack have shock\n\nWhen Change Shape\nsonic & electricty dmg change to 1d10\n\nif critical, become  a Call lighting Storm Spell target(5d6 dmg DC 24)"
   }
 ]
