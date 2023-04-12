@@ -1738,5 +1738,50 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 117,
+    "Name": "Pitax Royal Palace Treasure D",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Pitax Royal Palace",
+    "Position": "East",
+    "ItemStack": "Belt of Perfect Components",
+    "PerceptionDC": 40,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": 38,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 118,
+    "Name": "Pitax Royal Palace Treasure E",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Pitax Royal Palace",
+    "Position": "East",
+    "ItemStack": "Robe of Eyes",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 119,
+    "Name": "Pitax Royal Palace Treasure F",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Pitax Royal Palace",
+    "Position": "East",
+    "ItemStack": "Robe of Eyes",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

@@ -7598,5 +7598,69 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 953,
+    "ItemStack": "Belt of Perfect Components",
+    "Item": "Belt of Perfect Components",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 954,
+    "ItemStack": "Robe of Eyes",
+    "Item": "Robe of Eyes",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 955,
+    "ItemStack": "Pitax Royal Palace Treasure F",
+    "Item": "Silver-stringed Lute",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 956,
+    "ItemStack": "Pitax Royal Palace Treasure F",
+    "Item": "Scroll of Ear-Piercing Scream",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 957,
+    "ItemStack": "Pitax Royal Palace Treasure F",
+    "Item": "Emerald Necklace",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 958,
+    "ItemStack": "Pitax Royal Palace Treasure F",
+    "Item": "Citrine",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 959,
+    "ItemStack": "Pitax Royal Palace Treasure F",
+    "Item": "Pocket Mirror",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 960,
+    "ItemStack": "Pitax Royal Palace Treasure F",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 10,
+    "RandomQuantity": null
   }
 ]
