@@ -14,6 +14,13 @@
     "Description": ""
   },
   {
+    "ID": 53,
+    "Name": "Aura of Thorny Despair",
+    "CName": "",
+    "DC": "",
+    "Description": "Like Crushing Despair, 10 ft radius"
+  },
+  {
     "ID": 25,
     "Name": "Baleful Gaze",
     "CName": "",
@@ -51,6 +58,20 @@
   {
     "ID": 31,
     "Name": "Brain Consumption",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 54,
+    "Name": "Brutal Beating",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 52,
+    "Name": "Combat Expertise",
     "CName": "",
     "DC": "",
     "Description": ""
@@ -133,6 +154,13 @@
     "Description": ""
   },
   {
+    "ID": 56,
+    "Name": "Frightful Presence",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
     "ID": 18,
     "Name": "Guarded Stance",
     "CName": "",
@@ -163,6 +191,13 @@
   {
     "ID": 16,
     "Name": "Inspired Courage",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 55,
+    "Name": "Lesser Quicken Metamagic Rod",
     "CName": "",
     "DC": "",
     "Description": ""
@@ -301,6 +336,20 @@
     "Description": ""
   },
   {
+    "ID": 50,
+    "Name": "Spell Combat",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 51,
+    "Name": "Spellstrike",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
     "ID": 19,
     "Name": "Stunning Blow",
     "CName": "",
@@ -338,48 +387,6 @@
   {
     "ID": 47,
     "Name": "Wing",
-    "CName": "",
-    "DC": "",
-    "Description": ""
-  },
-  {
-    "ID": 50,
-    "Name": "Spell Combat",
-    "CName": "",
-    "DC": "",
-    "Description": ""
-  },
-  {
-    "ID": 51,
-    "Name": "Spellstrike",
-    "CName": "",
-    "DC": "",
-    "Description": ""
-  },
-  {
-    "ID": 52,
-    "Name": "Combat Expertise",
-    "CName": "",
-    "DC": "",
-    "Description": ""
-  },
-  {
-    "ID": 53,
-    "Name": "Aura of Thorny Despair",
-    "CName": "",
-    "DC": "",
-    "Description": "Like Crushing Despair, 10 ft radius"
-  },
-  {
-    "ID": 54,
-    "Name": "Brutal Beating",
-    "CName": "",
-    "DC": "",
-    "Description": ""
-  },
-  {
-    "ID": 55,
-    "Name": "Lesser Quicken Metamagic Rod",
     "CName": "",
     "DC": "",
     "Description": ""

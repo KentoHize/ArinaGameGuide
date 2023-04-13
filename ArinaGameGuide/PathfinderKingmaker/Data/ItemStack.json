@@ -1893,5 +1893,40 @@
     "ID": 380,
     "Name": "Carnival Glade Other World Treasure A",
     "Memo": ""
+  },
+  {
+    "ID": 381,
+    "Name": "MV2 + MLC + LA",
+    "Memo": ""
+  },
+  {
+    "ID": 382,
+    "Name": "MV2 + MSS + LS + BP",
+    "Memo": ""
+  },
+  {
+    "ID": 383,
+    "Name": "Ilthuliak RS",
+    "Memo": ""
+  },
+  {
+    "ID": 384,
+    "Name": "Ilthuliak's Lair Cave Treasure A",
+    "Memo": ""
+  },
+  {
+    "ID": 385,
+    "Name": "Ilthuliak's Lair Cave Treasure B",
+    "Memo": ""
+  },
+  {
+    "ID": 386,
+    "Name": "Ilthuliak's Lair Cave Treasure C",
+    "Memo": ""
+  },
+  {
+    "ID": 387,
+    "Name": "Tree Crest Buckle",
+    "Memo": ""
   }
 ]

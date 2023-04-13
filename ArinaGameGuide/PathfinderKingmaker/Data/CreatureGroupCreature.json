@@ -9968,5 +9968,45 @@
     "AdditonalItems": "Money and Valuables",
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 1002,
+    "CreatureGroup": "Ilthuliak Group",
+    "Creature": "Ilthuliak",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1000,
+    "CreatureGroup": "Ilthuliak Group",
+    "Creature": "Dragon Slave 10",
+    "DisplayName": null,
+    "Quantity": 7,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1001,
+    "CreatureGroup": "Ilthuliak Group",
+    "Creature": "Dragon Slave 5",
+    "DisplayName": null,
+    "Quantity": 6,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1003,
+    "CreatureGroup": "Castle of Knives Group F",
+    "Creature": "Poisonous Giant Flytrap",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

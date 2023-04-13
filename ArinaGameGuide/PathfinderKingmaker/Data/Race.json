@@ -3,175 +3,200 @@
     "ID": 19,
     "Name": "Aasimar",
     "MainRace": "Humanoid",
-    "SubRace": "Aasimar",
+    "SubType1": "Aasimar",
+    "SubType2": null,
     "KnowledgeSkill": null
   },
   {
     "ID": 20,
     "Name": "Aberration",
     "MainRace": "Aberration",
-    "SubRace": "Aberration",
+    "SubType1": "Aberration",
+    "SubType2": null,
     "KnowledgeSkill": "Knowledge(Arcana)"
   },
   {
     "ID": 2,
     "Name": "Animal",
     "MainRace": "Animal",
-    "SubRace": "Animal",
+    "SubType1": "Animal",
+    "SubType2": null,
     "KnowledgeSkill": null
   },
   {
     "ID": 3,
     "Name": "Construct",
     "MainRace": "Construct",
-    "SubRace": "Construct",
+    "SubType1": "Construct",
+    "SubType2": null,
     "KnowledgeSkill": null
   },
   {
     "ID": 24,
     "Name": "Devil",
     "MainRace": "Outsider",
-    "SubRace": "Devil",
+    "SubType1": "Devil",
+    "SubType2": null,
     "KnowledgeSkill": null
   },
   {
     "ID": 6,
     "Name": "Dragon",
     "MainRace": "Dragon",
-    "SubRace": "Dragon",
+    "SubType1": "Dragon",
+    "SubType2": null,
     "KnowledgeSkill": null
   },
   {
     "ID": 21,
     "Name": "Dwarf",
     "MainRace": "Humanoid",
-    "SubRace": "Dwarf",
+    "SubType1": "Dwarf",
+    "SubType2": null,
     "KnowledgeSkill": "Knowledge(Arcana)"
   },
   {
     "ID": 22,
     "Name": "Elf",
     "MainRace": "Humanoid",
-    "SubRace": "Elf",
+    "SubType1": "Elf",
+    "SubType2": null,
     "KnowledgeSkill": "Knowledge(Arcana)"
   },
   {
     "ID": 8,
     "Name": "Fey",
     "MainRace": "Fey",
-    "SubRace": "Fey",
+    "SubType1": "Fey",
+    "SubType2": null,
     "KnowledgeSkill": null
   },
   {
     "ID": 18,
     "Name": "Giant",
     "MainRace": "Humanoid",
-    "SubRace": "Giant",
+    "SubType1": "Giant",
+    "SubType2": null,
     "KnowledgeSkill": "Knowledge(Arcana)"
   },
   {
     "ID": 13,
     "Name": "Gnome",
     "MainRace": "Gnome",
-    "SubRace": "Gnome",
+    "SubType1": "Gnome",
+    "SubType2": null,
     "KnowledgeSkill": null
   },
   {
     "ID": 5,
     "Name": "Goblin",
     "MainRace": "Humanoid",
-    "SubRace": "Goblin",
+    "SubType1": "Goblin",
+    "SubType2": null,
     "KnowledgeSkill": null
   },
   {
     "ID": 17,
     "Name": "Half-Elf",
     "MainRace": "Half-Elf",
-    "SubRace": "Half-Elf",
+    "SubType1": "Half-Elf",
+    "SubType2": null,
     "KnowledgeSkill": null
   },
   {
     "ID": 25,
     "Name": "Halfling",
     "MainRace": "Halfling",
-    "SubRace": "Halfling",
+    "SubType1": "Halfling",
+    "SubType2": null,
     "KnowledgeSkill": null
   },
   {
     "ID": 23,
     "Name": "Half-Orc",
     "MainRace": "Humanoid",
-    "SubRace": "Half-Orc",
+    "SubType1": "Half-Orc",
+    "SubType2": null,
     "KnowledgeSkill": null
   },
   {
     "ID": 1,
     "Name": "Human",
     "MainRace": "Human",
-    "SubRace": "Human",
+    "SubType1": "Human",
+    "SubType2": null,
     "KnowledgeSkill": "Lore(Nature)"
   },
   {
     "ID": 11,
     "Name": "Humanoid",
     "MainRace": "Humanoid",
-    "SubRace": "Humanoid",
-    "KnowledgeSkill": null
-  },
-  {
-    "ID": 14,
-    "Name": "Kobold",
-    "MainRace": "Kobold",
-    "SubRace": "Kobold",
+    "SubType1": "Humanoid",
+    "SubType2": null,
     "KnowledgeSkill": null
   },
   {
     "ID": 4,
     "Name": "Magical Beast",
     "MainRace": "Magical Beast",
-    "SubRace": "Magical Beast",
+    "SubType1": "Magical Beast",
+    "SubType2": null,
     "KnowledgeSkill": "Knowledge(Arcana)"
   },
   {
     "ID": 15,
     "Name": "Monstrous Humanoid",
     "MainRace": "Humanoid",
-    "SubRace": "Monstrous Humanoid",
+    "SubType1": "Monstrous Humanoid",
+    "SubType2": null,
     "KnowledgeSkill": null
   },
   {
     "ID": 12,
     "Name": "Outsider",
     "MainRace": "Outsider",
-    "SubRace": "Outsider",
+    "SubType1": "Outsider",
+    "SubType2": null,
     "KnowledgeSkill": "Knowledge(Arcana)"
   },
   {
     "ID": 9,
     "Name": "Plant",
     "MainRace": "Plant",
-    "SubRace": "Plant",
+    "SubType1": "Plant",
+    "SubType2": null,
     "KnowledgeSkill": "Lore(Nature)"
   },
   {
     "ID": 16,
     "Name": "Undead",
     "MainRace": "Undead",
-    "SubRace": "Undead",
+    "SubType1": "Undead",
+    "SubType2": null,
     "KnowledgeSkill": "Lore(Religion)"
   },
   {
     "ID": 7,
     "Name": "Vermin",
     "MainRace": "Vermin",
-    "SubRace": "Vermin",
+    "SubType1": "Vermin",
+    "SubType2": null,
     "KnowledgeSkill": null
   },
   {
     "ID": 10,
     "Name": "Weretiger",
     "MainRace": "Human",
-    "SubRace": "Weretiger",
+    "SubType1": "Weretiger",
+    "SubType2": null,
+    "KnowledgeSkill": null
+  },
+  {
+    "ID": 26,
+    "Name": "Kobold",
+    "MainRace": "Humanoid",
+    "SubType1": "Reptilian",
+    "SubType2": null,
     "KnowledgeSkill": null
   }
 ]

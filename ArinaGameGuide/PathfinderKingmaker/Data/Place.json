@@ -2563,5 +2563,35 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 173,
+    "Name": "Ilthuliak's Lair",
+    "DisplayName": "Ilthuliak's Lair",
+    "CName": "",
+    "Type": "Safe Area",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 174,
+    "Name": "Ilthuliak's Lair Cave",
+    "DisplayName": "Ilthuliak's Lair",
+    "CName": "",
+    "Type": "CanNotRest",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

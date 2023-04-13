@@ -1456,5 +1456,11 @@
     "Creature": "Reaford Tabulus Vallersteil",
     "Condition": "Prone",
     "ConditionGroup": null
+  },
+  {
+    "ID": 264,
+    "Creature": "Ilthuliak",
+    "Condition": null,
+    "ConditionGroup": "Dragon Immunities"
   }
 ]

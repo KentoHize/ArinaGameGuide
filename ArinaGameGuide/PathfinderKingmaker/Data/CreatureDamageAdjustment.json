@@ -2819,5 +2819,33 @@
     "Type": "DamageReduction",
     "DamageType": "Cold Iron",
     "Amount": 10
+  },
+  {
+    "ID": 404,
+    "Creature": "Ilthuliak",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 20
+  },
+  {
+    "ID": 405,
+    "Creature": "Ilthuliak",
+    "Type": "Immunity",
+    "DamageType": "Acid",
+    "Amount": null
+  },
+  {
+    "ID": 406,
+    "Creature": "Dragon Slave 10",
+    "Type": "Immunity",
+    "DamageType": "Acid",
+    "Amount": null
+  },
+  {
+    "ID": 407,
+    "Creature": "Dragon Slave 5",
+    "Type": "Immunity",
+    "DamageType": "Acid",
+    "Amount": null
   }
 ]

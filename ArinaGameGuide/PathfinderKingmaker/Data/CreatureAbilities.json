@@ -3193,5 +3193,50 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 357,
+    "Creature": "Ilthuliak",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 358,
+    "Creature": "Ilthuliak",
+    "Ability": "Frightful Presence",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 359,
+    "Creature": "Dragon Slave 10",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 360,
+    "Creature": "Dragon Slave 10",
+    "Ability": "Combat Expertise",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 361,
+    "Creature": "Dragon Slave 5",
+    "Ability": "Combat Expertise",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

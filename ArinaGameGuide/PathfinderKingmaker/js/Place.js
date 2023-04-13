@@ -98,6 +98,7 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
             continue;        
         t = document.createTextNode(Unity.Data[i].key);
         div.appendChild(t);
+        
         for (let j = 0; j < Unity.Data[i].value.length; j++) {
             parent = document.createElement(`div`);
             if (Unity.Data[i].value[j].type == `CG` && Unity.Data[i].value[j].data.cg.Stage == stage) {
@@ -119,9 +120,13 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
             }
             else if (Unity.Data[i].value[j].type == `TS`) {
                 parent.setAttribute(`class`, `divGroup1`);
+                
                 for (let k = 0; k < Unity.Data[i].value[j].data.isi.length; k++) {
-                    child = document.createElement(`div`);
-                    child.textContent = 'T ' + Unity.Data[i].value[j].data.isi[k].Item;
+                    child = document.createElement(`div`);                    
+                    if (Unity.Data[i].value[j].data.isi[k].Quantity == 1)
+                        child.textContent = `T ${Unity.Data[i].value[j].data.isi[k].Item}`;
+                    else
+                        child.textContent = `T ${Unity.Data[i].value[j].data.isi[k].Item}  x${Unity.Data[i].value[j].data.isi[k].Quantity}`;
                     parent.appendChild(child);
                 }
             }

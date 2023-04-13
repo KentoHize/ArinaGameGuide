@@ -3254,5 +3254,21 @@
     "Position": "South West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 408,
+    "Name": "Ilthuliak Group",
+    "Place": "Ilthuliak's Lair Cave",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 409,
+    "Name": "Castle of Knives Group F",
+    "Place": "Castle of Knives",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

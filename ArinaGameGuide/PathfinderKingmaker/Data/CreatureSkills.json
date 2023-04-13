@@ -3760,5 +3760,71 @@
     "Creature": "Poisonus Flytrap-like Treant",
     "Skill": "Perception",
     "Bonus": 42
+  },
+  {
+    "ID": 629,
+    "Creature": "Ilthuliak",
+    "Skill": "Persuasion",
+    "Bonus": 33
+  },
+  {
+    "ID": 630,
+    "Creature": "Ilthuliak",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 33
+  },
+  {
+    "ID": 631,
+    "Creature": "Ilthuliak",
+    "Skill": "Perception",
+    "Bonus": 38
+  },
+  {
+    "ID": 632,
+    "Creature": "Ilthuliak",
+    "Skill": "Athletics",
+    "Bonus": 45
+  },
+  {
+    "ID": 633,
+    "Creature": "Ilthuliak",
+    "Skill": "Stealth",
+    "Bonus": 24
+  },
+  {
+    "ID": 634,
+    "Creature": "Dragon Slave 10",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 635,
+    "Creature": "Dragon Slave 10",
+    "Skill": "Athletics",
+    "Bonus": 7
+  },
+  {
+    "ID": 636,
+    "Creature": "Dragon Slave 10",
+    "Skill": "Stealth",
+    "Bonus": 39
+  },
+  {
+    "ID": 637,
+    "Creature": "Dragon Slave 5",
+    "Skill": "Perception",
+    "Bonus": 11
+  },
+  {
+    "ID": 638,
+    "Creature": "Dragon Slave 5",
+    "Skill": "Athletics",
+    "Bonus": 4
+  },
+  {
+    "ID": 639,
+    "Creature": "Dragon Slave 5",
+    "Skill": "Stealth",
+    "Bonus": 26
   }
 ]

@@ -1,5 +1,4 @@
 ﻿using Aritiafel.Characters.Heroes;
-
-Tina.SaveProject("Website","ArinaGameGuide");
+Tina.SaveProjectWithData(ProjectChoice.ArinaGameGuide, "D");
 Console.WriteLine("Project Files Spared.");
 Console.ReadKey();

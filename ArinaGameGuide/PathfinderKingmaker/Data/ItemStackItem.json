@@ -8350,5 +8350,205 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1049,
+    "ItemStack": "MV2 + MLC + LA",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1048,
+    "ItemStack": "MV2 + MLC + LA",
+    "Item": "Masterwork Light Crossbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1050,
+    "ItemStack": "MV2 + MLC + LA",
+    "Item": "Leather Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1051,
+    "ItemStack": "MV2 + MSS + LS + BP",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1052,
+    "ItemStack": "MV2 + MSS + LS + BP",
+    "Item": "Masterwork Shortsword",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1053,
+    "ItemStack": "MV2 + MSS + LS + BP",
+    "Item": "Light Shield",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1054,
+    "ItemStack": "MV2 + MSS + LS + BP",
+    "Item": "Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1055,
+    "ItemStack": "Ilthuliak RS",
+    "Item": "Belt of Physical Perfection +8",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1056,
+    "ItemStack": "Ilthuliak RS",
+    "Item": "Bracers of Armor +7",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1057,
+    "ItemStack": "Ilthuliak's Lair Cave Treasure B",
+    "Item": "Wyrmwall",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1058,
+    "ItemStack": "Ilthuliak's Lair Cave Treasure B",
+    "Item": "Great Persuasion",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1059,
+    "ItemStack": "Ilthuliak's Lair Cave Treasure B",
+    "Item": "Void Mirror",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1060,
+    "ItemStack": "Ilthuliak's Lair Cave Treasure A",
+    "Item": "Special Hope",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1061,
+    "ItemStack": "Ilthuliak's Lair Cave Treasure A",
+    "Item": "Simmering Pollen",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1062,
+    "ItemStack": "Ilthuliak's Lair Cave Treasure A",
+    "Item": "Scroll of Magic Missile",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1063,
+    "ItemStack": "Ilthuliak's Lair Cave Treasure A",
+    "Item": "Golden Signet",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1064,
+    "ItemStack": "Ilthuliak's Lair Cave Treasure A",
+    "Item": "Masterwork Shortsword",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1065,
+    "ItemStack": "Ilthuliak's Lair Cave Treasure A",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 473,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1066,
+    "ItemStack": "Ilthuliak's Lair Cave Treasure C",
+    "Item": "Elven Curve Blade",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1067,
+    "ItemStack": "Ilthuliak's Lair Cave Treasure C",
+    "Item": "Simmering Pollen",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1068,
+    "ItemStack": "Ilthuliak's Lair Cave Treasure C",
+    "Item": "Pertified Egg",
+    "RandomItem": null,
+    "Quantity": 4,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1069,
+    "ItemStack": "Ilthuliak's Lair Cave Treasure C",
+    "Item": "Gilded Horn",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1070,
+    "ItemStack": "Ilthuliak's Lair Cave Treasure C",
+    "Item": "Potion of Vanish",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1071,
+    "ItemStack": "Ilthuliak's Lair Cave Treasure C",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 251,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1072,
+    "ItemStack": "Tree Crest Buckle",
+    "Item": "Tree Crest Buckle",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

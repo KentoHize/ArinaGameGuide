@@ -2098,5 +2098,53 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 183,
+    "Name": "Ilthuliak's Lair Cave Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Ilthuliak's Lair Cave",
+    "DisarmDC": 28,
+    "Position": "South",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 184,
+    "Name": "Ilthuliak's Lair Cave Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Ilthuliak's Lair Cave",
+    "DisarmDC": 28,
+    "Position": "South",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 185,
+    "Name": "Ilthuliak's Lair Cave Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Ilthuliak's Lair Cave",
+    "DisarmDC": 28,
+    "Position": "South",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 186,
+    "Name": "Ilthuliak's Lair Cave Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Ilthuliak's Lair Cave",
+    "DisarmDC": 28,
+    "Position": "South",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]
