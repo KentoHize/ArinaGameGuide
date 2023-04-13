@@ -9,9 +9,11 @@ export async function Initialize(div, id1, id2) {
         Unity.BrowsingHistoryPage = 0;
 
     let ct = (await import(`../Data/Creature.json`, { assert: { type: `json` } })).default;
-    let c = ct.find(m => m.Name == id1);    
+    let c = ct.find(m => m.Name == id1);
 
-    let classString = c.Class1 + ` ` + c.Class1Level;
+    let classString = ``;
+    if (c.Class1 != null)
+        classString += c.Class1 + ` ` + c.Class1Level;
     if (c.Class2 != null)
         classString += `<br />` + c.Class2 + ` ` + c.Class2Level;
     if (c.Class3 != null)
@@ -21,14 +23,14 @@ export async function Initialize(div, id1, id2) {
     if (c == null)
         return;//to do
     //creatureName
-    
+
     document.getElementById(`creatureName`).textContent = c.Name;
-/*    document.getElementById(`creatureName`).setAttribute(`style`, `width:300px`);*/
+    /*    document.getElementById(`creatureName`).setAttribute(`style`, `width:300px`);*/
     document.getElementById(`displayName`).textContent = c.DisplayName;
     document.getElementById(`race`).textContent = c.Race;
     document.getElementById(`alignment`).textContent = Unity.GetAlginmentAcronym(c.Alignment);
     document.getElementById(`size`).textContent = c.Size;
-    document.getElementById(`speed`).textContent = c.Speed;        
+    document.getElementById(`speed`).textContent = c.Speed;
     document.getElementById(`initiative`).textContent = c.Initiative;
     document.getElementById(`class`).innerHTML = classString;
     document.getElementById(`str`).textContent = c.Strength;
@@ -47,7 +49,7 @@ export async function Initialize(div, id1, id2) {
     document.getElementById(`will`).textContent = c.Will;
     document.getElementById(`bab`).textContent = c.BaseAttackBonus;
     document.getElementById(`cmb`).textContent = c.CombatManeuverBonus;
-    document.getElementById(`cmd`).textContent = c.CombatManeuverDefense;    
+    document.getElementById(`cmd`).textContent = c.CombatManeuverDefense;
     document.getElementById(`sr`).textContent = c.SpellResistance == null ? `-` : c.SpellResistance;
 
     let ctab = (await import(`../Data/CreatureAbilities.json`, { assert: { type: `json` } })).default;
@@ -56,11 +58,13 @@ export async function Initialize(div, id1, id2) {
     let ctec = (await import(`../Data/CreatureEffectorCondition.json`, { assert: { type: `json` } })).default;
     let ctim = (await import(`../Data/CreatureImmunities.json`, { assert: { type: `json` } })).default;
     let cts = (await import(`../Data/CreatureSkills.json`, { assert: { type: `json` } })).default;
+    let is = (await import(`../Data/ItemStack.json`, { assert: { type: `json` } })).default;
+    let isi = (await import(`../Data/ItemStackItem.json`, { assert: { type: `json` } })).default;
 
     let s = ``;
     for (let i = 0; i < ctab.length; i++) {
         if (ctab[i].Creature == id1)
-            s += ctab[i].Ability + `<br />`;        
+            s += ctab[i].Ability + `<br />`;
         document.getElementById(`abilityDiv`).innerHTML = s;
     }
 
@@ -71,7 +75,7 @@ export async function Initialize(div, id1, id2) {
         document.getElementById(`conditionDiv`).innerHTML = s;
     }
 
-    
+
     let ed = document.getElementById(`skillDiv`);
     for (let i = 0; i < cts.length; i++) {
         if (cts[i].Creature == id1) {
@@ -80,7 +84,7 @@ export async function Initialize(div, id1, id2) {
     }
 
     let data = [];
-    ed = document.getElementById(`dmgAdjustDiv`);    
+    ed = document.getElementById(`dmgAdjustDiv`);
     for (let i = 0; i < ctda.length; i++) {
         if (ctda[i].Creature == id1) {
             data.push(ctda[i]);
@@ -89,7 +93,7 @@ export async function Initialize(div, id1, id2) {
     data.sort(compareDamageAdjustment);
 
     for (let i = 0; i < data.length; i++) {
-        if (data[i].Type == `DamageReduction`)            
+        if (data[i].Type == `DamageReduction`)
             writeBlock(ed, `${data[i].Amount}/${data[i].DamageType}`);
         else if (data[i].Type == `Resistance`)
             writeBlock(ed, `${data[i].DamageType} ${data[i].Amount}`);
@@ -114,13 +118,44 @@ export async function Initialize(div, id1, id2) {
     for (let i = 0; i < cta.length; i++) {
         if (cta[i].Creature == id1) {
             if (cta[i].Weapon != null)
-                writeBlock(ed, `${cta[i].Weapon}  ${cta[i].Range} ft. +${cta[i].AttackBonus}  ${cta[i].BasicDamage}${cta[i].DamageAdditiveBonus != null ? `+${cta[i].DamageAdditiveBonus}` : ''} ${cta[i].OtherDamageBonus != null ? cta[i].OtherDamageBonus : ''} ${cta[i].SneakDamage != null ? cta[i].SneakDamage : `` }`, 400);
+                writeBlock(ed, `${cta[i].Weapon}  ${cta[i].Range} ft. +${cta[i].AttackBonus}  ${cta[i].BasicDamage}${cta[i].DamageAdditiveBonus != null ? `+${cta[i].DamageAdditiveBonus}` : ''} ${cta[i].OtherDamageBonus != null ? cta[i].OtherDamageBonus : ''} ${cta[i].SneakDamage != null ? cta[i].SneakDamage : ``}`, 400);
             else
                 writeBlock(ed, `${cta[i].Form}  ${cta[i].Range} ft. +${cta[i].AttackBonus}  ${cta[i].BasicDamage}${cta[i].DamageAdditiveBonus != null ? `+${cta[i].DamageAdditiveBonus}` : ''} ${cta[i].OtherDamageBonus != null ? cta[i].OtherDamageBonus : ''} ${cta[i].SneakDamage != null ? cta[i].SneakDamage : ``}`, 400);
         }
     }
-    
-    
+
+    //belongingsDiv    
+    if (c.RemainItems != null) {
+
+        ed = document.getElementById(`belongingsDiv`);
+        let ri = is.find(m => m.Name == c.RemainItems);
+        if (ri != null) {
+            for (let i = 0; i < isi.length; i++) {
+                if (isi[i].ItemStack == ri.Name) {
+                    s = ``;
+                    if (isi[i].Item != null)
+                        s += isi[i].Item;
+                    else
+                        s += isi[i].RandomItem;
+
+                    s += `  `;
+
+                    if (isi[i].Quantity != null) {
+                        if (isi[i].Quantity != 1) {
+                            s += `x${isi[i].Quantity}`;
+                        }
+                    }
+                    else
+                        s += `x${isi[i].RandomQuantity}`;
+
+                    writeBlock(ed, s, 400);
+                }
+            }
+        }
+    }
+
+
+
     //document.getElementById(`will`).textContent = c.Will;
     document.getElementById(`memoDiv`).textContent = c.Memo;
     //document.getElementById(`descriptionDiv`).textContent = c.Memo;
