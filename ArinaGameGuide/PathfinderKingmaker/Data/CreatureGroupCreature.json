@@ -10008,5 +10008,35 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 1004,
+    "CreatureGroup": "Castle of Knives Group G",
+    "Creature": "Kamala the Phoenix",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1005,
+    "CreatureGroup": "Castle of Knives Group H",
+    "Creature": "Faldrox the Huntsman",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1006,
+    "CreatureGroup": "Castle of Knives Group I",
+    "Creature": "Elder Purple Worm",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

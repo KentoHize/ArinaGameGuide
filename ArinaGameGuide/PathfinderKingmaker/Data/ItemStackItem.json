@@ -8550,5 +8550,29 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1073,
+    "ItemStack": "Pitax Royal Palace Treasure M",
+    "Item": "Scroll of Heal",
+    "RandomItem": null,
+    "Quantity": 4,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1074,
+    "ItemStack": "Pitax Royal Palace Treasure M",
+    "Item": "Scroll of Raise Dead",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1075,
+    "ItemStack": "Pitax Royal Palace Treasure M",
+    "Item": "Ancient Elven Bead",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

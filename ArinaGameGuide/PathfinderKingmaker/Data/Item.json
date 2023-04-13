@@ -9382,5 +9382,39 @@
     "StoryItem": false,
     "Weight": 1.0,
     "Description": ""
+  },
+  {
+    "ID": 554,
+    "Name": "Scroll of Heal",
+    "DisplayName": "Scroll of Heal",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Scroll",
+    "SpecialMaterial": null,
+    "CasterLevel": 11,
+    "Charges": 1,
+    "DC": 19,
+    "SellPrice": 412,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.2,
+    "Description": ""
+  },
+  {
+    "ID": 555,
+    "Name": "Scroll of Raise Dead",
+    "DisplayName": "Scroll of Raise Dead",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Scroll",
+    "SpecialMaterial": null,
+    "CasterLevel": 9,
+    "Charges": 1,
+    "DC": null,
+    "SellPrice": 1500,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.2,
+    "Description": ""
   }
 ]

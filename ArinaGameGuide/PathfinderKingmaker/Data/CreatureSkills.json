@@ -3826,5 +3826,11 @@
     "Creature": "Dragon Slave 5",
     "Skill": "Stealth",
     "Bonus": 26
+  },
+  {
+    "ID": 640,
+    "Creature": "Elder Purple Worm",
+    "Skill": "Perception",
+    "Bonus": 15
   }
 ]

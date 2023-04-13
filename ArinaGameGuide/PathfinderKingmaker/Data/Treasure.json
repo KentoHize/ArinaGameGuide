@@ -2083,5 +2083,20 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 140,
+    "Name": "Pitax Royal Palace Treasure M",
+    "CName": "",
+    "Type": "Void",
+    "Place": "Castle of Knives",
+    "Position": "West",
+    "ItemStack": "Pitax Royal Palace Treasure M",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": 45,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

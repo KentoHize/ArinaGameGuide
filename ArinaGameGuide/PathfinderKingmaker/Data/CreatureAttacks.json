@@ -5752,5 +5752,33 @@
     "DamageAdditiveBonus": 6,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 451,
+    "Creature": "Elder Purple Worm",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 8,
+    "AddtionalAttack": 0,
+    "AttackBonus": 28,
+    "Weapon": null,
+    "BasicDamage": "4d8",
+    "DamageAdditiveBonus": 26,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 452,
+    "Creature": "Elder Purple Worm",
+    "Form": "Sting",
+    "Type": "Other",
+    "Range": 8,
+    "AddtionalAttack": 0,
+    "AttackBonus": 28,
+    "Weapon": null,
+    "BasicDamage": "2d8",
+    "DamageAdditiveBonus": 26,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

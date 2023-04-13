@@ -2146,5 +2146,17 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 187,
+    "Name": "Castle of Knives Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Castle of Knives",
+    "DisarmDC": 36,
+    "Position": "West",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]
