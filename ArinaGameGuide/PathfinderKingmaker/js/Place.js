@@ -2,7 +2,8 @@ import { Unity } from "./Unity.js";
 import { loadDataContent } from "../../js/ArinaGameGuide.js";
 
 export async function Initialize(div, id1, id2) {
-    Unity.Data = [];   
+    Unity.Data = [];
+    Unity.DataMain = {};
     if (Unity.BrowsingHistoryPage == 0)
         Unity.RecordHistoryPage(`Place`, id1, id2);
     else
@@ -18,6 +19,10 @@ export async function Initialize(div, id1, id2) {
         }
         return target;
     }
+
+    let pl = (await import(`../Data/Place.json`, { assert: { type: `json` } })).default;
+    Unity.DataMain = pl.find(m => m.Name == id1);
+
 
     //Creature Group
     let sdata = [];
@@ -82,7 +87,7 @@ export async function Initialize(div, id1, id2) {
 }
 
 export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
-    let parent, child, child2, t;
+    let parent, child, child2, t, t2;
     
     let div = document.getElementById(divID);    
     div.innerHTML = ``;
@@ -105,6 +110,10 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
                     child2.addEventListener(`click`, () => { loadDataContent(mdiv, Unity.PageName, 'Creature', Unity.Data[i].value[j].data.cgc[k].Creature); });
                     child2.textContent = Unity.Data[i].value[j].data.cgc[k].Creature;
                     child.appendChild(child2);
+                    if (Unity.Data[i].value[j].data.cgc[k].Quantity != 1) {
+                        t2 = document.createTextNode(`  x${Unity.Data[i].value[j].data.cgc[k].Quantity}`);
+                        child.appendChild(t2);
+                    }
                     parent.appendChild(child);
                 }
             }
@@ -121,20 +130,29 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
                     parent.textContent = Unity.Data[i].value[j].data.Type;
                 else
                     parent.textContent = Unity.Data[i].value[j].data.Type + `  DC:` + Unity.Data[i].value[j].data.DisarmDC;
-            }
+            }            
             div.appendChild(parent);
         }
         if (haveStuff == 0)
             t.remove();
     }
+    //Memo
+    if (Unity.DataMain.Memo != ``) {
+        div.appendChild(document.createTextNode(`Memo`));
+        parent = document.createElement(`div`);
+        parent.innerHTML = Unity.DataMain.Memo.replace(`\n`, `<br />`);
+        div.appendChild(parent);
+    }
+    
 
+    //StagePanel
     let stageDiv = document.getElementById(`stageDiv`);
     stageDiv.innerHTML = ``;
 
     t = document.createElement(`h`);
     t.textContent = id1 + ` `;    
     stageDiv.appendChild(t);
-    //StagePanel
+    
     for (let i = 0; i < stages.length; i++) {
         let aDiv = document.createElement(`a`);
         aDiv.href = `javascript:;`;        

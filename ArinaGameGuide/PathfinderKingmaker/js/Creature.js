@@ -1,7 +1,8 @@
 ﻿import { Unity } from "./Unity.js";
 
 export async function Initialize(div, id1, id2) {
-    Unity.Data = [];    
+    Unity.Data = [];
+    Unity.DataMain = {};
     if (Unity.BrowsingHistoryPage == 0)
         Unity.RecordHistoryPage(`Creature`, id1, id2);
     else
@@ -39,7 +40,7 @@ export async function Initialize(div, id1, id2) {
     document.getElementById(`hp`).textContent = c.Hitpoint;
     document.getElementById(`exp`).textContent = c.Exp;
     document.getElementById(`ac`).textContent = c.AC;
-    document.getElementById(`ffac`).textContent = c.FlatFootedAC;
+    document.getElementById(`ffac`).textContent = c[`Flat-FootedAC`];
     document.getElementById(`touchAC`).textContent = c.TouchAC;
     document.getElementById(`fortitude`).textContent = c.Fortitude;
     document.getElementById(`reflex`).textContent = c.Reflex;
@@ -113,9 +114,9 @@ export async function Initialize(div, id1, id2) {
     for (let i = 0; i < cta.length; i++) {
         if (cta[i].Creature == id1) {
             if (cta[i].Weapon != null)
-                writeBlock(ed, `${cta[i].Weapon}  ${cta[i].Range} ft. +${cta[i].AttackBonus}  ${cta[i].BasicDamage}+${cta[i].DamageAdditiveBonus} ${cta[i].OtherDamageBonus != null ? cta[i].OtherDamageBonus : ''} ${cta[i].SneakDamage != null ? cta[i].SneakDamage : `` }`, 400);
+                writeBlock(ed, `${cta[i].Weapon}  ${cta[i].Range} ft. +${cta[i].AttackBonus}  ${cta[i].BasicDamage}${cta[i].DamageAdditiveBonus != null ? `+${cta[i].DamageAdditiveBonus}` : ''} ${cta[i].OtherDamageBonus != null ? cta[i].OtherDamageBonus : ''} ${cta[i].SneakDamage != null ? cta[i].SneakDamage : `` }`, 400);
             else
-                writeBlock(ed, `${cta[i].Form}  ${cta[i].Range} ft. +${cta[i].AttackBonus}  ${cta[i].BasicDamage}+${cta[i].DamageAdditiveBonus} ${cta[i].OtherDamageBonus != null ? cta[i].OtherDamageBonus : ''} ${cta[i].SneakDamage != null ? cta[i].SneakDamage : ``}`, 400);
+                writeBlock(ed, `${cta[i].Form}  ${cta[i].Range} ft. +${cta[i].AttackBonus}  ${cta[i].BasicDamage}${cta[i].DamageAdditiveBonus != null ? `+${cta[i].DamageAdditiveBonus}` : ''} ${cta[i].OtherDamageBonus != null ? cta[i].OtherDamageBonus : ''} ${cta[i].SneakDamage != null ? cta[i].SneakDamage : ``}`, 400);
         }
     }
     

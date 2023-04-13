@@ -2008,5 +2008,20 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 135,
+    "Name": "Carnival Glade Other World Treasure A",
+    "CName": "",
+    "Type": "Corpse",
+    "Place": "Carnival Glade Other World",
+    "Position": "South West",
+    "ItemStack": "Carnival Glade Other World Treasure A",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

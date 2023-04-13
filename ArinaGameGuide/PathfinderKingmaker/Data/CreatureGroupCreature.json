@@ -9965,7 +9965,7 @@
     "Creature": "Nixie Prankster",
     "DisplayName": null,
     "Quantity": 2,
-    "AdditonalItems": null,
+    "AdditonalItems": "Money and Valuables",
     "AddtionalEffectOrConditions": null,
     "Team": "1"
   }

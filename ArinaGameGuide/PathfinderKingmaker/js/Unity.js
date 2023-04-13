@@ -5,7 +5,9 @@ export class Unity {
     static HistoryPages = [];
     static HistoryPagesPointer = 0;
     static BrowsingHistoryPage = 0;
+    static DataMain = {};
     static Data = [];
+    
     
     static SortPosition(a, b)
     {

@@ -3718,5 +3718,47 @@
     "Creature": "Nymph 16",
     "Skill": "Stealth",
     "Bonus": 29
+  },
+  {
+    "ID": 622,
+    "Creature": "Nixie Prankster",
+    "Skill": "Mobility",
+    "Bonus": 25
+  },
+  {
+    "ID": 623,
+    "Creature": "Nixie Prankster",
+    "Skill": "Persuasion",
+    "Bonus": 25
+  },
+  {
+    "ID": 624,
+    "Creature": "Nixie Prankster",
+    "Skill": "Lore(Nature)",
+    "Bonus": 10
+  },
+  {
+    "ID": 625,
+    "Creature": "Nixie Prankster",
+    "Skill": "Perception",
+    "Bonus": 24
+  },
+  {
+    "ID": 626,
+    "Creature": "Nixie Prankster",
+    "Skill": "Athletics",
+    "Bonus": 4
+  },
+  {
+    "ID": 627,
+    "Creature": "Nixie Prankster",
+    "Skill": "Stealth",
+    "Bonus": 33
+  },
+  {
+    "ID": 628,
+    "Creature": "Poisonus Flytrap-like Treant",
+    "Skill": "Perception",
+    "Bonus": 42
   }
 ]

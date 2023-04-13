@@ -2812,5 +2812,12 @@
     "Type": "DamageReduction",
     "DamageType": "Pierce",
     "Amount": 10
+  },
+  {
+    "ID": 403,
+    "Creature": "Nymph 16",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
   }
 ]

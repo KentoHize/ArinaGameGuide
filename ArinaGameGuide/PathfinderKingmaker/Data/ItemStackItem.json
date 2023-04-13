@@ -8334,5 +8334,21 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1046,
+    "ItemStack": "Carnival Glade Other World Treasure A",
+    "Item": "Padded Armor +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1047,
+    "ItemStack": "Carnival Glade Other World Treasure A",
+    "Item": "Tree Crest Inkwell",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

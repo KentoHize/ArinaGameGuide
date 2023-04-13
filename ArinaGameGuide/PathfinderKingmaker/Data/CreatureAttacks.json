@@ -5654,5 +5654,19 @@
     "DamageAdditiveBonus": 29,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 444,
+    "Creature": "Nymph 16",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 1,
+    "AttackBonus": 20,
+    "Weapon": "Masterwork Dagger",
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 2,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]
