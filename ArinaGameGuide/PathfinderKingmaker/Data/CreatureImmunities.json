@@ -163,109 +163,109 @@
   },
   {
     "ID": 12,
-    "Creature": "Grag Linnorm",
+    "Creature": "Crag Linnorm",
     "Condition": "Grape",
     "ConditionGroup": null
   },
   {
     "ID": 13,
-    "Creature": "Grag Linnorm",
+    "Creature": "Crag Linnorm",
     "Condition": "Prone",
     "ConditionGroup": null
   },
   {
     "ID": 14,
-    "Creature": "Grag Linnorm",
+    "Creature": "Crag Linnorm",
     "Condition": "Sleep",
     "ConditionGroup": null
   },
   {
     "ID": 15,
-    "Creature": "Grag Linnorm",
+    "Creature": "Crag Linnorm",
     "Condition": "Paralyzed",
     "ConditionGroup": null
   },
   {
     "ID": 16,
-    "Creature": "Grag Linnorm",
+    "Creature": "Crag Linnorm",
     "Condition": "Entangled",
     "ConditionGroup": null
   },
   {
     "ID": 17,
-    "Creature": "Grag Linnorm",
+    "Creature": "Crag Linnorm",
     "Condition": "Difficult Terrain",
     "ConditionGroup": null
   },
   {
     "ID": 18,
-    "Creature": "Grag Linnorm",
+    "Creature": "Crag Linnorm",
     "Condition": "Slowed",
     "ConditionGroup": null
   },
   {
     "ID": 19,
-    "Creature": "Grag Linnorm",
+    "Creature": "Crag Linnorm",
     "Condition": "Staggered",
     "ConditionGroup": null
   },
   {
     "ID": 20,
-    "Creature": "Grag Linnorm",
+    "Creature": "Crag Linnorm",
     "Condition": "Immobilized",
     "ConditionGroup": null
   },
   {
     "ID": 43,
-    "Creature": "Grag Linnorm 16 Dragon",
+    "Creature": "Crag Linnorm 16 Dragon",
     "Condition": "Grape",
     "ConditionGroup": null
   },
   {
     "ID": 44,
-    "Creature": "Grag Linnorm 16 Dragon",
+    "Creature": "Crag Linnorm 16 Dragon",
     "Condition": "Prone",
     "ConditionGroup": null
   },
   {
     "ID": 45,
-    "Creature": "Grag Linnorm 16 Dragon",
+    "Creature": "Crag Linnorm 16 Dragon",
     "Condition": "Sleep",
     "ConditionGroup": null
   },
   {
     "ID": 46,
-    "Creature": "Grag Linnorm 16 Dragon",
+    "Creature": "Crag Linnorm 16 Dragon",
     "Condition": "Paralyzed",
     "ConditionGroup": null
   },
   {
     "ID": 47,
-    "Creature": "Grag Linnorm 16 Dragon",
+    "Creature": "Crag Linnorm 16 Dragon",
     "Condition": "Entangled",
     "ConditionGroup": null
   },
   {
     "ID": 48,
-    "Creature": "Grag Linnorm 16 Dragon",
+    "Creature": "Crag Linnorm 16 Dragon",
     "Condition": "Difficult Terrain",
     "ConditionGroup": null
   },
   {
     "ID": 49,
-    "Creature": "Grag Linnorm 16 Dragon",
+    "Creature": "Crag Linnorm 16 Dragon",
     "Condition": "Slowed",
     "ConditionGroup": null
   },
   {
     "ID": 50,
-    "Creature": "Grag Linnorm 16 Dragon",
+    "Creature": "Crag Linnorm 16 Dragon",
     "Condition": "Staggered",
     "ConditionGroup": null
   },
   {
     "ID": 51,
-    "Creature": "Grag Linnorm 16 Dragon",
+    "Creature": "Crag Linnorm 16 Dragon",
     "Condition": "Immobilized",
     "ConditionGroup": null
   },

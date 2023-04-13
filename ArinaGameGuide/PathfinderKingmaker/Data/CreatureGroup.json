@@ -3291,6 +3291,22 @@
     "ID": 412,
     "Name": "Castle of Knives Group I",
     "Place": "Castle of Knives",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 413,
+    "Name": "Castle of Knives Group J",
+    "Place": "Castle of Knives",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 414,
+    "Name": "Castle of Knives Group K",
+    "Place": "Castle of Knives",
     "Position": "North West",
     "Stage": 0,
     "Memo": ""

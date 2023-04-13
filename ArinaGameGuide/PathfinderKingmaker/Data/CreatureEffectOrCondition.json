@@ -82,7 +82,7 @@
   },
   {
     "ID": 15,
-    "Creature": "Grag Linnorm",
+    "Creature": "Crag Linnorm",
     "EffectOrCondition": "Freedom of Movement",
     "Amount": null,
     "Period": null,
@@ -91,7 +91,7 @@
   },
   {
     "ID": 16,
-    "Creature": "Grag Linnorm",
+    "Creature": "Crag Linnorm",
     "EffectOrCondition": "Regeneration",
     "Amount": 10,
     "Period": null,
@@ -100,7 +100,7 @@
   },
   {
     "ID": 20,
-    "Creature": "Grag Linnorm 16 Dragon",
+    "Creature": "Crag Linnorm 16 Dragon",
     "EffectOrCondition": "Freedom of Movement",
     "Amount": null,
     "Period": null,
@@ -109,7 +109,7 @@
   },
   {
     "ID": 21,
-    "Creature": "Grag Linnorm 16 Dragon",
+    "Creature": "Crag Linnorm 16 Dragon",
     "EffectOrCondition": "Regeneration",
     "Amount": 10,
     "Period": null,

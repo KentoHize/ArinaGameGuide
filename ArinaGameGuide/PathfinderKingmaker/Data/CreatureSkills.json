@@ -619,13 +619,13 @@
   },
   {
     "ID": 3,
-    "Creature": "Grag Linnorm",
+    "Creature": "Crag Linnorm",
     "Skill": "Perception",
     "Bonus": 28
   },
   {
     "ID": 4,
-    "Creature": "Grag Linnorm",
+    "Creature": "Crag Linnorm",
     "Skill": "Athletics",
     "Bonus": 33
   },
