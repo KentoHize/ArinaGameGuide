@@ -148,5 +148,17 @@
     "Name": "Unyielding",
     "CName": "",
     "Description": "+8 save vs mind-affecting"
+  },
+  {
+    "ID": 26,
+    "Name": "Ultrasound",
+    "CName": "",
+    "Description": "+2d6 sonic dmg"
+  },
+  {
+    "ID": 27,
+    "Name": "Holy",
+    "CName": "",
+    "Description": "Good Alignment\n+2d6 dmg vs evil creature"
   }
 ]

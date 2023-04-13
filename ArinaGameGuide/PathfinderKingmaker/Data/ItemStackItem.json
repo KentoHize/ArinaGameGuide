@@ -8278,5 +8278,37 @@
     "RandomItem": null,
     "Quantity": 150,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1039,
+    "ItemStack": "Incorruptible Petal",
+    "Item": "Incorruptible Petal",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1040,
+    "ItemStack": "Pitax Royal Palace Secret Treasure",
+    "Item": "Gloves of Scribe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1041,
+    "ItemStack": "Pitax Royal Palace Secret Treasure",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 62200,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1042,
+    "ItemStack": "Pitax Royal Palace Secret Treasure",
+    "Item": "Allslayer",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

@@ -3206,5 +3206,29 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 402,
+    "Name": "Castle of Knives Group A",
+    "Place": "Castle of Knives",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 403,
+    "Name": "Castle of Knives Group B",
+    "Place": "Castle of Knives",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 404,
+    "Name": "Castle of Knives Group C",
+    "Place": "Castle of Knives",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

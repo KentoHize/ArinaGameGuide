@@ -1996,5 +1996,23 @@
     "Repeat": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 112,
+    "Name": "Chocking Death",
+    "CName": "",
+    "Type": "Problem",
+    "RequiredDays": 0,
+    "DC": 0,
+    "AdaptedAdvisor1": null,
+    "AdaptedAdvisor2": null,
+    "AdaptedAdvisor3": null,
+    "HaveAdvantage": null,
+    "HaveDisadvantage1": null,
+    "HaveDisadvantage2": null,
+    "CloseDate": null,
+    "Repeat": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

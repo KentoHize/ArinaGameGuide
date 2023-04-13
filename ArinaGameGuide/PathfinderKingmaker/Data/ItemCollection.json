@@ -11,7 +11,8 @@
     "ItemPart4": null,
     "ItemPart5": null,
     "DuplicatedItemPart": "Rune-covered Ancient Leather Scrap",
-    "DuplicatedItemPartCount": 16
+    "DuplicatedItemPartCount": 16,
+    "Memo": ""
   },
   {
     "ID": 2,
@@ -25,7 +26,8 @@
     "ItemPart4": null,
     "ItemPart5": null,
     "DuplicatedItemPart": "Ancient Scrap of Script-Covered Leather",
-    "DuplicatedItemPartCount": 15
+    "DuplicatedItemPartCount": 15,
+    "Memo": ""
   },
   {
     "ID": 3,
@@ -39,7 +41,8 @@
     "ItemPart4": "Ancient Kellid Rope Fragment",
     "ItemPart5": "Ancient Kellid Sword Shard",
     "DuplicatedItemPart": null,
-    "DuplicatedItemPartCount": null
+    "DuplicatedItemPartCount": null,
+    "Memo": ""
   },
   {
     "ID": 4,
@@ -53,7 +56,8 @@
     "ItemPart4": "Timeworn Shard of the Goggles of Night from the Tenebrous Depths",
     "ItemPart5": "Timeworn Thassilonian Rune from the Tenebrous Depths",
     "DuplicatedItemPart": null,
-    "DuplicatedItemPartCount": null
+    "DuplicatedItemPartCount": null,
+    "Memo": ""
   },
   {
     "ID": 5,
@@ -67,6 +71,37 @@
     "ItemPart4": null,
     "ItemPart5": null,
     "DuplicatedItemPart": "Scorched Fragment of a Necklace",
-    "DuplicatedItemPartCount": 7
+    "DuplicatedItemPartCount": 7,
+    "Memo": ""
+  },
+  {
+    "ID": 6,
+    "Name": "Star Commander's Glove",
+    "CName": "",
+    "IsArtifact": true,
+    "MergedItem": "Star Soldier's Gauntlet",
+    "ItemPart1": null,
+    "ItemPart2": null,
+    "ItemPart3": null,
+    "ItemPart4": null,
+    "ItemPart5": null,
+    "DuplicatedItemPart": "Piece of Skymetal",
+    "DuplicatedItemPartCount": 17,
+    "Memo": ""
+  },
+  {
+    "ID": 7,
+    "Name": "Technic League outcasts",
+    "CName": "",
+    "IsArtifact": false,
+    "MergedItem": null,
+    "ItemPart1": "Charred Screwdriver with the Technic League's Band",
+    "ItemPart2": "Bent Wrench with the Technic League's Brand",
+    "ItemPart3": "Broken Drill with the Technic League's Brand",
+    "ItemPart4": "Chipped Magnifying Glass with the Technic League's Brand",
+    "ItemPart5": "Melted Pliers with the Technic League's Brand",
+    "DuplicatedItemPart": null,
+    "DuplicatedItemPartCount": null,
+    "Memo": "4000 exp\n10000 GP"
   }
 ]

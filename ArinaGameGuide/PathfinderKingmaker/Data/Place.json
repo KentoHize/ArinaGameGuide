@@ -2518,5 +2518,20 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 170,
+    "Name": "Castle of Knives",
+    "DisplayName": "Castle of Knives",
+    "CName": "",
+    "Type": "Hunting Area",
+    "Region": null,
+    "SuggestedLevelMin": 17,
+    "SuggestedLevelMax": 21,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

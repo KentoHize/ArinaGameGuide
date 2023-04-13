@@ -9868,5 +9868,45 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 990,
+    "CreatureGroup": "Castle of Knives Group A",
+    "Creature": "Alpha Worg",
+    "DisplayName": null,
+    "Quantity": 8,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 991,
+    "CreatureGroup": "Castle of Knives Group B",
+    "Creature": "Poisonous Giant Flytrap",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 992,
+    "CreatureGroup": "Castle of Knives Group C",
+    "Creature": "Knurly Witch",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 993,
+    "CreatureGroup": "Castle of Knives Group C",
+    "Creature": "Wriggling Man",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
   }
 ]
