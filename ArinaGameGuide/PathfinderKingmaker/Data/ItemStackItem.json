@@ -8310,5 +8310,29 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1043,
+    "ItemStack": "Tree Crest Comb",
+    "Item": "Tree Crest Comb",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1044,
+    "ItemStack": "Keen Falchion +5",
+    "Item": "Keen Falchion +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1045,
+    "ItemStack": "Ancient Elven Bead",
+    "Item": "Ancient Elven Bead",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

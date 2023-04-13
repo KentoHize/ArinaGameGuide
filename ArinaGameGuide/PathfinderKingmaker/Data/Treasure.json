@@ -1978,5 +1978,35 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 133,
+    "Name": "Castle of Knives Treasure A",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Castle of Knives",
+    "Position": "South",
+    "ItemStack": "Keen Falchion +5",
+    "PerceptionDC": 45,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 134,
+    "Name": "Castle of Knives Treasure B",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Castle of Knives",
+    "Position": "West",
+    "ItemStack": "Ancient Elven Bead",
+    "PerceptionDC": 11,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

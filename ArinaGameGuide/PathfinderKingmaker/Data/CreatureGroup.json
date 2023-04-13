@@ -3230,5 +3230,29 @@
     "Position": "East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 405,
+    "Name": "Castle of Knives Group D",
+    "Place": "Castle of Knives",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 406,
+    "Name": "Castle of Knives Group E",
+    "Place": "Castle of Knives",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 407,
+    "Name": "Carnival Glade Other Gorup World A",
+    "Place": "Carnival Glade Other World",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

@@ -2533,5 +2533,35 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 171,
+    "Name": "Carnival Glade",
+    "DisplayName": "Carnival Glade",
+    "CName": "",
+    "Type": "Hunting Area",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 172,
+    "Name": "Carnival Glade Other World",
+    "DisplayName": "Other World",
+    "CName": "",
+    "Type": "Hunting Area",
+    "Region": null,
+    "SuggestedLevelMin": 16,
+    "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

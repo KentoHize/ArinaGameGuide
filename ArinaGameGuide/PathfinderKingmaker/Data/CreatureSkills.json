@@ -3682,5 +3682,41 @@
     "Creature": "Engelidis 17",
     "Skill": "Stealth",
     "Bonus": 25
+  },
+  {
+    "ID": 616,
+    "Creature": "Nymph 16",
+    "Skill": "Mobility",
+    "Bonus": 25
+  },
+  {
+    "ID": 617,
+    "Creature": "Nymph 16",
+    "Skill": "Persuasion",
+    "Bonus": 28
+  },
+  {
+    "ID": 618,
+    "Creature": "Nymph 16",
+    "Skill": "Lore(Nature)",
+    "Bonus": 25
+  },
+  {
+    "ID": 619,
+    "Creature": "Nymph 16",
+    "Skill": "Perception",
+    "Bonus": 29
+  },
+  {
+    "ID": 620,
+    "Creature": "Nymph 16",
+    "Skill": "Athletics",
+    "Bonus": 18
+  },
+  {
+    "ID": 621,
+    "Creature": "Nymph 16",
+    "Skill": "Stealth",
+    "Bonus": 29
   }
 ]

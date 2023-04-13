@@ -9908,5 +9908,65 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "Ally"
+  },
+  {
+    "ID": 994,
+    "CreatureGroup": "Castle of Knives Group D",
+    "Creature": "Redcap Trickster",
+    "DisplayName": null,
+    "Quantity": 9,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 995,
+    "CreatureGroup": "Castle of Knives Group E",
+    "Creature": "Mandragora Swarm",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 996,
+    "CreatureGroup": "Castle of Knives Group E",
+    "Creature": "Immense Mandragora",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": "Tree Crest Comb",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 997,
+    "CreatureGroup": "Carnival Glade Other Gorup World A",
+    "Creature": "Poisonus Flytrap-like Treant",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 998,
+    "CreatureGroup": "Carnival Glade Other Gorup World A",
+    "Creature": "Nymph 16",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 999,
+    "CreatureGroup": "Carnival Glade Other Gorup World A",
+    "Creature": "Nixie Prankster",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]
