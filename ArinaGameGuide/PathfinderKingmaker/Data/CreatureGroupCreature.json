@@ -10178,5 +10178,45 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 1024,
+    "CreatureGroup": "Temple of The Elk Group 2A",
+    "Creature": "Visaka the Unicorn",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1021,
+    "CreatureGroup": "Temple of The Elk Group 2B",
+    "Creature": "Poisonous Primal Hydra",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1022,
+    "CreatureGroup": "Temple of The Elk Group 2B",
+    "Creature": "Poisonous Primal Manticore",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1023,
+    "CreatureGroup": "Temple of The Elk Group 2B",
+    "Creature": "Immense Mandragora",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

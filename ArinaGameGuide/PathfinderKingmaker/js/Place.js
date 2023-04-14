@@ -20,14 +20,25 @@ export async function Initialize(div, id1, id2) {
         return target;
     }
 
-    let pl = (await import(`../Data/Place.json`, { assert: { type: `json` } })).default;
+    //Debug Script
+    let debugString = ``
+    if (Unity.DebugMode == 1)
+        debugString = `?v=${Math.random()}`;
+
+    let pl = (await import(`../Data/Place.json${debugString}`, { assert: { type: `json` } })).default;
+    let cg = (await import(`../Data/CreatureGroup.json${ debugString }`, { assert: { type: `json` } })).default;
+    let cgc = (await import(`../Data/CreatureGroupCreature.json${debugString}`, { assert: { type: `json` } })).default;
+    let ts = (await import(`../Data/Treasure.json${debugString}`, { assert: { type: `json` } })).default;
+    let is = (await import(`../Data/ItemStack.json${debugString}`, { assert: { type: `json` } })).default;
+    let isi = (await import(`../Data/ItemStackItem.json${debugString}`, { assert: { type: `json` } })).default;
+    let tr = (await import(`../Data/Trap.json${debugString}`, { assert: { type: `json` } })).default;
     Unity.DataMain = pl.find(m => m.Name == id1);
 
 
     //Creature Group
     let sdata = [];
     let stages = [0];
-    let cg = (await import(`../Data/CreatureGroup.json`, { assert: { type: `json` } })).default;
+    
     
     for (let i = 0; i < cg.length; i++) {
         if (cg[i].Place == id1) {
@@ -38,7 +49,7 @@ export async function Initialize(div, id1, id2) {
         }
     }
 
-    let cgc = (await import(`../Data/CreatureGroupCreature.json`, { assert: { type: `json` } })).default;
+    
     for (let i = 0; i < cgc.length; i++) {
         let a = sdata.find(m => m.cg.Name == cgc[i].CreatureGroup);
         if (a != undefined)
@@ -51,13 +62,12 @@ export async function Initialize(div, id1, id2) {
 
     //Treasure
     sdata = []
-    let ts = (await import(`../Data/Treasure.json`, { assert: { type: `json` } })).default;
+    
     for (let i = 0; i < ts.length; i++)
         if (ts[i].Place == id1)
             sdata.push({ ts: ts[i], is: {}, isi: []});
 
-    let is = (await import(`../Data/ItemStack.json`, { assert: { type: `json` } })).default;
-    let isi = (await import(`../Data/ItemStackItem.json`, { assert: { type: `json` } })).default;
+    
     for (let i = 0; i < is.length; i++) {
         let a = sdata.find(m => m.ts.ItemStack == is[i].Name);
         if (a != undefined)
@@ -74,7 +84,7 @@ export async function Initialize(div, id1, id2) {
         findPosition(sdata[i].ts.Position).value.push({ type: `TS`, data: sdata[i] });
 
     //Trap    
-    let tr = (await import(`../Data/Trap.json`, { assert: { type: `json` } })).default;
+    
     for (let i = 0; i < tr.length; i++)
         if (tr[i].Place == id1)
             findPosition(tr[i].Position).value.push({ type: `TR`, data: tr[i] });
@@ -161,9 +171,9 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
     for (let i = 0; i < stages.length; i++) {
         let aDiv = document.createElement(`a`);
         aDiv.href = `javascript:;`;        
-        aDiv.textContent = i == 0 ? `S` : i;
+        aDiv.textContent = i == 0 ? `S` : stages[i];
         aDiv.setAttribute(`style`, `margin-right:5px`);
-        aDiv.addEventListener(`click`, () => { DisplayDetail(mdiv, divID, id1, stages, i) });
+        aDiv.addEventListener(`click`, () => { DisplayDetail(mdiv, divID, id1, stages, stages[i]) });
         stageDiv.appendChild(aDiv);
     }
 }

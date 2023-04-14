@@ -9518,5 +9518,22 @@
     "StoryItem": false,
     "Weight": 10.0,
     "Description": "+5 Agile Keen\n\nDeal Force dmg"
+  },
+  {
+    "ID": 562,
+    "Name": "Escapist's Crossbow",
+    "DisplayName": "Escapist's Crossbow",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Light Crossbow",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 20750,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 4.0,
+    "Description": "+3 Speed Shock\ndimension 1/day"
   }
 ]

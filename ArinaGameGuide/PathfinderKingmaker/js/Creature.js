@@ -52,14 +52,18 @@ export async function Initialize(div, id1, id2) {
     document.getElementById(`cmd`).textContent = c.CombatManeuverDefense;
     document.getElementById(`sr`).textContent = c.SpellResistance == null ? `-` : c.SpellResistance;
 
-    let ctab = (await import(`../Data/CreatureAbilities.json`, { assert: { type: `json` } })).default;
-    let cta = (await import(`../Data/CreatureAttacks.json`, { assert: { type: `json` } })).default;
-    let ctda = (await import(`../Data/CreatureDamageAdjustment.json`, { assert: { type: `json` } })).default;
-    let ctec = (await import(`../Data/CreatureEffectorCondition.json`, { assert: { type: `json` } })).default;
-    let ctim = (await import(`../Data/CreatureImmunities.json`, { assert: { type: `json` } })).default;
-    let cts = (await import(`../Data/CreatureSkills.json`, { assert: { type: `json` } })).default;
-    let is = (await import(`../Data/ItemStack.json`, { assert: { type: `json` } })).default;
-    let isi = (await import(`../Data/ItemStackItem.json`, { assert: { type: `json` } })).default;
+    let debugString = ``
+    if (Unity.DebugMode == 1)
+        debugString = `?v=${Math.random()}`;
+
+    let ctab = (await import(`../Data/CreatureAbilities.json${debugString}`, { assert: { type: `json` } })).default;
+    let cta = (await import(`../Data/CreatureAttacks.json${debugString}`, { assert: { type: `json` } })).default;
+    let ctda = (await import(`../Data/CreatureDamageAdjustment.json${debugString}`, { assert: { type: `json` } })).default;
+    let ctec = (await import(`../Data/CreatureEffectorCondition.json${debugString}`, { assert: { type: `json` } })).default;
+    let ctim = (await import(`../Data/CreatureImmunities.json${debugString}`, { assert: { type: `json` } })).default;
+    let cts = (await import(`../Data/CreatureSkills.json${debugString}`, { assert: { type: `json` } })).default;
+    let is = (await import(`../Data/ItemStack.json${debugString}`, { assert: { type: `json` } })).default;
+    let isi = (await import(`../Data/ItemStackItem.json${debugString}`, { assert: { type: `json` } })).default;
 
     let s = ``;
     for (let i = 0; i < ctab.length; i++) {

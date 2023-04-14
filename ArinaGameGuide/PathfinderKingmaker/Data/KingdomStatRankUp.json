@@ -14,5 +14,29 @@
     "BestChoiceAdvisor1": "Ekundayo",
     "BestChoiceAdvisor2": null,
     "Memo": "+3 Espionage"
+  },
+  {
+    "ID": 3,
+    "Stat": "Relations",
+    "Rank": 7,
+    "BestChoiceAdvisor1": null,
+    "BestChoiceAdvisor2": null,
+    "Memo": ""
+  },
+  {
+    "ID": 4,
+    "Stat": "Culture",
+    "Rank": 4,
+    "BestChoiceAdvisor1": "Jaethal",
+    "BestChoiceAdvisor2": "Linzi",
+    "Memo": "Improve Culture Development -15% culture building cost"
+  },
+  {
+    "ID": 5,
+    "Stat": "Community",
+    "Rank": 8,
+    "BestChoiceAdvisor1": "Octavia",
+    "BestChoiceAdvisor2": null,
+    "Memo": "Best Choice\nNew Project\n\nCommunity of Loyalists\nRegent +2 resolve \n\nLoyalty of the Masses\nLoyalty +1 when Regent Success"
   }
 ]

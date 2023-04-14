@@ -8622,5 +8622,13 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1082,
+    "ItemStack": "Twin Crystals",
+    "Item": "Twin Crystals",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

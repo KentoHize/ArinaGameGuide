@@ -625,5 +625,16 @@
     "EnemyGroup2": "Castle of Knives Group M",
     "EnemyGroup3": null,
     "Memo": ""
+  },
+  {
+    "ID": 58,
+    "Name": "An Ancient Curse, Part Six",
+    "Place": "Bald Hilltop",
+    "Position": "Center",
+    "HasPlot": false,
+    "EnemyGroup1": "An Ancient Curse, Part Six Group A",
+    "EnemyGroup2": "An Ancient Curse, Part Six Group B",
+    "EnemyGroup3": "An Ancient Curse, Part Six Group C",
+    "Memo": ""
   }
 ]

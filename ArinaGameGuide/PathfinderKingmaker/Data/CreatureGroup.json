@@ -3374,5 +3374,21 @@
     "Position": "Center",
     "Stage": 6,
     "Memo": ""
+  },
+  {
+    "ID": 423,
+    "Name": "Temple of The Elk Group 2A",
+    "Place": "Temple of The Elk",
+    "Position": "West",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 424,
+    "Name": "Temple of The Elk Group 2B",
+    "Place": "Temple of The Elk",
+    "Position": "West",
+    "Stage": 1,
+    "Memo": ""
   }
 ]
