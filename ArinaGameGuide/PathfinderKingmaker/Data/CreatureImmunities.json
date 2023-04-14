@@ -1468,5 +1468,11 @@
     "Creature": "Elder Purple Worm",
     "Condition": "Prone",
     "ConditionGroup": null
+  },
+  {
+    "ID": 266,
+    "Creature": "Lord-Jaeger Tsundar",
+    "Condition": "Fear",
+    "ConditionGroup": null
   }
 ]

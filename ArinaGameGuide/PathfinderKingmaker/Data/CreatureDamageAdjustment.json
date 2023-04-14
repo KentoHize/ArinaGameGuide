@@ -2847,5 +2847,33 @@
     "Type": "Immunity",
     "DamageType": "Acid",
     "Amount": null
+  },
+  {
+    "ID": 408,
+    "Creature": "Lord-Jaeger Tsundar",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 15
+  },
+  {
+    "ID": 409,
+    "Creature": "Lord-Jaeger Tsundar",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 410,
+    "Creature": "Lord-Jaeger Tsundar",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 10
+  },
+  {
+    "ID": 411,
+    "Creature": "Lord-Jaeger Tsundar",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": null
   }
 ]

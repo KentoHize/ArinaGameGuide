@@ -5780,5 +5780,47 @@
     "DamageAdditiveBonus": 26,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 453,
+    "Creature": "Lord-Jaeger Tsundar",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 2,
+    "AttackBonus": 34,
+    "Weapon": "Twin Crystals",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 26,
+    "OtherDamageBonus": "2d6 Divine",
+    "SneakDamage": null
+  },
+  {
+    "ID": 454,
+    "Creature": "Lord-Jaeger Tsundar",
+    "Form": "Piercing Weapon",
+    "Type": "Secondary",
+    "Range": 2,
+    "AddtionalAttack": 2,
+    "AttackBonus": 34,
+    "Weapon": "Twin Crystals",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 19,
+    "OtherDamageBonus": "2d6 Divine",
+    "SneakDamage": null
+  },
+  {
+    "ID": 455,
+    "Creature": "Lord-Jaeger Tsundar",
+    "Form": "Gore",
+    "Type": "Other",
+    "Range": 2,
+    "AddtionalAttack": 0,
+    "AttackBonus": 25,
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 10,
+    "OtherDamageBonus": "2d6 Divine",
+    "SneakDamage": null
   }
 ]

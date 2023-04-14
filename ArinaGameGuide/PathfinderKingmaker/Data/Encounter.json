@@ -614,5 +614,16 @@
     "EnemyGroup2": "Castruccio Irovetti Group B",
     "EnemyGroup3": null,
     "Memo": ""
+  },
+  {
+    "ID": 57,
+    "Name": "Castle of Knives Group L",
+    "Place": "Castle of Knives",
+    "Position": "Center",
+    "HasPlot": false,
+    "EnemyGroup1": "Castle of Knives Group L",
+    "EnemyGroup2": "Castle of Knives Group M",
+    "EnemyGroup3": null,
+    "Memo": ""
   }
 ]

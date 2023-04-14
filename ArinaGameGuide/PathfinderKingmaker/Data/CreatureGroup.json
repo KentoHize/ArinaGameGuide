@@ -3310,5 +3310,69 @@
     "Position": "North West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 415,
+    "Name": "Castle of Knives Group L",
+    "Place": "Castle of Knives",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 416,
+    "Name": "Castle of Knives Group M",
+    "Place": "Castle of Knives",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 417,
+    "Name": "Castle of Knives Group N",
+    "Place": "Castle of Knives",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 418,
+    "Name": "Castle of Knives Group O",
+    "Place": "Castle of Knives",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 419,
+    "Name": "Castle of Knives Group P",
+    "Place": "Castle of Knives",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 420,
+    "Name": "An Ancient Curse, Part Six Group A",
+    "Place": "Bald Hilltop",
+    "Position": "Center",
+    "Stage": 6,
+    "Memo": ""
+  },
+  {
+    "ID": 421,
+    "Name": "An Ancient Curse, Part Six Group B",
+    "Place": "Bald Hilltop",
+    "Position": "Center",
+    "Stage": 6,
+    "Memo": ""
+  },
+  {
+    "ID": 422,
+    "Name": "An Ancient Curse, Part Six Group C",
+    "Place": "Bald Hilltop",
+    "Position": "Center",
+    "Stage": 6,
+    "Memo": ""
   }
 ]

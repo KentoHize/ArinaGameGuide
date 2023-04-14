@@ -8434,7 +8434,7 @@
   {
     "ID": 1058,
     "ItemStack": "Ilthuliak's Lair Cave Treasure B",
-    "Item": "Great Persuasion",
+    "Item": "Gentle Persuasion",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
@@ -8571,6 +8571,54 @@
     "ID": 1075,
     "ItemStack": "Pitax Royal Palace Treasure M",
     "Item": "Ancient Elven Bead",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1076,
+    "ItemStack": "Castle of Knives Treasure S",
+    "Item": "First Crown Fragment",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1077,
+    "ItemStack": "Castle of Knives Treasure S",
+    "Item": "Tree Crest Flask",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1078,
+    "ItemStack": "Champion of Graves",
+    "Item": "Champion of Graves",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1079,
+    "ItemStack": "Castle of Knives Treasure F",
+    "Item": "Greater Empower Metamagic Rod",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1080,
+    "ItemStack": "Castle of Knives Treasure F",
+    "Item": "Token of the Dryad",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1081,
+    "ItemStack": "First Crown Fragment 2",
+    "Item": "First Crown Fragment 2",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null

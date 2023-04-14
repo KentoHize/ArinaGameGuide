@@ -3832,5 +3832,35 @@
     "Creature": "Elder Purple Worm",
     "Skill": "Perception",
     "Bonus": 15
+  },
+  {
+    "ID": 641,
+    "Creature": "Lord-Jaeger Tsundar",
+    "Skill": "Mobility",
+    "Bonus": 42
+  },
+  {
+    "ID": 642,
+    "Creature": "Lord-Jaeger Tsundar",
+    "Skill": "Persuasion",
+    "Bonus": 43
+  },
+  {
+    "ID": 643,
+    "Creature": "Lord-Jaeger Tsundar",
+    "Skill": "Lore(Nature)",
+    "Bonus": 43
+  },
+  {
+    "ID": 644,
+    "Creature": "Lord-Jaeger Tsundar",
+    "Skill": "Perception",
+    "Bonus": 47
+  },
+  {
+    "ID": 645,
+    "Creature": "Lord-Jaeger Tsundar",
+    "Skill": "Stealth",
+    "Bonus": 42
   }
 ]

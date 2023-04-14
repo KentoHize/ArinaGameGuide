@@ -2532,7 +2532,7 @@
     "HardSpotLevelMax": null,
     "HasPlot": false,
     "Description": "",
-    "Memo": "Lore(Religions 25)\n\nDiplomany 30"
+    "Memo": "Lore(Religions 25)\n\nDiplomany 30\nBluff 45 35\n\nWill 20\nPerception 35"
   },
   {
     "ID": 171,

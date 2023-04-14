@@ -10065,6 +10065,116 @@
     "Creature": "Crag Linnorm 16 Dragon",
     "DisplayName": null,
     "Quantity": 1,
+    "AdditonalItems": "Castle of Knives Treasure S",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1010,
+    "CreatureGroup": "Castle of Knives Group L",
+    "Creature": "Ghostly Guard",
+    "DisplayName": null,
+    "Quantity": 11,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1011,
+    "CreatureGroup": "Castle of Knives Group M",
+    "Creature": "Ankou",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1012,
+    "CreatureGroup": "Castle of Knives Group N",
+    "Creature": "Primal Spider Matriarch",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1013,
+    "CreatureGroup": "Castle of Knives Group N",
+    "Creature": "Quickspider Swarm",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1014,
+    "CreatureGroup": "Castle of Knives Group O",
+    "Creature": "Ghostly Guard",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1015,
+    "CreatureGroup": "Castle of Knives Group P",
+    "Creature": "Elder Purple Worm",
+    "DisplayName": null,
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1016,
+    "CreatureGroup": "An Ancient Curse, Part Six Group A",
+    "Creature": "Wild Hunt Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1017,
+    "CreatureGroup": "An Ancient Curse, Part Six Group A",
+    "Creature": "Wild Hunt Scout",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1018,
+    "CreatureGroup": "An Ancient Curse, Part Six Group B",
+    "Creature": "Wild Hunt Scout",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1019,
+    "CreatureGroup": "An Ancient Curse, Part Six Group C",
+    "Creature": "Lord-Jaeger Tsundar",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1020,
+    "CreatureGroup": "An Ancient Curse, Part Six Group C",
+    "Creature": "Wild Hunt Scout",
+    "DisplayName": null,
+    "Quantity": 3,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"

@@ -1114,5 +1114,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 127,
+    "Creature": "Lord-Jaeger Tsundar",
+    "EffectOrCondition": "True Seeing",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

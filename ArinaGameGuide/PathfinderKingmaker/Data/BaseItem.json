@@ -2119,5 +2119,26 @@
     "Strength": false,
     "Price": 0,
     "Weight": 0.0
+  },
+  {
+    "ID": 103,
+    "Name": "Two-bladed Sword",
+    "CName": "Two-bladed Sword",
+    "Type": "Exotic Weapon",
+    "DamageType": null,
+    "ArmorClass": null,
+    "ArmorCheckPenalty": null,
+    "ArcaneSpellFailureChance": null,
+    "MaxDexterity": null,
+    "WeaponSize": "Two-handed",
+    "Range": null,
+    "Damage": null,
+    "CriticalHitRange": null,
+    "CriticalHitMultiplier": null,
+    "FinesseWeapon": false,
+    "MonkWeapon": false,
+    "Strength": false,
+    "Price": 0,
+    "Weight": 0.0
   }
 ]

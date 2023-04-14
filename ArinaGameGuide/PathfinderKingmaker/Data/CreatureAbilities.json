@@ -3247,5 +3247,32 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 363,
+    "Creature": "Lord-Jaeger Tsundar",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 364,
+    "Creature": "Lord-Jaeger Tsundar",
+    "Ability": "Wild Gaze",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 365,
+    "Creature": "Lord-Jaeger Tsundar",
+    "Ability": "Protective Aura",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]
