@@ -76,5 +76,17 @@
     "Name": "Valerie",
     "CName": "",
     "AsCreature": null
+  },
+  {
+    "ID": 14,
+    "Name": "Tsanna",
+    "CName": "",
+    "AsCreature": null
+  },
+  {
+    "ID": 15,
+    "Name": "Jhod",
+    "CName": "",
+    "AsCreature": null
   }
 ]

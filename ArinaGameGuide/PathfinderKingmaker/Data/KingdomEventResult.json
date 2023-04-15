@@ -3631,5 +3631,26 @@
     "OtherConsequence": "None",
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 174,
+    "Event": "Doppleganger on the Throne",
+    "Advisor": "Minister",
+    "Companion": "Ekundayo",
+    "Result": "Triumph",
+    "Stat1": "Stability",
+    "Stat1Adjustment": 2,
+    "Stat2": "Espionage",
+    "Stat2Adjustment": 8,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": "None",
+    "Description": "",
+    "Memo": ""
   }
 ]

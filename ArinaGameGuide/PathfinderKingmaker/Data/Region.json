@@ -63,6 +63,12 @@
     "ID": 11,
     "Name": "Pitax",
     "CName": "",
-    "Settlement": ""
+    "Settlement": "Pitax"
+  },
+  {
+    "ID": 12,
+    "Name": "Thousand Voices",
+    "CName": "",
+    "Settlement": "-"
   }
 ]

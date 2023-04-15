@@ -38,5 +38,13 @@
     "BestChoiceAdvisor1": "Octavia",
     "BestChoiceAdvisor2": null,
     "Memo": "Best Choice\nNew Project\n\nCommunity of Loyalists\nRegent +2 resolve \n\nLoyalty of the Masses\nLoyalty +1 when Regent Success"
+  },
+  {
+    "ID": 6,
+    "Stat": "Divine",
+    "Rank": 6,
+    "BestChoiceAdvisor1": "Valerie",
+    "BestChoiceAdvisor2": null,
+    "Memo": ""
   }
 ]

@@ -9572,8 +9572,8 @@
   },
   {
     "ID": 565,
-    "Name": "Falming Plant Bane Dwarven Waraxe",
-    "DisplayName": "Falming Plant Bane Dwarven Waraxe",
+    "Name": "Falming Plant Bane Dwarven Waraxe +3",
+    "DisplayName": "Falming Plant Bane Dwarven Waraxe +3",
     "DisplayCName": "",
     "Type": null,
     "BaseItem": "Dwarven Waraxe",
@@ -9586,5 +9586,39 @@
     "StoryItem": false,
     "Weight": 8.0,
     "Description": "+3 Flaming Plant Bane"
+  },
+  {
+    "ID": 566,
+    "Name": "Lapis Lazuli Wyvern",
+    "DisplayName": "Lapis Lazuli Wyvern",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Usable",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 35000,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.2,
+    "Description": ""
+  },
+  {
+    "ID": 567,
+    "Name": "Ring of Circumstances",
+    "DisplayName": "Ring of Circumstances",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Ring",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 92500,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.05,
+    "Description": ""
   }
 ]

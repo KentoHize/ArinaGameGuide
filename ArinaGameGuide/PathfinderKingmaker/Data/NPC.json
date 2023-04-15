@@ -174,5 +174,27 @@
     "AsCreature": null,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 17,
+    "Name": "Knurly Witch",
+    "CName": "",
+    "Gender": "Female",
+    "Place": "Castle of Knives",
+    "Position": null,
+    "AsCreature": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 18,
+    "Name": "Wriggling Man",
+    "CName": "",
+    "Gender": "Male",
+    "Place": "Castle of Knives",
+    "Position": null,
+    "AsCreature": null,
+    "Description": "",
+    "Memo": ""
   }
 ]
