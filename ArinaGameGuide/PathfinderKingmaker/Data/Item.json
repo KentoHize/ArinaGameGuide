@@ -9620,5 +9620,39 @@
     "StoryItem": false,
     "Weight": 0.05,
     "Description": ""
+  },
+  {
+    "ID": 568,
+    "Name": "Strigoi's Embrace",
+    "DisplayName": "Strigoi's Embrace",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Cloak",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 40950,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 3.0,
+    "Description": "+8 enhancement to Charisma\n\nEnergy Drain 1/day\n(Sharel's special gift)"
+  },
+  {
+    "ID": 569,
+    "Name": "Greater Dreamer's Smile",
+    "DisplayName": "Greater Dreamer's Smile",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Ring",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 52500,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.05,
+    "Description": "+2 Luck to attack, dmg rolls,  save, skill check and spell penetration check\nimmunity to curse"
   }
 ]

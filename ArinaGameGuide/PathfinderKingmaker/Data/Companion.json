@@ -24,6 +24,12 @@
     "AsCreature": null
   },
   {
+    "ID": 15,
+    "Name": "Jhod",
+    "CName": "",
+    "AsCreature": null
+  },
+  {
     "ID": 8,
     "Name": "Jubilost",
     "CName": "",
@@ -72,20 +78,20 @@
     "AsCreature": null
   },
   {
-    "ID": 2,
-    "Name": "Valerie",
-    "CName": "",
-    "AsCreature": null
-  },
-  {
     "ID": 14,
     "Name": "Tsanna",
     "CName": "",
     "AsCreature": null
   },
   {
-    "ID": 15,
-    "Name": "Jhod",
+    "ID": 2,
+    "Name": "Valerie",
+    "CName": "",
+    "AsCreature": null
+  },
+  {
+    "ID": 16,
+    "Name": "Vordakai",
     "CName": "",
     "AsCreature": null
   }

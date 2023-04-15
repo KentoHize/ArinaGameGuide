@@ -16,7 +16,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -37,7 +37,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -58,7 +58,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -79,7 +79,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -100,7 +100,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -121,7 +121,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -142,7 +142,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -163,7 +163,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -184,7 +184,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -205,7 +205,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -226,7 +226,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "Unrest Level +1",
+    "OtherConsequence": "Unrest Level Up 1",
     "Description": "",
     "Memo": ""
   },
@@ -247,7 +247,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -268,7 +268,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -289,7 +289,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -331,7 +331,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -352,7 +352,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -394,7 +394,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -415,7 +415,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": -20,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -436,7 +436,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -457,7 +457,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -478,7 +478,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -499,7 +499,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -520,7 +520,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -541,7 +541,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -562,7 +562,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -583,7 +583,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 50,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -604,7 +604,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -625,7 +625,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -646,7 +646,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -667,7 +667,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -688,7 +688,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -709,7 +709,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -730,7 +730,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -751,7 +751,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -772,7 +772,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -793,7 +793,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -814,7 +814,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -835,7 +835,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -856,7 +856,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -877,7 +877,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -898,7 +898,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 30,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -919,7 +919,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -940,7 +940,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -961,7 +961,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -982,7 +982,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1003,7 +1003,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1024,7 +1024,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1045,7 +1045,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1066,7 +1066,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1087,7 +1087,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1108,7 +1108,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1129,7 +1129,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1150,7 +1150,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1171,7 +1171,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1192,7 +1192,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1213,7 +1213,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1234,7 +1234,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1255,7 +1255,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1276,7 +1276,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1297,7 +1297,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1318,7 +1318,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": -50,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1339,7 +1339,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1360,7 +1360,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1381,7 +1381,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1402,7 +1402,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1423,7 +1423,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1444,7 +1444,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1465,7 +1465,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1486,7 +1486,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1507,7 +1507,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1528,7 +1528,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1549,7 +1549,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1570,7 +1570,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1591,7 +1591,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1612,7 +1612,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1633,7 +1633,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1654,7 +1654,7 @@
     "Stat5": "Divine",
     "Stat5Adjustment": 2,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1675,7 +1675,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1696,7 +1696,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1717,7 +1717,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1738,7 +1738,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1759,7 +1759,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": -75,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1780,7 +1780,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1801,7 +1801,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1822,7 +1822,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1843,7 +1843,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1864,7 +1864,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1885,7 +1885,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1906,7 +1906,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1927,7 +1927,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1948,7 +1948,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1969,7 +1969,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -1990,7 +1990,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2011,7 +2011,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2032,7 +2032,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2053,7 +2053,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2074,7 +2074,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2095,7 +2095,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2116,7 +2116,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2137,7 +2137,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2158,7 +2158,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2179,7 +2179,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": -25,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2200,7 +2200,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2221,7 +2221,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": -100,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2242,7 +2242,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2263,7 +2263,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2284,7 +2284,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2305,7 +2305,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2326,7 +2326,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2347,7 +2347,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2368,7 +2368,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2389,7 +2389,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2410,7 +2410,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2431,7 +2431,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2452,7 +2452,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2473,7 +2473,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2494,7 +2494,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 100,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2515,7 +2515,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2536,7 +2536,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2557,7 +2557,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2578,7 +2578,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2599,7 +2599,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 3,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2620,7 +2620,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2641,7 +2641,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2662,7 +2662,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2683,7 +2683,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2704,7 +2704,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2725,7 +2725,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": -20,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2746,7 +2746,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2767,7 +2767,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "Unrest Level -1",
+    "OtherConsequence": "Unrest Level Down 1",
     "Description": "",
     "Memo": ""
   },
@@ -2788,7 +2788,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2809,7 +2809,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2830,7 +2830,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2851,7 +2851,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2872,7 +2872,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2893,7 +2893,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2914,7 +2914,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2935,7 +2935,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2956,7 +2956,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2977,7 +2977,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -2998,7 +2998,7 @@
     "Stat5": "Arcane",
     "Stat5Adjustment": 20,
     "BP": 3,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "And \nCluture + 20\nRelation + 3",
     "Memo": "Automatic?"
   },
@@ -3019,7 +3019,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3040,7 +3040,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 3,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3061,7 +3061,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3082,7 +3082,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3103,7 +3103,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3124,7 +3124,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3145,7 +3145,7 @@
     "Stat5": "Arcane",
     "Stat5Adjustment": 20,
     "BP": 3,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "And \nCluture + 20\n",
     "Memo": "Automatic?"
   },
@@ -3166,7 +3166,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3187,7 +3187,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3208,7 +3208,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3229,7 +3229,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3250,7 +3250,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": -100,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3271,7 +3271,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 3,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3292,7 +3292,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3313,7 +3313,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 3,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3334,7 +3334,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3355,7 +3355,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3376,7 +3376,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3397,7 +3397,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3418,7 +3418,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3439,7 +3439,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3460,7 +3460,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 100,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3481,7 +3481,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3502,7 +3502,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 3,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3523,7 +3523,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3544,7 +3544,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3565,7 +3565,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": -100,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3586,7 +3586,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3607,7 +3607,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3628,7 +3628,7 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   },
@@ -3649,7 +3649,322 @@
     "Stat5": null,
     "Stat5Adjustment": null,
     "BP": 0,
-    "OtherConsequence": "None",
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 175,
+    "Event": "The Charmed Prince",
+    "Advisor": "General",
+    "Companion": "Regongar",
+    "Result": "Triumph",
+    "Stat1": "Military",
+    "Stat1Adjustment": 4,
+    "Stat2": "Economy",
+    "Stat2Adjustment": 5,
+    "Stat3": "Relations",
+    "Stat3Adjustment": 5,
+    "Stat4": "Espionage",
+    "Stat4Adjustment": 5,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 3,
+    "OtherConsequence": "3 BP per week",
+    "Description": "",
+    "Memo": "Not good"
+  },
+  {
+    "ID": 176,
+    "Event": "Purge The Ranks",
+    "Advisor": "Treasurer",
+    "Companion": "Jubilost",
+    "Result": "Triumph",
+    "Stat1": "Economy",
+    "Stat1Adjustment": 3,
+    "Stat2": "Espionage",
+    "Stat2Adjustment": 2,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": -100,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 177,
+    "Event": "Salt",
+    "Advisor": "Grand Diplomat",
+    "Companion": "Linzi",
+    "Result": "Triumph",
+    "Stat1": "Relations",
+    "Stat1Adjustment": 3,
+    "Stat2": null,
+    "Stat2Adjustment": null,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 178,
+    "Event": "Fey Backdoors",
+    "Advisor": "Regent",
+    "Companion": "Valerie",
+    "Result": "Disaster",
+    "Stat1": "Arcane",
+    "Stat1Adjustment": -7,
+    "Stat2": "Stability",
+    "Stat2Adjustment": -3,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 179,
+    "Event": "Population Census",
+    "Advisor": "Treasurer",
+    "Companion": "Jubilost",
+    "Result": "Triumph",
+    "Stat1": "Community",
+    "Stat1Adjustment": 5,
+    "Stat2": "Economy",
+    "Stat2Adjustment": 8,
+    "Stat3": "Espionage",
+    "Stat3Adjustment": 5,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 180,
+    "Event": "Black Mass",
+    "Advisor": "High Priest",
+    "Companion": "Harrim",
+    "Result": "Disaster",
+    "Stat1": "Community",
+    "Stat1Adjustment": -2,
+    "Stat2": "Loyalty",
+    "Stat2Adjustment": -2,
+    "Stat3": "Divine",
+    "Stat3Adjustment": -15,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 181,
+    "Event": "Guardians of the Worldwound",
+    "Advisor": "General",
+    "Companion": "Regongar",
+    "Result": "Triumph",
+    "Stat1": "Military",
+    "Stat1Adjustment": 8,
+    "Stat2": "Relations",
+    "Stat2Adjustment": 4,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 182,
+    "Event": "The People's Defenders",
+    "Advisor": "Regent",
+    "Companion": "Valerie",
+    "Result": "Triumph",
+    "Stat1": "Community",
+    "Stat1Adjustment": 3,
+    "Stat2": "Economy",
+    "Stat2Adjustment": 6,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 183,
+    "Event": "Pureblades",
+    "Advisor": "Warden",
+    "Companion": "Kesten Garess",
+    "Result": "Disaster",
+    "Stat1": "Relations",
+    "Stat1Adjustment": -5,
+    "Stat2": null,
+    "Stat2Adjustment": null,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 184,
+    "Event": "Fey Tricks",
+    "Advisor": "High Priest",
+    "Companion": "Harrim",
+    "Result": "Success",
+    "Stat1": "Community",
+    "Stat1Adjustment": 6,
+    "Stat2": "Loyalty",
+    "Stat2Adjustment": 3,
+    "Stat3": "Divine",
+    "Stat3Adjustment": 5,
+    "Stat4": "Arcane",
+    "Stat4Adjustment": 2,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 185,
+    "Event": "Cult Sacrifice",
+    "Advisor": "Grand Diplomat",
+    "Companion": "Linzi",
+    "Result": "Triumph",
+    "Stat1": "Relations",
+    "Stat1Adjustment": 3,
+    "Stat2": null,
+    "Stat2Adjustment": null,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 3,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 186,
+    "Event": "The Chief Is Dead. Long Live the Chief!",
+    "Advisor": "Regent",
+    "Companion": "Valerie",
+    "Result": "Success",
+    "Stat1": "Community",
+    "Stat1Adjustment": 3,
+    "Stat2": "Loyalty",
+    "Stat2Adjustment": 1,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 187,
+    "Event": "Going South",
+    "Advisor": "Treasurer",
+    "Companion": "Jubilost",
+    "Result": "Triumph",
+    "Stat1": "Economy",
+    "Stat1Adjustment": 8,
+    "Stat2": null,
+    "Stat2Adjustment": null,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 188,
+    "Event": "Ice-Cold Wrath",
+    "Advisor": "Magister",
+    "Companion": "Octavia",
+    "Result": "None",
+    "Stat1": "Loyalty",
+    "Stat1Adjustment": -2,
+    "Stat2": "Economy",
+    "Stat2Adjustment": -2,
+    "Stat3": "Arcane",
+    "Stat3Adjustment": -4,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 189,
+    "Event": "The Debate",
+    "Advisor": "Regent",
+    "Companion": "Valerie",
+    "Result": "Success",
+    "Stat1": "Community",
+    "Stat1Adjustment": 7,
+    "Stat2": "Loyalty",
+    "Stat2Adjustment": 1,
+    "Stat3": "Relations",
+    "Stat3Adjustment": 4,
+    "Stat4": "Culture",
+    "Stat4Adjustment": 4,
+    "Stat5": null,
+    "Stat5Adjustment": null,
+    "BP": 0,
+    "OtherConsequence": null,
     "Description": "",
     "Memo": ""
   }
