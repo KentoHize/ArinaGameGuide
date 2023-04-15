@@ -9654,5 +9654,39 @@
     "StoryItem": false,
     "Weight": 0.05,
     "Description": "+2 Luck to attack, dmg rolls,  save, skill check and spell penetration check\nimmunity to curse"
+  },
+  {
+    "ID": 570,
+    "Name": "Sharp Eye",
+    "DisplayName": "Sharp Eye",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Helmet",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 8750,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": "+6 competence to Perception\n+2 to range attack"
+  },
+  {
+    "ID": 571,
+    "Name": "Light Pick +1",
+    "DisplayName": "Light Pick +1",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": null,
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 0,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.0,
+    "Description": ""
   }
 ]

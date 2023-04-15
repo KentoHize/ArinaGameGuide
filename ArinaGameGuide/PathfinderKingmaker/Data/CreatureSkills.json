@@ -3874,5 +3874,11 @@
     "Creature": "Immense Mandragora 33",
     "Skill": "Stealth",
     "Bonus": 7
+  },
+  {
+    "ID": 648,
+    "Creature": "Farnirras the Pensive",
+    "Skill": "Perception",
+    "Bonus": 31
   }
 ]

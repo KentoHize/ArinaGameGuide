@@ -5822,5 +5822,19 @@
     "DamageAdditiveBonus": 10,
     "OtherDamageBonus": "2d6 Divine",
     "SneakDamage": null
+  },
+  {
+    "ID": 456,
+    "Creature": "Guardian Armor",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AddtionalAttack": 2,
+    "AttackBonus": 25,
+    "Weapon": "Light Pick +1",
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 14,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

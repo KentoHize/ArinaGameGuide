@@ -103,5 +103,20 @@
     "DuplicatedItemPart": null,
     "DuplicatedItemPartCount": null,
     "Memo": "4000 exp\n10000 GP"
+  },
+  {
+    "ID": 8,
+    "Name": "Kingdom of Ancient Elves",
+    "CName": "",
+    "IsArtifact": false,
+    "MergedItem": null,
+    "ItemPart1": "Tree Crest Buckle",
+    "ItemPart2": "Tree Crest Comb",
+    "ItemPart3": "Tree Crest Flask",
+    "ItemPart4": "Tree Crest Inkwell",
+    "ItemPart5": "Tree Crest Snuffbox",
+    "DuplicatedItemPart": null,
+    "DuplicatedItemPartCount": null,
+    "Memo": "Gold Coin 10000\n8000 Exp"
   }
 ]

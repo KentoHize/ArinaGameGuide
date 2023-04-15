@@ -2882,5 +2882,19 @@
     "Type": "DamageReduction",
     "DamageType": "Cold Iron",
     "Amount": 10
+  },
+  {
+    "ID": 413,
+    "Creature": "Guardian Armor",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 15
+  },
+  {
+    "ID": 414,
+    "Creature": "Guardian Armor",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

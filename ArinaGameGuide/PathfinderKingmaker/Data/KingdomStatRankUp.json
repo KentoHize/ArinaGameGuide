@@ -196,5 +196,23 @@
     "Stat4Adjustment": null,
     "OtherConsequence": "Unrest Level Up 1",
     "Memo": ""
+  },
+  {
+    "ID": 12,
+    "Stat": "Culture",
+    "Rank": 6,
+    "Type": "None",
+    "BestChoiceAdvisor1": "Linzi",
+    "BestChoiceAdvisor2": "Jaethal",
+    "Stat1": null,
+    "Stat1Adjustment": null,
+    "Stat2": null,
+    "Stat2Adjusment": null,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "OtherConsequence": "-1 BP per week",
+    "Memo": ""
   }
 ]

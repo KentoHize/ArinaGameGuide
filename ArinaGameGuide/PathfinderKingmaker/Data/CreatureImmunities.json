@@ -1480,5 +1480,11 @@
     "Creature": "Immense Mandragora 33",
     "Condition": null,
     "ConditionGroup": "Plant Immunities"
+  },
+  {
+    "ID": 268,
+    "Creature": "Guardian Armor",
+    "Condition": null,
+    "ConditionGroup": "Undead Immunities"
   }
 ]
