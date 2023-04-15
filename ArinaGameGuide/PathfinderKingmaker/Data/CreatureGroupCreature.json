@@ -10238,5 +10238,25 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 1027,
+    "CreatureGroup": "Farnirras Group",
+    "Creature": "Farnirras the Pensive",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1028,
+    "CreatureGroup": "Farnirras Group",
+    "Creature": "Guardian Armor",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

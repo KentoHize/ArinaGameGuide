@@ -2218,5 +2218,20 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 149,
+    "Name": "Farnirras' Prison Treasure A",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Farnirras' Prison",
+    "Position": "North East",
+    "ItemStack": "Farnirras' Prison Treasure A",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

@@ -1486,5 +1486,17 @@
     "Creature": "Guardian Armor",
     "Condition": null,
     "ConditionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 269,
+    "Creature": "Queen Ravena",
+    "Condition": "Sleep",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 270,
+    "Creature": "Farnirras the Pensive",
+    "Condition": null,
+    "ConditionGroup": "Undead Immunities"
   }
 ]

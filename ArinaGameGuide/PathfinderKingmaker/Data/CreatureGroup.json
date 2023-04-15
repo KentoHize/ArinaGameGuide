@@ -3406,5 +3406,13 @@
     "Position": "West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 427,
+    "Name": "Farnirras Group",
+    "Place": "Farnirras' Prison",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

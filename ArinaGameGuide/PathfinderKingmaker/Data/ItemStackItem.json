@@ -8686,5 +8686,165 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1090,
+    "ItemStack": "Farnirras RS",
+    "Item": "Scroll of Protection from Fire",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1091,
+    "ItemStack": "Farnirras RS",
+    "Item": "The missing pages from the diary of Farnirras the Pensive",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1092,
+    "ItemStack": "Farnirras RS",
+    "Item": "The Last Page of the Diary of Farnirras the Pensive",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1093,
+    "ItemStack": "Farnirras RS",
+    "Item": "Light Crossbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1094,
+    "ItemStack": "Farnirras RS",
+    "Item": "Hat of Mental Perfection +8",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1095,
+    "ItemStack": "Farnirras RS",
+    "Item": "Amulet of Natural Armor +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1096,
+    "ItemStack": "Farnirras RS",
+    "Item": "Bracers of Armor +8",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1097,
+    "ItemStack": "Farnirras RS",
+    "Item": "Cloak of Resistance +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1098,
+    "ItemStack": "Farnirras' Prison Treasure A",
+    "Item": "Boneshard",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1099,
+    "ItemStack": "Farnirras' Prison Treasure A",
+    "Item": "Bloodhound",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1100,
+    "ItemStack": "Farnirras' Prison Treasure A",
+    "Item": "Mythslayer",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1101,
+    "ItemStack": "Farnirras' Prison Treasure A",
+    "Item": "Tyrant",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1102,
+    "ItemStack": "Farnirras' Prison Treasure A",
+    "Item": "Vanquisher",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1103,
+    "ItemStack": "Farnirras' Prison Treasure A",
+    "Item": "Shepherd's Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1104,
+    "ItemStack": "Queen Ravena RS",
+    "Item": "Ravena's Kiss",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1105,
+    "ItemStack": "Queen Ravena RS",
+    "Item": "Ravena's Oath",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1106,
+    "ItemStack": "Queen Ravena RS",
+    "Item": "Ravena's Embrace",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1107,
+    "ItemStack": "Queen Ravena RS",
+    "Item": "Belt of Physical Flow +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1108,
+    "ItemStack": "Queen Ravena RS",
+    "Item": "Ravena's Crown",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1109,
+    "ItemStack": "Queen Ravena RS",
+    "Item": "Ravena's Shadow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

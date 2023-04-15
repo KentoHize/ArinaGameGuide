@@ -106,5 +106,53 @@
     "AdaptedAdvisor3": "Curator",
     "Description": "no special effects",
     "Memo": ""
+  },
+  {
+    "ID": 10,
+    "Region": "Kamelands",
+    "Name": "National Treasure",
+    "CName": "",
+    "Cost": 180,
+    "AdaptedAdvisor1": "Curator",
+    "AdaptedAdvisor2": null,
+    "AdaptedAdvisor3": null,
+    "Description": "All Museums +2 Culture",
+    "Memo": ""
+  },
+  {
+    "ID": 11,
+    "Region": "Kamelands",
+    "Name": "Horse-Breeding Center",
+    "CName": "",
+    "Cost": 159,
+    "AdaptedAdvisor1": "Councilor",
+    "AdaptedAdvisor2": "Treasurer",
+    "AdaptedAdvisor3": null,
+    "Description": "+20% overland speed",
+    "Memo": ""
+  },
+  {
+    "ID": 12,
+    "Region": "Pitax",
+    "Name": "Daggermark's Rival",
+    "CName": "",
+    "Cost": 0,
+    "AdaptedAdvisor1": "Minister",
+    "AdaptedAdvisor2": null,
+    "AdaptedAdvisor3": null,
+    "Description": "Minister Roll 2 check choice better\nMinister +5 check",
+    "Memo": ""
+  },
+  {
+    "ID": 13,
+    "Region": "Dunsward",
+    "Name": "Belly of the Stollen Lnads",
+    "CName": "",
+    "Cost": 144,
+    "AdaptedAdvisor1": "Regent",
+    "AdaptedAdvisor2": "Councilor",
+    "AdaptedAdvisor3": null,
+    "Description": "+1 Community and Loyalty for every Brewery, Granary and Windmill in this and adjacent region",
+    "Memo": ""
   }
 ]

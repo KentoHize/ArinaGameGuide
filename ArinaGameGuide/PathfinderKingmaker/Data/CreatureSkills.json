@@ -3880,5 +3880,17 @@
     "Creature": "Farnirras the Pensive",
     "Skill": "Perception",
     "Bonus": 31
+  },
+  {
+    "ID": 649,
+    "Creature": "Queen Ravena",
+    "Skill": "Persuasion",
+    "Bonus": 25
+  },
+  {
+    "ID": 650,
+    "Creature": "Queen Ravena",
+    "Skill": "Perception",
+    "Bonus": 32
   }
 ]

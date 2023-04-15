@@ -196,5 +196,16 @@
     "AsCreature": null,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 19,
+    "Name": "Queen Ravena",
+    "CName": "",
+    "Gender": "Female",
+    "Place": null,
+    "Position": null,
+    "AsCreature": null,
+    "Description": "",
+    "Memo": ""
   }
 ]

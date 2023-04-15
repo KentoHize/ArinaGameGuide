@@ -3310,5 +3310,32 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 370,
+    "Creature": "Queen Ravena",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 371,
+    "Creature": "Queen Ravena",
+    "Ability": "Brutal Beating",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 372,
+    "Creature": "Queen Ravena",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]
