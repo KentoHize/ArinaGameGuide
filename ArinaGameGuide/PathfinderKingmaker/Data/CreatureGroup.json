@@ -3390,5 +3390,21 @@
     "Position": "West",
     "Stage": 1,
     "Memo": ""
+  },
+  {
+    "ID": 425,
+    "Name": "Grocery Stalls Other World Group A",
+    "Place": "Grocery Stalls Other World",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 426,
+    "Name": "Grocery Stalls Other World Group B",
+    "Place": "Grocery Stalls Other World",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

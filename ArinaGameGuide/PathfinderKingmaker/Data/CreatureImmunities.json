@@ -1474,5 +1474,11 @@
     "Creature": "Lord-Jaeger Tsundar",
     "Condition": "Fear",
     "ConditionGroup": null
+  },
+  {
+    "ID": 267,
+    "Creature": "Immense Mandragora 33",
+    "Condition": null,
+    "ConditionGroup": "Plant Immunities"
   }
 ]

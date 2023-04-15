@@ -8630,5 +8630,61 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1084,
+    "ItemStack": "Grocery Stalls Treasure A",
+    "Item": "Agate",
+    "RandomItem": null,
+    "Quantity": 14,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1083,
+    "ItemStack": "Grocery Stalls Treasure A",
+    "Item": "Gold Ring",
+    "RandomItem": null,
+    "Quantity": 13,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1085,
+    "ItemStack": "Grocery Stalls Treasure A",
+    "Item": "Citrine",
+    "RandomItem": null,
+    "Quantity": 14,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1086,
+    "ItemStack": "Token of the Dryad",
+    "Item": "Token of the Dryad",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1087,
+    "ItemStack": "Tree Crest Snuffbox",
+    "Item": "Tree Crest Snuffbox",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1088,
+    "ItemStack": "Grocery Stalls Other World Treasure C",
+    "Item": "Hellstrider Boots",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1089,
+    "ItemStack": "Grocery Stalls Other World Treasure C",
+    "Item": "Falming Plant Bane Dwarven Waraxe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

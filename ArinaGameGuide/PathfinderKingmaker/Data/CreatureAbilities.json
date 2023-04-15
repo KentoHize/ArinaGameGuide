@@ -3274,5 +3274,23 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 366,
+    "Creature": "Immense Mandragora 33",
+    "Ability": "Regeneration",
+    "Amount": 5,
+    "DamageType1": "Fire",
+    "DamageType2": "Cold Iron",
+    "DC": null
+  },
+  {
+    "ID": 367,
+    "Creature": "Immense Mandragora 33",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

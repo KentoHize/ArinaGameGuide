@@ -3862,5 +3862,17 @@
     "Creature": "Lord-Jaeger Tsundar",
     "Skill": "Stealth",
     "Bonus": 42
+  },
+  {
+    "ID": 646,
+    "Creature": "Immense Mandragora 33",
+    "Skill": "Perception",
+    "Bonus": 51
+  },
+  {
+    "ID": 647,
+    "Creature": "Immense Mandragora 33",
+    "Skill": "Stealth",
+    "Bonus": 7
   }
 ]

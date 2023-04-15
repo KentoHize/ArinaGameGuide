@@ -2875,5 +2875,12 @@
     "Type": "Immunity",
     "DamageType": "Cold",
     "Amount": null
+  },
+  {
+    "ID": 412,
+    "Creature": "Immense Mandragora 33",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
   }
 ]
