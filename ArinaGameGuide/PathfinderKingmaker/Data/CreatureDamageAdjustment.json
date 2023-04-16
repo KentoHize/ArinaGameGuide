@@ -2896,5 +2896,19 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 415,
+    "Creature": "Vilderavn",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron and Magic",
+    "Amount": 15
+  },
+  {
+    "ID": 416,
+    "Creature": "Vilderavn",
+    "Type": "DamageReduction",
+    "DamageType": "Good",
+    "Amount": 15
   }
 ]

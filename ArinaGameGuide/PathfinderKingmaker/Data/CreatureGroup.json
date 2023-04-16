@@ -3414,5 +3414,29 @@
     "Position": "North East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 428,
+    "Name": "An Ancient Curse, Part Seven Group A",
+    "Place": "Bald Hilltop",
+    "Position": "Center",
+    "Stage": 6,
+    "Memo": ""
+  },
+  {
+    "ID": 429,
+    "Name": "An Ancient Curse, Part Seven Group B",
+    "Place": "Bald Hilltop",
+    "Position": "Center",
+    "Stage": 6,
+    "Memo": ""
+  },
+  {
+    "ID": 430,
+    "Name": "An Ancient Curse, Part Seven Group C",
+    "Place": "Bald Hilltop",
+    "Position": "Center",
+    "Stage": 6,
+    "Memo": ""
   }
 ]

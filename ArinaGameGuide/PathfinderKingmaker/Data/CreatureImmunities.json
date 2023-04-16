@@ -1498,5 +1498,23 @@
     "Creature": "Farnirras the Pensive",
     "Condition": null,
     "ConditionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 271,
+    "Creature": "Vilderavn",
+    "Condition": "Fear",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 272,
+    "Creature": "Vilderavn",
+    "Condition": "Curse",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 273,
+    "Creature": "Vilderavn",
+    "Condition": "Death",
+    "ConditionGroup": null
   }
 ]

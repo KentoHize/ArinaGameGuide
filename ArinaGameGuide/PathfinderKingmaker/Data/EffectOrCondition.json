@@ -117,6 +117,15 @@
     "Memo": ""
   },
   {
+    "ID": 77,
+    "Name": "Curse",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
     "ID": 36,
     "Name": "damage from non-magical weapons",
     "CName": "",
@@ -362,6 +371,15 @@
   {
     "ID": 8,
     "Name": "Invisibility",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 76,
+    "Name": "Invisibility, Greater",
     "CName": "",
     "IsCondition": false,
     "IsGroup": false,
@@ -661,15 +679,6 @@
     "Name": "Web",
     "CName": "",
     "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 76,
-    "Name": "Invisibility, Greater",
-    "CName": "",
-    "IsCondition": false,
     "IsGroup": false,
     "Description": "",
     "Memo": ""

@@ -42,6 +42,12 @@
     "AdeptToDamgeReduction": true
   },
   {
+    "ID": 27,
+    "Name": "Cold Iron and Magic",
+    "CName": "",
+    "AdeptToDamgeReduction": true
+  },
+  {
     "ID": 12,
     "Name": "Electricity",
     "CName": "",
@@ -76,6 +82,12 @@
     "Name": "Magic",
     "CName": "",
     "AdeptToDamgeReduction": true
+  },
+  {
+    "ID": 26,
+    "Name": "Magic Missile",
+    "CName": "",
+    "AdeptToDamgeReduction": false
   },
   {
     "ID": 18,
@@ -146,12 +158,6 @@
   {
     "ID": 22,
     "Name": "Sonic",
-    "CName": "",
-    "AdeptToDamgeReduction": false
-  },
-  {
-    "ID": 26,
-    "Name": "Magic Missile",
     "CName": "",
     "AdeptToDamgeReduction": false
   }
