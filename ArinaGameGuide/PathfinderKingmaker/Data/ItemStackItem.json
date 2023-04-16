@@ -8846,5 +8846,53 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1110,
+    "ItemStack": "Spawn of Rovagug RS",
+    "Item": "Malevolent Scream",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1111,
+    "ItemStack": "Spawn of Rovagug RS",
+    "Item": "Belt of Perfect Components",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1112,
+    "ItemStack": "Spawn of Rovagug RS",
+    "Item": "Greater Ring of Ultimate Protection",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1113,
+    "ItemStack": "Neutralizer",
+    "Item": "Neutralizer",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1114,
+    "ItemStack": "Red Dragonscale Helmet",
+    "Item": "Red Dragonscale Helmet",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1115,
+    "ItemStack": "Wand of Heroism",
+    "Item": "Wand of Heroism",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

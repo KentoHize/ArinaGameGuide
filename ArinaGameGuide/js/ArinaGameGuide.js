@@ -1,12 +1,17 @@
 //import { Doc, Div } from "./js/Ansrabrar.js";
 //import { Riana } from "./js/Characters/Heroes/Riana.js";
+var Debug = 1;
 
 function getDataPath(pageName, dataName) {
     return "../" + pageName + "/Data/" + dataName + ".json";
 }
 
-export function loadDataIndex(document, indexDiv, contentDiv, pageName, dataName, id1, id2, nameId) {
-    import(getDataPath(pageName, dataName), { assert: { type: 'json' } }).then(
+export function loadDataIndex(document, indexDiv, contentDiv, pageName, dataName, id1, id2, nameId)
+{
+    let debugString = ``    
+    if (Debug == 1)
+        debugString = `?v=${Math.random()}`;
+    import(`${getDataPath(pageName, dataName)}${debugString}`, { assert: { type: 'json' } }).then(
         m => {
             let d = m.default;
             //let doc = new Doc();
@@ -33,7 +38,11 @@ export function loadDataIndex(document, indexDiv, contentDiv, pageName, dataName
 }
 
 export function loadDataContent(div, pageName, dataName, id1, id2 = null) {    
-    
+    let debugString = ``
+    if (Debug == 1)
+        debugString = `?v=${Math.random()}`;
+
+
     let pageParams = `id1=` + id1;
     if (id2)
         pageParams += `&id2=` + id2;
@@ -47,7 +56,7 @@ export function loadDataContent(div, pageName, dataName, id1, id2 = null) {
             var bodyContent = this.response.substring(this.response.indexOf("<body>") + 6);
             bodyContent = bodyContent.substring(0, bodyContent.lastIndexOf("</body>"));
             div.innerHTML = bodyContent;
-            import(`../` + pageName + `/js/` + dataName + `.js`).then(m => { m.Initialize(div, id1, id2); });
+            import(`../` + pageName + `/js/` + dataName + `.js` + `${debugString}`).then(m => { m.Initialize(div, id1, id2); });
         }
     }
     xhttp.send();

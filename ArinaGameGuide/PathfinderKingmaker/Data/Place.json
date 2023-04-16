@@ -2638,5 +2638,20 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 178,
+    "Name": "The Edge of Madness",
+    "DisplayName": "The Edge of Madness",
+    "CName": "",
+    "Type": "Dungeon",
+    "Region": null,
+    "SuggestedLevelMin": 18,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

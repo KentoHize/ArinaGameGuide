@@ -1993,5 +1993,25 @@
     "ID": 400,
     "Name": "Queen Ravena RS",
     "Memo": ""
+  },
+  {
+    "ID": 401,
+    "Name": "Spawn of Rovagug RS",
+    "Memo": ""
+  },
+  {
+    "ID": 402,
+    "Name": "Neutralizer",
+    "Memo": ""
+  },
+  {
+    "ID": 403,
+    "Name": "Red Dragonscale Helmet",
+    "Memo": ""
+  },
+  {
+    "ID": 404,
+    "Name": "Wand of Heroism",
+    "Memo": ""
   }
 ]

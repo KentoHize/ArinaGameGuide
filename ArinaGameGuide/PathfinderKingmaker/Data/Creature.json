@@ -15906,7 +15906,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "Spawn of Rovagug RS",
     "Memo": "Phantasmal Putrefaction\n\n普攻15d6 Unholy\n濺射 10d6 near\nSpawn 263 hp\n\nGear's rule\n\nSpawn 2\n\nDispel Magic\n\n"
   },
   {
@@ -19475,7 +19475,7 @@
     "SkinDC": null,
     "Swarm": false,
     "Undead": false,
-    "RemainItems": null,
+    "RemainItems": "Keen Falchion +5",
     "Memo": ""
   }
 ]

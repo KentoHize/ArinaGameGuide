@@ -2233,5 +2233,50 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 150,
+    "Name": "The Edge of Madness Treasure A",
+    "CName": "",
+    "Type": "Corpse",
+    "Place": "The Edge of Madness",
+    "Position": "Center",
+    "ItemStack": "Neutralizer",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 151,
+    "Name": "The Edge of Madness Treasure B",
+    "CName": "",
+    "Type": "Corpse",
+    "Place": "The Edge of Madness",
+    "Position": "Center",
+    "ItemStack": "Red Dragonscale Helmet",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 152,
+    "Name": "The Edge of Madness Treasure C",
+    "CName": "",
+    "Type": "Corpse",
+    "Place": "The Edge of Madness",
+    "Position": "Center",
+    "ItemStack": "Wand of Heroism",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

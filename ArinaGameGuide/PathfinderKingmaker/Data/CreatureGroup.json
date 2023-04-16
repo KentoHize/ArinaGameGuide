@@ -2914,8 +2914,8 @@
   {
     "ID": 365,
     "Name": "Spawn of Rovagug",
-    "Place": "Tenebrous Depth XVI",
-    "Position": "Deep Floor 1",
+    "Place": "The Edge of Madness",
+    "Position": "Center",
     "Stage": 0,
     "Memo": ""
   },
@@ -3437,6 +3437,14 @@
     "Place": "Bald Hilltop",
     "Position": "Center",
     "Stage": 6,
+    "Memo": ""
+  },
+  {
+    "ID": 431,
+    "Name": "Castle of Knives Portal Guards",
+    "Place": "Castle of Knives",
+    "Position": "Center",
+    "Stage": 1,
     "Memo": ""
   }
 ]
