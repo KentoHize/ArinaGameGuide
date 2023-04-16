@@ -15,6 +15,7 @@
     "Stat4": null,
     "Stat4Adjustment": null,
     "OtherConsequence": null,
+    "BP": 0,
     "Memo": "Choice B Better"
   },
   {
@@ -33,6 +34,7 @@
     "Stat4": null,
     "Stat4Adjustment": null,
     "OtherConsequence": null,
+    "BP": 0,
     "Memo": "+3 Espionage"
   },
   {
@@ -51,6 +53,7 @@
     "Stat4": null,
     "Stat4Adjustment": null,
     "OtherConsequence": null,
+    "BP": 0,
     "Memo": ""
   },
   {
@@ -69,6 +72,7 @@
     "Stat4": null,
     "Stat4Adjustment": null,
     "OtherConsequence": null,
+    "BP": 0,
     "Memo": "Improve Culture Development -15% culture building cost"
   },
   {
@@ -87,6 +91,7 @@
     "Stat4": null,
     "Stat4Adjustment": null,
     "OtherConsequence": null,
+    "BP": 0,
     "Memo": "Best Choice\nNew Project\n\nCommunity of Loyalists\nRegent +2 resolve \n\nLoyalty of the Masses\nLoyalty +1 when Regent Success"
   },
   {
@@ -105,6 +110,7 @@
     "Stat4": null,
     "Stat4Adjustment": null,
     "OtherConsequence": null,
+    "BP": 0,
     "Memo": ""
   },
   {
@@ -123,6 +129,7 @@
     "Stat4": null,
     "Stat4Adjustment": null,
     "OtherConsequence": null,
+    "BP": 0,
     "Memo": "All not good"
   },
   {
@@ -141,6 +148,7 @@
     "Stat4": null,
     "Stat4Adjustment": null,
     "OtherConsequence": null,
+    "BP": 0,
     "Memo": ""
   },
   {
@@ -159,6 +167,7 @@
     "Stat4": null,
     "Stat4Adjustment": null,
     "OtherConsequence": null,
+    "BP": 0,
     "Memo": ""
   },
   {
@@ -177,6 +186,7 @@
     "Stat4": "Arcane",
     "Stat4Adjustment": 2,
     "OtherConsequence": null,
+    "BP": 0,
     "Memo": ""
   },
   {
@@ -195,6 +205,7 @@
     "Stat4": null,
     "Stat4Adjustment": null,
     "OtherConsequence": "Unrest Level Up 1",
+    "BP": 0,
     "Memo": "Level up no effect?"
   },
   {
@@ -213,6 +224,7 @@
     "Stat4": null,
     "Stat4Adjustment": null,
     "OtherConsequence": "-1 BP per week",
+    "BP": 0,
     "Memo": ""
   },
   {
@@ -231,6 +243,7 @@
     "Stat4": null,
     "Stat4Adjustment": null,
     "OtherConsequence": null,
+    "BP": 0,
     "Memo": ""
   },
   {
@@ -249,7 +262,8 @@
     "Stat4": null,
     "Stat4Adjustment": null,
     "OtherConsequence": null,
-    "Memo": "-250bp"
+    "BP": -250,
+    "Memo": ""
   },
   {
     "ID": 15,
@@ -267,6 +281,7 @@
     "Stat4": null,
     "Stat4Adjustment": null,
     "OtherConsequence": null,
+    "BP": 0,
     "Memo": ""
   },
   {
@@ -285,6 +300,64 @@
     "Stat4": null,
     "Stat4Adjustment": null,
     "OtherConsequence": null,
+    "BP": 0,
     "Memo": "The Helping Hand(+2 to Councilor Check)"
+  },
+  {
+    "ID": 17,
+    "Stat": "Culture",
+    "Rank": 7,
+    "Type": "A",
+    "BestChoiceAdvisor1": "Linzi",
+    "BestChoiceAdvisor2": "Storyteller",
+    "Stat1": null,
+    "Stat1Adjustment": null,
+    "Stat2": null,
+    "Stat2Adjusment": null,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "OtherConsequence": null,
+    "BP": -200,
+    "Memo": ""
+  },
+  {
+    "ID": 18,
+    "Stat": "Culture",
+    "Rank": 8,
+    "Type": "None",
+    "BestChoiceAdvisor1": "Jaethal",
+    "BestChoiceAdvisor2": null,
+    "Stat1": null,
+    "Stat1Adjustment": null,
+    "Stat2": null,
+    "Stat2Adjusment": null,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "OtherConsequence": null,
+    "BP": -200,
+    "Memo": ""
+  },
+  {
+    "ID": 19,
+    "Stat": "Military",
+    "Rank": 7,
+    "Type": "None",
+    "BestChoiceAdvisor1": "Regongar",
+    "BestChoiceAdvisor2": null,
+    "Stat1": null,
+    "Stat1Adjustment": null,
+    "Stat2": null,
+    "Stat2Adjusment": null,
+    "Stat3": null,
+    "Stat3Adjustment": null,
+    "Stat4": null,
+    "Stat4Adjustment": null,
+    "OtherConsequence": null,
+    "BP": 0,
+    "Memo": ""
   }
 ]
