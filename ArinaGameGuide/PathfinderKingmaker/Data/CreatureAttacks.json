@@ -5864,5 +5864,19 @@
     "DamageAdditiveBonus": 9,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 459,
+    "Creature": "Kargstaad",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 6,
+    "AddtionalAttack": 3,
+    "AttackBonus": 30,
+    "Weapon": "Frost Greataxe +2",
+    "BasicDamage": "3d6",
+    "DamageAdditiveBonus": 33,
+    "OtherDamageBonus": "1d6 Cold",
+    "SneakDamage": null
   }
 ]

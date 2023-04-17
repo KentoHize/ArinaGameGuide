@@ -2161,5 +2161,26 @@
     "Strength": false,
     "Price": 0,
     "Weight": 5.0
+  },
+  {
+    "ID": 105,
+    "Name": "Light Pick",
+    "CName": "",
+    "Type": "Martial Weapon",
+    "DamageType": null,
+    "ArmorClass": null,
+    "ArmorCheckPenalty": null,
+    "ArcaneSpellFailureChance": null,
+    "MaxDexterity": null,
+    "WeaponSize": "Light",
+    "Range": null,
+    "Damage": "1d4",
+    "CriticalHitRange": 1,
+    "CriticalHitMultiplier": 4,
+    "FinesseWeapon": true,
+    "MonkWeapon": false,
+    "Strength": false,
+    "Price": 0,
+    "Weight": 3.0
   }
 ]

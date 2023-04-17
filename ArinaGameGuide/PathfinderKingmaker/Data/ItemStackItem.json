@@ -8894,5 +8894,69 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1116,
+    "ItemStack": "Light Pick +4",
+    "Item": "Light Pick +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1118,
+    "ItemStack": "House at the Edge of Time Troll Lair A Treasure A",
+    "Item": "Scroll of Restoration, Greater",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1117,
+    "ItemStack": "House at the Edge of Time Troll Lair A Treasure A",
+    "Item": "Scroll of Breath of Life",
+    "RandomItem": null,
+    "Quantity": 4,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1119,
+    "ItemStack": "Forewarning",
+    "Item": "Forewarning",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1120,
+    "ItemStack": "Kargstaad RS",
+    "Item": "Frost Greataxe +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1121,
+    "ItemStack": "Kargstaad RS",
+    "Item": "Hide Armor +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1122,
+    "ItemStack": "Kargstaad RS",
+    "Item": "Amulet of Natural Armor +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1123,
+    "ItemStack": "Kargstaad RS",
+    "Item": "Ring of Protection +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

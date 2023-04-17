@@ -3892,5 +3892,17 @@
     "Creature": "Queen Ravena",
     "Skill": "Perception",
     "Bonus": 32
+  },
+  {
+    "ID": 651,
+    "Creature": "Kargstaad",
+    "Skill": "Perception",
+    "Bonus": 33
+  },
+  {
+    "ID": 652,
+    "Creature": "Kargstaad",
+    "Skill": "Stealth",
+    "Bonus": 15
   }
 ]

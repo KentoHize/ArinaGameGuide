@@ -2278,5 +2278,50 @@
     "LockDC": null,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 153,
+    "Name": "House at the Edge of Time Floor A Treasure A",
+    "CName": "",
+    "Type": "Box",
+    "Place": "House at the Edge of Time Floor A",
+    "Position": "South West",
+    "ItemStack": "Light Pick +4",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 154,
+    "Name": "House at the Edge of Time Troll Lair A Treasure A",
+    "CName": "",
+    "Type": "Box",
+    "Place": "House at the Edge of Time Troll Lair A",
+    "Position": "Center",
+    "ItemStack": "House at the Edge of Time Troll Lair A Treasure A",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 155,
+    "Name": "House at the Edge of Time Frozen Boneyard A Treasure A",
+    "CName": "",
+    "Type": "Box",
+    "Place": "House at the Edge of Time Frozen Boneyard",
+    "Position": "West",
+    "ItemStack": "Forewarning",
+    "PerceptionDC": 44,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

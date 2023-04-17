@@ -2910,5 +2910,26 @@
     "Type": "DamageReduction",
     "DamageType": "Good",
     "Amount": 15
+  },
+  {
+    "ID": 417,
+    "Creature": "Kargstaad",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 3
+  },
+  {
+    "ID": 418,
+    "Creature": "Kargstaad",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 419,
+    "Creature": "Kargstaad",
+    "Type": "Vulnerability",
+    "DamageType": "Fire",
+    "Amount": null
   }
 ]

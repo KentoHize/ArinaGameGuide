@@ -8,7 +8,11 @@ export async function Initialize(div, id1, id2) {
     else
         Unity.BrowsingHistoryPage = 0;
 
-    let ct = (await import(`../Data/Creature.json`, { assert: { type: `json` } })).default;
+    let debugString = ``
+    if (Unity.DebugMode == 1)
+        debugString = `?v=${Math.random()}`;
+
+    let ct = (await import(`../Data/Creature.json${debugString}`, { assert: { type: `json` } })).default;
     let c = ct.find(m => m.Name == id1);
 
     let classString = ``;
@@ -52,9 +56,7 @@ export async function Initialize(div, id1, id2) {
     document.getElementById(`cmd`).textContent = c.CombatManeuverDefense;
     document.getElementById(`sr`).textContent = c.SpellResistance == null ? `-` : c.SpellResistance;
 
-    let debugString = ``
-    if (Unity.DebugMode == 1)
-        debugString = `?v=${Math.random()}`;
+
 
     let ctab = (await import(`../Data/CreatureAbilities.json${debugString}`, { assert: { type: `json` } })).default;
     let cta = (await import(`../Data/CreatureAttacks.json${debugString}`, { assert: { type: `json` } })).default;

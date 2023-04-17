@@ -207,5 +207,27 @@
     "AsCreature": null,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 20,
+    "Name": "Issili",
+    "CName": "",
+    "Gender": "Female",
+    "Place": "House at the Edge of Time Outer",
+    "Position": "North",
+    "AsCreature": null,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 21,
+    "Name": "Evindra",
+    "CName": "",
+    "Gender": "Female",
+    "Place": "House at the Edge of Time Outer",
+    "Position": "North",
+    "AsCreature": null,
+    "Description": "",
+    "Memo": ""
   }
 ]

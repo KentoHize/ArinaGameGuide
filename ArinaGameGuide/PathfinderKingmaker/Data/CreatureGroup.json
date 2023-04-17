@@ -3446,5 +3446,29 @@
     "Position": "Center",
     "Stage": 1,
     "Memo": ""
+  },
+  {
+    "ID": 432,
+    "Name": "House at the Edge of Time Floor A Group A",
+    "Place": "House at the Edge of Time Floor A",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 433,
+    "Name": "House at the Edge of Time Floor A Group B",
+    "Place": "House at the Edge of Time Floor A",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 434,
+    "Name": "Kargstaad",
+    "Place": "House at the Edge of Time Frozen Boneyard",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]
