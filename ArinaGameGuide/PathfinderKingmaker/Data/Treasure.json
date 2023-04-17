@@ -2458,5 +2458,50 @@
     "LockDC": 43,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 165,
+    "Name": "House at the Edge of Time Floor A Treasure C",
+    "CName": "",
+    "Type": "Box",
+    "Place": "House at the Edge of Time Floor A",
+    "Position": "Center",
+    "ItemStack": "House at the Edge of Time Floor A Treasure C",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": 43,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 166,
+    "Name": "House at the Edge of Time Floor A Treasure D",
+    "CName": "",
+    "Type": "Box",
+    "Place": "House at the Edge of Time Floor A",
+    "Position": "North",
+    "ItemStack": "Adamantine Full Plate +4",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": 42,
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 167,
+    "Name": "House at the Edge of Time Floor A Treasure E",
+    "CName": "",
+    "Type": "Box",
+    "Place": "House at the Edge of Time Floor A",
+    "Position": "North East",
+    "ItemStack": "House at the Edge of Time Floor A Treasure E",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": 44,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

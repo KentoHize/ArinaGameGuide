@@ -9238,5 +9238,109 @@
     "RandomItem": null,
     "Quantity": 255,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1159,
+    "ItemStack": "House at the Edge of Time Floor A Treasure C",
+    "Item": "Scroll of Barkskin",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1160,
+    "ItemStack": "House at the Edge of Time Floor A Treasure C",
+    "Item": "Potion of Reduce Person",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1161,
+    "ItemStack": "House at the Edge of Time Floor A Treasure C",
+    "Item": "Masterwork Elven Curve Blade",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1162,
+    "ItemStack": "House at the Edge of Time Floor A Treasure C",
+    "Item": "Turquoise",
+    "RandomItem": null,
+    "Quantity": 4,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1163,
+    "ItemStack": "House at the Edge of Time Floor A Treasure C",
+    "Item": "Moonstone",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1164,
+    "ItemStack": "House at the Edge of Time Floor A Treasure C",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 1010,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1165,
+    "ItemStack": "Adamantine Full Plate +4",
+    "Item": "Adamantine Full Plate +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1166,
+    "ItemStack": "House at the Edge of Time Floor A Treasure E",
+    "Item": "Silver Ring",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1167,
+    "ItemStack": "House at the Edge of Time Floor A Treasure E",
+    "Item": "Potion of Barkskin",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1168,
+    "ItemStack": "House at the Edge of Time Floor A Treasure E",
+    "Item": "Whimsical Berry",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1169,
+    "ItemStack": "House at the Edge of Time Floor A Treasure E",
+    "Item": "Medicinal Herb Petals",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1170,
+    "ItemStack": "House at the Edge of Time Floor A Treasure E",
+    "Item": "Scroll of Touch of Gracelessness",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1171,
+    "ItemStack": "House at the Edge of Time Floor A Treasure E",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 1592,
+    "RandomQuantity": null
   }
 ]
