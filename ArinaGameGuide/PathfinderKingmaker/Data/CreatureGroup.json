@@ -3558,5 +3558,21 @@
     "Position": "South West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 446,
+    "Name": "House at the Edge of Time Group A",
+    "Place": "House at the Edge of Time Outer A",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 447,
+    "Name": "House at the Edge of Time Basement A Group A",
+    "Place": "House at the Edge of Time Basement A",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

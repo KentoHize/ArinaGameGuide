@@ -9118,5 +9118,125 @@
     "RandomItem": null,
     "Quantity": 1056,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1144,
+    "ItemStack": "MV4",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 4,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1145,
+    "ItemStack": "House at the Edge of Time Basement A Treasure A",
+    "Item": "Masterwork Light Crossbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1146,
+    "ItemStack": "House at the Edge of Time Basement A Treasure A",
+    "Item": "Handful of Gems",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1147,
+    "ItemStack": "House at the Edge of Time Basement A Treasure A",
+    "Item": "Silver Ring",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1148,
+    "ItemStack": "House at the Edge of Time Basement A Treasure A",
+    "Item": "Peridot",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1149,
+    "ItemStack": "House at the Edge of Time Basement A Treasure A",
+    "Item": "Pearl",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1150,
+    "ItemStack": "House at the Edge of Time Basement A Treasure A",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 1407,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1151,
+    "ItemStack": "Linnorm Hide",
+    "Item": "Linnorm Hide",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1152,
+    "ItemStack": "Remnant",
+    "Item": "Remnant",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1153,
+    "ItemStack": "House at the Edge of Time Floor A Treasure B",
+    "Item": "Green Quartz",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1154,
+    "ItemStack": "House at the Edge of Time Floor A Treasure B",
+    "Item": "Masterwork Sling Staff",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1155,
+    "ItemStack": "House at the Edge of Time Floor A Treasure B",
+    "Item": "Potion of Protection from Chaos",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1156,
+    "ItemStack": "House at the Edge of Time Floor A Treasure B",
+    "Item": "Turquoise",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1157,
+    "ItemStack": "House at the Edge of Time Floor A Treasure B",
+    "Item": "Scroll of Contagion: Cackle Fever",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1158,
+    "ItemStack": "House at the Edge of Time Floor A Treasure B",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 255,
+    "RandomQuantity": null
   }
 ]

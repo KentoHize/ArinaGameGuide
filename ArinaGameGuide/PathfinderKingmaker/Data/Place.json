@@ -2656,7 +2656,22 @@
   },
   {
     "ID": 179,
-    "Name": "House at the Edge of Time Outer",
+    "Name": "House at the Edge of Time Outer A",
+    "DisplayName": "House at the Edge of Time",
+    "CName": "",
+    "Type": "Hunting Area",
+    "Region": "Thousand Voices",
+    "SuggestedLevelMin": 18,
+    "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 188,
+    "Name": "House at the Edge of Time Outer B",
     "DisplayName": "House at the Edge of Time",
     "CName": "",
     "Type": "Hunting Area",

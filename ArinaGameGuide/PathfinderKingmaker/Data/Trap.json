@@ -2194,5 +2194,17 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 191,
+    "Name": "House at the Edge of Time Basement B Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "House at the Edge of Time Basement B",
+    "DisarmDC": 36,
+    "Position": "South",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]
