@@ -3904,5 +3904,143 @@
     "Creature": "Kargstaad",
     "Skill": "Stealth",
     "Bonus": 15
+  },
+  {
+    "ID": 653,
+    "Creature": "Misbegotten Troll",
+    "Skill": "Perception",
+    "Bonus": 28
+  },
+  {
+    "ID": 654,
+    "Creature": "Ghostly Guard 16 Rogue",
+    "Skill": "Perception",
+    "Bonus": 38
+  },
+  {
+    "ID": 655,
+    "Creature": "Ghostly Guard 16 Rogue",
+    "Skill": "Stealth",
+    "Bonus": 45
+  },
+  {
+    "ID": 656,
+    "Creature": "Dweomercat 20",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 25
+  },
+  {
+    "ID": 657,
+    "Creature": "Dweomercat 20",
+    "Skill": "Perception",
+    "Bonus": 32
+  },
+  {
+    "ID": 658,
+    "Creature": "Dweomercat 20",
+    "Skill": "Athletics",
+    "Bonus": 30
+  },
+  {
+    "ID": 659,
+    "Creature": "Dweomercat 20",
+    "Skill": "Stealth",
+    "Bonus": 37
+  },
+  {
+    "ID": 660,
+    "Creature": "Kurly Witch",
+    "Skill": "Mobility",
+    "Bonus": 17
+  },
+  {
+    "ID": 661,
+    "Creature": "Kurly Witch",
+    "Skill": "Persuasion",
+    "Bonus": 36
+  },
+  {
+    "ID": 662,
+    "Creature": "Kurly Witch",
+    "Skill": "Lore(Nature)",
+    "Bonus": 29
+  },
+  {
+    "ID": 663,
+    "Creature": "Kurly Witch",
+    "Skill": "Perception",
+    "Bonus": 44
+  },
+  {
+    "ID": 664,
+    "Creature": "Kurly Witch",
+    "Skill": "Athletics",
+    "Bonus": 17
+  },
+  {
+    "ID": 665,
+    "Creature": "Kurly Witch",
+    "Skill": "Stealth",
+    "Bonus": 8
+  },
+  {
+    "ID": 666,
+    "Creature": "Wild Hunt Scout 24 B",
+    "Skill": "Mobility",
+    "Bonus": 36
+  },
+  {
+    "ID": 667,
+    "Creature": "Wild Hunt Scout 24 B",
+    "Skill": "Perception",
+    "Bonus": 42
+  },
+  {
+    "ID": 668,
+    "Creature": "Wild Hunt Scout 24 B",
+    "Skill": "Stealth",
+    "Bonus": 36
+  },
+  {
+    "ID": 669,
+    "Creature": "Horned Hunter",
+    "Skill": "Perception",
+    "Bonus": 32
+  },
+  {
+    "ID": 670,
+    "Creature": "Horned Hunter",
+    "Skill": "Stealth",
+    "Bonus": 31
+  },
+  {
+    "ID": 671,
+    "Creature": "Wild Hunt Archer 24 B",
+    "Skill": "Mobility",
+    "Bonus": 41
+  },
+  {
+    "ID": 672,
+    "Creature": "Wild Hunt Archer 24 B",
+    "Skill": "Persuasion",
+    "Bonus": 37
+  },
+  {
+    "ID": 673,
+    "Creature": "Wild Hunt Archer 24 B",
+    "Skill": "Lore(Nature)",
+    "Bonus": 37
+  },
+  {
+    "ID": 674,
+    "Creature": "Wild Hunt Archer 24 B",
+    "Skill": "Perception",
+    "Bonus": 47
+  },
+  {
+    "ID": 675,
+    "Creature": "Wild Hunt Archer 24 B",
+    "Skill": "Stealth",
+    "Bonus": 41
   }
 ]

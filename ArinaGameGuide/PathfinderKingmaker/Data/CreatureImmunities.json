@@ -1516,5 +1516,11 @@
     "Creature": "Vilderavn",
     "Condition": "Death",
     "ConditionGroup": null
+  },
+  {
+    "ID": 274,
+    "Creature": "Ghostly Guard 16 Rogue",
+    "Condition": null,
+    "ConditionGroup": "Undead Immunities"
   }
 ]

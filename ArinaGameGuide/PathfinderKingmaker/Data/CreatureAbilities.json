@@ -3364,5 +3364,104 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 376,
+    "Creature": "Misbegotten Troll",
+    "Ability": "Regeneration",
+    "Amount": 5,
+    "DamageType1": "Fire",
+    "DamageType2": "Acid",
+    "DC": null
+  },
+  {
+    "ID": 377,
+    "Creature": "Ghostly Guard 16 Rogue",
+    "Ability": "Disorienting Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 378,
+    "Creature": "Ghostly Guard 16 Rogue",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 379,
+    "Creature": "Dweomercat 20",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 380,
+    "Creature": "Wild Hunt Scout 24 B",
+    "Ability": "Wild Gaze",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 381,
+    "Creature": "Wild Hunt Scout 24 B",
+    "Ability": "Combat Expertise",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 382,
+    "Creature": "Horned Hunter",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 383,
+    "Creature": "Horned Hunter",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 384,
+    "Creature": "Wild Hunt Archer 24 B",
+    "Ability": "Wild Gaze",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 385,
+    "Creature": "Wild Hunt Archer 24 B",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 386,
+    "Creature": "Wild Hunt Archer 24 B",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

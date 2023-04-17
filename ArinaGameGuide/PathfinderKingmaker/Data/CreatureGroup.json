@@ -3466,8 +3466,96 @@
   {
     "ID": 434,
     "Name": "Kargstaad",
-    "Place": "House at the Edge of Time Frozen Boneyard",
+    "Place": "House at the Edge of Time Frozen Boneyard A",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 435,
+    "Name": "Misbegotten Troll",
+    "Place": "House at the Edge of Time Troll Lair B",
     "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 436,
+    "Name": "House at the Edge of Time Basement B Group A",
+    "Place": "House at the Edge of Time Basement B",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 437,
+    "Name": "House at the Edge of Time Basement B Group B",
+    "Place": "House at the Edge of Time Basement B",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 438,
+    "Name": "Kurly Witch",
+    "Place": "House at the Edge of Time Basement B",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 439,
+    "Name": "House at the Edge of Time Floor B Group A",
+    "Place": "House at the Edge of Time Floor B",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 440,
+    "Name": "House at the Edge of Time Floor B Group B",
+    "Place": "House at the Edge of Time Floor B",
+    "Position": "South East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 441,
+    "Name": "House at the Edge of Time Floor B Group C",
+    "Place": "House at the Edge of Time Floor B",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 442,
+    "Name": "House at the Edge of Time Floor B Gourp D",
+    "Place": "House at the Edge of Time Floor B",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 443,
+    "Name": "House at the Edge of Time Floor B Gourp E",
+    "Place": "House at the Edge of Time Floor B",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 444,
+    "Name": "House at the Edge of Time Floor A Gourp C",
+    "Place": "House at the Edge of Time Floor B",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 445,
+    "Name": "House at the Edge of Time Floor A Gourp D",
+    "Place": "House at the Edge of Time Floor B",
+    "Position": "South West",
     "Stage": 0,
     "Memo": ""
   }

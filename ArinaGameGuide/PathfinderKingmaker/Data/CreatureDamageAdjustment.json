@@ -2931,5 +2931,117 @@
     "Type": "Vulnerability",
     "DamageType": "Fire",
     "Amount": null
+  },
+  {
+    "ID": 420,
+    "Creature": "Misbegotten Troll",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 20
+  },
+  {
+    "ID": 421,
+    "Creature": "Misbegotten Troll",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 20
+  },
+  {
+    "ID": 422,
+    "Creature": "Misbegotten Troll",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 423,
+    "Creature": "Misbegotten Troll",
+    "Type": "Immunity",
+    "DamageType": "Acid",
+    "Amount": null
+  },
+  {
+    "ID": 424,
+    "Creature": "Kurly Witch",
+    "Type": "DamageReduction",
+    "DamageType": "Bludgeon",
+    "Amount": 5
+  },
+  {
+    "ID": 425,
+    "Creature": "Dweomercat 20",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 426,
+    "Creature": "Dweomercat 20",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
+  },
+  {
+    "ID": 427,
+    "Creature": "Wild Hunt Scout 24 B",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 15
+  },
+  {
+    "ID": 428,
+    "Creature": "Wild Hunt Scout 24 B",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 429,
+    "Creature": "Wild Hunt Scout 24 B",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 10
+  },
+  {
+    "ID": 430,
+    "Creature": "Wild Hunt Scout 24 B",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 431,
+    "Creature": "Horned Hunter",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 5
+  },
+  {
+    "ID": 434,
+    "Creature": "Wild Hunt Archer 24 B",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 435,
+    "Creature": "Wild Hunt Archer 24 B",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 10
+  },
+  {
+    "ID": 432,
+    "Creature": "Wild Hunt Archer 24 B",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 433,
+    "Creature": "Wild Hunt Archer 24 B",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 15
   }
 ]

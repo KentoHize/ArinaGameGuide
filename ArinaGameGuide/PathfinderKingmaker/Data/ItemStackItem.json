@@ -8958,5 +8958,165 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1124,
+    "ItemStack": "Kurly Witch RS",
+    "Item": "Kurly Witch's Key",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1125,
+    "ItemStack": "Kurly Witch RS",
+    "Item": "Corrosive Quarterstaff +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1126,
+    "ItemStack": "Kurly Witch RS",
+    "Item": "Hide Armor +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1127,
+    "ItemStack": "Kurly Witch RS",
+    "Item": "Belt of Mighty Constitution +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1128,
+    "ItemStack": "Kurly Witch RS",
+    "Item": "Headband of Inspired Wisdom +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1129,
+    "ItemStack": "Kurly Witch RS",
+    "Item": "Gyronna's Amulet",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1130,
+    "ItemStack": "Misbegotten Troll RS",
+    "Item": "Flaming Longspear +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1131,
+    "ItemStack": "Misbegotten Troll RS",
+    "Item": "Full Plate +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1132,
+    "ItemStack": "Misbegotten Troll RS",
+    "Item": "Belt of Physical Perfection +8",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1133,
+    "ItemStack": "Misbegotten Troll RS",
+    "Item": "Manticore Skin Boots",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1134,
+    "ItemStack": "Misbegotten Troll RS",
+    "Item": "Amulet of Evil Doom",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1135,
+    "ItemStack": "Misbegotten Troll RS",
+    "Item": "Cloak of Resistance +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1136,
+    "ItemStack": "Headband of Inspired Wisdom +6",
+    "Item": "Headband of Inspired Wisdom +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1137,
+    "ItemStack": "The Book of the New Begining",
+    "Item": "The Book of the New Begining",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1138,
+    "ItemStack": "House at the Edge of Time Basement B Treasure B",
+    "Item": "Potion of Fox's Cunning",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1139,
+    "ItemStack": "House at the Edge of Time Basement B Treasure B",
+    "Item": "Copper Ring",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1140,
+    "ItemStack": "House at the Edge of Time Basement B Treasure B",
+    "Item": "Pearl",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1141,
+    "ItemStack": "House at the Edge of Time Basement B Treasure B",
+    "Item": "Potion of Barkskin",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1142,
+    "ItemStack": "House at the Edge of Time Basement B Treasure B",
+    "Item": "Pertified Egg",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1143,
+    "ItemStack": "House at the Edge of Time Basement B Treasure B",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 1056,
+    "RandomQuantity": null
   }
 ]

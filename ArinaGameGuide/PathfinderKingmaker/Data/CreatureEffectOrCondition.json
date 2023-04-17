@@ -1159,5 +1159,77 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 132,
+    "Creature": "Kurly Witch",
+    "EffectOrCondition": "Magical Vestment, Armor",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 133,
+    "Creature": "Kurly Witch",
+    "EffectOrCondition": "Profane Nimbus",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 134,
+    "Creature": "Kurly Witch",
+    "EffectOrCondition": "Barskin",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 135,
+    "Creature": "Kurly Witch",
+    "EffectOrCondition": "Bull's Strength",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 136,
+    "Creature": "Kurly Witch",
+    "EffectOrCondition": "Cat's Grace",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 137,
+    "Creature": "Kurly Witch",
+    "EffectOrCondition": "Freedom of Movement",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 138,
+    "Creature": "Kurly Witch",
+    "EffectOrCondition": "Delay Poison",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 139,
+    "Creature": "Kurly Witch",
+    "EffectOrCondition": "Mirror Image",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]
