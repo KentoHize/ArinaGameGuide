@@ -3517,5 +3517,23 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 393,
+    "Creature": "Greater Summer Golem",
+    "Ability": "Fortification Armor",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 394,
+    "Creature": "Greater Autumn Golem",
+    "Ability": "Fortification Armor",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

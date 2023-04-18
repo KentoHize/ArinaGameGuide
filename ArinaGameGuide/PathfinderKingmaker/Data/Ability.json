@@ -411,5 +411,12 @@
     "CName": "",
     "DC": "54",
     "Description": "Athletic DC cause 4d10 + 30 dmg"
+  },
+  {
+    "ID": 60,
+    "Name": "Fortification Armor",
+    "CName": "",
+    "DC": "",
+    "Description": "50% chane avoid addtional dmg"
   }
 ]

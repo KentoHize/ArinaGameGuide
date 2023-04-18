@@ -506,7 +506,7 @@
   {
     "ID": 212,
     "ItemStack": "Bridge Over The Gudrin River Cave Treasure",
-    "Item": "\"Of Transmutations and Bodily Poisons\", Part II",
+    "Item": "Of Transmutations and Bodily Poisons, Part II",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
@@ -9507,6 +9507,150 @@
     "ID": 1192,
     "ItemStack": "Amulet of Might Fists +5",
     "Item": "Amulet of Might Fists +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1193,
+    "ItemStack": "The Notes of a Traveling Priest: Ilthuliak by Tyrin Dean",
+    "Item": "The Notes of a Traveling Priest: Ilthuliak by Tyrin Dean",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1194,
+    "ItemStack": "The Book of Shackles",
+    "Item": "The Book of Shackles",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1195,
+    "ItemStack": "The Curse of Ancient Iobaria by Hastef Umme",
+    "Item": "The Curse of Ancient Iobaria by Hastef Umme",
+    "RandomItem": null,
+    "Quantity": null,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1196,
+    "ItemStack": "The Book of Joyless Triumph",
+    "Item": "The Book of Joyless Triumph",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1197,
+    "ItemStack": "House at the Edge of Time Basement B Treasure G",
+    "Item": "Masterwork Quarterstaff",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1198,
+    "ItemStack": "House at the Edge of Time Basement B Treasure G",
+    "Item": "Gold Ring",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1199,
+    "ItemStack": "House at the Edge of Time Basement B Treasure G",
+    "Item": "Peridot",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1200,
+    "ItemStack": "House at the Edge of Time Basement B Treasure G",
+    "Item": "Agate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1201,
+    "ItemStack": "House at the Edge of Time Basement B Treasure G",
+    "Item": "Scroll of Remove Paralysis",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1202,
+    "ItemStack": "House at the Edge of Time Basement B Treasure G",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 645,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1203,
+    "ItemStack": "House at the Edge of Time Basement B Treasure H",
+    "Item": "The Book of Never Saying Goodbye",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1204,
+    "ItemStack": "House at the Edge of Time Basement B Treasure H",
+    "Item": "Whimsical Berry",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1205,
+    "ItemStack": "House at the Edge of Time Basement B Treasure H",
+    "Item": "Beetle in Amber",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1206,
+    "ItemStack": "House at the Edge of Time Basement B Treasure H",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 9,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1207,
+    "ItemStack": "Leather Armor +5",
+    "Item": "Leather Armor +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1208,
+    "ItemStack": "MV3 + ML",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1209,
+    "ItemStack": "MV3 + ML",
+    "Item": "Masterwork Longbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1210,
+    "ItemStack": "Bracer of the Ruby Phoenix",
+    "Item": "Bracer of the Ruby Phoenix",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null

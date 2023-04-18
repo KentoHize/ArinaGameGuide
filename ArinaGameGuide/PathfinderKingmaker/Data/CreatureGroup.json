@@ -3646,5 +3646,37 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 457,
+    "Name": "House at the Edge of Time Basement B Group F",
+    "Place": "House at the Edge of Time Basement B",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 458,
+    "Name": "House at the Edge of Time Basement B Group G",
+    "Place": "House at the Edge of Time Basement B",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 459,
+    "Name": "House at the Edge of Time Basement B Group H",
+    "Place": "House at the Edge of Time Basement B",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 460,
+    "Name": "House at the Edge of Time Basement B Group I",
+    "Place": "House at the Edge of Time Basement B",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]
