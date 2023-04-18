@@ -1240,5 +1240,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 141,
+    "Creature": "Medusa 16 Fighter",
+    "EffectOrCondition": "Protection From Fire",
+    "Amount": 96,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

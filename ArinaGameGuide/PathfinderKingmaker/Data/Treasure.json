@@ -2548,5 +2548,20 @@
     "LockDC": 47,
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 171,
+    "Name": "House at the Edge of Time Second Floor B Treasure C",
+    "CName": "",
+    "Type": "Box",
+    "Place": "House at the Edge of Time Second Floor A",
+    "Position": "West",
+    "ItemStack": "Amulet of Might Fists +5",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": 48,
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

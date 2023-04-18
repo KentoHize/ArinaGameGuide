@@ -2818,5 +2818,20 @@
     "HasPlot": true,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 190,
+    "Name": "House at the Edge of Time Second Floor A",
+    "DisplayName": "House at the Edge of Time",
+    "CName": "",
+    "Type": "Dungeon",
+    "Region": "Thousand Voices",
+    "SuggestedLevelMin": 18,
+    "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": ""
   }
 ]

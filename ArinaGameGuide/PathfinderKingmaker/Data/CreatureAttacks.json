@@ -5990,5 +5990,33 @@
     "DamageAdditiveBonus": 11,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 468,
+    "Creature": "Greater Summer Golem",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 9,
+    "AddtionalAttack": 1,
+    "AttackBonus": 37,
+    "Weapon": null,
+    "BasicDamage": "6d8",
+    "DamageAdditiveBonus": 15,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 469,
+    "Creature": "Medusa 16 Fighter",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 50,
+    "AddtionalAttack": 4,
+    "AttackBonus": 24,
+    "Weapon": "Masterwork Longbow",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 13,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

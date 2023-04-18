@@ -1528,5 +1528,17 @@
     "Creature": "Summer Golem",
     "Condition": null,
     "ConditionGroup": "Plant Immunities"
+  },
+  {
+    "ID": 276,
+    "Creature": "Mandragora Swarm 31",
+    "Condition": null,
+    "ConditionGroup": "Plant Immunities"
+  },
+  {
+    "ID": 277,
+    "Creature": "Greater Summer Golem",
+    "Condition": null,
+    "ConditionGroup": "Plant Immunities"
   }
 ]

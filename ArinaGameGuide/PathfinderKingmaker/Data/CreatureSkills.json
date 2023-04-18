@@ -4042,5 +4042,23 @@
     "Creature": "Wild Hunt Archer 24 B",
     "Skill": "Stealth",
     "Bonus": 41
+  },
+  {
+    "ID": 676,
+    "Creature": "Medusa 16 Fighter",
+    "Skill": "Persuasion",
+    "Bonus": 18
+  },
+  {
+    "ID": 677,
+    "Creature": "Medusa 16 Fighter",
+    "Skill": "Perception",
+    "Bonus": 26
+  },
+  {
+    "ID": 678,
+    "Creature": "Medusa 16 Fighter",
+    "Skill": "Stealth",
+    "Bonus": 20
   }
 ]

@@ -10551,7 +10551,7 @@
   },
   {
     "ID": 1058,
-    "CreatureGroup": "House at the Edge of Time Second Floor A Group A",
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group A",
     "Creature": "Wild Hunt Scout 24 B",
     "DisplayName": null,
     "Quantity": 3,
@@ -10561,7 +10561,7 @@
   },
   {
     "ID": 1059,
-    "CreatureGroup": "House at the Edge of Time Second Floor A Group A",
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group A",
     "Creature": "Wild Hunt Archer 24 B",
     "DisplayName": null,
     "Quantity": 1,
@@ -10571,7 +10571,7 @@
   },
   {
     "ID": 1060,
-    "CreatureGroup": "House at the Edge of Time Second Floor A Group B",
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group B",
     "Creature": "Wild Hunt Scout 24 B",
     "DisplayName": null,
     "Quantity": 2,
@@ -10581,7 +10581,7 @@
   },
   {
     "ID": 1061,
-    "CreatureGroup": "House at the Edge of Time Second Floor A Group B",
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group B",
     "Creature": "Wild Hunt Archer 24 B",
     "DisplayName": null,
     "Quantity": 1,
@@ -10591,7 +10591,7 @@
   },
   {
     "ID": 1062,
-    "CreatureGroup": "House at the Edge of Time Second Floor A Group B",
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group B",
     "Creature": "Wild Hunt Monarch",
     "DisplayName": null,
     "Quantity": 1,
@@ -10601,7 +10601,7 @@
   },
   {
     "ID": 1063,
-    "CreatureGroup": "House at the Edge of Time Second Floor A Group B",
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group B",
     "Creature": "Autumn Golem",
     "DisplayName": null,
     "Quantity": 1,
@@ -10611,8 +10611,148 @@
   },
   {
     "ID": 1064,
-    "CreatureGroup": "House at the Edge of Time Second Floor A Group B",
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group B",
     "Creature": "Summer Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1065,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group A",
+    "Creature": "Dweomercat 20",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1066,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group A",
+    "Creature": "Ghostly Guard 16 Rogue",
+    "DisplayName": null,
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1067,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group B",
+    "Creature": "Mandragora Swarm 31",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1068,
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group C",
+    "Creature": "Primal Treant",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1069,
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group C",
+    "Creature": "Nymph 16",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1070,
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group D",
+    "Creature": "Greater Summer Golem",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1072,
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group D",
+    "Creature": "Greater Autumn Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1071,
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group D",
+    "Creature": "Mandragora Swarm 31",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1073,
+    "CreatureGroup": "House at the Edge of Time Basement B Group C",
+    "Creature": "Greater Autumn Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1074,
+    "CreatureGroup": "House at the Edge of Time Basement B Group C",
+    "Creature": "Greater Summer Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1075,
+    "CreatureGroup": "House at the Edge of Time Basement B Group C",
+    "Creature": "Autumn Golem",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1077,
+    "CreatureGroup": "House at the Edge of Time Basement B Group D",
+    "Creature": "Greater Autumn Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1076,
+    "CreatureGroup": "House at the Edge of Time Basement B Group D",
+    "Creature": "Autumn Golem",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1078,
+    "CreatureGroup": "House at the Edge of Time Basement B Group E",
+    "Creature": "Medusa 16 Fighter",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,

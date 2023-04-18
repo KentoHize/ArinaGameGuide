@@ -9502,5 +9502,13 @@
     "RandomItem": null,
     "Quantity": 3,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1192,
+    "ItemStack": "Amulet of Might Fists +5",
+    "Item": "Amulet of Might Fists +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

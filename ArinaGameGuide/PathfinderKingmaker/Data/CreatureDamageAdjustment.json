@@ -3085,5 +3085,75 @@
     "Type": "Resistance",
     "DamageType": "Sonic",
     "Amount": 20
+  },
+  {
+    "ID": 442,
+    "Creature": "Mandragora Swarm 31",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 443,
+    "Creature": "Mandragora Swarm 31",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 10
+  },
+  {
+    "ID": 444,
+    "Creature": "Mandragora Swarm 31",
+    "Type": "Immunity",
+    "DamageType": "Electricity",
+    "Amount": null
+  },
+  {
+    "ID": 445,
+    "Creature": "Mandragora Swarm 31",
+    "Type": "Vulnerability",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 446,
+    "Creature": "Greater Summer Golem",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 10
+  },
+  {
+    "ID": 447,
+    "Creature": "Greater Summer Golem",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 20
+  },
+  {
+    "ID": 448,
+    "Creature": "Greater Summer Golem",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 20
+  },
+  {
+    "ID": 449,
+    "Creature": "Greater Summer Golem",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 20
+  },
+  {
+    "ID": 450,
+    "Creature": "Greater Summer Golem",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 20
+  },
+  {
+    "ID": 451,
+    "Creature": "Greater Summer Golem",
+    "Type": "Resistance",
+    "DamageType": "Sonic",
+    "Amount": 20
   }
 ]

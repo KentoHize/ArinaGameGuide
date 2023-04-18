@@ -397,5 +397,19 @@
     "CName": "",
     "DC": "",
     "Description": "Entagles enemy in 10ft(Reflex Negative)\nFatigue enenmy  in 10ft.\n(Fortitude Negative)"
+  },
+  {
+    "ID": 58,
+    "Name": "Aura of the Thorny Despair",
+    "CName": "",
+    "DC": "",
+    "Description": "Entagles enemy in 10ft(Reflex Negative)\nCrusing Despair enenmy  in 10ft.\n(Will Negative)"
+  },
+  {
+    "ID": 59,
+    "Name": "Constricting Vines",
+    "CName": "",
+    "DC": "54",
+    "Description": "Athletic DC cause 4d10 + 30 dmg"
   }
 ]

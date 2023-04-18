@@ -3577,7 +3577,7 @@
   },
   {
     "ID": 448,
-    "Name": "House at the Edge of Time Second Floor A Group A",
+    "Name": "House at the Edge of Time Second Floor B Group A",
     "Place": "House at the Edge of Time Second Floor B",
     "Position": "North",
     "Stage": 0,
@@ -3585,8 +3585,64 @@
   },
   {
     "ID": 449,
-    "Name": "House at the Edge of Time Second Floor A Group B",
+    "Name": "House at the Edge of Time Second Floor B Group B",
     "Place": "House at the Edge of Time Second Floor B",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 450,
+    "Name": "House at the Edge of Time Second Floor A Group A",
+    "Place": "House at the Edge of Time Second Floor A",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 451,
+    "Name": "House at the Edge of Time Second Floor A Group B",
+    "Place": "House at the Edge of Time Second Floor A",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 452,
+    "Name": "House at the Edge of Time Second Floor B Group C",
+    "Place": "House at the Edge of Time Second Floor B",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 453,
+    "Name": "House at the Edge of Time Second Floor B Group D",
+    "Place": "House at the Edge of Time Second Floor B",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 454,
+    "Name": "House at the Edge of Time Basement B Group C",
+    "Place": "House at the Edge of Time Basement B",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 455,
+    "Name": "House at the Edge of Time Basement B Group D",
+    "Place": "House at the Edge of Time Basement B",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 456,
+    "Name": "House at the Edge of Time Basement B Group E",
+    "Place": "House at the Edge of Time Basement B",
     "Position": "Center",
     "Stage": 0,
     "Memo": ""

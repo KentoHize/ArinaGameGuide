@@ -3472,5 +3472,50 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 388,
+    "Creature": "Mandragora Swarm 31",
+    "Ability": "Fast Healing",
+    "Amount": 15,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 389,
+    "Creature": "Greater Summer Golem",
+    "Ability": "Aura of the Thorny Despair",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 390,
+    "Creature": "Greater Summer Golem",
+    "Ability": "Constricting Vines",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": 54
+  },
+  {
+    "ID": 391,
+    "Creature": "Medusa 16 Fighter",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 392,
+    "Creature": "Medusa 16 Fighter",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]
