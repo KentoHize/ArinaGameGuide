@@ -1231,5 +1231,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 140,
+    "Creature": "Summer Golem",
+    "EffectOrCondition": "Freedom of Movement",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

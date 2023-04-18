@@ -3463,5 +3463,14 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 387,
+    "Creature": "Summer Golem",
+    "Ability": "Aura of the Summer Heat",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

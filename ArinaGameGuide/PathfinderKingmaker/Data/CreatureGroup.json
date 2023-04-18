@@ -3574,5 +3574,21 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 448,
+    "Name": "House at the Edge of Time Second Floor A Group A",
+    "Place": "House at the Edge of Time Second Floor B",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 449,
+    "Name": "House at the Edge of Time Second Floor A Group B",
+    "Place": "House at the Edge of Time Second Floor B",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

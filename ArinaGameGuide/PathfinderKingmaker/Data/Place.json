@@ -2659,7 +2659,7 @@
     "Name": "House at the Edge of Time Outer A",
     "DisplayName": "House at the Edge of Time",
     "CName": "",
-    "Type": "Hunting Area",
+    "Type": "Dungeon",
     "Region": "Thousand Voices",
     "SuggestedLevelMin": 18,
     "SuggestedLevelMax": 20,
@@ -2667,14 +2667,14 @@
     "HardSpotLevelMax": null,
     "HasPlot": true,
     "Description": "",
-    "Memo": ""
+    "Memo": "A B紀錄困難中"
   },
   {
     "ID": 188,
     "Name": "House at the Edge of Time Outer B",
     "DisplayName": "House at the Edge of Time",
     "CName": "",
-    "Type": "Hunting Area",
+    "Type": "Dungeon",
     "Region": "Thousand Voices",
     "SuggestedLevelMin": 18,
     "SuggestedLevelMax": 20,
@@ -2806,7 +2806,7 @@
   },
   {
     "ID": 189,
-    "Name": "House at the Edge of Time Second Floor A",
+    "Name": "House at the Edge of Time Second Floor B",
     "DisplayName": "House at the Edge of Time",
     "CName": "",
     "Type": "Dungeon",

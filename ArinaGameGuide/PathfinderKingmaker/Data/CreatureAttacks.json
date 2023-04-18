@@ -5976,5 +5976,19 @@
     "DamageAdditiveBonus": 22,
     "OtherDamageBonus": "1d6 Cold",
     "SneakDamage": null
+  },
+  {
+    "ID": 467,
+    "Creature": "Summer Golem",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 6,
+    "AddtionalAttack": 1,
+    "AttackBonus": 34,
+    "Weapon": null,
+    "BasicDamage": "4d8",
+    "DamageAdditiveBonus": 11,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

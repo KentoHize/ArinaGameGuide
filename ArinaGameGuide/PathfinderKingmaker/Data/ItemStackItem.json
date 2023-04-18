@@ -9342,5 +9342,165 @@
     "RandomItem": null,
     "Quantity": 1592,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1172,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure A",
+    "Item": "Scroll of Aspect of the Falcon",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1173,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure A",
+    "Item": "Masterwork Club",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1174,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure A",
+    "Item": "Potion of Cure Serious Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1175,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure A",
+    "Item": "Citrine",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1176,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure A",
+    "Item": "Bloodstone",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1177,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure A",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 730,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1178,
+    "ItemStack": "House at the Edge of Time Floor A Treasure F",
+    "Item": "Agate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1179,
+    "ItemStack": "House at the Edge of Time Floor A Treasure F",
+    "Item": "Masterwork Light Mace",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1180,
+    "ItemStack": "House at the Edge of Time Floor A Treasure F",
+    "Item": "Dinosaur Bone",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1181,
+    "ItemStack": "House at the Edge of Time Floor A Treasure F",
+    "Item": "Jade",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1182,
+    "ItemStack": "House at the Edge of Time Floor A Treasure F",
+    "Item": "Jasper",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1183,
+    "ItemStack": "House at the Edge of Time Floor A Treasure F",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 1105,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1184,
+    "ItemStack": "House at the Edge of Time Frozen Boneyard B Treasure A",
+    "Item": "Moonstone",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1185,
+    "ItemStack": "House at the Edge of Time Frozen Boneyard B Treasure A",
+    "Item": "Potion of Protection from Fire",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1186,
+    "ItemStack": "House at the Edge of Time Frozen Boneyard B Treasure A",
+    "Item": "Beetle in Amber",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1187,
+    "ItemStack": "House at the Edge of Time Frozen Boneyard B Treasure A",
+    "Item": "Scroll of Enlarge Person",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1188,
+    "ItemStack": "House at the Edge of Time Frozen Boneyard B Treasure A",
+    "Item": "Turquoise",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1189,
+    "ItemStack": "House at the Edge of Time Frozen Boneyard B Treasure A",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 1111,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1190,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure B",
+    "Item": "Neverending Journey",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1191,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure B",
+    "Item": "Scroll of Disintegrate",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
   }
 ]

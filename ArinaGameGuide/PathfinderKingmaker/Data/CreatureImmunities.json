@@ -1522,5 +1522,11 @@
     "Creature": "Ghostly Guard 16 Rogue",
     "Condition": null,
     "ConditionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 275,
+    "Creature": "Summer Golem",
+    "Condition": null,
+    "ConditionGroup": "Plant Immunities"
   }
 ]

@@ -10548,5 +10548,75 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 1058,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group A",
+    "Creature": "Wild Hunt Scout 24 B",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1059,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group A",
+    "Creature": "Wild Hunt Archer 24 B",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1060,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group B",
+    "Creature": "Wild Hunt Scout 24 B",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1061,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group B",
+    "Creature": "Wild Hunt Archer 24 B",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1062,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group B",
+    "Creature": "Wild Hunt Monarch",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1063,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group B",
+    "Creature": "Autumn Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1064,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group B",
+    "Creature": "Summer Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

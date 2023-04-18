@@ -129,6 +129,7 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
                 }
             }
             else if (Unity.Data[i].value[j].type == `TS`) {
+                haveStuff = 1;
                 parent.setAttribute(`class`, `divGroup1`);
                 
                 for (let k = 0; k < Unity.Data[i].value[j].data.isi.length; k++) {
@@ -141,6 +142,7 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
                 }
             }
             else if (Unity.Data[i].value[j].type == `TR`) {
+                haveStuff = 1;
                 if (Unity.Data[i].value[j].data.DisarmDC == null)
                     parent.textContent = Unity.Data[i].value[j].data.Type;
                 else

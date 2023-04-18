@@ -2098,5 +2098,25 @@
     "ID": 421,
     "Name": "House at the Edge of Time Floor A Treasure E",
     "Memo": ""
+  },
+  {
+    "ID": 422,
+    "Name": "House at the Edge of Time Second Floor B Treasure A",
+    "Memo": ""
+  },
+  {
+    "ID": 423,
+    "Name": "House at the Edge of Time Floor A Treasure F",
+    "Memo": ""
+  },
+  {
+    "ID": 424,
+    "Name": "House at the Edge of Time Frozen Boneyard B Treasure A",
+    "Memo": ""
+  },
+  {
+    "ID": 425,
+    "Name": "House at the Edge of Time Second Floor B Treasure B",
+    "Memo": ""
   }
 ]

@@ -390,5 +390,12 @@
     "CName": "",
     "DC": "",
     "Description": ""
+  },
+  {
+    "ID": 57,
+    "Name": "Aura of the Summer Heat",
+    "CName": "",
+    "DC": "",
+    "Description": "Entagles enemy in 10ft(Reflex Negative)\nFatigue enenmy  in 10ft.\n(Fortitude Negative)"
   }
 ]

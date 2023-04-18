@@ -7001,7 +7001,7 @@
         {
           "Name": "ItemStack",
           "IsKey": false,
-          "IsNullable": false,
+          "IsNullable": true,
           "Type": "String",
           "Choices": [],
           "FKTable": "ItemStack",
