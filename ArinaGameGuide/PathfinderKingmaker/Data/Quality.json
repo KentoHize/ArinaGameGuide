@@ -160,5 +160,11 @@
     "Name": "Holy",
     "CName": "",
     "Description": "Good Alignment\n+2d6 dmg vs evil creature"
+  },
+  {
+    "ID": 28,
+    "Name": "Anarchic",
+    "CName": "",
+    "Description": "Chaos Alignment\n+2d6 dmg to Lawful creature"
   }
 ]

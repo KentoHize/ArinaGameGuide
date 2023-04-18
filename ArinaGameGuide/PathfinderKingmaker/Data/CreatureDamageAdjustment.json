@@ -3155,5 +3155,82 @@
     "Type": "Resistance",
     "DamageType": "Sonic",
     "Amount": 20
+  },
+  {
+    "ID": 452,
+    "Creature": "Phomandala",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 10
+  },
+  {
+    "ID": 453,
+    "Creature": "Phomandala",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 454,
+    "Creature": "Sorcerer Medusa 20",
+    "Type": "DamageReduction",
+    "DamageType": "Adamantite",
+    "Amount": 10
+  },
+  {
+    "ID": 455,
+    "Creature": "Sorcerer Medusa 20",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 456,
+    "Creature": "Wild Hunt Monarch 29",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 15
+  },
+  {
+    "ID": 457,
+    "Creature": "Wild Hunt Monarch 29",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 15
+  },
+  {
+    "ID": 458,
+    "Creature": "Wild Hunt Monarch 29",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 15
+  },
+  {
+    "ID": 459,
+    "Creature": "Wild Hunt Monarch 29",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 460,
+    "Creature": "Wriggling Man",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 15
+  },
+  {
+    "ID": 461,
+    "Creature": "Wriggling Man",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 10
+  },
+  {
+    "ID": 462,
+    "Creature": "Wriggling Man",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 30
   }
 ]

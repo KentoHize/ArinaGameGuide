@@ -4060,5 +4060,113 @@
     "Creature": "Medusa 16 Fighter",
     "Skill": "Stealth",
     "Bonus": 20
+  },
+  {
+    "ID": 679,
+    "Creature": "Phomandala",
+    "Skill": "Mobility",
+    "Bonus": 35
+  },
+  {
+    "ID": 680,
+    "Creature": "Phomandala",
+    "Skill": "Persuasion",
+    "Bonus": 40
+  },
+  {
+    "ID": 681,
+    "Creature": "Phomandala",
+    "Skill": "Perception",
+    "Bonus": 38
+  },
+  {
+    "ID": 682,
+    "Creature": "Phomandala",
+    "Skill": "Stealth",
+    "Bonus": 35
+  },
+  {
+    "ID": 683,
+    "Creature": "Sorcerer Medusa 20",
+    "Skill": "Mobility",
+    "Bonus": 32
+  },
+  {
+    "ID": 684,
+    "Creature": "Sorcerer Medusa 20",
+    "Skill": "Persuasion",
+    "Bonus": 34
+  },
+  {
+    "ID": 685,
+    "Creature": "Sorcerer Medusa 20",
+    "Skill": "Perception",
+    "Bonus": 36
+  },
+  {
+    "ID": 686,
+    "Creature": "Sorcerer Medusa 20",
+    "Skill": "Stealth",
+    "Bonus": 28
+  },
+  {
+    "ID": 687,
+    "Creature": "Wild Hunt Monarch 29",
+    "Skill": "Mobility",
+    "Bonus": 47
+  },
+  {
+    "ID": 688,
+    "Creature": "Wild Hunt Monarch 29",
+    "Skill": "Persuasion",
+    "Bonus": 43
+  },
+  {
+    "ID": 689,
+    "Creature": "Wild Hunt Monarch 29",
+    "Skill": "Lore(Nature)",
+    "Bonus": 42
+  },
+  {
+    "ID": 690,
+    "Creature": "Wild Hunt Monarch 29",
+    "Skill": "Perception",
+    "Bonus": 46
+  },
+  {
+    "ID": 691,
+    "Creature": "Wild Hunt Monarch 29",
+    "Skill": "Stealth",
+    "Bonus": 47
+  },
+  {
+    "ID": 692,
+    "Creature": "Wriggling Man",
+    "Skill": "Persuasion",
+    "Bonus": 21
+  },
+  {
+    "ID": 693,
+    "Creature": "Wriggling Man",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 82
+  },
+  {
+    "ID": 694,
+    "Creature": "Wriggling Man",
+    "Skill": "Knowledge(World)",
+    "Bonus": 72
+  },
+  {
+    "ID": 695,
+    "Creature": "Wriggling Man",
+    "Skill": "Perception",
+    "Bonus": 65
+  },
+  {
+    "ID": 696,
+    "Creature": "Wriggling Man",
+    "Skill": "Stealth",
+    "Bonus": 42
   }
 ]

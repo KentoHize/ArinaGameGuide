@@ -256,5 +256,29 @@
     "Item": "Incorruptible Petal",
     "Quality": "Ultrasound",
     "Rank": null
+  },
+  {
+    "ID": 44,
+    "Item": "The End",
+    "Quality": "Enhancement",
+    "Rank": 5
+  },
+  {
+    "ID": 45,
+    "Item": "The End",
+    "Quality": "Anarchic",
+    "Rank": null
+  },
+  {
+    "ID": 46,
+    "Item": "The End",
+    "Quality": "Vicious",
+    "Rank": null
+  },
+  {
+    "ID": 47,
+    "Item": "The End",
+    "Quality": "Unstoppable",
+    "Rank": null
   }
 ]

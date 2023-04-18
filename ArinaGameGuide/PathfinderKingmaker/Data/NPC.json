@@ -229,5 +229,16 @@
     "AsCreature": null,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 22,
+    "Name": "Pludock",
+    "CName": "",
+    "Gender": "Male",
+    "Place": "House at the Edge of Time Basement B",
+    "Position": "Center",
+    "AsCreature": null,
+    "Description": "",
+    "Memo": ""
   }
 ]

@@ -2081,7 +2081,7 @@
   },
   {
     "ID": 418,
-    "Name": "House at the Edge of Time Floor A Treasure B",
+    "Name": "House at the Edge of Time First Floor A Treasure B",
     "Memo": ""
   },
   {
@@ -2167,6 +2167,81 @@
   {
     "ID": 435,
     "Name": "Bracer of the Ruby Phoenix",
+    "Memo": ""
+  },
+  {
+    "ID": 436,
+    "Name": "House at the Edge of Time Basement B Treasure J",
+    "Memo": ""
+  },
+  {
+    "ID": 437,
+    "Name": "House at the Edge of Time Basement B Treasure K",
+    "Memo": ""
+  },
+  {
+    "ID": 438,
+    "Name": "House at the Edge of Time Second Floor A Treasure B",
+    "Memo": ""
+  },
+  {
+    "ID": 439,
+    "Name": "Amulet of Natural Armor +5",
+    "Memo": ""
+  },
+  {
+    "ID": 440,
+    "Name": "House at the Edge of Time Second Floor A Treasure D",
+    "Memo": ""
+  },
+  {
+    "ID": 441,
+    "Name": "House at the Edge of Time Basement A Treasure E",
+    "Memo": ""
+  },
+  {
+    "ID": 442,
+    "Name": "House at the Edge of Time Basement A Treasure F",
+    "Memo": ""
+  },
+  {
+    "ID": 443,
+    "Name": "MV4 + FCL1 + HoAC2 + RoP2",
+    "Memo": ""
+  },
+  {
+    "ID": 444,
+    "Name": "Phomandala RS",
+    "Memo": ""
+  },
+  {
+    "ID": 445,
+    "Name": "House at the Edge of Time Basement A Treasure G",
+    "Memo": ""
+  },
+  {
+    "ID": 446,
+    "Name": "House at the Edge of Time Basement A Treasure H",
+    "Memo": ""
+  },
+  {
+    "ID": 447,
+    "Name": "House at the Edge of Time Basement A Treasure I",
+    "Memo": ""
+  },
+  {
+    "ID": 448,
+    "Name": "Ring of Protection +5",
+    "Memo": ""
+  },
+  {
+    "ID": 449,
+    "Name": "House at the Edge of Time Basement A Treasure K",
+    "Memo": ""
+  },
+  {
+    "ID": 450,
+    "Name": "Wriggling Man RS",
     "Memo": ""
   }
 ]

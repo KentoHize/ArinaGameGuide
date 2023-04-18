@@ -9193,7 +9193,7 @@
   },
   {
     "ID": 1153,
-    "ItemStack": "House at the Edge of Time Floor A Treasure B",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure B",
     "Item": "Green Quartz",
     "RandomItem": null,
     "Quantity": 1,
@@ -9201,7 +9201,7 @@
   },
   {
     "ID": 1154,
-    "ItemStack": "House at the Edge of Time Floor A Treasure B",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure B",
     "Item": "Masterwork Sling Staff",
     "RandomItem": null,
     "Quantity": 2,
@@ -9209,7 +9209,7 @@
   },
   {
     "ID": 1155,
-    "ItemStack": "House at the Edge of Time Floor A Treasure B",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure B",
     "Item": "Potion of Protection from Chaos",
     "RandomItem": null,
     "Quantity": 3,
@@ -9217,7 +9217,7 @@
   },
   {
     "ID": 1156,
-    "ItemStack": "House at the Edge of Time Floor A Treasure B",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure B",
     "Item": "Turquoise",
     "RandomItem": null,
     "Quantity": 1,
@@ -9225,7 +9225,7 @@
   },
   {
     "ID": 1157,
-    "ItemStack": "House at the Edge of Time Floor A Treasure B",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure B",
     "Item": "Scroll of Contagion: Cackle Fever",
     "RandomItem": null,
     "Quantity": 2,
@@ -9233,7 +9233,7 @@
   },
   {
     "ID": 1158,
-    "ItemStack": "House at the Edge of Time Floor A Treasure B",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure B",
     "Item": "Gold Coin",
     "RandomItem": null,
     "Quantity": 255,
@@ -9651,6 +9651,534 @@
     "ID": 1210,
     "ItemStack": "Bracer of the Ruby Phoenix",
     "Item": "Bracer of the Ruby Phoenix",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1211,
+    "ItemStack": "House at the Edge of Time Basement B Treasure J",
+    "Item": "Shining Scale",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1212,
+    "ItemStack": "House at the Edge of Time Basement B Treasure J",
+    "Item": "Green Quartz",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1213,
+    "ItemStack": "House at the Edge of Time Basement B Treasure J",
+    "Item": "Citrine",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1214,
+    "ItemStack": "House at the Edge of Time Basement B Treasure J",
+    "Item": "Grinding Stone",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1215,
+    "ItemStack": "House at the Edge of Time Basement B Treasure J",
+    "Item": "Exquisite Pearl",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1216,
+    "ItemStack": "House at the Edge of Time Basement B Treasure J",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 1751,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1217,
+    "ItemStack": "House at the Edge of Time Basement B Treasure K",
+    "Item": "Clear Quartz",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1218,
+    "ItemStack": "House at the Edge of Time Basement B Treasure K",
+    "Item": "Sharp Claw",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1219,
+    "ItemStack": "House at the Edge of Time Basement B Treasure K",
+    "Item": "Beetle in Amber",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1220,
+    "ItemStack": "House at the Edge of Time Basement B Treasure K",
+    "Item": "Whimsical Berry",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1221,
+    "ItemStack": "House at the Edge of Time Basement B Treasure K",
+    "Item": "Peridot",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1222,
+    "ItemStack": "House at the Edge of Time Basement B Treasure K",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 1605,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1223,
+    "ItemStack": "House at the Edge of Time Basement B Treasure K",
+    "Item": "Cooking Almanac of the Inner Sea by Jubilost Narthropple",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1224,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure B",
+    "Item": "The Book of Bitterness",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1225,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure B",
+    "Item": "Shadow of Absalom by Pax Groometra",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1226,
+    "ItemStack": "Amulet of Natural Armor +5",
+    "Item": "Amulet of Natural Armor +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1227,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure D",
+    "Item": "Peridot",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1228,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure D",
+    "Item": "Green Quartz",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1229,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure D",
+    "Item": "Agate",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1230,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure D",
+    "Item": "Potion of Protection from Electricity",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1231,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure D",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 340,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1232,
+    "ItemStack": "House at the Edge of Time Basement A Treasure E",
+    "Item": "Gold Ring",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1233,
+    "ItemStack": "House at the Edge of Time Basement A Treasure E",
+    "Item": "Scroll of Resist Fire",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1234,
+    "ItemStack": "House at the Edge of Time Basement A Treasure E",
+    "Item": "Fine Feather",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1235,
+    "ItemStack": "House at the Edge of Time Basement A Treasure E",
+    "Item": "Potion of Barkskin",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1236,
+    "ItemStack": "House at the Edge of Time Basement A Treasure E",
+    "Item": "Scroll of Bull's Strength",
+    "RandomItem": null,
+    "Quantity": 4,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1237,
+    "ItemStack": "House at the Edge of Time Basement A Treasure E",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 844,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1238,
+    "ItemStack": "House at the Edge of Time Basement A Treasure F",
+    "Item": "The End",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1239,
+    "ItemStack": "House at the Edge of Time Basement A Treasure F",
+    "Item": "Handful of Gems",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1240,
+    "ItemStack": "House at the Edge of Time Basement A Treasure F",
+    "Item": "Medicinal Herb Petals",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1241,
+    "ItemStack": "House at the Edge of Time Basement A Treasure F",
+    "Item": "Sharp Claw",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1242,
+    "ItemStack": "House at the Edge of Time Basement A Treasure F",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 19,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1243,
+    "ItemStack": "MV4 + FCL1 + HoAC2 + RoP2",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 4,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1244,
+    "ItemStack": "MV4 + FCL1 + HoAC2 + RoP2",
+    "Item": "Flaming Composite Longbow +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1245,
+    "ItemStack": "MV4 + FCL1 + HoAC2 + RoP2",
+    "Item": "Headband of Alluring Charisma +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1246,
+    "ItemStack": "MV4 + FCL1 + HoAC2 + RoP2",
+    "Item": "Ring of Protection +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1247,
+    "ItemStack": "Phomandala RS",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 5,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1248,
+    "ItemStack": "Phomandala RS",
+    "Item": "Flaming Composite Longbow +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1249,
+    "ItemStack": "Phomandala RS",
+    "Item": "Headband of Alluring Charisma +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1250,
+    "ItemStack": "Phomandala RS",
+    "Item": "Amulet of Natural Armor +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1251,
+    "ItemStack": "Phomandala RS",
+    "Item": "Ring of Protection +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1252,
+    "ItemStack": "Phomandala RS",
+    "Item": "Cloak of Resistance +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1253,
+    "ItemStack": "House at the Edge of Time Basement A Treasure G",
+    "Item": "Agate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1254,
+    "ItemStack": "House at the Edge of Time Basement A Treasure G",
+    "Item": "Special Hope",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1255,
+    "ItemStack": "House at the Edge of Time Basement A Treasure G",
+    "Item": "Shining Scale",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1256,
+    "ItemStack": "House at the Edge of Time Basement A Treasure G",
+    "Item": "Grinding Stone",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1257,
+    "ItemStack": "House at the Edge of Time Basement A Treasure G",
+    "Item": "Citrine",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1258,
+    "ItemStack": "House at the Edge of Time Basement A Treasure G",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 1887,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1259,
+    "ItemStack": "House at the Edge of Time Basement A Treasure H",
+    "Item": "Fairy Tales of Avistan",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1260,
+    "ItemStack": "House at the Edge of Time Basement A Treasure H",
+    "Item": "A Thousand Revolutions",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1261,
+    "ItemStack": "House at the Edge of Time Basement A Treasure I",
+    "Item": "The River Freedoms",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1262,
+    "ItemStack": "House at the Edge of Time Basement A Treasure I",
+    "Item": "Shadow of Absalom by Pax Groometra",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1263,
+    "ItemStack": "Ring of Protection +5",
+    "Item": "Ring of Protection +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1264,
+    "ItemStack": "House at the Edge of Time Basement A Treasure K",
+    "Item": "Dinosaur Bone",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1265,
+    "ItemStack": "House at the Edge of Time Basement A Treasure K",
+    "Item": "Agate",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1266,
+    "ItemStack": "House at the Edge of Time Basement A Treasure K",
+    "Item": "Falchion",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1267,
+    "ItemStack": "House at the Edge of Time Basement A Treasure K",
+    "Item": "Masterwork Earth Breaker",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1268,
+    "ItemStack": "House at the Edge of Time Basement A Treasure K",
+    "Item": "Potion of Heroism",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1269,
+    "ItemStack": "House at the Edge of Time Basement A Treasure K",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 345,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1270,
+    "ItemStack": "Wriggling Man RS",
+    "Item": "Wriggling Man's Key",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1271,
+    "ItemStack": "Wriggling Man RS",
+    "Item": "Corrosive Quarterstaff +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1272,
+    "ItemStack": "Wriggling Man RS",
+    "Item": "Dark Master's Robe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1273,
+    "ItemStack": "Wriggling Man RS",
+    "Item": "Belt of Physical Form +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1274,
+    "ItemStack": "Wriggling Man RS",
+    "Item": "Amulet of Natural Armor +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1275,
+    "ItemStack": "Wriggling Man RS",
+    "Item": "Ring of Protection +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1276,
+    "ItemStack": "Wriggling Man RS",
+    "Item": "Bracers of Armor +8",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null

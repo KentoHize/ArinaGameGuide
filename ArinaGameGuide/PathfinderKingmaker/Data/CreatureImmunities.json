@@ -1540,5 +1540,77 @@
     "Creature": "Greater Summer Golem",
     "Condition": null,
     "ConditionGroup": "Plant Immunities"
+  },
+  {
+    "ID": 278,
+    "Creature": "Phomandala",
+    "Condition": "Spell - Magic Missile",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 279,
+    "Creature": "Sorcerer Medusa 20",
+    "Condition": "Spell - Magic Missile",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 280,
+    "Creature": "Wriggling Man",
+    "Condition": "Mind-Affecting",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 281,
+    "Creature": "Wriggling Man",
+    "Condition": "Compulsion",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 282,
+    "Creature": "Wriggling Man",
+    "Condition": "Poison",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 283,
+    "Creature": "Wriggling Man",
+    "Condition": "Disease",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 284,
+    "Creature": "Wriggling Man",
+    "Condition": "Charmed",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 285,
+    "Creature": "Wriggling Man",
+    "Condition": "Sleep",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 286,
+    "Creature": "Wriggling Man",
+    "Condition": "Critical Hits",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 287,
+    "Creature": "Wriggling Man",
+    "Condition": "precision damage",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 288,
+    "Creature": "Wriggling Man",
+    "Condition": "spell with a target",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 289,
+    "Creature": "Wriggling Man",
+    "Condition": "halves physical damage from slashing and piercing weapon",
+    "ConditionGroup": null
   }
 ]

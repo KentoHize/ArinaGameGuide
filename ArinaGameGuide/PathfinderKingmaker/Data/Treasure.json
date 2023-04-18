@@ -11,6 +11,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -26,6 +27,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -41,6 +43,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -56,6 +59,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -71,6 +75,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -86,6 +91,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 33,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -101,6 +107,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -116,6 +123,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": "Abandoned Keep Defaced Sister",
     "Memo": ""
   },
@@ -131,6 +139,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -146,6 +155,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -161,6 +171,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -176,6 +187,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -191,6 +203,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -206,6 +219,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -221,6 +235,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -236,6 +251,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -251,6 +267,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 33,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -266,6 +283,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -281,6 +299,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 37,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -296,6 +315,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 33,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -311,6 +331,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -326,6 +347,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -341,6 +363,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 34,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -356,6 +379,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -371,6 +395,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 0,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -386,6 +411,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -401,6 +427,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -416,6 +443,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -431,6 +459,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": "Bridge Over The Gudrin River Grag Linnorm",
     "Memo": ""
   },
@@ -446,6 +475,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -461,6 +491,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -476,6 +507,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -491,6 +523,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -506,6 +539,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -521,6 +555,7 @@
     "Trap": null,
     "TrapDC": 44,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -536,6 +571,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 39,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -551,6 +587,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 39,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -566,6 +603,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -581,6 +619,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -596,6 +635,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -611,6 +651,7 @@
     "Trap": null,
     "TrapDC": 28,
     "LockDC": 28,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -626,6 +667,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": "City of Hollow Eyes Group J",
     "Memo": ""
   },
@@ -641,6 +683,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -656,6 +699,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 29,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -671,6 +715,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -686,6 +731,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -701,6 +747,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -716,6 +763,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -731,6 +779,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -746,6 +795,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -761,6 +811,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -776,6 +827,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 32,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -791,6 +843,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 33,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -806,6 +859,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -821,6 +875,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -836,6 +891,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -851,6 +907,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -866,6 +923,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -881,6 +939,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -896,6 +955,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -911,6 +971,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -926,6 +987,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -941,6 +1003,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -956,6 +1019,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -971,6 +1035,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 45,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -981,11 +1046,12 @@
     "Type": "Box",
     "Place": "House at the Edge of Time Basement A",
     "Position": "West",
-    "ItemStack": "House at the Edge of Time Basement A Treasure A",
+    "ItemStack": null,
     "PerceptionDC": null,
     "Trap": null,
     "TrapDC": null,
     "LockDC": 45,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1001,6 +1067,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1016,6 +1083,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1031,6 +1099,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1046,6 +1115,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 43,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1061,6 +1131,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1076,6 +1147,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1091,6 +1163,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1106,6 +1179,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1121,6 +1195,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 42,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1136,6 +1211,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1151,96 +1227,103 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
   {
     "ID": 153,
-    "Name": "House at the Edge of Time Floor A Treasure A",
+    "Name": "House at the Edge of Time First Floor A Treasure A",
     "CName": "",
     "Type": "Box",
-    "Place": "House at the Edge of Time Floor A",
+    "Place": "House at the Edge of Time First Floor A",
     "Position": "South West",
     "ItemStack": "Light Pick +4",
     "PerceptionDC": null,
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
   {
     "ID": 164,
-    "Name": "House at the Edge of Time Floor A Treasure B",
+    "Name": "House at the Edge of Time First Floor A Treasure B",
     "CName": "",
     "Type": "Box",
-    "Place": "House at the Edge of Time Floor A",
+    "Place": "House at the Edge of Time First Floor A",
     "Position": "North",
-    "ItemStack": "House at the Edge of Time Floor A Treasure B",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure B",
     "PerceptionDC": null,
     "Trap": null,
     "TrapDC": null,
     "LockDC": 43,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
   {
     "ID": 165,
-    "Name": "House at the Edge of Time Floor A Treasure C",
+    "Name": "House at the Edge of Time First Floor A Treasure C",
     "CName": "",
     "Type": "Box",
-    "Place": "House at the Edge of Time Floor A",
+    "Place": "House at the Edge of Time First Floor A",
     "Position": "Center",
     "ItemStack": "House at the Edge of Time Floor A Treasure C",
     "PerceptionDC": null,
     "Trap": null,
     "TrapDC": null,
     "LockDC": 43,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
   {
     "ID": 166,
-    "Name": "House at the Edge of Time Floor A Treasure D",
+    "Name": "House at the Edge of Time First Floor A Treasure D",
     "CName": "",
     "Type": "Box",
-    "Place": "House at the Edge of Time Floor A",
+    "Place": "House at the Edge of Time First Floor A",
     "Position": "North",
     "ItemStack": "Adamantine Full Plate +4",
     "PerceptionDC": null,
     "Trap": null,
     "TrapDC": null,
     "LockDC": 42,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
   {
     "ID": 167,
-    "Name": "House at the Edge of Time Floor A Treasure E",
+    "Name": "House at the Edge of Time First Floor A Treasure E",
     "CName": "",
     "Type": "Box",
-    "Place": "House at the Edge of Time Floor A",
+    "Place": "House at the Edge of Time First Floor A",
     "Position": "North East",
     "ItemStack": "House at the Edge of Time Floor A Treasure E",
     "PerceptionDC": null,
     "Trap": null,
     "TrapDC": null,
     "LockDC": 44,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
   {
     "ID": 169,
-    "Name": "House at the Edge of Time Floor A Treasure F",
+    "Name": "House at the Edge of Time First Floor A Treasure F",
     "CName": "",
     "Type": "Box",
-    "Place": "House at the Edge of Time Floor A",
+    "Place": "House at the Edge of Time First Floor A",
     "Position": "East",
     "ItemStack": "House at the Edge of Time Floor A Treasure F",
     "PerceptionDC": null,
     "Trap": null,
     "TrapDC": null,
     "LockDC": 43,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1256,6 +1339,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1271,6 +1355,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1286,6 +1371,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 42,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1301,6 +1387,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 48,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1316,6 +1403,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 47,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1331,6 +1419,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 47,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1346,6 +1435,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 48,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1361,6 +1451,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1376,6 +1467,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1391,6 +1483,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1406,6 +1499,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 36,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1421,6 +1515,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1436,6 +1531,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1451,6 +1547,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": "Other World A Group B",
     "Memo": ""
   },
@@ -1466,6 +1563,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1481,6 +1579,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1496,6 +1595,7 @@
     "Trap": 167,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": "Pitax Group",
     "Memo": ""
   },
@@ -1511,6 +1611,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1526,6 +1627,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1541,6 +1643,7 @@
     "Trap": 174,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1556,6 +1659,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1571,6 +1675,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1586,6 +1691,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1601,6 +1707,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1616,6 +1723,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1631,6 +1739,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1646,6 +1755,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1661,6 +1771,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 38,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1676,6 +1787,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1691,6 +1803,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1706,6 +1819,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1721,6 +1835,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1736,6 +1851,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1751,6 +1867,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1766,6 +1883,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1781,6 +1899,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1796,6 +1915,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 45,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1811,6 +1931,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1826,6 +1947,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1841,6 +1963,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1856,6 +1979,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": "Saint Galvan's Gullet",
     "Memo": ""
   },
@@ -1871,6 +1995,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1886,6 +2011,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1901,6 +2027,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1916,6 +2043,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1931,6 +2059,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 35,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -1946,6 +2075,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": "Spider Lair Group E",
     "Memo": ""
   },
@@ -1961,6 +2091,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 43,
+    "Importance": "Nothing",
     "RelatedEncounter": "Technic League Hideout Maestro Janush",
     "Memo": ""
   },
@@ -1976,6 +2107,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": "Tenacious Marsh",
     "Memo": ""
   },
@@ -1991,6 +2123,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2006,6 +2139,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2021,6 +2155,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2036,6 +2171,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2051,6 +2187,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2066,6 +2203,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2081,6 +2219,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2096,6 +2235,7 @@
     "Trap": null,
     "TrapDC": 18,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2111,6 +2251,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2126,6 +2267,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": "Tenebrous Depth V Group C",
     "Memo": ""
   },
@@ -2141,6 +2283,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2156,6 +2299,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2171,6 +2315,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": "Tenebrous Depth VII Group E",
     "Memo": ""
   },
@@ -2186,6 +2331,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2201,6 +2347,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": "Tenebrous Depth VIII The Fallen Priestess",
     "Memo": ""
   },
@@ -2216,6 +2363,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2231,6 +2379,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2246,6 +2395,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2261,6 +2411,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2276,6 +2427,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2291,6 +2443,7 @@
     "Trap": null,
     "TrapDC": 27,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2306,6 +2459,7 @@
     "Trap": null,
     "TrapDC": 25,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2321,6 +2475,7 @@
     "Trap": null,
     "TrapDC": 25,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2336,6 +2491,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2351,6 +2507,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2366,6 +2523,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2381,6 +2539,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2396,6 +2555,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 35,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2411,6 +2571,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2426,6 +2587,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2441,6 +2603,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2456,6 +2619,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2471,6 +2635,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": 28,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2486,6 +2651,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2501,6 +2667,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2516,6 +2683,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2531,6 +2699,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2546,6 +2715,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2561,6 +2731,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2576,6 +2747,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2591,6 +2763,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2606,6 +2779,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2621,6 +2795,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2636,6 +2811,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": "Womb of Lamashtu Group I",
     "Memo": ""
   },
@@ -2651,6 +2827,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": "Womb of Lamashtu Group H",
     "Memo": ""
   },
@@ -2666,6 +2843,7 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
   },
@@ -2681,6 +2859,199 @@
     "Trap": null,
     "TrapDC": null,
     "LockDC": null,
+    "Importance": "Nothing",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 180,
+    "Name": "House at the Edge of Time Basement B Treasure J",
+    "CName": "",
+    "Type": "Box",
+    "Place": "House at the Edge of Time Basement B",
+    "Position": "South",
+    "ItemStack": "House at the Edge of Time Basement B Treasure J",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": 45,
+    "Importance": "Nothing",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 181,
+    "Name": "House at the Edge of Time Basement B Treasure K",
+    "CName": "",
+    "Type": "Box",
+    "Place": "House at the Edge of Time Basement B",
+    "Position": "Center",
+    "ItemStack": "House at the Edge of Time Basement B Treasure K",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "Nothing",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 182,
+    "Name": "House at the Edge of Time Second Floor A Treasure B",
+    "CName": "",
+    "Type": "Other",
+    "Place": "House at the Edge of Time Second Floor A",
+    "Position": "North West",
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure B",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "Nothing",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 183,
+    "Name": "House at the Edge of Time Second Floor A Treasure C",
+    "CName": "",
+    "Type": "Box",
+    "Place": "House at the Edge of Time Second Floor A",
+    "Position": "West",
+    "ItemStack": "Amulet of Natural Armor +5",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "Nothing",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 184,
+    "Name": "House at the Edge of Time Second Floor A Treasure D",
+    "CName": "",
+    "Type": "Box",
+    "Place": "House at the Edge of Time Second Floor A",
+    "Position": "Center",
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure D",
+    "PerceptionDC": 47,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "Nothing",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 185,
+    "Name": "House at the Edge of Time Basement A Treasure E",
+    "CName": "",
+    "Type": "Box",
+    "Place": "House at the Edge of Time Basement A",
+    "Position": "Center",
+    "ItemStack": "House at the Edge of Time Basement A Treasure E",
+    "PerceptionDC": 45,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "Nothing",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 186,
+    "Name": "House at the Edge of Time Basement A Treasure F",
+    "CName": "",
+    "Type": "Box",
+    "Place": "House at the Edge of Time Basement A",
+    "Position": "West",
+    "ItemStack": "House at the Edge of Time Basement A Treasure F",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "Good",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 187,
+    "Name": "House at the Edge of Time Basement A Treasure G",
+    "CName": "",
+    "Type": "Box",
+    "Place": "House at the Edge of Time Basement A",
+    "Position": "Center",
+    "ItemStack": "House at the Edge of Time Basement A Treasure G",
+    "PerceptionDC": 45,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "Nothing",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 188,
+    "Name": "House at the Edge of Time Basement A Treasure H",
+    "CName": "",
+    "Type": "Other",
+    "Place": "House at the Edge of Time Basement A",
+    "Position": "North East",
+    "ItemStack": "House at the Edge of Time Basement A Treasure H",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "Side Quest",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 189,
+    "Name": "House at the Edge of Time Basement A Treasure I",
+    "CName": "",
+    "Type": "Other",
+    "Place": "House at the Edge of Time Basement A",
+    "Position": "North East",
+    "ItemStack": "House at the Edge of Time Basement A Treasure I",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "Nothing",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 190,
+    "Name": "House at the Edge of Time Basement A Treasure J",
+    "CName": "",
+    "Type": "Other",
+    "Place": "House at the Edge of Time Basement A",
+    "Position": "North",
+    "ItemStack": "Ring of Protection +5",
+    "PerceptionDC": 44,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": 42,
+    "Importance": "Very Good",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 191,
+    "Name": "House at the Edge of Time Basement A Treasure K",
+    "CName": "",
+    "Type": "Other",
+    "Place": "House at the Edge of Time Basement A",
+    "Position": "South West",
+    "ItemStack": "House at the Edge of Time Basement A Treasure K",
+    "PerceptionDC": 44,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": 45,
+    "Importance": "Good",
     "RelatedEncounter": null,
     "Memo": ""
   }

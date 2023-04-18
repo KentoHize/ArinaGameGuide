@@ -10301,7 +10301,7 @@
   },
   {
     "ID": 1033,
-    "CreatureGroup": "House at the Edge of Time Floor A Group A",
+    "CreatureGroup": "House at the Edge of Time First Floor A Group A",
     "Creature": "Ghostly Guard 16 Rogue",
     "DisplayName": null,
     "Quantity": 5,
@@ -10311,7 +10311,7 @@
   },
   {
     "ID": 1034,
-    "CreatureGroup": "House at the Edge of Time Floor A Group B",
+    "CreatureGroup": "House at the Edge of Time First Floor A Group B",
     "Creature": "Wild Hunt Monarch",
     "DisplayName": null,
     "Quantity": 1,
@@ -10321,7 +10321,7 @@
   },
   {
     "ID": 1035,
-    "CreatureGroup": "House at the Edge of Time Floor A Group B",
+    "CreatureGroup": "House at the Edge of Time First Floor A Group B",
     "Creature": "Wild Hunt Archer",
     "DisplayName": null,
     "Quantity": 1,
@@ -10331,7 +10331,7 @@
   },
   {
     "ID": 1036,
-    "CreatureGroup": "House at the Edge of Time Floor A Group B",
+    "CreatureGroup": "House at the Edge of Time First Floor A Group B",
     "Creature": "Wild Hunt Scout 24 B",
     "DisplayName": null,
     "Quantity": 3,
@@ -10845,6 +10845,196 @@
     "Creature": "Ankou",
     "DisplayName": null,
     "Quantity": 7,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1089,
+    "CreatureGroup": "House at the Edge of Time Basement B Group J",
+    "Creature": "Ghostly Mage Guard",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1088,
+    "CreatureGroup": "House at the Edge of Time Basement B Group J",
+    "Creature": "Ghostly Guard 16 Rogue",
+    "DisplayName": null,
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1090,
+    "CreatureGroup": "House at the Edge of Time Basement B Group K",
+    "Creature": "Ghostly Mage Guard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1091,
+    "CreatureGroup": "House at the Edge of Time Basement B Group K",
+    "Creature": "Ghostly Guard 16 Rogue",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1092,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group C",
+    "Creature": "Ghostly Mage Guard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1093,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group C",
+    "Creature": "Ghostly Guard 16 Rogue",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1094,
+    "CreatureGroup": "House at the Edge of Time Basement A Group B",
+    "Creature": "Medusa 16 Fighter",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1095,
+    "CreatureGroup": "Phomandala Group",
+    "Creature": "Phomandala",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1096,
+    "CreatureGroup": "Phomandala Group",
+    "Creature": "Sorcerer Medusa 20",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1097,
+    "CreatureGroup": "House at the Edge of Time Basement A Group C",
+    "Creature": "Wild Hunt Archer 24 B",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1098,
+    "CreatureGroup": "House at the Edge of Time Basement A Group C",
+    "Creature": "Wild Hunt Scout 24 B",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1099,
+    "CreatureGroup": "House at the Edge of Time Basement A Group D",
+    "Creature": "Ghostly Mage Guard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1100,
+    "CreatureGroup": "House at the Edge of Time Basement A Group D",
+    "Creature": "Ghostly Guard 16 Rogue",
+    "DisplayName": null,
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1101,
+    "CreatureGroup": "House at the Edge of Time Basement A Group E",
+    "Creature": "Wild Hunt Monarch 29",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1102,
+    "CreatureGroup": "House at the Edge of Time Basement A Group E",
+    "Creature": "Wild Hunt Archer 24 B",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1103,
+    "CreatureGroup": "House at the Edge of Time Basement A Group E",
+    "Creature": "Wild Hunt Scout 24 B",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1104,
+    "CreatureGroup": "House at the Edge of Time Basement A Group F",
+    "Creature": "Wild Hunt Archer 24 B",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1105,
+    "CreatureGroup": "House at the Edge of Time Basement A Group F",
+    "Creature": "Wild Hunt Scout 24 B",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1106,
+    "CreatureGroup": "Wriggling Man",
+    "Creature": "Wriggling Man",
+    "DisplayName": null,
+    "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"

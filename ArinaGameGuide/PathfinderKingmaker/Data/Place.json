@@ -2686,7 +2686,7 @@
   },
   {
     "ID": 180,
-    "Name": "House at the Edge of Time Floor A",
+    "Name": "House at the Edge of Time First Floor A",
     "DisplayName": "House at the Edge of Time",
     "CName": "",
     "Type": "Dungeon",
@@ -2742,7 +2742,7 @@
     "HardSpotLevelMax": null,
     "HasPlot": false,
     "Description": "",
-    "Memo": ""
+    "Memo": "DC 40 Diplomacy 23040 exp"
   },
   {
     "ID": 183,

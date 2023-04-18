@@ -3535,5 +3535,50 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 395,
+    "Creature": "Phomandala",
+    "Ability": "Wing",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 396,
+    "Creature": "Wild Hunt Monarch 29",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 397,
+    "Creature": "Wild Hunt Monarch 29",
+    "Ability": "Wild Gaze",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": 2
+  },
+  {
+    "ID": 398,
+    "Creature": "Wriggling Man",
+    "Ability": "Fast Healing",
+    "Amount": 20,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 399,
+    "Creature": "Wriggling Man",
+    "Ability": "Protective Aura",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]
