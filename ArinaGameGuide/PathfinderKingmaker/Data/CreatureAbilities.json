@@ -3580,5 +3580,14 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 400,
+    "Creature": "Wild Hunt Monarch 29",
+    "Ability": "Wild Hunt Link",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

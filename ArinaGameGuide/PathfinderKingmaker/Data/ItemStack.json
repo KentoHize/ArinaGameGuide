@@ -2086,7 +2086,7 @@
   },
   {
     "ID": 419,
-    "Name": "House at the Edge of Time Floor A Treasure C",
+    "Name": "House at the Edge of Time First Floor A Treasure C",
     "Memo": ""
   },
   {
@@ -2096,7 +2096,7 @@
   },
   {
     "ID": 421,
-    "Name": "House at the Edge of Time Floor A Treasure E",
+    "Name": "House at the Edge of Time First Floor A Treasure E",
     "Memo": ""
   },
   {
@@ -2106,7 +2106,7 @@
   },
   {
     "ID": 423,
-    "Name": "House at the Edge of Time Floor A Treasure F",
+    "Name": "House at the Edge of Time First Floor A Treasure F",
     "Memo": ""
   },
   {
@@ -2242,6 +2242,41 @@
   {
     "ID": 450,
     "Name": "Wriggling Man RS",
+    "Memo": ""
+  },
+  {
+    "ID": 451,
+    "Name": "House at the Edge of Time First Floor B Treasure B",
+    "Memo": ""
+  },
+  {
+    "ID": 452,
+    "Name": "House at the Edge of Time Second Floor B Treasure D",
+    "Memo": ""
+  },
+  {
+    "ID": 453,
+    "Name": "House at the Edge of Time Second Floor B Treasure E",
+    "Memo": ""
+  },
+  {
+    "ID": 454,
+    "Name": "Speed Ghost Touch Quarterstaff +4",
+    "Memo": ""
+  },
+  {
+    "ID": 455,
+    "Name": "House at the Edge of Time Second Floor B Treasure G",
+    "Memo": ""
+  },
+  {
+    "ID": 456,
+    "Name": "House at the Edge of Time Second Floor B Treasure H",
+    "Memo": ""
+  },
+  {
+    "ID": 457,
+    "Name": "House at the Edge of Time Second Floor B Treasure I",
     "Memo": ""
   }
 ]

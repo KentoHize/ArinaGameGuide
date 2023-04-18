@@ -280,5 +280,23 @@
     "Item": "The End",
     "Quality": "Unstoppable",
     "Rank": null
+  },
+  {
+    "ID": 48,
+    "Item": "Speed Ghost Touch Quarterstaff +4",
+    "Quality": "Enhancement",
+    "Rank": 4
+  },
+  {
+    "ID": 49,
+    "Item": "Speed Ghost Touch Quarterstaff +4",
+    "Quality": "Speed",
+    "Rank": null
+  },
+  {
+    "ID": 50,
+    "Item": "Speed Ghost Touch Quarterstaff +4",
+    "Quality": "Ghost Touch",
+    "Rank": null
   }
 ]

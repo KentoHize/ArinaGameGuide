@@ -9241,7 +9241,7 @@
   },
   {
     "ID": 1159,
-    "ItemStack": "House at the Edge of Time Floor A Treasure C",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure C",
     "Item": "Scroll of Barkskin",
     "RandomItem": null,
     "Quantity": 2,
@@ -9249,7 +9249,7 @@
   },
   {
     "ID": 1160,
-    "ItemStack": "House at the Edge of Time Floor A Treasure C",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure C",
     "Item": "Potion of Reduce Person",
     "RandomItem": null,
     "Quantity": 1,
@@ -9257,7 +9257,7 @@
   },
   {
     "ID": 1161,
-    "ItemStack": "House at the Edge of Time Floor A Treasure C",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure C",
     "Item": "Masterwork Elven Curve Blade",
     "RandomItem": null,
     "Quantity": 1,
@@ -9265,7 +9265,7 @@
   },
   {
     "ID": 1162,
-    "ItemStack": "House at the Edge of Time Floor A Treasure C",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure C",
     "Item": "Turquoise",
     "RandomItem": null,
     "Quantity": 4,
@@ -9273,7 +9273,7 @@
   },
   {
     "ID": 1163,
-    "ItemStack": "House at the Edge of Time Floor A Treasure C",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure C",
     "Item": "Moonstone",
     "RandomItem": null,
     "Quantity": 2,
@@ -9281,7 +9281,7 @@
   },
   {
     "ID": 1164,
-    "ItemStack": "House at the Edge of Time Floor A Treasure C",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure C",
     "Item": "Gold Coin",
     "RandomItem": null,
     "Quantity": 1010,
@@ -9297,7 +9297,7 @@
   },
   {
     "ID": 1166,
-    "ItemStack": "House at the Edge of Time Floor A Treasure E",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure E",
     "Item": "Silver Ring",
     "RandomItem": null,
     "Quantity": 1,
@@ -9305,7 +9305,7 @@
   },
   {
     "ID": 1167,
-    "ItemStack": "House at the Edge of Time Floor A Treasure E",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure E",
     "Item": "Potion of Barkskin",
     "RandomItem": null,
     "Quantity": 1,
@@ -9313,7 +9313,7 @@
   },
   {
     "ID": 1168,
-    "ItemStack": "House at the Edge of Time Floor A Treasure E",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure E",
     "Item": "Whimsical Berry",
     "RandomItem": null,
     "Quantity": 1,
@@ -9321,7 +9321,7 @@
   },
   {
     "ID": 1169,
-    "ItemStack": "House at the Edge of Time Floor A Treasure E",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure E",
     "Item": "Medicinal Herb Petals",
     "RandomItem": null,
     "Quantity": 2,
@@ -9329,7 +9329,7 @@
   },
   {
     "ID": 1170,
-    "ItemStack": "House at the Edge of Time Floor A Treasure E",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure E",
     "Item": "Scroll of Touch of Gracelessness",
     "RandomItem": null,
     "Quantity": 2,
@@ -9337,7 +9337,7 @@
   },
   {
     "ID": 1171,
-    "ItemStack": "House at the Edge of Time Floor A Treasure E",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure E",
     "Item": "Gold Coin",
     "RandomItem": null,
     "Quantity": 1592,
@@ -9393,7 +9393,7 @@
   },
   {
     "ID": 1178,
-    "ItemStack": "House at the Edge of Time Floor A Treasure F",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure F",
     "Item": "Agate",
     "RandomItem": null,
     "Quantity": 1,
@@ -9401,7 +9401,7 @@
   },
   {
     "ID": 1179,
-    "ItemStack": "House at the Edge of Time Floor A Treasure F",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure F",
     "Item": "Masterwork Light Mace",
     "RandomItem": null,
     "Quantity": 1,
@@ -9409,7 +9409,7 @@
   },
   {
     "ID": 1180,
-    "ItemStack": "House at the Edge of Time Floor A Treasure F",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure F",
     "Item": "Dinosaur Bone",
     "RandomItem": null,
     "Quantity": 2,
@@ -9417,7 +9417,7 @@
   },
   {
     "ID": 1181,
-    "ItemStack": "House at the Edge of Time Floor A Treasure F",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure F",
     "Item": "Jade",
     "RandomItem": null,
     "Quantity": 1,
@@ -9425,7 +9425,7 @@
   },
   {
     "ID": 1182,
-    "ItemStack": "House at the Edge of Time Floor A Treasure F",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure F",
     "Item": "Jasper",
     "RandomItem": null,
     "Quantity": 1,
@@ -9433,7 +9433,7 @@
   },
   {
     "ID": 1183,
-    "ItemStack": "House at the Edge of Time Floor A Treasure F",
+    "ItemStack": "House at the Edge of Time First Floor A Treasure F",
     "Item": "Gold Coin",
     "RandomItem": null,
     "Quantity": 1105,
@@ -10181,6 +10181,238 @@
     "Item": "Bracers of Armor +8",
     "RandomItem": null,
     "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1277,
+    "ItemStack": "House at the Edge of Time First Floor B Treasure B",
+    "Item": "Potion of Protection from Evil",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1278,
+    "ItemStack": "House at the Edge of Time First Floor B Treasure B",
+    "Item": "Fine Feather",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1279,
+    "ItemStack": "House at the Edge of Time First Floor B Treasure B",
+    "Item": "Special Hope",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1280,
+    "ItemStack": "House at the Edge of Time First Floor B Treasure B",
+    "Item": "Shining Scale",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1281,
+    "ItemStack": "House at the Edge of Time First Floor B Treasure B",
+    "Item": "Potion of Eagle's Splendor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1282,
+    "ItemStack": "House at the Edge of Time First Floor B Treasure B",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 1615,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1283,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure D",
+    "Item": "Pertified Egg",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1284,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure D",
+    "Item": "Scalemail",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1285,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure D",
+    "Item": "Potion of Protection from Electricity",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1286,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure D",
+    "Item": "Scroll of Resist Acid",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1287,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure D",
+    "Item": "Potion of Cat's Grace",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1288,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure D",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 893,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1289,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure E",
+    "Item": "In Search of Joy. Confessions of a Heretic",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1290,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure E",
+    "Item": "A Thousand Revolutions",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1291,
+    "ItemStack": "Speed Ghost Touch Quarterstaff +4",
+    "Item": "Speed Ghost Touch Quarterstaff +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1292,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure G",
+    "Item": "The Book of Nourishing Rage",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1293,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure G",
+    "Item": "Battle in the Valley of Fire by Lurus Aldori",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1294,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure H",
+    "Item": "Copper Ring",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1295,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure H",
+    "Item": "Coal",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1296,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure H",
+    "Item": "Potion of Vanish",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1297,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure H",
+    "Item": "Masterwork Light Hammer",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1298,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure H",
+    "Item": "Potion of Invisibility",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1299,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure H",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 635,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1300,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure I",
+    "Item": "Simmering Pollen",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1301,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure I",
+    "Item": "Special Hope",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1302,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure I",
+    "Item": "Potion of Aid",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1303,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure I",
+    "Item": "Potion of Fox's Cunning",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1304,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure I",
+    "Item": "Potion of Protection from Cold",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1305,
+    "ItemStack": "House at the Edge of Time Second Floor B Treasure I",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 320,
     "RandomQuantity": null
   }
 ]

@@ -48,5 +48,15 @@
     "ID": 10,
     "Subject": "Queen Puzzle 1",
     "Memo": "Giggling Hill\n\nOOX+O\nOOOOO\nXXOOO\nOOXOO\nOOOOX\n\nMysterious Shrine 1\n+OOOO\nOXOOX\nOOOXO\nOOOXO\nOOOOO\n\nMysterious Shrine 2(North)\nOO+XO\nOOOOO\nOOOOO\nXOOOX\nOXOOO\n\nMysterious Shrine 3(West)\nO+OOX\nOOOOO\nOOOOO\nOOOOO\nXOXOO\n\nMysterious Shrine 3(South West)\nOXOO+\nXOOXO\nOOXOO\nXOOOO\nOOOOO\n\n共同的O\nOXXXX\nXXOXX\nXXXXO\nXOXXX\nXXXOX"
+  },
+  {
+    "ID": 11,
+    "Subject": "House at the Edge of Time",
+    "Memo": "Mirror Location:\nA\n2F No?\n1F Center, South East(Start)\nB1 Center West\nB \n2F West \n1F Near Gate\nB1 No"
+  },
+  {
+    "ID": 12,
+    "Subject": "House at the Edge of Time Temp",
+    "Memo": "2F -> B\n\nNE\n1 Monarch\n2 Archer\n3 Scout\n2 Nympth\n\nE\nTrap 36\nTrap 36\nPer 45 -> Temp A\n\n1 Archer\n2 Scout\n1 Nympth\n"
   }
 ]

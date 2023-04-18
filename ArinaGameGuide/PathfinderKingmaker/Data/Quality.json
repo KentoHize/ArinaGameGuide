@@ -166,5 +166,11 @@
     "Name": "Anarchic",
     "CName": "",
     "Description": "Chaos Alignment\n+2d6 dmg to Lawful creature"
+  },
+  {
+    "ID": 29,
+    "Name": "Ghost Touch",
+    "CName": "",
+    "Description": "Attack ghost don't halve the dmg"
   }
 ]

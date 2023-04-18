@@ -10401,7 +10401,7 @@
   },
   {
     "ID": 1043,
-    "CreatureGroup": "House at the Edge of Time Floor B Group A",
+    "CreatureGroup": "House at the Edge of Time First Floor B Group A",
     "Creature": "Wild Hunt Scout 24 B",
     "DisplayName": null,
     "Quantity": 1,
@@ -10411,7 +10411,7 @@
   },
   {
     "ID": 1044,
-    "CreatureGroup": "House at the Edge of Time Floor B Group B",
+    "CreatureGroup": "House at the Edge of Time First Floor B Group B",
     "Creature": "Ghostly Guard 16 Rogue",
     "DisplayName": null,
     "Quantity": 4,
@@ -10421,7 +10421,7 @@
   },
   {
     "ID": 1045,
-    "CreatureGroup": "House at the Edge of Time Floor B Group B",
+    "CreatureGroup": "House at the Edge of Time First Floor B Group B",
     "Creature": "Ghostly Mage Guard",
     "DisplayName": null,
     "Quantity": 1,
@@ -10431,7 +10431,7 @@
   },
   {
     "ID": 1046,
-    "CreatureGroup": "House at the Edge of Time Floor B Group C",
+    "CreatureGroup": "House at the Edge of Time First Floor B Group C",
     "Creature": "Ghostly Guard 16 Rogue",
     "DisplayName": null,
     "Quantity": 3,
@@ -10441,7 +10441,7 @@
   },
   {
     "ID": 1047,
-    "CreatureGroup": "House at the Edge of Time Floor B Group C",
+    "CreatureGroup": "House at the Edge of Time First Floor B Group C",
     "Creature": "Ghostly Mage Guard",
     "DisplayName": null,
     "Quantity": 1,
@@ -10451,7 +10451,7 @@
   },
   {
     "ID": 1048,
-    "CreatureGroup": "House at the Edge of Time Floor B Gourp D",
+    "CreatureGroup": "House at the Edge of Time First Floor B Gourp D",
     "Creature": "Horned Hunter",
     "DisplayName": null,
     "Quantity": 1,
@@ -10461,7 +10461,7 @@
   },
   {
     "ID": 1049,
-    "CreatureGroup": "House at the Edge of Time Floor B Gourp D",
+    "CreatureGroup": "House at the Edge of Time First Floor B Gourp D",
     "Creature": "Satyr Archer",
     "DisplayName": null,
     "Quantity": 5,
@@ -10471,7 +10471,7 @@
   },
   {
     "ID": 1050,
-    "CreatureGroup": "House at the Edge of Time Floor B Gourp E",
+    "CreatureGroup": "House at the Edge of Time First Floor B Gourp E",
     "Creature": "Wild Hunt Scout 24 B",
     "DisplayName": null,
     "Quantity": 2,
@@ -10481,7 +10481,7 @@
   },
   {
     "ID": 1051,
-    "CreatureGroup": "House at the Edge of Time Floor B Gourp E",
+    "CreatureGroup": "House at the Edge of Time First Floor B Gourp E",
     "Creature": "Wild Hunt Archer 24 B",
     "DisplayName": null,
     "Quantity": 1,
@@ -10491,7 +10491,7 @@
   },
   {
     "ID": 1053,
-    "CreatureGroup": "House at the Edge of Time Floor A Gourp C",
+    "CreatureGroup": "House at the Edge of Time First Floor A Gourp C",
     "Creature": "Wild Hunt Archer 24 B",
     "DisplayName": null,
     "Quantity": 1,
@@ -10501,7 +10501,7 @@
   },
   {
     "ID": 1052,
-    "CreatureGroup": "House at the Edge of Time Floor A Gourp C",
+    "CreatureGroup": "House at the Edge of Time First Floor A Gourp C",
     "Creature": "Wild Hunt Scout 24 B",
     "DisplayName": null,
     "Quantity": 3,
@@ -10511,7 +10511,7 @@
   },
   {
     "ID": 1054,
-    "CreatureGroup": "House at the Edge of Time Floor A Gourp D",
+    "CreatureGroup": "House at the Edge of Time First Floor A Gourp C",
     "Creature": "Wild Hunt Scout 24 B",
     "DisplayName": null,
     "Quantity": 4,
@@ -11033,6 +11033,86 @@
     "ID": 1106,
     "CreatureGroup": "Wriggling Man",
     "Creature": "Wriggling Man",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1107,
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group E",
+    "Creature": "Wild Hunt Monarch 29",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1108,
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group E",
+    "Creature": "Wild Hunt Archer 24 B",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1109,
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group E",
+    "Creature": "Wild Hunt Scout 24 B",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1110,
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group E",
+    "Creature": "Nymph 16",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1111,
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group F",
+    "Creature": "Wild Hunt Archer 24 B",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1112,
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group F",
+    "Creature": "Wild Hunt Scout 24 B",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1113,
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group F",
+    "Creature": "Nymph 16",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1114,
+    "CreatureGroup": "House at the Edge of Time Second Floor B Group G",
+    "Creature": "Medusa 16 Fighter",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,

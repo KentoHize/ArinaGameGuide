@@ -3505,56 +3505,56 @@
   },
   {
     "ID": 439,
-    "Name": "House at the Edge of Time Floor B Group A",
-    "Place": "House at the Edge of Time Floor B",
+    "Name": "House at the Edge of Time First Floor B Group A",
+    "Place": "House at the Edge of Time First Floor B",
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
   },
   {
     "ID": 440,
-    "Name": "House at the Edge of Time Floor B Group B",
-    "Place": "House at the Edge of Time Floor B",
+    "Name": "House at the Edge of Time First Floor B Group B",
+    "Place": "House at the Edge of Time First Floor B",
     "Position": "South East",
     "Stage": 0,
     "Memo": ""
   },
   {
     "ID": 441,
-    "Name": "House at the Edge of Time Floor B Group C",
-    "Place": "House at the Edge of Time Floor B",
+    "Name": "House at the Edge of Time First Floor B Group C",
+    "Place": "House at the Edge of Time First Floor B",
     "Position": "South",
     "Stage": 0,
     "Memo": ""
   },
   {
     "ID": 442,
-    "Name": "House at the Edge of Time Floor B Gourp D",
-    "Place": "House at the Edge of Time Floor B",
+    "Name": "House at the Edge of Time First Floor B Gourp D",
+    "Place": "House at the Edge of Time First Floor B",
     "Position": "North East",
     "Stage": 0,
     "Memo": ""
   },
   {
     "ID": 443,
-    "Name": "House at the Edge of Time Floor B Gourp E",
-    "Place": "House at the Edge of Time Floor B",
+    "Name": "House at the Edge of Time First Floor B Gourp E",
+    "Place": "House at the Edge of Time First Floor B",
     "Position": "North East",
     "Stage": 0,
     "Memo": ""
   },
   {
     "ID": 444,
-    "Name": "House at the Edge of Time Floor A Gourp C",
-    "Place": "House at the Edge of Time Floor B",
+    "Name": "House at the Edge of Time First Floor A Gourp C",
+    "Place": "House at the Edge of Time First Floor B",
     "Position": "South West",
     "Stage": 0,
     "Memo": ""
   },
   {
     "ID": 445,
-    "Name": "House at the Edge of Time Floor A Gourp D",
-    "Place": "House at the Edge of Time Floor B",
+    "Name": "House at the Edge of Time First Floor A Gourp D",
+    "Place": "House at the Edge of Time First Floor B",
     "Position": "South West",
     "Stage": 0,
     "Memo": ""
@@ -3757,6 +3757,30 @@
     "Place": "House at the Edge of Time Second Floor A",
     "Position": "West",
     "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 471,
+    "Name": "House at the Edge of Time Second Floor B Group E",
+    "Place": "House at the Edge of Time Second Floor B",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 472,
+    "Name": "House at the Edge of Time Second Floor B Group F",
+    "Place": "House at the Edge of Time Second Floor B",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 473,
+    "Name": "House at the Edge of Time Second Floor B Group G",
+    "Place": "House at the Edge of Time Second Floor B",
+    "Position": "South East",
+    "Stage": 0,
     "Memo": ""
   }
 ]

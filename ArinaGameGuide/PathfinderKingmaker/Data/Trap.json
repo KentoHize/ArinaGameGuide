@@ -2161,10 +2161,10 @@
   },
   {
     "ID": 188,
-    "Name": "House at the Edge of Time Floor B Trap",
+    "Name": "House at the Edge of Time First Floor B Trap",
     "CName": "",
     "Type": "Unknown Trap",
-    "Place": "House at the Edge of Time Floor B",
+    "Place": "House at the Edge of Time First Floor B",
     "DisarmDC": 36,
     "Position": "East",
     "RelatedEncounter": null,
@@ -2251,6 +2251,30 @@
     "Place": "House at the Edge of Time Basement B",
     "DisarmDC": 36,
     "Position": "West",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 196,
+    "Name": "House at the Edge of Time Second Floor B Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "House at the Edge of Time Second Floor B",
+    "DisarmDC": 36,
+    "Position": "East",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 197,
+    "Name": "House at the Edge of Time Second Floor B Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "House at the Edge of Time Second Floor B",
+    "DisarmDC": 36,
+    "Position": "East",
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""

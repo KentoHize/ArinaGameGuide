@@ -418,5 +418,12 @@
     "CName": "",
     "DC": "",
     "Description": "50% chane avoid addtional dmg"
+  },
+  {
+    "ID": 61,
+    "Name": "Wild Hunt Link",
+    "CName": "",
+    "DC": "",
+    "Description": "Fase Heal 10 and don't Dead in 1 mile"
   }
 ]
