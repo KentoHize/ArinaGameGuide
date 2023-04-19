@@ -11440,6 +11440,16 @@
     "Team": "1"
   },
   {
+    "ID": 1152,
+    "CreatureGroup": "The Stag Lord Shadow Group A",
+    "Creature": "The Stag Lord Shadow",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
     "ID": 1147,
     "CreatureGroup": "The Stag Lord Shadow Group A",
     "Creature": "Bandit Shadow 4 Fighter",
@@ -11488,5 +11498,265 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "Ally"
+  },
+  {
+    "ID": 1153,
+    "CreatureGroup": "The Stag Lord Shadow Group B",
+    "Creature": "Bandit Shadow 2 Bard",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1154,
+    "CreatureGroup": "The Stag Lord Shadow Group B",
+    "Creature": "Bandit Shadow 4 Fighter",
+    "DisplayName": null,
+    "Quantity": 6,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1155,
+    "CreatureGroup": "Varnhold First World Group A",
+    "Creature": "Dread Zombie Cyclops Shadow",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1156,
+    "CreatureGroup": "Varnhold First World Group B",
+    "Creature": "Dread Zombie Cyclops Shadow",
+    "DisplayName": null,
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1157,
+    "CreatureGroup": "Varnhold First World Group B",
+    "Creature": "Guard 1",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 1158,
+    "CreatureGroup": "Varnhold First World Group C",
+    "Creature": "Dread Zombie Cyclops Shadow",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1159,
+    "CreatureGroup": "Varnhold First World Group C",
+    "Creature": "Guard 1",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 1160,
+    "CreatureGroup": "Varnhold First World Maegar Varn Group",
+    "Creature": "Dread Zombie Cyclops Shadow",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1161,
+    "CreatureGroup": "Varnhold First World Maegar Varn Group",
+    "Creature": "Guard 1",
+    "DisplayName": null,
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 1162,
+    "CreatureGroup": "Varnhold First World Maegar Varn Group",
+    "Creature": "Maegar Varn",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 1163,
+    "CreatureGroup": "Vordakai Shadow Group A",
+    "Creature": "Vordakai Shadow",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1164,
+    "CreatureGroup": "Vordakai Shadow Group A",
+    "Creature": "Dread Zombie Cyclops Shadow",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1165,
+    "CreatureGroup": "Vordakai Shadow Group A",
+    "Creature": "Maegar Varn",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 1166,
+    "CreatureGroup": "Vordakai Shadow Group A",
+    "Creature": "Guard 1",
+    "DisplayName": null,
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 1167,
+    "CreatureGroup": "Flintrock Grassland First World Group A",
+    "Creature": "Barbarian Shadow 8 Fighter",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1168,
+    "CreatureGroup": "Flintrock Grassland First World Group A",
+    "Creature": "Barbarian Shadow 8 Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1170,
+    "CreatureGroup": "Flintrock Grassland First World Group A",
+    "Creature": "Brevoy Soldier Shadow Fighter",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "2"
+  },
+  {
+    "ID": 1169,
+    "CreatureGroup": "Flintrock Grassland First World Group A",
+    "Creature": "Brevoy Soldier Shadow Archer",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "2"
+  },
+  {
+    "ID": 1171,
+    "CreatureGroup": "Flintrock Grassland First World Group B",
+    "Creature": "Brevoy Soldier Shadow Fighter",
+    "DisplayName": null,
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "2"
+  },
+  {
+    "ID": 1172,
+    "CreatureGroup": "Flintrock Grassland First World Group B",
+    "Creature": "Brevoy Soldier Shadow Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "2"
+  },
+  {
+    "ID": 1173,
+    "CreatureGroup": "Flintrock Grassland First World Jamandi Aldori Group",
+    "Creature": "Jamandi Aldori",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 1174,
+    "CreatureGroup": "Flintrock Grassland First World Jamandi Aldori Group",
+    "Creature": "Aldori Swordmaster",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 1175,
+    "CreatureGroup": "Flintrock Grassland First World Jamandi Aldori Group",
+    "Creature": "Aldori Battle Wizard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 1176,
+    "CreatureGroup": "Flintrock Grassland First World Jamandi Aldori Group",
+    "Creature": "Brevoy Soldier",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 1177,
+    "CreatureGroup": "Flintrock Grassland First World Jamandi Aldori Group",
+    "Creature": "Kassil Aldori",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 1178,
+    "CreatureGroup": "Flintrock Grassland First World Jamandi Aldori Group",
+    "Creature": "Barbarian Shadow 8 Fighter",
+    "DisplayName": null,
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

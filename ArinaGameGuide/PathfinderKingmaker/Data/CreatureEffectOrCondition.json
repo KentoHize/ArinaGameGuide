@@ -1330,5 +1330,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 151,
+    "Creature": "The Stag Lord Shadow",
+    "EffectOrCondition": "Lantern King's Curse",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

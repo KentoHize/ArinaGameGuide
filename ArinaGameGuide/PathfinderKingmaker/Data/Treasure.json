@@ -3406,5 +3406,37 @@
     "Importance": "Good",
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 214,
+    "Name": "Oleg's Trading Post First World Treasure A",
+    "CName": "",
+    "Type": "Crate",
+    "Place": "Oleg's Trading Post First World",
+    "Position": "North East",
+    "ItemStack": "Black Star",
+    "PerceptionDC": 40,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "Very Good",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 215,
+    "Name": "Varnhold First World Treasure A",
+    "CName": "",
+    "Type": "Void",
+    "Place": "Varnhold First World",
+    "Position": "South East",
+    "ItemStack": "Xavorn's Cross",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "Good",
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

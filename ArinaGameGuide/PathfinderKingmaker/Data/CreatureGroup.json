@@ -3886,5 +3886,77 @@
     "Position": "Center",
     "Stage": 1,
     "Memo": ""
+  },
+  {
+    "ID": 487,
+    "Name": "The Stag Lord Shadow Group B",
+    "Place": "Oleg's Trading Post First World",
+    "Position": "Center",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 488,
+    "Name": "Varnhold First World Group A",
+    "Place": "Varnhold First World",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 489,
+    "Name": "Varnhold First World Group B",
+    "Place": "Varnhold First World",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 490,
+    "Name": "Varnhold First World Group C",
+    "Place": "Varnhold First World",
+    "Position": "South East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 491,
+    "Name": "Varnhold First World Maegar Varn Group",
+    "Place": "Varnhold First World",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 492,
+    "Name": "Vordakai Shadow Group A",
+    "Place": "Varnhold First World",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 493,
+    "Name": "Flintrock Grassland First World Group A",
+    "Place": "Flintrock Grassland First World",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 494,
+    "Name": "Flintrock Grassland First World Group B",
+    "Place": "Flintrock Grassland First World",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 495,
+    "Name": "Flintrock Grassland First World Jamandi Aldori Group",
+    "Place": "Flintrock Grassland First World",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

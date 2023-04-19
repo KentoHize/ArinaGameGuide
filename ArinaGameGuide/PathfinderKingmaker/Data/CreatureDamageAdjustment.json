@@ -3246,5 +3246,75 @@
     "Type": "DamageReduction",
     "DamageType": "Good",
     "Amount": 15
+  },
+  {
+    "ID": 465,
+    "Creature": "The Stag Lord Shadow",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 466,
+    "Creature": "Dread Zombie Cyclops Shadow",
+    "Type": "DamageReduction",
+    "DamageType": "Slash",
+    "Amount": 5
+  },
+  {
+    "ID": 467,
+    "Creature": "Dread Zombie Cyclops Shadow",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
+  },
+  {
+    "ID": 468,
+    "Creature": "Vordakai Shadow",
+    "Type": "DamageReduction",
+    "DamageType": "Bludgeon",
+    "Amount": 15
+  },
+  {
+    "ID": 469,
+    "Creature": "Vordakai Shadow",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 15
+  },
+  {
+    "ID": 470,
+    "Creature": "Vordakai Shadow",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 15
+  },
+  {
+    "ID": 471,
+    "Creature": "Vordakai Shadow",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 15
+  },
+  {
+    "ID": 472,
+    "Creature": "Vordakai Shadow",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 15
+  },
+  {
+    "ID": 473,
+    "Creature": "Vordakai Shadow",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 15
+  },
+  {
+    "ID": 474,
+    "Creature": "Vordakai Shadow",
+    "Type": "Immunity",
+    "DamageType": "Negative",
+    "Amount": null
   }
 ]

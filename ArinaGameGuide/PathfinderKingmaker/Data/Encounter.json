@@ -636,5 +636,27 @@
     "EnemyGroup2": "An Ancient Curse, Part Six Group B",
     "EnemyGroup3": "An Ancient Curse, Part Six Group C",
     "Memo": ""
+  },
+  {
+    "ID": 59,
+    "Name": "The Stag Lord Shadow Group",
+    "Place": "Oleg's Trading Post First World",
+    "Position": "Center",
+    "HasPlot": true,
+    "EnemyGroup1": "The Stag Lord Shadow Group A",
+    "EnemyGroup2": "The Stag Lord Shadow Group B",
+    "EnemyGroup3": null,
+    "Memo": ""
+  },
+  {
+    "ID": 60,
+    "Name": "Flintrock Grassland First World Group A",
+    "Place": "Flintrock Grassland First World",
+    "Position": "Center",
+    "HasPlot": false,
+    "EnemyGroup1": "Flintrock Grassland First World Group A",
+    "EnemyGroup2": "Flintrock Grassland First World Group B",
+    "EnemyGroup3": null,
+    "Memo": ""
   }
 ]

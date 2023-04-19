@@ -1642,5 +1642,17 @@
     "Creature": "Wyvern",
     "Condition": null,
     "ConditionGroup": "Dragon Immunities"
+  },
+  {
+    "ID": 295,
+    "Creature": "Dread Zombie Cyclops Shadow",
+    "Condition": null,
+    "ConditionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 296,
+    "Creature": "Vordakai Shadow",
+    "Condition": null,
+    "ConditionGroup": "Undead Immunities"
   }
 ]

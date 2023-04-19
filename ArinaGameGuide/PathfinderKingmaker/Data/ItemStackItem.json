@@ -10694,5 +10694,21 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1341,
+    "ItemStack": "Black Star",
+    "Item": "Black Star",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1342,
+    "ItemStack": "Xavorn's Cross",
+    "Item": "Xavorn's Cross",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

@@ -4270,5 +4270,89 @@
     "Creature": "Bandit Shadow 3 Archer",
     "Skill": "Stealth",
     "Bonus": 8
+  },
+  {
+    "ID": 714,
+    "Creature": "The Stag Lord Shadow",
+    "Skill": "Mobility",
+    "Bonus": 21
+  },
+  {
+    "ID": 715,
+    "Creature": "The Stag Lord Shadow",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 716,
+    "Creature": "The Stag Lord Shadow",
+    "Skill": "Stealth",
+    "Bonus": 19
+  },
+  {
+    "ID": 717,
+    "Creature": "Bandit Shadow 2 Bard",
+    "Skill": "Perception",
+    "Bonus": 10
+  },
+  {
+    "ID": 718,
+    "Creature": "Bandit Shadow 2 Bard",
+    "Skill": "Stealth",
+    "Bonus": 6
+  },
+  {
+    "ID": 719,
+    "Creature": "Dread Zombie Cyclops Shadow",
+    "Skill": "Perception",
+    "Bonus": 26
+  },
+  {
+    "ID": 720,
+    "Creature": "Vordakai Shadow",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 36
+  },
+  {
+    "ID": 721,
+    "Creature": "Vordakai Shadow",
+    "Skill": "Knowledge(World)",
+    "Bonus": 23
+  },
+  {
+    "ID": 722,
+    "Creature": "Vordakai Shadow",
+    "Skill": "Lore(Religion)",
+    "Bonus": 31
+  },
+  {
+    "ID": 723,
+    "Creature": "Vordakai Shadow",
+    "Skill": "Perception",
+    "Bonus": 35
+  },
+  {
+    "ID": 724,
+    "Creature": "Vordakai Shadow",
+    "Skill": "Athletics",
+    "Bonus": 33
+  },
+  {
+    "ID": 725,
+    "Creature": "Vordakai Shadow",
+    "Skill": "Use Magic Device",
+    "Bonus": 23
+  },
+  {
+    "ID": 726,
+    "Creature": "Barbarian Shadow 8 Fighter",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 727,
+    "Creature": "Barbarian Shadow 8 Archer",
+    "Skill": "Perception",
+    "Bonus": 15
   }
 ]
