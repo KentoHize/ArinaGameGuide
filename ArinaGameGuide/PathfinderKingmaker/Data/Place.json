@@ -2866,8 +2866,8 @@
   },
   {
     "ID": 193,
-    "Name": "Ravaged Captial A",
-    "DisplayName": "Ravaged Captial",
+    "Name": "Ravaged Capital A",
+    "DisplayName": "Ravaged Capital",
     "CName": "",
     "Type": "CanNotRest",
     "Region": null,
@@ -2876,6 +2876,36 @@
     "HardSpotLevelMin": null,
     "HardSpotLevelMax": null,
     "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 194,
+    "Name": "Camp at the Capital Gate",
+    "DisplayName": "Camp at the Capital Gate",
+    "CName": "",
+    "Type": "CanNotRest",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 195,
+    "Name": "Oleg's Trading Post First World",
+    "DisplayName": "Oleg's Trading Post",
+    "CName": "",
+    "Type": "CanNotRest",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
     "Description": "",
     "Memo": ""
   }

@@ -4207,14 +4207,68 @@
   },
   {
     "ID": 703,
-    "Creature": "Bandit 8 Shortbow Archer",
+    "Creature": "Bandit Shadow 8 Archer",
     "Skill": "Perception",
     "Bonus": 15
   },
   {
     "ID": 704,
-    "Creature": "Bandit 8 Shortbow Archer",
+    "Creature": "Bandit Shadow 8 Archer",
     "Skill": "Stealth",
     "Bonus": 14
+  },
+  {
+    "ID": 705,
+    "Creature": "Bandit Shadow 9 Rogue",
+    "Skill": "Perception",
+    "Bonus": 23
+  },
+  {
+    "ID": 706,
+    "Creature": "Bandit Shadow 9 Rogue",
+    "Skill": "Stealth",
+    "Bonus": 16
+  },
+  {
+    "ID": 707,
+    "Creature": "Bandit Shadow 9 Bard",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 708,
+    "Creature": "Bandit Shadow 9 Bard",
+    "Skill": "Stealth",
+    "Bonus": 15
+  },
+  {
+    "ID": 709,
+    "Creature": "Bear-like Treant",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 710,
+    "Creature": "Bandit Shadow 4 Fighter",
+    "Skill": "Perception",
+    "Bonus": 11
+  },
+  {
+    "ID": 711,
+    "Creature": "Bandit Shadow 4 Fighter",
+    "Skill": "Stealth",
+    "Bonus": 9
+  },
+  {
+    "ID": 712,
+    "Creature": "Bandit Shadow 3 Archer",
+    "Skill": "Perception",
+    "Bonus": 10
+  },
+  {
+    "ID": 713,
+    "Creature": "Bandit Shadow 3 Archer",
+    "Skill": "Stealth",
+    "Bonus": 8
   }
 ]

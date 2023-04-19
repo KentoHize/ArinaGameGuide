@@ -3619,7 +3619,7 @@
   },
   {
     "ID": 405,
-    "Creature": "Bandit 8 Shortbow Archer",
+    "Creature": "Bandit Shadow 8 Archer",
     "Ability": "Rapid Shot",
     "Amount": null,
     "DamageType1": null,
@@ -3628,7 +3628,43 @@
   },
   {
     "ID": 404,
-    "Creature": "Bandit 8 Shortbow Archer",
+    "Creature": "Bandit Shadow 8 Archer",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 406,
+    "Creature": "Bandit Shadow 9 Rogue",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 407,
+    "Creature": "Bandit Shadow 4 Fighter",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 409,
+    "Creature": "Bandit Shadow 3 Archer",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 408,
+    "Creature": "Bandit Shadow 3 Archer",
     "Ability": "Deadly Aim",
     "Amount": null,
     "DamageType1": null,

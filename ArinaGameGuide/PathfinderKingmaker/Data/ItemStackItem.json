@@ -10577,7 +10577,7 @@
   },
   {
     "ID": 1326,
-    "ItemStack": "Ravaged Captial A Treasure A",
+    "ItemStack": "Ravaged Capital A Treasure A",
     "Item": "Masterwork Longbow",
     "RandomItem": null,
     "Quantity": 2,
@@ -10585,7 +10585,7 @@
   },
   {
     "ID": 1327,
-    "ItemStack": "Ravaged Captial A Treasure A",
+    "ItemStack": "Ravaged Capital A Treasure A",
     "Item": "Banded Mail",
     "RandomItem": null,
     "Quantity": 1,
@@ -10593,7 +10593,7 @@
   },
   {
     "ID": 1328,
-    "ItemStack": "Ravaged Captial A Treasure A",
+    "ItemStack": "Ravaged Capital A Treasure A",
     "Item": "Wooden Plate",
     "RandomItem": null,
     "Quantity": 2,
@@ -10601,7 +10601,7 @@
   },
   {
     "ID": 1329,
-    "ItemStack": "Ravaged Captial A Treasure A",
+    "ItemStack": "Ravaged Capital A Treasure A",
     "Item": "Kama",
     "RandomItem": null,
     "Quantity": 3,
@@ -10609,7 +10609,7 @@
   },
   {
     "ID": 1330,
-    "ItemStack": "Ravaged Captial A Treasure A",
+    "ItemStack": "Ravaged Capital A Treasure A",
     "Item": "Carved Beads",
     "RandomItem": null,
     "Quantity": 1,
@@ -10617,7 +10617,7 @@
   },
   {
     "ID": 1331,
-    "ItemStack": "Ravaged Captial A Treasure A",
+    "ItemStack": "Ravaged Capital A Treasure A",
     "Item": "Gold Coin",
     "RandomItem": null,
     "Quantity": 196,
@@ -10633,7 +10633,7 @@
   },
   {
     "ID": 1333,
-    "ItemStack": "Ravaged Captial A Treasure C",
+    "ItemStack": "Ravaged Capital A Treasure C",
     "Item": "Potion of Aid",
     "RandomItem": null,
     "Quantity": 3,
@@ -10641,7 +10641,7 @@
   },
   {
     "ID": 1334,
-    "ItemStack": "Ravaged Captial A Treasure C",
+    "ItemStack": "Ravaged Capital A Treasure C",
     "Item": "Scroll of Feather Step",
     "RandomItem": null,
     "Quantity": 2,
@@ -10649,7 +10649,7 @@
   },
   {
     "ID": 1335,
-    "ItemStack": "Ravaged Captial A Treasure C",
+    "ItemStack": "Ravaged Capital A Treasure C",
     "Item": "Potion of Protection from Evil",
     "RandomItem": null,
     "Quantity": 1,
@@ -10657,7 +10657,7 @@
   },
   {
     "ID": 1336,
-    "ItemStack": "Ravaged Captial A Treasure C",
+    "ItemStack": "Ravaged Capital A Treasure C",
     "Item": "Jade Pin",
     "RandomItem": null,
     "Quantity": 1,
@@ -10665,7 +10665,7 @@
   },
   {
     "ID": 1337,
-    "ItemStack": "Ravaged Captial A Treasure C",
+    "ItemStack": "Ravaged Capital A Treasure C",
     "Item": "Scroll of Protection from Arrows",
     "RandomItem": null,
     "Quantity": 1,
@@ -10673,10 +10673,26 @@
   },
   {
     "ID": 1338,
-    "ItemStack": "Ravaged Captial A Treasure C",
+    "ItemStack": "Ravaged Capital A Treasure C",
     "Item": "Gold Coin",
     "RandomItem": null,
     "Quantity": 180,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1339,
+    "ItemStack": "Unbending Valor",
+    "Item": "Unbending Valor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1340,
+    "ItemStack": "Locket of Magic Missile Mastery",
+    "Item": "Locket of Magic Missile Mastery",
+    "RandomItem": null,
+    "Quantity": 1,
     "RandomQuantity": null
   }
 ]

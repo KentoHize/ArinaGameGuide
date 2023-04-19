@@ -11301,7 +11301,7 @@
   },
   {
     "ID": 1133,
-    "CreatureGroup": "Ravaged Captial A Group A",
+    "CreatureGroup": "Ravaged Capital A Group A",
     "Creature": "Owlbear",
     "DisplayName": null,
     "Quantity": 1,
@@ -11311,7 +11311,7 @@
   },
   {
     "ID": 1134,
-    "CreatureGroup": "Ravaged Captial A Group A",
+    "CreatureGroup": "Ravaged Capital A Group A",
     "Creature": "Young Hydra",
     "DisplayName": null,
     "Quantity": 1,
@@ -11321,7 +11321,7 @@
   },
   {
     "ID": 1135,
-    "CreatureGroup": "Ravaged Captial A Group B",
+    "CreatureGroup": "Ravaged Capital A Group B",
     "Creature": "Dweomercat",
     "DisplayName": null,
     "Quantity": 1,
@@ -11331,7 +11331,7 @@
   },
   {
     "ID": 1136,
-    "CreatureGroup": "Ravaged Captial A Group B",
+    "CreatureGroup": "Ravaged Capital A Group B",
     "Creature": "Manticore",
     "DisplayName": null,
     "Quantity": 1,
@@ -11341,7 +11341,7 @@
   },
   {
     "ID": 1137,
-    "CreatureGroup": "Ravaged Captial A Group B",
+    "CreatureGroup": "Ravaged Capital A Group B",
     "Creature": "Young Hydra",
     "DisplayName": null,
     "Quantity": 1,
@@ -11351,7 +11351,7 @@
   },
   {
     "ID": 1140,
-    "CreatureGroup": "Ravaged Captial A Group C",
+    "CreatureGroup": "Ravaged Capital A Group C",
     "Creature": "Manticore",
     "DisplayName": null,
     "Quantity": 1,
@@ -11361,7 +11361,7 @@
   },
   {
     "ID": 1139,
-    "CreatureGroup": "Ravaged Captial A Group C",
+    "CreatureGroup": "Ravaged Capital A Group C",
     "Creature": "Dweomercat",
     "DisplayName": null,
     "Quantity": 1,
@@ -11371,7 +11371,7 @@
   },
   {
     "ID": 1138,
-    "CreatureGroup": "Ravaged Captial A Group C",
+    "CreatureGroup": "Ravaged Capital A Group C",
     "Creature": "Wyvern",
     "DisplayName": null,
     "Quantity": 1,
@@ -11392,11 +11392,101 @@
   {
     "ID": 1142,
     "CreatureGroup": "Shadow of Nugrah Group",
-    "Creature": "Bandit 8 Shortbow Archer",
+    "Creature": "Bandit Shadow 8 Archer",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 1143,
+    "CreatureGroup": "Shadow of Nugrah Group",
+    "Creature": "Bandit Shadow 9 Rogue",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1144,
+    "CreatureGroup": "Ravaged Capital A Group D",
+    "Creature": "Bandit Shadow 9 Bard",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1145,
+    "CreatureGroup": "Ravaged Capital A Group D",
+    "Creature": "Bandit Shadow 9 Rogue",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1146,
+    "CreatureGroup": "Oleg's Trading Post First World Group A",
+    "Creature": "Bear-like Treant",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1147,
+    "CreatureGroup": "The Stag Lord Shadow Group A",
+    "Creature": "Bandit Shadow 4 Fighter",
+    "DisplayName": null,
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1151,
+    "CreatureGroup": "The Stag Lord Shadow Group A",
+    "Creature": "Bandit Shadow 3 Archer",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1148,
+    "CreatureGroup": "The Stag Lord Shadow Group A",
+    "Creature": "Guard 1",
+    "DisplayName": null,
+    "Quantity": 6,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
+  },
+  {
+    "ID": 1149,
+    "CreatureGroup": "The Stag Lord Shadow Group A",
+    "Creature": "Kesten Garess",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1150,
+    "CreatureGroup": "The Stag Lord Shadow Group A",
+    "Creature": "Militiaman",
+    "DisplayName": null,
+    "Quantity": 5,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "Ally"
   }
 ]

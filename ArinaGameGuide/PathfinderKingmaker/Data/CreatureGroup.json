@@ -3833,24 +3833,24 @@
   },
   {
     "ID": 480,
-    "Name": "Ravaged Captial A Group A",
-    "Place": "Ravaged Captial A",
+    "Name": "Ravaged Capital A Group A",
+    "Place": "Ravaged Capital A",
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
   },
   {
     "ID": 481,
-    "Name": "Ravaged Captial A Group B",
-    "Place": "Ravaged Captial A",
+    "Name": "Ravaged Capital A Group B",
+    "Place": "Ravaged Capital A",
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
   },
   {
     "ID": 482,
-    "Name": "Ravaged Captial A Group C",
-    "Place": "Ravaged Captial A",
+    "Name": "Ravaged Capital A Group C",
+    "Place": "Ravaged Capital A",
     "Position": "North West",
     "Stage": 0,
     "Memo": ""
@@ -3858,9 +3858,33 @@
   {
     "ID": 483,
     "Name": "Shadow of Nugrah Group",
-    "Place": "Ravaged Captial A",
+    "Place": "Ravaged Capital A",
     "Position": "Center",
     "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 484,
+    "Name": "Ravaged Capital A Group D",
+    "Place": "Ravaged Capital A",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 485,
+    "Name": "Oleg's Trading Post First World Group A",
+    "Place": "Oleg's Trading Post First World",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 486,
+    "Name": "The Stag Lord Shadow Group A",
+    "Place": "Oleg's Trading Post First World",
+    "Position": "Center",
+    "Stage": 1,
     "Memo": ""
   }
 ]

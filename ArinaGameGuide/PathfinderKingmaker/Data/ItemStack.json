@@ -2336,7 +2336,7 @@
   },
   {
     "ID": 469,
-    "Name": "Ravaged Captial A Treasure A",
+    "Name": "Ravaged Capital A Treasure A",
     "Memo": ""
   },
   {
@@ -2346,7 +2346,17 @@
   },
   {
     "ID": 471,
-    "Name": "Ravaged Captial A Treasure C",
+    "Name": "Ravaged Capital A Treasure C",
+    "Memo": ""
+  },
+  {
+    "ID": 472,
+    "Name": "Unbending Valor",
+    "Memo": ""
+  },
+  {
+    "ID": 473,
+    "Name": "Locket of Magic Missile Mastery",
     "Memo": ""
   }
 ]
