@@ -1636,5 +1636,11 @@
     "Creature": "Young Hydra",
     "Condition": "Prone",
     "ConditionGroup": null
+  },
+  {
+    "ID": 294,
+    "Creature": "Wyvern",
+    "Condition": null,
+    "ConditionGroup": "Dragon Immunities"
   }
 ]

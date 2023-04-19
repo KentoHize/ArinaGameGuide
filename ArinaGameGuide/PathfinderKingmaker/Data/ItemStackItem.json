@@ -10622,5 +10622,61 @@
     "RandomItem": null,
     "Quantity": 196,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1332,
+    "ItemStack": "Frost Cold Iron Dwarven Urgrosh +5",
+    "Item": "Frost Cold Iron Dwarven Urgrosh +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1333,
+    "ItemStack": "Ravaged Captial A Treasure C",
+    "Item": "Potion of Aid",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1334,
+    "ItemStack": "Ravaged Captial A Treasure C",
+    "Item": "Scroll of Feather Step",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1335,
+    "ItemStack": "Ravaged Captial A Treasure C",
+    "Item": "Potion of Protection from Evil",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1336,
+    "ItemStack": "Ravaged Captial A Treasure C",
+    "Item": "Jade Pin",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1337,
+    "ItemStack": "Ravaged Captial A Treasure C",
+    "Item": "Scroll of Protection from Arrows",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1338,
+    "ItemStack": "Ravaged Captial A Treasure C",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 180,
+    "RandomQuantity": null
   }
 ]

@@ -3846,5 +3846,21 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 482,
+    "Name": "Ravaged Captial A Group C",
+    "Place": "Ravaged Captial A",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 483,
+    "Name": "Shadow of Nugrah Group",
+    "Place": "Ravaged Captial A",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

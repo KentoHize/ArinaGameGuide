@@ -482,7 +482,7 @@
   {
     "ID": 338,
     "CreatureGroup": "City of Hollow Eyes Group E",
-    "Creature": "Bandit 9 Rouge",
+    "Creature": "Bandit 9 Rogue",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,
@@ -502,7 +502,7 @@
   {
     "ID": 340,
     "CreatureGroup": "City of Hollow Eyes Group F",
-    "Creature": "Bandit 9 Rouge",
+    "Creature": "Bandit 9 Rogue",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,
@@ -742,7 +742,7 @@
   {
     "ID": 364,
     "CreatureGroup": "City of Hollow Eyes Group L",
-    "Creature": "Bandit 9 Rouge",
+    "Creature": "Bandit 9 Rogue",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,
@@ -7282,7 +7282,7 @@
   {
     "ID": 730,
     "CreatureGroup": "Enneo Group",
-    "Creature": "Bandit 9 Rouge",
+    "Creature": "Bandit 9 Rogue",
     "DisplayName": "Enneo's Guard",
     "Quantity": 2,
     "AdditonalItems": null,
@@ -7572,7 +7572,7 @@
   {
     "ID": 759,
     "CreatureGroup": "Pitax River Bend Group A",
-    "Creature": "Bandit 9 Rouge",
+    "Creature": "Bandit 9 Rogue",
     "DisplayName": "Pirate Brawler",
     "Quantity": 2,
     "AdditonalItems": null,
@@ -7682,7 +7682,7 @@
   {
     "ID": 770,
     "CreatureGroup": "City of Hollow Eyes Cultist Group A",
-    "Creature": "Bandit 9 Rouge",
+    "Creature": "Bandit 9 Rogue",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,
@@ -8362,7 +8362,7 @@
   {
     "ID": 838,
     "CreatureGroup": "River Blade's Camp Group A",
-    "Creature": "Bandit 9 Rouge",
+    "Creature": "Bandit 9 Rogue",
     "DisplayName": null,
     "Quantity": 4,
     "AdditonalItems": null,
@@ -8412,7 +8412,7 @@
   {
     "ID": 843,
     "CreatureGroup": "River Blade's Camp Group B",
-    "Creature": "Bandit 9 Rouge",
+    "Creature": "Bandit 9 Rogue",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,
@@ -8442,7 +8442,7 @@
   {
     "ID": 845,
     "CreatureGroup": "Ilora Nuski Group",
-    "Creature": "Bandit 9 Rouge",
+    "Creature": "Bandit 9 Rogue",
     "DisplayName": null,
     "Quantity": 3,
     "AdditonalItems": null,
@@ -8492,7 +8492,7 @@
   {
     "ID": 851,
     "CreatureGroup": "River Blade's Camp Group C",
-    "Creature": "Bandit 9 Rouge",
+    "Creature": "Bandit 9 Rogue",
     "DisplayName": null,
     "Quantity": 2,
     "AdditonalItems": null,
@@ -8522,7 +8522,7 @@
   {
     "ID": 853,
     "CreatureGroup": "River Blade's Camp Group D",
-    "Creature": "Bandit 9 Rouge",
+    "Creature": "Bandit 9 Rogue",
     "DisplayName": null,
     "Quantity": 3,
     "AdditonalItems": null,
@@ -11343,6 +11343,56 @@
     "ID": 1137,
     "CreatureGroup": "Ravaged Captial A Group B",
     "Creature": "Young Hydra",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1140,
+    "CreatureGroup": "Ravaged Captial A Group C",
+    "Creature": "Manticore",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1139,
+    "CreatureGroup": "Ravaged Captial A Group C",
+    "Creature": "Dweomercat",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1138,
+    "CreatureGroup": "Ravaged Captial A Group C",
+    "Creature": "Wyvern",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1141,
+    "CreatureGroup": "Shadow of Nugrah Group",
+    "Creature": "Shadow of Nugrah",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1142,
+    "CreatureGroup": "Shadow of Nugrah Group",
+    "Creature": "Bandit 8 Shortbow Archer",
     "DisplayName": null,
     "Quantity": 1,
     "AdditonalItems": null,

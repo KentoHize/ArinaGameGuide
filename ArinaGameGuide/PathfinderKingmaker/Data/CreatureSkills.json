@@ -271,13 +271,13 @@
   },
   {
     "ID": 138,
-    "Creature": "Bandit 9 Rouge",
+    "Creature": "Bandit 9 Rogue",
     "Skill": "Perception",
     "Bonus": 23
   },
   {
     "ID": 139,
-    "Creature": "Bandit 9 Rouge",
+    "Creature": "Bandit 9 Rogue",
     "Skill": "Stealth",
     "Bonus": 16
   },
@@ -4180,5 +4180,41 @@
     "Creature": "Manticore",
     "Skill": "Perception",
     "Bonus": 16
+  },
+  {
+    "ID": 699,
+    "Creature": "Wyvern",
+    "Skill": "Perception",
+    "Bonus": 24
+  },
+  {
+    "ID": 700,
+    "Creature": "Wyvern",
+    "Skill": "Stealth",
+    "Bonus": 9
+  },
+  {
+    "ID": 701,
+    "Creature": "Shadow of Nugrah",
+    "Skill": "Lore(Nature)",
+    "Bonus": 19
+  },
+  {
+    "ID": 702,
+    "Creature": "Shadow of Nugrah",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 703,
+    "Creature": "Bandit 8 Shortbow Archer",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 704,
+    "Creature": "Bandit 8 Shortbow Archer",
+    "Skill": "Stealth",
+    "Bonus": 14
   }
 ]

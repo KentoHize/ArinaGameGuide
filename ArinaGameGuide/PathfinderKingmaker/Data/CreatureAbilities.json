@@ -244,7 +244,7 @@
   },
   {
     "ID": 73,
-    "Creature": "Bandit 9 Rouge",
+    "Creature": "Bandit 9 Rogue",
     "Ability": "Bewildering Injury",
     "Amount": null,
     "DamageType1": null,
@@ -3612,6 +3612,24 @@
     "ID": 403,
     "Creature": "Manticore",
     "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 405,
+    "Creature": "Bandit 8 Shortbow Archer",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 404,
+    "Creature": "Bandit 8 Shortbow Archer",
+    "Ability": "Deadly Aim",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,

@@ -3342,5 +3342,37 @@
     "Importance": "Nothing",
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 210,
+    "Name": "Ravaged Captial A Treasure B",
+    "CName": "",
+    "Type": "Corpse",
+    "Place": "Ravaged Captial A",
+    "Position": "North West",
+    "ItemStack": "Frost Cold Iron Dwarven Urgrosh +5",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "Good",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 211,
+    "Name": "Ravaged Captial A Treasure C",
+    "CName": "",
+    "Type": "Corpse",
+    "Place": "Ravaged Captial A",
+    "Position": "North West",
+    "ItemStack": "Ravaged Captial A Treasure C",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "Nothing",
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

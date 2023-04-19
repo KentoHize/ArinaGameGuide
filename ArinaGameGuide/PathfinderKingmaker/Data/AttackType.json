@@ -112,5 +112,11 @@
     "Name": "Wing",
     "CName": "",
     "DamageType": "Bludgeon"
+  },
+  {
+    "ID": 20,
+    "Name": "Talon",
+    "CName": "",
+    "DamageType": "Slash"
   }
 ]
