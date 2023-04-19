@@ -11238,5 +11238,115 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 1127,
+    "CreatureGroup": "Vilderavn 25 Group",
+    "Creature": "Vilderavn 25",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": "Nyrissa's Third Key",
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1128,
+    "CreatureGroup": "Vilderavn 25 Group",
+    "Creature": "Greater Summer Golem",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1129,
+    "CreatureGroup": "Vilderavn 25 Group",
+    "Creature": "Greater Autumn Golem",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1130,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group H",
+    "Creature": "Wild Hunt Archer 24 B",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1131,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group H",
+    "Creature": "Dweomercat 20",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1132,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group H",
+    "Creature": "Wild Hunt Scout 24 B",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1133,
+    "CreatureGroup": "Ravaged Captial A Group A",
+    "Creature": "Owlbear",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1134,
+    "CreatureGroup": "Ravaged Captial A Group A",
+    "Creature": "Young Hydra",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1135,
+    "CreatureGroup": "Ravaged Captial A Group B",
+    "Creature": "Dweomercat",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1136,
+    "CreatureGroup": "Ravaged Captial A Group B",
+    "Creature": "Manticore",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1137,
+    "CreatureGroup": "Ravaged Captial A Group B",
+    "Creature": "Young Hydra",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

@@ -2833,5 +2833,50 @@
     "HasPlot": true,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 191,
+    "Name": "House at the Edge of Time Great Tree A",
+    "DisplayName": "House at the Edge of Time",
+    "CName": "",
+    "Type": "Dungeon",
+    "Region": "Thousand Voices",
+    "SuggestedLevelMin": 18,
+    "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 192,
+    "Name": "House at the Edge of Time Great Tree B",
+    "DisplayName": "House at the Edge of Time",
+    "CName": "",
+    "Type": "Dungeon",
+    "Region": "Thousand Voices",
+    "SuggestedLevelMin": 18,
+    "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 193,
+    "Name": "Ravaged Captial A",
+    "DisplayName": "Ravaged Captial",
+    "CName": "",
+    "Type": "CanNotRest",
+    "Region": null,
+    "SuggestedLevelMin": 18,
+    "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

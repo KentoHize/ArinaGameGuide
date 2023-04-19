@@ -1612,5 +1612,29 @@
     "Creature": "Wriggling Man",
     "Condition": "halves physical damage from slashing and piercing weapon",
     "ConditionGroup": null
+  },
+  {
+    "ID": 290,
+    "Creature": "Vilderavn 25",
+    "Condition": "Fear",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 291,
+    "Creature": "Vilderavn 25",
+    "Condition": "Curse",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 292,
+    "Creature": "Vilderavn 25",
+    "Condition": "Death",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 293,
+    "Creature": "Young Hydra",
+    "Condition": "Prone",
+    "ConditionGroup": null
   }
 ]

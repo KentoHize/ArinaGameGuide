@@ -52,11 +52,11 @@
   {
     "ID": 11,
     "Subject": "House at the Edge of Time",
-    "Memo": "Mirror Location:\nA\n2F No?\n1F Center, South East(Start)\nB1 Center West\nB \n2F West \n1F Near Gate\nB1 No"
+    "Memo": "Mirror Location:\nA\n2F No?\n1F Center(2), South East(Start)\nB1 Center(4) West\nB \n2F West (3) South West\n1F Near Gate\nB1 No"
   },
   {
     "ID": 12,
-    "Subject": "House at the Edge of Time Temp",
-    "Memo": "2F -> B\n\nNE\n1 Monarch\n2 Archer\n3 Scout\n2 Nympth\n\nE\nTrap 36\nTrap 36\nPer 45 -> Temp A\n\n1 Archer\n2 Scout\n1 Nympth\n"
+    "Subject": "House at the Edge of Time Mysteic Room",
+    "Memo": "Locked House: \n1.Second Floor Mist\n2.Basement -> Out -> Up -> Up\n\nBook: \nFear Upper:The Book of Journey\nFear Lower: The Book of Shackles\nWrath Upper:The Book of Nourishing Rage\nWrath Lower: The Book of Blind Revenge\nSorrow Upper:The Book of Never Saying Goodbye\nSorrow Lower:The Book of Bitterness"
   }
 ]

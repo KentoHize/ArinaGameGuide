@@ -10454,5 +10454,173 @@
     "RandomItem": null,
     "Quantity": 31,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1311,
+    "ItemStack": "Nyrissa's Third Key",
+    "Item": "Nyrissa's Third Key",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1312,
+    "ItemStack": "Greater Ring of Balance",
+    "Item": "Greater Ring of Balance",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1313,
+    "ItemStack": "Heavy Vest",
+    "Item": "Heavy Vest",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1314,
+    "ItemStack": "Headband of Mental Perfection +6",
+    "Item": "Headband of Mental Perfection +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1315,
+    "ItemStack": "Saviour",
+    "Item": "Saviour",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1316,
+    "ItemStack": "Light Shield +5",
+    "Item": "Light Shield +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1317,
+    "ItemStack": "Cloak of Resistance +6",
+    "Item": "Cloak of Resistance +6",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1318,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure H",
+    "Item": "Fine Feather",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1319,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure H",
+    "Item": "Jasper",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1320,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure H",
+    "Item": "Light Shield",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1321,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure H",
+    "Item": "Whimsical Berry",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1322,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure H",
+    "Item": "Potion of Protection from Good",
+    "RandomItem": null,
+    "Quantity": 4,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1323,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure H",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 1661,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1324,
+    "ItemStack": "28173 GP",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 28173,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1325,
+    "ItemStack": "Gamekeeper of the First World",
+    "Item": "Gamekeeper of the First World",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1326,
+    "ItemStack": "Ravaged Captial A Treasure A",
+    "Item": "Masterwork Longbow",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1327,
+    "ItemStack": "Ravaged Captial A Treasure A",
+    "Item": "Banded Mail",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1328,
+    "ItemStack": "Ravaged Captial A Treasure A",
+    "Item": "Wooden Plate",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1329,
+    "ItemStack": "Ravaged Captial A Treasure A",
+    "Item": "Kama",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1330,
+    "ItemStack": "Ravaged Captial A Treasure A",
+    "Item": "Carved Beads",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1331,
+    "ItemStack": "Ravaged Captial A Treasure A",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 196,
+    "RandomQuantity": null
   }
 ]

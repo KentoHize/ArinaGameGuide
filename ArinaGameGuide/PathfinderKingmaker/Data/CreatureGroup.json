@@ -3814,5 +3814,37 @@
     "Position": "South East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 478,
+    "Name": "Vilderavn 25 Group",
+    "Place": "House at the Edge of Time Great Tree A",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 479,
+    "Name": "House at the Edge of Time Second Floor A Group H",
+    "Place": "House at the Edge of Time Second Floor A",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 480,
+    "Name": "Ravaged Captial A Group A",
+    "Place": "Ravaged Captial A",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 481,
+    "Name": "Ravaged Captial A Group B",
+    "Place": "Ravaged Captial A",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

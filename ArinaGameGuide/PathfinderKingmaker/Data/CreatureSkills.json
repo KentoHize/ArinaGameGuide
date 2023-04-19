@@ -4168,5 +4168,17 @@
     "Creature": "Wriggling Man",
     "Skill": "Stealth",
     "Bonus": 42
+  },
+  {
+    "ID": 697,
+    "Creature": "Young Hydra",
+    "Skill": "Perception",
+    "Bonus": 14
+  },
+  {
+    "ID": 698,
+    "Creature": "Manticore",
+    "Skill": "Perception",
+    "Bonus": 16
   }
 ]

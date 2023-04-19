@@ -3232,5 +3232,19 @@
     "Type": "Resistance",
     "DamageType": "Cold",
     "Amount": 30
+  },
+  {
+    "ID": 463,
+    "Creature": "Vilderavn 25",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron and Magic",
+    "Amount": 15
+  },
+  {
+    "ID": 464,
+    "Creature": "Vilderavn 25",
+    "Type": "DamageReduction",
+    "DamageType": "Good",
+    "Amount": 15
   }
 ]
