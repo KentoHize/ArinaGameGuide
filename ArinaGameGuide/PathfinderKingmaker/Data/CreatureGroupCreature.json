@@ -11118,5 +11118,125 @@
     "AdditonalItems": null,
     "AddtionalEffectOrConditions": null,
     "Team": "1"
+  },
+  {
+    "ID": 1115,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group D",
+    "Creature": "Greater Summer Golem",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1116,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group D",
+    "Creature": "Greater Autumn Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1117,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group D",
+    "Creature": "Wild Hunt Scout 24 B",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1118,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group D",
+    "Creature": "Nymph 16",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1119,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group D",
+    "Creature": "Medusa 16 Fighter",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1120,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group E",
+    "Creature": "Nymph 16",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1121,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group E",
+    "Creature": "Wild Hunt Scout",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1122,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group F",
+    "Creature": "Medusa 16 Fighter",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1123,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group G",
+    "Creature": "Greater Summer Golem",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1124,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group G",
+    "Creature": "Greater Autumn Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1125,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group G",
+    "Creature": "Summer Golem",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1126,
+    "CreatureGroup": "House at the Edge of Time Second Floor A Group G",
+    "Creature": "Nymph 16",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "Team": "1"
   }
 ]

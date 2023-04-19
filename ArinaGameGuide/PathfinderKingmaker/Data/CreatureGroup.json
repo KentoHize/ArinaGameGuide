@@ -3782,5 +3782,37 @@
     "Position": "South East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 474,
+    "Name": "House at the Edge of Time Second Floor A Group D",
+    "Place": "House at the Edge of Time Second Floor A",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 475,
+    "Name": "House at the Edge of Time Second Floor A Group E",
+    "Place": "House at the Edge of Time Second Floor A",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 476,
+    "Name": "House at the Edge of Time Second Floor A Group F",
+    "Place": "House at the Edge of Time Second Floor A",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 477,
+    "Name": "House at the Edge of Time Second Floor A Group G",
+    "Place": "House at the Edge of Time Second Floor A",
+    "Position": "South East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

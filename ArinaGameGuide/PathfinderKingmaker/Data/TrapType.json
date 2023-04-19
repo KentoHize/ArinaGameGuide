@@ -1,5 +1,11 @@
 [
   {
+    "ID": 11,
+    "Name": "Acid Fog",
+    "CName": "",
+    "Special": false
+  },
+  {
     "ID": 6,
     "Name": "Altar",
     "CName": "",
@@ -10,6 +16,12 @@
     "Name": "Blooming Mushroom Spores",
     "CName": "",
     "Special": false
+  },
+  {
+    "ID": 8,
+    "Name": "Burning Hand(SP)",
+    "CName": "",
+    "Special": true
   },
   {
     "ID": 4,
@@ -24,44 +36,8 @@
     "Special": true
   },
   {
-    "ID": 3,
-    "Name": "Resonating Word",
-    "CName": "",
-    "Special": false
-  },
-  {
-    "ID": 1,
-    "Name": "Unknown Trap",
-    "CName": "",
-    "Special": false
-  },
-  {
     "ID": 7,
     "Name": "Dragon's Breath(Brass)",
-    "CName": "",
-    "Special": false
-  },
-  {
-    "ID": 8,
-    "Name": "Burning Hand(SP)",
-    "CName": "",
-    "Special": true
-  },
-  {
-    "ID": 9,
-    "Name": "Lighting Bolt(SP)",
-    "CName": "",
-    "Special": true
-  },
-  {
-    "ID": 10,
-    "Name": "Fireball(SP)",
-    "CName": "",
-    "Special": true
-  },
-  {
-    "ID": 11,
-    "Name": "Acid Fog",
     "CName": "",
     "Special": false
   },
@@ -72,16 +48,10 @@
     "Special": false
   },
   {
-    "ID": 13,
-    "Name": "Insanity",
+    "ID": 10,
+    "Name": "Fireball(SP)",
     "CName": "",
-    "Special": false
-  },
-  {
-    "ID": 14,
-    "Name": "Polar Ray",
-    "CName": "",
-    "Special": false
+    "Special": true
   },
   {
     "ID": 15,
@@ -92,6 +62,36 @@
   {
     "ID": 16,
     "Name": "Hellfire",
+    "CName": "",
+    "Special": false
+  },
+  {
+    "ID": 13,
+    "Name": "Insanity",
+    "CName": "",
+    "Special": false
+  },
+  {
+    "ID": 9,
+    "Name": "Lighting Bolt(SP)",
+    "CName": "",
+    "Special": true
+  },
+  {
+    "ID": 14,
+    "Name": "Polar Ray",
+    "CName": "",
+    "Special": false
+  },
+  {
+    "ID": 3,
+    "Name": "Resonating Word",
+    "CName": "",
+    "Special": false
+  },
+  {
+    "ID": 1,
+    "Name": "Unknown Trap",
     "CName": "",
     "Special": false
   }

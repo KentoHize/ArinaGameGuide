@@ -10414,5 +10414,45 @@
     "RandomItem": null,
     "Quantity": 320,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1306,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure E",
+    "Item": "Jasper",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1307,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure E",
+    "Item": "Potion of Protection from Cold",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1308,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure E",
+    "Item": "Beetle in Amber",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1309,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure E",
+    "Item": "Potion of Blur",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1310,
+    "ItemStack": "House at the Edge of Time Second Floor A Treasure E",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 31,
+    "RandomQuantity": null
   }
 ]
