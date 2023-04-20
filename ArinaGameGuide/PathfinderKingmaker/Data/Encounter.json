@@ -742,5 +742,65 @@
     "EnemyGroup3": "Castruccio Irovetti Shadow Group C",
     "EnemyGroup4": "Castruccio Irovetti Shadow Group D",
     "Memo": ""
+  },
+  {
+    "ID": 63,
+    "Name": "Ravaged Capital Entrance Group C",
+    "Place": "Ravaged Capital Entrance",
+    "Position": "South",
+    "HasPlot": false,
+    "EnemyGroup1": "Ravaged Capital Entrance Group C",
+    "EnemyGroup2": "Ravaged Capital Entrance Group D",
+    "EnemyGroup3": null,
+    "EnemyGroup4": null,
+    "Memo": ""
+  },
+  {
+    "ID": 64,
+    "Name": "Ravaged Capital Entrance Group F",
+    "Place": "Ravaged Capital Entrance",
+    "Position": "East",
+    "HasPlot": false,
+    "EnemyGroup1": "Ravaged Capital Entrance Group F",
+    "EnemyGroup2": "Ravaged Capital Entrance Group G",
+    "EnemyGroup3": null,
+    "EnemyGroup4": null,
+    "Memo": ""
+  },
+  {
+    "ID": 65,
+    "Name": "Ruined Warehouse Group",
+    "Place": "Ruined Warehouse",
+    "Position": "Center",
+    "HasPlot": false,
+    "EnemyGroup1": "Ruined Warehouse Group A",
+    "EnemyGroup2": "Ruined Warehouse Group B",
+    "EnemyGroup3": "Ruined Warehouse Group C",
+    "EnemyGroup4": null,
+    "Memo": ""
+  },
+  {
+    "ID": 66,
+    "Name": "Ravaged Capital Central Passage Group D",
+    "Place": "Ravaged Capital Central Passage",
+    "Position": "South",
+    "HasPlot": false,
+    "EnemyGroup1": "Ravaged Capital Central Passage Group D",
+    "EnemyGroup2": "Ravaged Capital Central Passage Group E",
+    "EnemyGroup3": null,
+    "EnemyGroup4": null,
+    "Memo": ""
+  },
+  {
+    "ID": 67,
+    "Name": "Ravaged Capital Central Passage Group G",
+    "Place": "Ravaged Capital Central Passage",
+    "Position": "West",
+    "HasPlot": false,
+    "EnemyGroup1": "Ravaged Capital Central Passage Group G",
+    "EnemyGroup2": "Ravaged Capital Central Passage Group H",
+    "EnemyGroup3": "Ravaged Capital Central Passage Group I",
+    "EnemyGroup4": null,
+    "Memo": ""
   }
 ]

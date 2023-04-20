@@ -10846,5 +10846,149 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1360,
+    "ItemStack": "The Forefather RS",
+    "Item": "Devil's Sash",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1361,
+    "ItemStack": "The Forefather RS",
+    "Item": "Gloves of Rending",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1362,
+    "ItemStack": "The Forefather RS",
+    "Item": "Equilibrium",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1363,
+    "ItemStack": "The Forefather RS",
+    "Item": "Unmaker",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1364,
+    "ItemStack": "MV + GA + CS",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1365,
+    "ItemStack": "MV + GA + CS",
+    "Item": "Greataxe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1366,
+    "ItemStack": "MV + GA + CS",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1367,
+    "ItemStack": "Sorrowflow First World Treasure A",
+    "Item": "Ale",
+    "RandomItem": null,
+    "Quantity": 100,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1368,
+    "ItemStack": "Sorrowflow First World Treasure A",
+    "Item": "Spied Fish",
+    "RandomItem": null,
+    "Quantity": 100,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1369,
+    "ItemStack": "Mask of Nethys",
+    "Item": "Mask of Nethys",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1370,
+    "ItemStack": "Javelin +5",
+    "Item": "Javelin +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1371,
+    "ItemStack": "Buckler +5",
+    "Item": "Buckler +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1372,
+    "ItemStack": "Dart +5",
+    "Item": "Dart +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1373,
+    "ItemStack": "Ravaged Capital Entrance Treasure D",
+    "Item": "Adamantine Full Plate +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1374,
+    "ItemStack": "Ravaged Capital Entrance Treasure D",
+    "Item": "Diamond Dust",
+    "RandomItem": null,
+    "Quantity": 42,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1375,
+    "ItemStack": "Ruined Traven Treasure A",
+    "Item": "Arsonist's Slingstaff",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1376,
+    "ItemStack": "Ruined Traven Treasure A",
+    "Item": "Bufo",
+    "RandomItem": null,
+    "Quantity": 8,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1377,
+    "ItemStack": "Greatsword +5",
+    "Item": "Greatsword +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

@@ -4086,5 +4086,253 @@
     "Position": "West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 512,
+    "Name": "Sorrowflow First World Group A",
+    "Place": "Sorrowflow First World",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 513,
+    "Name": "Sorrowflow First World Group B",
+    "Place": "Sorrowflow First World",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 514,
+    "Name": "The Forefather",
+    "Place": "Sorrowflow First World",
+    "Position": "Center",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 515,
+    "Name": "Sorrowflow First World Cave Group A",
+    "Place": "Sorrowflow First World Cave",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 516,
+    "Name": "Sorrowflow First World Group C",
+    "Place": "Sorrowflow First World",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 517,
+    "Name": "Sorrowflow First World Group D",
+    "Place": "Sorrowflow First World",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 518,
+    "Name": "Sorrowflow First World Group E",
+    "Place": "Sorrowflow First World",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 519,
+    "Name": "Sorrowflow First World Group F",
+    "Place": "Sorrowflow First World",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 520,
+    "Name": "Ravaged Capital Entrance Group A",
+    "Place": "Ravaged Capital Entrance",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 521,
+    "Name": "Ravaged Capital Entrance Group B",
+    "Place": "Ravaged Capital Entrance",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 522,
+    "Name": "Ravaged Capital Entrance Group C",
+    "Place": "Ravaged Capital Entrance",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 523,
+    "Name": "Ravaged Capital Entrance Group D",
+    "Place": "Ravaged Capital Entrance",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 524,
+    "Name": "Ravaged Capital Entrance Group E",
+    "Place": "Ravaged Capital Entrance",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 525,
+    "Name": "Ravaged Capital Entrance Group F",
+    "Place": "Ravaged Capital Entrance",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": "(Assault)"
+  },
+  {
+    "ID": 526,
+    "Name": "Ravaged Capital Entrance Group G",
+    "Place": "Ravaged Capital Entrance",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": "(Assault)"
+  },
+  {
+    "ID": 527,
+    "Name": "Ravaged Capital Entrance Group H",
+    "Place": "Ravaged Capital Entrance",
+    "Position": "South East",
+    "Stage": 0,
+    "Memo": "(Assault)"
+  },
+  {
+    "ID": 528,
+    "Name": "Ruined Traven Group A",
+    "Place": "Ruined Traven",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 529,
+    "Name": "Ravaged Capital Entrance Group I",
+    "Place": "Ravaged Capital Entrance",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 530,
+    "Name": "Ruined Warehouse Group A",
+    "Place": "Ruined Warehouse",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 531,
+    "Name": "Ruined Warehouse Group B",
+    "Place": "Ruined Warehouse",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 532,
+    "Name": "Ruined Warehouse Group C",
+    "Place": "Ruined Warehouse",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 533,
+    "Name": "Ravaged Capital Entrance Group J",
+    "Place": "Ravaged Capital Entrance",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": "(Assault)"
+  },
+  {
+    "ID": 534,
+    "Name": "Ravaged Capital Central Passage Group A",
+    "Place": "Ravaged Capital Central Passage",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 535,
+    "Name": "Ravaged Capital Central Passage Group B",
+    "Place": "Ravaged Capital Central Passage",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 536,
+    "Name": "Ravaged Capital Central Passage Group C",
+    "Place": "Ravaged Capital Central Passage",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 537,
+    "Name": "Ravaged Capital Central Passage Group D",
+    "Place": "Ravaged Capital Central Passage",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 538,
+    "Name": "Ravaged Capital Central Passage Group E",
+    "Place": "Ravaged Capital Central Passage",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 539,
+    "Name": "Ravaged Capital Central Passage Group F",
+    "Place": "Ravaged Capital Central Passage",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 540,
+    "Name": "Ravaged Capital Central Passage Group G",
+    "Place": "Ravaged Capital Central Passage",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": "(Assault)"
+  },
+  {
+    "ID": 541,
+    "Name": "Ravaged Capital Central Passage Group H",
+    "Place": "Ravaged Capital Central Passage",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": "(Assault)"
+  },
+  {
+    "ID": 542,
+    "Name": "Ravaged Capital Central Passage Group I",
+    "Place": "Ravaged Capital Central Passage",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": "(Assault)"
   }
 ]

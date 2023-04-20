@@ -2245,5 +2245,26 @@
     "Strength": false,
     "Price": 0,
     "Weight": 12.0
+  },
+  {
+    "ID": 109,
+    "Name": "Dart",
+    "CName": "",
+    "Type": "Simple Weapon",
+    "DamageType": "Pierce",
+    "ArmorClass": null,
+    "ArmorCheckPenalty": null,
+    "ArcaneSpellFailureChance": null,
+    "MaxDexterity": null,
+    "WeaponSize": "One-handed",
+    "Range": 20,
+    "Damage": "1d4",
+    "CriticalHitRange": 1,
+    "CriticalHitMultiplier": 2,
+    "FinesseWeapon": false,
+    "MonkWeapon": false,
+    "Strength": true,
+    "Price": 0,
+    "Weight": 0.5
   }
 ]

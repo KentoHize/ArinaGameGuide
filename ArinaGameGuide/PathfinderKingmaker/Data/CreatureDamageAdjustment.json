@@ -3316,5 +3316,68 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 475,
+    "Creature": "The Forefather",
+    "Type": "DamageReduction",
+    "DamageType": "Slash and Magic",
+    "Amount": 10
+  },
+  {
+    "ID": 476,
+    "Creature": "The Forefather",
+    "Type": "DamageReduction",
+    "DamageType": "Good",
+    "Amount": 10
+  },
+  {
+    "ID": 477,
+    "Creature": "The Forefather",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 478,
+    "Creature": "The Forefather",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 479,
+    "Creature": "The Forefather",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 480,
+    "Creature": "Frost Giant",
+    "Type": "Immunity",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 481,
+    "Creature": "Frost Giant",
+    "Type": "Vulnerability",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 482,
+    "Creature": "Weren Degar",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron and Magic",
+    "Amount": 15
+  },
+  {
+    "ID": 483,
+    "Creature": "Weren Degar",
+    "Type": "DamageReduction",
+    "DamageType": "Good",
+    "Amount": 15
   }
 ]

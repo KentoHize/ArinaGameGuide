@@ -1660,5 +1660,29 @@
     "Creature": "Tartuk Shadow",
     "Condition": "Spell - Magic Missile",
     "ConditionGroup": null
+  },
+  {
+    "ID": 298,
+    "Creature": "The Forefather",
+    "Condition": "Poison",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 299,
+    "Creature": "Weren Degar",
+    "Condition": "Fear",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 300,
+    "Creature": "Weren Degar",
+    "Condition": "Curse",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 301,
+    "Creature": "Weren Degar",
+    "Condition": "Death",
+    "ConditionGroup": null
   }
 ]

@@ -3805,5 +3805,32 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 425,
+    "Creature": "The Forefather",
+    "Ability": "Fast Healing",
+    "Amount": 5,
+    "DamageType1": "Good",
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 426,
+    "Creature": "Weren Degar",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 427,
+    "Creature": "Weren Degar",
+    "Ability": "Protective Aura",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

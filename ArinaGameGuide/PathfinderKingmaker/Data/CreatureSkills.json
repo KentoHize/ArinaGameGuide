@@ -4510,5 +4510,47 @@
     "Creature": "Tartuk Shadow",
     "Skill": "Athletics",
     "Bonus": 3
+  },
+  {
+    "ID": 754,
+    "Creature": "The Forefather",
+    "Skill": "Mobility",
+    "Bonus": 37
+  },
+  {
+    "ID": 755,
+    "Creature": "The Forefather",
+    "Skill": "Persuasion",
+    "Bonus": 29
+  },
+  {
+    "ID": 756,
+    "Creature": "The Forefather",
+    "Skill": "Perception",
+    "Bonus": 36
+  },
+  {
+    "ID": 757,
+    "Creature": "The Forefather",
+    "Skill": "Athletics",
+    "Bonus": 27
+  },
+  {
+    "ID": 758,
+    "Creature": "The Forefather",
+    "Skill": "Stealth",
+    "Bonus": 37
+  },
+  {
+    "ID": 759,
+    "Creature": "Frost Giant",
+    "Skill": "Perception",
+    "Bonus": 25
+  },
+  {
+    "ID": 760,
+    "Creature": "Frost Giant",
+    "Skill": "Stealth",
+    "Bonus": 9
   }
 ]
