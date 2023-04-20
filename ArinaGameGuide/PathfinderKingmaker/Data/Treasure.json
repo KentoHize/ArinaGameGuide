@@ -3646,5 +3646,37 @@
     "Importance": "Good",
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 229,
+    "Name": "Ravaged Capital Central Passage Treasure A",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Ravaged Capital Central Passage",
+    "Position": "West",
+    "ItemStack": "Scroll of Summon Elder Worm",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "Good",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 230,
+    "Name": "Ravaged Capital Central Passage Treasure B",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Ravaged Capital Central Passage",
+    "Position": "South East",
+    "ItemStack": "Hat of Mental Perfection +8",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "First Class",
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

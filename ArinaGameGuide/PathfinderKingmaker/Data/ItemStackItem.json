@@ -10990,5 +10990,21 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1378,
+    "ItemStack": "Scroll of Summon Elder Worm",
+    "Item": "Scroll of Summon Elder Worm",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1379,
+    "ItemStack": "Hat of Mental Perfection +8",
+    "Item": "Hat of Mental Perfection +8",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

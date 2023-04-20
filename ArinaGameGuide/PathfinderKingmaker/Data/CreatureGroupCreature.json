@@ -14100,5 +14100,27 @@
     "AddtionalEffectOrConditions": null,
     "ExpMultiplier": null,
     "Team": "1"
+  },
+  {
+    "ID": 1286,
+    "CreatureGroup": "Ravaged Capital Central Passage Group J",
+    "Creature": "Ancient Will-o'-wisp",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1287,
+    "CreatureGroup": "Ravaged Capital Central Passage Group J",
+    "Creature": "Vilderavn",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
   }
 ]

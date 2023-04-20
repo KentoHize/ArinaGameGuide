@@ -12187,5 +12187,22 @@
     "StoryItem": false,
     "Weight": 8.0,
     "Description": ""
+  },
+  {
+    "ID": 718,
+    "Name": "Scroll of Summon Elder Worm",
+    "DisplayName": "Scroll of Summon Elder Worm",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Scroll",
+    "SpecialMaterial": null,
+    "CasterLevel": 17,
+    "Charges": 1,
+    "DC": null,
+    "SellPrice": 956,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.2,
+    "Description": ""
   }
 ]

@@ -4316,7 +4316,7 @@
     "Name": "Ravaged Capital Central Passage Group G",
     "Place": "Ravaged Capital Central Passage",
     "Position": "West",
-    "Stage": 0,
+    "Stage": 1,
     "Memo": "(Assault)"
   },
   {
@@ -4324,7 +4324,7 @@
     "Name": "Ravaged Capital Central Passage Group H",
     "Place": "Ravaged Capital Central Passage",
     "Position": "West",
-    "Stage": 0,
+    "Stage": 1,
     "Memo": "(Assault)"
   },
   {
@@ -4332,7 +4332,15 @@
     "Name": "Ravaged Capital Central Passage Group I",
     "Place": "Ravaged Capital Central Passage",
     "Position": "West",
-    "Stage": 0,
+    "Stage": 1,
+    "Memo": "(Assault)"
+  },
+  {
+    "ID": 543,
+    "Name": "Ravaged Capital Central Passage Group J",
+    "Place": "Ravaged Capital Central Passage",
+    "Position": "Center",
+    "Stage": 2,
     "Memo": "(Assault)"
   }
 ]
