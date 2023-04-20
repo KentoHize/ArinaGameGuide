@@ -3742,5 +3742,68 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 418,
+    "Creature": "Barbarian Hill Giant Shadow",
+    "Ability": "Guarded Stance",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 419,
+    "Creature": "Castruccio Irovetti Shadow",
+    "Ability": "Lesser Quicken Metamagic Rod",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 420,
+    "Creature": "Branded Troll Shadow",
+    "Ability": "Regeneration",
+    "Amount": 5,
+    "DamageType1": "Acid",
+    "DamageType2": "Fire",
+    "DC": null
+  },
+  {
+    "ID": 421,
+    "Creature": "Branded Troll Shadow",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 422,
+    "Creature": "Branded Troll Shadow",
+    "Ability": "Reckless Stance",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 423,
+    "Creature": "Kobold Skirmisher Shadow",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 424,
+    "Creature": "Kobold Skirmisher Shadow",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

@@ -4354,5 +4354,161 @@
     "Creature": "Barbarian Shadow 8 Archer",
     "Skill": "Perception",
     "Bonus": 15
+  },
+  {
+    "ID": 728,
+    "Creature": "Barbarian Hill Giant Shadow",
+    "Skill": "Perception",
+    "Bonus": 22
+  },
+  {
+    "ID": 729,
+    "Creature": "Irovetti Shadow 7 Wizard",
+    "Skill": "Perception",
+    "Bonus": 16
+  },
+  {
+    "ID": 730,
+    "Creature": "Irovetti Shadow 7 Wizard",
+    "Skill": "Stealth",
+    "Bonus": 10
+  },
+  {
+    "ID": 731,
+    "Creature": "Irovetti Shadow 10 Wizard",
+    "Skill": "Perception",
+    "Bonus": 16
+  },
+  {
+    "ID": 732,
+    "Creature": "Irovetti Shadow 10 Wizard",
+    "Skill": "Stealth",
+    "Bonus": 9
+  },
+  {
+    "ID": 733,
+    "Creature": "Irovetti Shadow 7 Wizard B",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 734,
+    "Creature": "Irovetti Shadow 7 Wizard B",
+    "Skill": "Stealth",
+    "Bonus": 12
+  },
+  {
+    "ID": 735,
+    "Creature": "Irovetti Shadow 10 Wizard B",
+    "Skill": "Perception",
+    "Bonus": 16
+  },
+  {
+    "ID": 736,
+    "Creature": "Irovetti Shadow 10 Wizard B",
+    "Skill": "Stealth",
+    "Bonus": 11
+  },
+  {
+    "ID": 737,
+    "Creature": "Castruccio Irovetti Shadow",
+    "Skill": "Mobility",
+    "Bonus": 34
+  },
+  {
+    "ID": 738,
+    "Creature": "Castruccio Irovetti Shadow",
+    "Skill": "Persuasion",
+    "Bonus": 46
+  },
+  {
+    "ID": 739,
+    "Creature": "Castruccio Irovetti Shadow",
+    "Skill": "Perception",
+    "Bonus": 46
+  },
+  {
+    "ID": 740,
+    "Creature": "Castruccio Irovetti Shadow",
+    "Skill": "Stealth",
+    "Bonus": 15
+  },
+  {
+    "ID": 741,
+    "Creature": "Castruccio Irovetti Shadow",
+    "Skill": "Trickery",
+    "Bonus": 34
+  },
+  {
+    "ID": 742,
+    "Creature": "Castruccio Irovetti Shadow",
+    "Skill": "Use Magic Device",
+    "Bonus": 33
+  },
+  {
+    "ID": 743,
+    "Creature": "Branded Troll Shadow",
+    "Skill": "Perception",
+    "Bonus": 26
+  },
+  {
+    "ID": 744,
+    "Creature": "Kobold Bone Shaman Shadow",
+    "Skill": "Perception",
+    "Bonus": 14
+  },
+  {
+    "ID": 745,
+    "Creature": "Kobold Bone Shaman Shadow",
+    "Skill": "Athletics",
+    "Bonus": 2
+  },
+  {
+    "ID": 746,
+    "Creature": "Kobold Bone Shaman Shadow",
+    "Skill": "Stealth",
+    "Bonus": 8
+  },
+  {
+    "ID": 747,
+    "Creature": "Kobold Assassin Shadow",
+    "Skill": "Perception",
+    "Bonus": 11
+  },
+  {
+    "ID": 748,
+    "Creature": "Kobold Assassin Shadow",
+    "Skill": "Athletics",
+    "Bonus": 3
+  },
+  {
+    "ID": 749,
+    "Creature": "Kobold Assassin Shadow",
+    "Skill": "Stealth",
+    "Bonus": 11
+  },
+  {
+    "ID": 750,
+    "Creature": "Kobold Skirmisher Shadow",
+    "Skill": "Perception",
+    "Bonus": 12
+  },
+  {
+    "ID": 751,
+    "Creature": "Kobold Skirmisher Shadow",
+    "Skill": "Athletics",
+    "Bonus": 7
+  },
+  {
+    "ID": 752,
+    "Creature": "Kobold Skirmisher Shadow",
+    "Skill": "Stealth",
+    "Bonus": 13
+  },
+  {
+    "ID": 753,
+    "Creature": "Tartuk Shadow",
+    "Skill": "Athletics",
+    "Bonus": 3
   }
 ]

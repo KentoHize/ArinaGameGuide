@@ -2938,5 +2938,50 @@
     "HasPlot": true,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 198,
+    "Name": "Irovetti Palace First World",
+    "DisplayName": "Irovetti Palace First World",
+    "CName": "",
+    "Type": "CanNotRest",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 199,
+    "Name": "Shrine of Lamashtu First World",
+    "DisplayName": "Shrine of Lamashtu",
+    "CName": "",
+    "Type": "CanNotRest",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 200,
+    "Name": "Troll Lair First World",
+    "DisplayName": "Troll Lair First World",
+    "CName": "",
+    "Type": "CanNotRest",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

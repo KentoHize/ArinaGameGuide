@@ -8,6 +8,7 @@
     "EnemyGroup1": "An Ancient Curse, Part Three Group A",
     "EnemyGroup2": "An Ancient Curse, Part Three Group B",
     "EnemyGroup3": "An Ancient Curse, Part Three Group C",
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -19,6 +20,7 @@
     "EnemyGroup1": "Bridge Over The Gudrin River Grag Linnorm",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -30,6 +32,7 @@
     "EnemyGroup1": "Bridge Over The Gudrin River Hill Giants Group A",
     "EnemyGroup2": "Bridge Over The Gudrin River Hill Giants Group B",
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -41,6 +44,7 @@
     "EnemyGroup1": "Capital Square Bloom Greater Primal Owlbear",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -52,6 +56,7 @@
     "EnemyGroup1": "Capital Square Bloom Group A",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -63,6 +68,7 @@
     "EnemyGroup1": "Capital Square Bloom Group B",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -74,6 +80,7 @@
     "EnemyGroup1": "Capital Square Bloom Group C",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -85,6 +92,7 @@
     "EnemyGroup1": "Capital Square Bloom Group D",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -96,6 +104,7 @@
     "EnemyGroup1": "Capital Square Bloom Group E",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -107,6 +116,7 @@
     "EnemyGroup1": "City of Hollow Eyes Group J",
     "EnemyGroup2": "City of Hollow Eyes Group J 2",
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -118,6 +128,7 @@
     "EnemyGroup1": "Goblin Fort Group A",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -129,6 +140,7 @@
     "EnemyGroup1": "Goblin Fort Group B",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -140,6 +152,7 @@
     "EnemyGroup1": "Goblin Fort Group Bloom",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": "Vary"
   },
   {
@@ -151,6 +164,7 @@
     "EnemyGroup1": "Goblin Fort Group Boss",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -162,6 +176,7 @@
     "EnemyGroup1": "Goblin Fort Group C",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -173,6 +188,7 @@
     "EnemyGroup1": "Goblin Fort Group D",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": "Plot"
   },
   {
@@ -184,6 +200,7 @@
     "EnemyGroup1": "Goblin Fort Group E",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -195,6 +212,7 @@
     "EnemyGroup1": "Goblin Fort Group F",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -206,6 +224,7 @@
     "EnemyGroup1": "Goblin Fort Group G",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": "Trap DC 24\n\nGoblin Commando Commender -> Melted Shard of a Ring"
   },
   {
@@ -217,6 +236,7 @@
     "EnemyGroup1": "Goblin Fort Group H",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": "Trap DC 24 x2"
   },
   {
@@ -228,6 +248,7 @@
     "EnemyGroup1": "Goblin Village Goblin Guards",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -239,6 +260,7 @@
     "EnemyGroup1": "Gurdin River Goblin Group A",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -250,6 +272,7 @@
     "EnemyGroup1": "Lamashtu's Cultist Group At Shrine",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -261,6 +284,7 @@
     "EnemyGroup1": null,
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": "Bluff 30\nDiplomacy 19 10 Rations\nIntimidate 28"
   },
   {
@@ -272,6 +296,7 @@
     "EnemyGroup1": "Other World A Group A",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -283,6 +308,7 @@
     "EnemyGroup1": "Other World A Group B",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -294,6 +320,7 @@
     "EnemyGroup1": "Other World A Group C",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -305,6 +332,7 @@
     "EnemyGroup1": "Other World A Group D",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -316,6 +344,7 @@
     "EnemyGroup1": "Ruined Watchtower Ntavi",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -327,6 +356,7 @@
     "EnemyGroup1": "Saint Galvan's Gullet Group A",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -338,6 +368,7 @@
     "EnemyGroup1": "Spider Lair Group E",
     "EnemyGroup2": "Spider Lair Group F",
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -349,6 +380,7 @@
     "EnemyGroup1": "Swamp Ruins Group A",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -360,6 +392,7 @@
     "EnemyGroup1": "Technic League Hideout Group D",
     "EnemyGroup2": "Technic League Hideout Matsero Janush",
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -371,6 +404,7 @@
     "EnemyGroup1": "Tenacious Marsh Group A",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -382,6 +416,7 @@
     "EnemyGroup1": null,
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -393,6 +428,7 @@
     "EnemyGroup1": "Tenebrous Depth VII Group C",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": "Very Hard"
   },
   {
@@ -404,6 +440,7 @@
     "EnemyGroup1": "Tenebrous Depth VII Group E",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": "Hard"
   },
   {
@@ -415,6 +452,7 @@
     "EnemyGroup1": "Tenebrous Depth VIII The Fallen Priestess",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": "Very Hard"
   },
   {
@@ -426,6 +464,7 @@
     "EnemyGroup1": "Vordakai's Tomb Ancient Soul Eater Group A",
     "EnemyGroup2": "Vordakai's Tomb Ancient Soul Eater Group B",
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -437,6 +476,7 @@
     "EnemyGroup1": "Womb of Lamashtu Goblin Group",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -448,6 +488,7 @@
     "EnemyGroup1": "Womb of Lamashtu Group A",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": "Trap DC 27"
   },
   {
@@ -459,6 +500,7 @@
     "EnemyGroup1": "Womb of Lamashtu Group B",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -470,6 +512,7 @@
     "EnemyGroup1": "Womb of Lamashtu Group C",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": "Trap DC 27 x2"
   },
   {
@@ -481,6 +524,7 @@
     "EnemyGroup1": "Womb of Lamashtu Group D",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -492,6 +536,7 @@
     "EnemyGroup1": "Womb of Lamashtu Group E",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": "Trap DC 27"
   },
   {
@@ -503,6 +548,7 @@
     "EnemyGroup1": "Womb of Lamashtu Group F",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -514,6 +560,7 @@
     "EnemyGroup1": "Womb of Lamashtu Group G",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -525,6 +572,7 @@
     "EnemyGroup1": "Womb of Lamashtu Group H",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -536,6 +584,7 @@
     "EnemyGroup1": "Womb of Lamashtu Group I",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -547,6 +596,7 @@
     "EnemyGroup1": null,
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": "傳記\n\n吸入Other World"
   },
   {
@@ -558,6 +608,7 @@
     "EnemyGroup1": "Abandoned Keep Defaced Sister",
     "EnemyGroup2": null,
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -569,6 +620,7 @@
     "EnemyGroup1": "Blakemoor's Hideout Siroket",
     "EnemyGroup2": "Blakemoor's Hideout Siroket 2",
     "EnemyGroup3": "Blakemoor's Hideout Siroket 3",
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -580,6 +632,7 @@
     "EnemyGroup1": "Nortellara Group A",
     "EnemyGroup2": "Nortellara Group B",
     "EnemyGroup3": "Nortellara Group C",
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -591,6 +644,7 @@
     "EnemyGroup1": "Pitax Group A",
     "EnemyGroup2": "Pitax Group B",
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -602,6 +656,7 @@
     "EnemyGroup1": "Pitax Royal Palace Group B",
     "EnemyGroup2": "Pitax Royal Palace Group C",
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -613,6 +668,7 @@
     "EnemyGroup1": "Castruccio Irovetti Group A",
     "EnemyGroup2": "Castruccio Irovetti Group B",
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -624,6 +680,7 @@
     "EnemyGroup1": "Castle of Knives Group L",
     "EnemyGroup2": "Castle of Knives Group M",
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -635,6 +692,7 @@
     "EnemyGroup1": "An Ancient Curse, Part Six Group A",
     "EnemyGroup2": "An Ancient Curse, Part Six Group B",
     "EnemyGroup3": "An Ancient Curse, Part Six Group C",
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -646,6 +704,7 @@
     "EnemyGroup1": "The Stag Lord Shadow Group A",
     "EnemyGroup2": "The Stag Lord Shadow Group B",
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
     "Memo": ""
   },
   {
@@ -657,6 +716,31 @@
     "EnemyGroup1": "Flintrock Grassland First World Group A",
     "EnemyGroup2": "Flintrock Grassland First World Group B",
     "EnemyGroup3": null,
+    "EnemyGroup4": null,
+    "Memo": ""
+  },
+  {
+    "ID": 61,
+    "Name": "Flintrock Grassland First World Group F",
+    "Place": "Flintrock Grassland First World",
+    "Position": "Center",
+    "HasPlot": false,
+    "EnemyGroup1": "Flintrock Grassland First World Group F",
+    "EnemyGroup2": "Flintrock Grassland First World Group G",
+    "EnemyGroup3": null,
+    "EnemyGroup4": null,
+    "Memo": ""
+  },
+  {
+    "ID": 62,
+    "Name": "Castruccio Irovetti Shadow Group",
+    "Place": "Irovetti Palace First World",
+    "Position": "North East",
+    "HasPlot": true,
+    "EnemyGroup1": "Castruccio Irovetti Shadow Group A",
+    "EnemyGroup2": "Castruccio Irovetti Shadow Group B",
+    "EnemyGroup3": "Castruccio Irovetti Shadow Group C",
+    "EnemyGroup4": "Castruccio Irovetti Shadow Group D",
     "Memo": ""
   }
 ]

@@ -10710,5 +10710,141 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1343,
+    "ItemStack": "Flintrock Grassland First World Treasure A",
+    "Item": "Wand of Controlled Fireball",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1344,
+    "ItemStack": "Flintrock Grassland First World Treasure A",
+    "Item": "Scroll of Heal, Mass",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1345,
+    "ItemStack": "Flintrock Grassland First World Treasure A",
+    "Item": "Scroll of Mind Blank, Communal",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1346,
+    "ItemStack": "Flintrock Grassland First World Treasure A",
+    "Item": "Butterfly Hunter's Needle",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1347,
+    "ItemStack": "Flintrock Grassland First World Treasure A",
+    "Item": "Masterwork Light Crossbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1348,
+    "ItemStack": "Frozen Crescent",
+    "Item": "Frozen Crescent",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1349,
+    "ItemStack": "Satisfaction",
+    "Item": "Satisfaction",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1350,
+    "ItemStack": "Tsanna 16 RS",
+    "Item": "Keen Kukri +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1353,
+    "ItemStack": "Tsanna 16 RS",
+    "Item": "Acid Flask",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1351,
+    "ItemStack": "Tsanna 16 RS",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1352,
+    "ItemStack": "Tsanna 16 RS",
+    "Item": "Alchemist's Fire",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1354,
+    "ItemStack": "Tsanna 16 RS",
+    "Item": "Scroll of Bless",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1355,
+    "ItemStack": "Tsanna 16 RS",
+    "Item": "Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1356,
+    "ItemStack": "Tsanna 16 RS",
+    "Item": "Headband of Inspired Wisdom +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1357,
+    "ItemStack": "Tsanna 16 RS",
+    "Item": "Cloak of Resistance +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1358,
+    "ItemStack": "Odium",
+    "Item": "Odium",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1359,
+    "ItemStack": "Martyr's Blade",
+    "Item": "Martyr's Blade",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

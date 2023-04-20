@@ -1654,5 +1654,11 @@
     "Creature": "Vordakai Shadow",
     "Condition": null,
     "ConditionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 297,
+    "Creature": "Tartuk Shadow",
+    "Condition": "Spell - Magic Missile",
+    "ConditionGroup": null
   }
 ]

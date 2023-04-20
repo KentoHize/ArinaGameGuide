@@ -3958,5 +3958,133 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 496,
+    "Name": "Flintrock Grassland First World Group C",
+    "Place": "Flintrock Grassland First World",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 497,
+    "Name": "Flintrock Grassland First World Group D",
+    "Place": "Flintrock Grassland First World",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 498,
+    "Name": "Flintrock Grassland First World Group E",
+    "Place": "Flintrock Grassland First World",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 499,
+    "Name": "Flintrock Grassland First World Group F",
+    "Place": "Flintrock Grassland First World",
+    "Position": "Center",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 500,
+    "Name": "Flintrock Grassland First World Group G",
+    "Place": "Flintrock Grassland First World",
+    "Position": "Center",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 501,
+    "Name": "Flintrock Grassland First World Group H",
+    "Place": "Flintrock Grassland First World",
+    "Position": "Center",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 502,
+    "Name": "Irovetti Palace First World Group A",
+    "Place": "Irovetti Palace First World",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 503,
+    "Name": "Irovetti Palace First World Group B",
+    "Place": "Irovetti Palace First World",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 504,
+    "Name": "Irovetti Palace First World Group C",
+    "Place": "Irovetti Palace First World",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 505,
+    "Name": "Castruccio Irovetti Shadow Group A",
+    "Place": "Irovetti Palace First World",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 506,
+    "Name": "Castruccio Irovetti Shadow Group B",
+    "Place": "Irovetti Palace First World",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 507,
+    "Name": "Castruccio Irovetti Shadow Group C",
+    "Place": "Irovetti Palace First World",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 508,
+    "Name": "Castruccio Irovetti Shadow Group D",
+    "Place": "Irovetti Palace First World",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 509,
+    "Name": "Shrine of Lamashtu First World Tsanna Group",
+    "Place": "Shrine of Lamashtu First World",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 510,
+    "Name": "Troll Lair First World Group A",
+    "Place": "Troll Lair First World",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 511,
+    "Name": "Tartuk Shadow Group",
+    "Place": "Troll Lair First World",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]
