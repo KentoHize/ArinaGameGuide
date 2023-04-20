@@ -8,6 +8,7 @@ export class Unity {
     static DataMain = {};
     static Data = [];
     static DebugMode = 1;
+    static DebugString = `?v=${Math.random()}`;
     
     
     static SortPosition(a, b)

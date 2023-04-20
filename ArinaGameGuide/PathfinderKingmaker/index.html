@@ -15,6 +15,7 @@
         <a id="backTag" class="backLink" href="javascript:;">Back</a>
         <a id="placeTag" href="javascript:;">Place</a>
         <a id="creatureTag" href="javascript:;">Creature</a>
+        <a id="itemTag" href="javascript:;">Item</a>
         <a id="forwardTag" class="forwardLink" href="javascript:;">Forward</a>
 
     </header>
@@ -29,28 +30,38 @@
         import { loadDataContent, loadDataIndex } from "../js/ArinaGameGuide.js";
         import { Unity } from "./js/Unity.js";
 
+        const indexDiv = document.getElementById(`index`);
+        const innerMainDiv = document.getElementById(`innerMain`);
+
         document.getElementById('backTag').addEventListener("click",
-            () => Unity.GoBackPage(document.getElementById(`innerMain`)));
+            () => Unity.GoBackPage(innerMainDiv));
 
         document.getElementById('forwardTag').addEventListener("click",
-            () => Unity.GoForwardPage(document.getElementById(`innerMain`)));
+            () => Unity.GoForwardPage(innerMainDiv));
 
         document.getElementById('placeTag').addEventListener("click",
             () => loadDataIndex(document,
-                document.getElementById(`index`),
-                document.getElementById(`innerMain`),
+                indexDiv,
+                innerMainDiv,
                 Unity.PageName, 'Place',
                 "Name", null, "Name"));
 
         document.getElementById('creatureTag').addEventListener("click",
             () => loadDataIndex(document,
-                document.getElementById(`index`),
-                document.getElementById(`innerMain`),
+                indexDiv,
+                innerMainDiv,
                 Unity.PageName, 'Creature',
                 "Name", null, "Name"));
+
+        document.getElementById('itemTag').addEventListener("click",
+            () => loadDataIndex(document,
+                indexDiv,
+                innerMainDiv,
+                Unity.PageName, 'Item',
+                "Name", null, "Name"));
         
-        document.getElementById("index").setAttribute(`style`, `height:${window.innerHeight - 100}px`)
-        document.getElementById("innerMain").setAttribute(`style`, `height:${window.innerHeight - 100}px; width: ${ window.innerWidth - 360 }px`)
+        indexDiv.setAttribute(`style`, `height:${window.innerHeight - 100}px`)
+        innerMainDiv.setAttribute(`style`, `height:${window.innerHeight - 100}px; width: ${ window.innerWidth - 360 }px`)
         document.getElementById("main").setAttribute(`style`, `width:${window.innerWidth - 40}px`)
         
         //= "height:" + window.innerHeight - 200 + "px";

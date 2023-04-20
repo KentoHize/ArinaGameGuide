@@ -21,17 +21,15 @@ export async function Initialize(div, id1, id2) {
     }
 
     //Debug Script
-    let debugString = ``
-    if (Unity.DebugMode == 1)
-        debugString = `?v=${Math.random()}`;
+   
 
-    let pl = (await import(`../Data/Place.json${debugString}`, { assert: { type: `json` } })).default;
-    let cg = (await import(`../Data/CreatureGroup.json${ debugString }`, { assert: { type: `json` } })).default;
-    let cgc = (await import(`../Data/CreatureGroupCreature.json${debugString}`, { assert: { type: `json` } })).default;
-    let ts = (await import(`../Data/Treasure.json${debugString}`, { assert: { type: `json` } })).default;
-    let is = (await import(`../Data/ItemStack.json${debugString}`, { assert: { type: `json` } })).default;
-    let isi = (await import(`../Data/ItemStackItem.json${debugString}`, { assert: { type: `json` } })).default;
-    let tr = (await import(`../Data/Trap.json${debugString}`, { assert: { type: `json` } })).default;
+    let pl = (await import(`../Data/Place.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
+    let cg = (await import(`../Data/CreatureGroup.json${Unity.DebugString }`, { assert: { type: `json` } })).default;
+    let cgc = (await import(`../Data/CreatureGroupCreature.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
+    let ts = (await import(`../Data/Treasure.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
+    let is = (await import(`../Data/ItemStack.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
+    let isi = (await import(`../Data/ItemStackItem.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
+    let tr = (await import(`../Data/Trap.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
     Unity.DataMain = pl.find(m => m.Name == id1);
 
 

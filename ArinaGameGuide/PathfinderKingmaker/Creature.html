@@ -17,12 +17,15 @@
         <tr><td>CON</td><td><div id="con"></div></td><td>CHA</td><td><div id="cha"></div></td></tr>
         <tr><td id="lHp">Hitpoint</td><td><div id="hp"></div></td><td id="lExp">Exp</td><td><div id="exp"></div></td></tr>
         <tr>
-            <td id="" colspan="4">
-                <div id="dmgAdjustDiv"></div>
-                <div id="immunityDiv"></div>
+            <td colspan="4">
+                <div id="skillDiv"></div>
             </td>
         </tr>
-        <!--<tr><td colspan="2"></td></tr>-->
+    </table>
+    <table id="immunityTbl" class="floatTable">
+        <tr><th style="width:420px">Immunity</th></tr>
+        <tr><td><div id="dmgAdjustDiv"></div></td></tr>
+        <tr><td><div id="immunityDiv"></div></td></tr>
     </table>
 
     <table class="floatTable">
@@ -32,32 +35,31 @@
         <tr><td id="lBAB">Base Attack Bonus</td><td><div id="bab"></div></td><td id="lCMB">Cobat Maneuver Bonus</td><td><div id="cmb"></div></td></tr>
         <tr><td id="lCMD">Combat Maneuver Defense</td><td><div id="cmd"></div></td><td id="lSR">Spell Resistance</td><td><div id="sr"></div></td></tr>
         <tr><td colspan="4"><div id="attackDiv"></div></td></tr>
-        <tr>
-            <td colspan="4">
-                <div id="skillDiv"></div>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="4">
-                <div id="abilityDiv"></div>
-                <div id="conditionDiv"></div>
-            </td>
-        </tr>       
     </table>
 
-    <table class="floatTable">
+    <table id="conditionTbl" class="floatTable">
+        <tr><th style="width:420px">Effect</th></tr>
+        <tr><td><div id="conditionDiv"></div></td></tr>
+    </table>
+
+    <table id="abilityTbl" class="floatTable">
+        <tr><th style="width:420px">Ability</th></tr>
+        <tr><td><div id="abilityDiv"></div></td></tr>
+    </table>
+
+    <table id="itemsTbl" class="floatTable">
         <tr>
             <th style="width:420px">Items</th>
         </tr>
         <tr>
-            <td >
-                <div id="belongingsDiv"></div>
+            <td>
+                <div id="itemsDiv"></div>
             </td>
         </tr>
     </table>
 
-    <table class="floatTable">
-        <th style="width:420px">Memo</th>
+    <table id="memoTbl" class="floatTable">
+        <tr><th style="width:420px">Memo</th></tr>
         <tr>
             <td style="width:420px">
                 <div id="descriptionDiv"></div>
@@ -65,9 +67,5 @@
             </td>
         </tr>
     </table>
-    <!--<table border="1">
-        <tr><td>aaa</td></tr>
-        </table>-->
-
 </body>
 </html>

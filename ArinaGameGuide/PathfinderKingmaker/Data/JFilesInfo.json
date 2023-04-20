@@ -3204,7 +3204,7 @@
           "IsUnique": false
         },
         {
-          "Name": "EffectOrConditon",
+          "Name": "EffectOrCondition",
           "IsKey": false,
           "IsNullable": false,
           "Type": "String",

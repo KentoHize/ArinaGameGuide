@@ -2829,7 +2829,7 @@
     "ID": 316,
     "Creature": "Lesser Jabberwock",
     "Ability": "Power Attack",
-    "Amount": 15,
+    "Amount": null,
     "DamageType1": null,
     "DamageType2": null,
     "DC": null

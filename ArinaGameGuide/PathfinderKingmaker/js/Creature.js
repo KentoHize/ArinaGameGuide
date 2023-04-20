@@ -8,11 +8,7 @@ export async function Initialize(div, id1, id2) {
     else
         Unity.BrowsingHistoryPage = 0;
 
-    let debugString = ``
-    if (Unity.DebugMode == 1)
-        debugString = `?v=${Math.random()}`;
-
-    let ct = (await import(`../Data/Creature.json${debugString}`, { assert: { type: `json` } })).default;
+    let ct = (await import(`../Data/Creature.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
     let c = ct.find(m => m.Name == id1);
 
     let classString = ``;
@@ -26,10 +22,9 @@ export async function Initialize(div, id1, id2) {
         classString += `<br />` + c.Class4 + ` ` + c.Class4Level;
     if (c == null)
         return;//to do
-    //creatureName
+    
 
-    document.getElementById(`creatureName`).textContent = c.Name;
-    /*    document.getElementById(`creatureName`).setAttribute(`style`, `width:300px`);*/
+    document.getElementById(`creatureName`).textContent = c.Name;    
     document.getElementById(`displayName`).textContent = c.DisplayName;
     document.getElementById(`race`).textContent = c.Race;
     document.getElementById(`alignment`).textContent = Unity.GetAlginmentAcronym(c.Alignment);
@@ -57,32 +52,36 @@ export async function Initialize(div, id1, id2) {
     document.getElementById(`sr`).textContent = c.SpellResistance == null ? `-` : c.SpellResistance;
 
 
+    let ctab = (await import(`../Data/CreatureAbilities.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
+    let cta = (await import(`../Data/CreatureAttacks.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
+    let ctda = (await import(`../Data/CreatureDamageAdjustment.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
+    let ctec = (await import(`../Data/CreatureEffectorCondition.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
+    let ctim = (await import(`../Data/CreatureImmunities.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
+    let cts = (await import(`../Data/CreatureSkills.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
+    let is = (await import(`../Data/ItemStack.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
+    let isi = (await import(`../Data/ItemStackItem.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
+    
+    let eocsc = (await import(`../Data/EffectOrConditionSetEffectOrCondition.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
+    
 
-    let ctab = (await import(`../Data/CreatureAbilities.json${debugString}`, { assert: { type: `json` } })).default;
-    let cta = (await import(`../Data/CreatureAttacks.json${debugString}`, { assert: { type: `json` } })).default;
-    let ctda = (await import(`../Data/CreatureDamageAdjustment.json${debugString}`, { assert: { type: `json` } })).default;
-    let ctec = (await import(`../Data/CreatureEffectorCondition.json${debugString}`, { assert: { type: `json` } })).default;
-    let ctim = (await import(`../Data/CreatureImmunities.json${debugString}`, { assert: { type: `json` } })).default;
-    let cts = (await import(`../Data/CreatureSkills.json${debugString}`, { assert: { type: `json` } })).default;
-    let is = (await import(`../Data/ItemStack.json${debugString}`, { assert: { type: `json` } })).default;
-    let isi = (await import(`../Data/ItemStackItem.json${debugString}`, { assert: { type: `json` } })).default;
-
+    let ed = document.getElementById(`abilityDiv`);
     let s = ``;
     for (let i = 0; i < ctab.length; i++) {
         if (ctab[i].Creature == id1)
-            s += ctab[i].Ability + `<br />`;
-        document.getElementById(`abilityDiv`).innerHTML = s;
+            writeBlock(ed, `${ctab[i].Ability} ${ctab[i].Amount != null ? ctab[i].Amount : ``}`);
     }
+    if (ed.textContent == ``)
+        document.getElementById(`abilityTbl`).remove();
 
-    s = ``;
+    ed = document.getElementById(`conditionDiv`)
     for (let i = 0; i < ctec.length; i++) {
         if (ctec[i].Creature == id1)
-            s += ctec[i].EffectOrCondition + `<br />`;
-        document.getElementById(`conditionDiv`).innerHTML = s;
+            writeBlock(ed, `${ctec[i].EffectOrCondition} ${ctec[i].Amount != null ? ctec[i].Amount : ``}`);
     }
+    if (ed.textContent == ``)
+        document.getElementById(`conditionTbl`).remove();
 
-
-    let ed = document.getElementById(`skillDiv`);
+    ed = document.getElementById(`skillDiv`);
     for (let i = 0; i < cts.length; i++) {
         if (cts[i].Creature == id1) {
             writeBlock(ed, `${cts[i].Skill} ${cts[i].Bonus}`);
@@ -104,7 +103,7 @@ export async function Initialize(div, id1, id2) {
         else if (data[i].Type == `Resistance`)
             writeBlock(ed, `${data[i].DamageType} ${data[i].Amount}`);
         else if (data[i].Type == `Immunity`)
-            writeBlock(ed, `Immune to ${data[i].DamageType}`);
+            writeBlock(ed, `${data[i].DamageType}`);
         else if (data[i].Type == `Vulnerability`)
             writeBlock(ed, `Vulnerable to ${data[i].DamageType}`);
     }
@@ -112,12 +111,20 @@ export async function Initialize(div, id1, id2) {
     ed = document.getElementById(`immunityDiv`);
     for (let i = 0; i < ctim.length; i++) {
         if (ctim[i].Creature == id1) {
-            if (ctim[i].Condition != null)
-                writeBlock(ed, `I ${ctim[i].Condition}`);
-            else
-                writeBlock(ed, `I ${ctim[i].ConditionGroup}`);
+            if (ctim[i].Condition != null) {
+                writeBlock(ed, `${ctim[i].Condition}`);
+            }
+            else {                
+
+                for (let j = 0; j < eocsc.length; j++) {
+                    if (ctim[i].ConditionGroup == eocsc[j].EffectOrConditionSet)
+                        writeBlock(ed, `${eocsc[j].EffectOrCondition}`);
+                }
+            }   
         }
     }
+    if (ed.textContent == ``)
+        document.getElementById(`immunityTbl`).remove();
     //let tr = document.createElement(`tr`);
     //document.getElementById(`lSR`).parentElement.insertAdjacentElement(`afterend`, tr);
     ed = document.getElementById(`attackDiv`);
@@ -132,8 +139,7 @@ export async function Initialize(div, id1, id2) {
 
     //belongingsDiv    
     if (c.RemainItems != null) {
-
-        ed = document.getElementById(`belongingsDiv`);
+        ed = document.getElementById(`itemsDiv`);
         let ri = is.find(m => m.Name == c.RemainItems);
         if (ri != null) {
             for (let i = 0; i < isi.length; i++) {
@@ -159,11 +165,18 @@ export async function Initialize(div, id1, id2) {
             }
         }
     }
+    else {
+        document.getElementById(`itemsTbl`).remove();
+    }
+    //if (ed.textContent == ``)
+        
 
 
 
     //document.getElementById(`will`).textContent = c.Will;
     document.getElementById(`memoDiv`).textContent = c.Memo;
+    if (c.Memo == ``)
+        document.getElementById(`memoTbl`).remove();
     //document.getElementById(`descriptionDiv`).textContent = c.Memo;
 
     //document.get
