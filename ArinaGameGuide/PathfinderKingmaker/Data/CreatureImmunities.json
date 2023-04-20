@@ -1684,5 +1684,11 @@
     "Creature": "Weren Degar",
     "Condition": "Death",
     "ConditionGroup": null
+  },
+  {
+    "ID": 302,
+    "Creature": "Adamantine Golem 30 Strong",
+    "Condition": null,
+    "ConditionGroup": "Construct Immunities"
   }
 ]

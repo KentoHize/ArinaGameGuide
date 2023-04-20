@@ -23,13 +23,13 @@ export async function Initialize(div, id1, id2) {
     //Debug Script
    
 
-    let pl = (await import(`../Data/Place.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
-    let cg = (await import(`../Data/CreatureGroup.json${Unity.DebugString }`, { assert: { type: `json` } })).default;
-    let cgc = (await import(`../Data/CreatureGroupCreature.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
-    let ts = (await import(`../Data/Treasure.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
-    let is = (await import(`../Data/ItemStack.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
-    let isi = (await import(`../Data/ItemStackItem.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
-    let tr = (await import(`../Data/Trap.json${Unity.DebugString}`, { assert: { type: `json` } })).default;
+    let pl = (await import(`../Data/Place.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
+    let cg = (await import(`../Data/CreatureGroup.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
+    let cgc = (await import(`../Data/CreatureGroupCreature.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
+    let ts = (await import(`../Data/Treasure.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
+    let is = (await import(`../Data/ItemStack.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
+    let isi = (await import(`../Data/ItemStackItem.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
+    let tr = (await import(`../Data/Trap.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
     Unity.DataMain = pl.find(m => m.Name == id1);
 
 

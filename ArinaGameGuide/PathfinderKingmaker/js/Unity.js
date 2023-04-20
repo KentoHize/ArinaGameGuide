@@ -8,9 +8,13 @@ export class Unity {
     static DataMain = {};
     static Data = [];
     static DebugMode = 1;
-    static DebugString = `?v=${Math.random()}`;
     
-    
+    static GetRandomString() {
+        if (Unity.DebugMode == 1)
+            return `?v=${Math.random()}`;
+        return ``;
+    }
+
     static SortPosition(a, b)
     {
         const order = [null, `None`, `Center`, `East`, `South East`, `South`, `South West`, `West`, `North West`,

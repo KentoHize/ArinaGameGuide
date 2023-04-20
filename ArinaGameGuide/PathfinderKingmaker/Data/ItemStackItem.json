@@ -11006,5 +11006,13 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1380,
+    "ItemStack": "Belt of Physical Form +8",
+    "Item": "Belt of Physical Perfection +8",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

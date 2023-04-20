@@ -162,6 +162,15 @@
     "Memo": ""
   },
   {
+    "ID": 80,
+    "Name": "Delay Poison",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
     "ID": 21,
     "Name": "Difficult Terrain",
     "CName": "",
@@ -387,8 +396,26 @@
     "Memo": ""
   },
   {
+    "ID": 81,
+    "Name": "Lantern King's Curse",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
     "ID": 54,
     "Name": "Magic",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 78,
+    "Name": "Magical Vestment, Armor",
     "CName": "",
     "IsCondition": false,
     "IsGroup": false,
@@ -481,6 +508,15 @@
     "Name": "precision damage",
     "CName": "",
     "IsCondition": true,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 79,
+    "Name": "Profane Nimbus",
+    "CName": "",
+    "IsCondition": false,
     "IsGroup": false,
     "Description": "",
     "Memo": ""
@@ -679,42 +715,6 @@
     "Name": "Web",
     "CName": "",
     "IsCondition": true,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 78,
-    "Name": "Magical Vestment, Armor",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 79,
-    "Name": "Profane Nimbus",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 80,
-    "Name": "Delay Poison",
-    "CName": "",
-    "IsCondition": false,
-    "IsGroup": false,
-    "Description": "",
-    "Memo": ""
-  },
-  {
-    "ID": 81,
-    "Name": "Lantern King's Curse",
-    "CName": "",
-    "IsCondition": false,
     "IsGroup": false,
     "Description": "",
     "Memo": ""

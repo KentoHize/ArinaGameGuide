@@ -2159,7 +2159,7 @@
           "IsUnique": false
         },
         {
-          "Name": "AddtionalAttack",
+          "Name": "AdditionalAttack",
           "IsKey": false,
           "IsNullable": false,
           "Type": "Integer",

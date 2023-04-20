@@ -14122,5 +14122,16 @@
     "AddtionalEffectOrConditions": null,
     "ExpMultiplier": null,
     "Team": "1"
+  },
+  {
+    "ID": 1288,
+    "CreatureGroup": "Inn's Annex Group A",
+    "Creature": "Adamantine Golem 30 Strong",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
   }
 ]

@@ -4342,5 +4342,13 @@
     "Position": "Center",
     "Stage": 2,
     "Memo": "(Assault)"
+  },
+  {
+    "ID": 544,
+    "Name": "Inn's Annex Group A",
+    "Place": "Inn's Annex",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

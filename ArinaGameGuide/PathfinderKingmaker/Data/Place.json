@@ -3073,5 +3073,20 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 207,
+    "Name": "Inn's Annex",
+    "DisplayName": "Inn's Annex",
+    "CName": "",
+    "Type": "CanNotRest",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

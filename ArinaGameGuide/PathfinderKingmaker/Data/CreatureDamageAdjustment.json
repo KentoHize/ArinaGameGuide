@@ -3379,5 +3379,12 @@
     "Type": "DamageReduction",
     "DamageType": "Good",
     "Amount": 15
+  },
+  {
+    "ID": 484,
+    "Creature": "Adamantine Golem 30 Strong",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 15
   }
 ]

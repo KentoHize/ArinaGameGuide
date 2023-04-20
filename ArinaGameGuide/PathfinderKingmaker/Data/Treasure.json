@@ -3678,5 +3678,21 @@
     "Importance": "First Class",
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 231,
+    "Name": "Inn's Annex Treasure A",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Inn's Annex",
+    "Position": "Center",
+    "ItemStack": "Belt of Physical Form +8",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "First Class",
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]
