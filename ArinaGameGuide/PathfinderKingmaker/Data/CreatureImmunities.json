@@ -1690,5 +1690,23 @@
     "Creature": "Adamantine Golem 30 Strong",
     "Condition": null,
     "ConditionGroup": "Construct Immunities"
+  },
+  {
+    "ID": 303,
+    "Creature": "Jabberwock Shadow",
+    "Condition": null,
+    "ConditionGroup": "Dragon Immunities"
+  },
+  {
+    "ID": 304,
+    "Creature": "The Lantern King Monk",
+    "Condition": "Disease",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 305,
+    "Creature": "The Lantern King True Form",
+    "Condition": "Critical Hits",
+    "ConditionGroup": null
   }
 ]

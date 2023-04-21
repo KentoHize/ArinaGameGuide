@@ -4350,5 +4350,93 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 545,
+    "Name": "Ravaged Capital Castle Threshold Group A",
+    "Place": "Ravaged Capital Castle Threshold",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 546,
+    "Name": "Ravaged Capital Castle Threshold Group B",
+    "Place": "Ravaged Capital Castle Threshold",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 547,
+    "Name": "Ravaged Capital Castle Threshold Group C",
+    "Place": "Ravaged Capital Castle Threshold",
+    "Position": "South West",
+    "Stage": 1,
+    "Memo": "Open Treasure Box"
+  },
+  {
+    "ID": 548,
+    "Name": "Ravaged Capital Castle Threshold Group D",
+    "Place": "Ravaged Capital Castle Threshold",
+    "Position": "South East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 549,
+    "Name": "Ravaged Capital Castle Threshold Group E",
+    "Place": "Ravaged Capital Castle Threshold",
+    "Position": "South East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 550,
+    "Name": "Ravaged Capital Castle Threshold Group F",
+    "Place": "Ravaged Capital Castle Threshold",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 551,
+    "Name": "Ravaged Capital Castle Threshold Group G",
+    "Place": "Ravaged Capital Castle Threshold",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 552,
+    "Name": "The Lantern King Group A",
+    "Place": "Ruined Throne Room",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 553,
+    "Name": "The Lantern King Group B",
+    "Place": "Ruined Throne Room",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 554,
+    "Name": "The Lantern King Group C",
+    "Place": "Ruined Throne Room",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 555,
+    "Name": "The Lantern King",
+    "Place": "Ruined Throne Room",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

@@ -11014,5 +11014,77 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1381,
+    "ItemStack": "37323 GP",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 37323,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1382,
+    "ItemStack": "Composite Longbow +5",
+    "Item": "Composite Longbow +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1383,
+    "ItemStack": "Breastplate +5",
+    "Item": "Breastplate +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1384,
+    "ItemStack": "Full Plate +5",
+    "Item": "Full Plate +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1385,
+    "ItemStack": "Greater Quicken Metamagic Rod",
+    "Item": "Greater Quicken Metamagic Rod",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1386,
+    "ItemStack": "Ravaged Capital Central Passage Treasure C",
+    "Item": "Scroll of Clashing Rocks",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1387,
+    "ItemStack": "Ravaged Capital Central Passage Treasure C",
+    "Item": "Scroll of Heal, Mass",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1388,
+    "ItemStack": "Ravaged Capital Central Passage Treasure D",
+    "Item": "Amulet of Natural Armor +5",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1389,
+    "ItemStack": "Ravaged Capital Central Passage Treasure D",
+    "Item": "Fey Bane Cold Iron Tongi +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

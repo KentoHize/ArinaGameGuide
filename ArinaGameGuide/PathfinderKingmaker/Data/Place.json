@@ -3088,5 +3088,50 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 208,
+    "Name": "Ravaged Capital Castle Threshold",
+    "DisplayName": "Ravaged Capital Castle - Threshold",
+    "CName": "",
+    "Type": "CanNotRest",
+    "Region": null,
+    "SuggestedLevelMin": 18,
+    "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 209,
+    "Name": "Ruined Throne Room",
+    "DisplayName": "Ruined Throne Room",
+    "CName": "",
+    "Type": "CanNotRest",
+    "Region": null,
+    "SuggestedLevelMin": 19,
+    "SuggestedLevelMax": 20,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "Will 38\nBluff 45\n\nKnowledge (Religion) 45\nKnowledge (Arcana) 45"
+  },
+  {
+    "ID": 210,
+    "Name": "Banquet Hall",
+    "DisplayName": "Banquet Hall",
+    "CName": "",
+    "Type": "CanNotRest",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

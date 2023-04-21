@@ -4552,5 +4552,71 @@
     "Creature": "Frost Giant",
     "Skill": "Stealth",
     "Bonus": 9
+  },
+  {
+    "ID": 761,
+    "Creature": "Jabberwock Shadow",
+    "Skill": "Persuasion",
+    "Bonus": 39
+  },
+  {
+    "ID": 762,
+    "Creature": "Jabberwock Shadow",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 32
+  },
+  {
+    "ID": 763,
+    "Creature": "Jabberwock Shadow",
+    "Skill": "Perception",
+    "Bonus": 44
+  },
+  {
+    "ID": 764,
+    "Creature": "Jabberwock Shadow",
+    "Skill": "Athletics",
+    "Bonus": 44
+  },
+  {
+    "ID": 765,
+    "Creature": "Jabberwock Shadow",
+    "Skill": "Stealth",
+    "Bonus": 28
+  },
+  {
+    "ID": 766,
+    "Creature": "The Lantern King Monk",
+    "Skill": "Persuasion",
+    "Bonus": 40
+  },
+  {
+    "ID": 767,
+    "Creature": "The Lantern King Monk",
+    "Skill": "Perception",
+    "Bonus": 60
+  },
+  {
+    "ID": 768,
+    "Creature": "The Lantern King Bard",
+    "Skill": "Persuasion",
+    "Bonus": 48
+  },
+  {
+    "ID": 769,
+    "Creature": "The Lantern King Bard",
+    "Skill": "Perception",
+    "Bonus": 45
+  },
+  {
+    "ID": 770,
+    "Creature": "The Lantern King Archer",
+    "Skill": "Persuasion",
+    "Bonus": 45
+  },
+  {
+    "ID": 771,
+    "Creature": "The Lantern King Archer",
+    "Skill": "Perception",
+    "Bonus": 44
   }
 ]

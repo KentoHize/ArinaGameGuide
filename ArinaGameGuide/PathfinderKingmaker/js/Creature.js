@@ -72,8 +72,9 @@ export async function Initialize(div, id1, id2) {
     for (let i = 0; i < ctab.length; i++) {
         if (ctab[i].Creature == id1) {
             writeBlock(ed, `${ctab[i].Ability} ${ctab[i].Amount != null ? ctab[i].Amount : ``}`);
-            if (ctab[i].Ability == `Rapid Shot`)
-                additionalAttack = 1;
+            if (ctab[i].Ability == `Rapid Shot` || ctab[i].Ability == `Flurry of Blows`
+                || ctab[i].Ability == `Ki Power: Extra Attack`)
+                additionalAttack += 1;
         }
     }
     if (ed.textContent == ``)
@@ -146,8 +147,8 @@ export async function Initialize(div, id1, id2) {
             s += ` ${cta[i].Range} ft. `;
 
             for (let j = 0; j <= cta[i].AdditionalAttack; j++) {
-                let ab;
-                if (cta[i].Weapon != null) {
+                let ab;                
+                if (cta[i].Type != `Other`) {
                     if (additionalAttack <= j)
                         ab = cta[i].AttackBonus - (j - additionalAttack) * 5;
                     else
@@ -218,8 +219,9 @@ export async function Initialize(div, id1, id2) {
             document.getElementById(`itemsTbl`).remove();
         }
         //document.getElementById(`will`).textContent = c.Will;
-        document.getElementById(`memoDiv`).textContent = c.Memo;
-        if (c.Memo == ``)
+        if(c.Memo != ``)
+            document.getElementById(`memoDiv`).textContent = c.Memo;
+        else
             document.getElementById(`memoTbl`).remove();
         //document.getElementById(`descriptionDiv`).textContent = c.Memo;
 

@@ -1393,5 +1393,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 158,
+    "Creature": "Jabberwock Shadow",
+    "EffectOrCondition": "True Seeing",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

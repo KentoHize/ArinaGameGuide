@@ -425,5 +425,54 @@
     "CName": "",
     "DC": "",
     "Description": "Fase Heal 10 and don't Dead in 1 mile"
+  },
+  {
+    "ID": 62,
+    "Name": "Flurry of Blows",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 63,
+    "Name": "Ki Power: Extra Attack",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 64,
+    "Name": "Become Dust",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 65,
+    "Name": "Doomsday",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 66,
+    "Name": "End of All",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 67,
+    "Name": "Everything Ends",
+    "CName": "",
+    "DC": "",
+    "Description": ""
+  },
+  {
+    "ID": 68,
+    "Name": "Ekpyrosis",
+    "CName": "",
+    "DC": "44",
+    "Description": "10d6 Fire\n10d6 Divine\n 50 ft radius"
   }
 ]

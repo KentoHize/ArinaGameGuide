@@ -2463,5 +2463,40 @@
     "ID": 494,
     "Name": "Belt of Physical Form +8",
     "Memo": ""
+  },
+  {
+    "ID": 495,
+    "Name": "37323 GP",
+    "Memo": ""
+  },
+  {
+    "ID": 496,
+    "Name": "Composite Longbow +5",
+    "Memo": ""
+  },
+  {
+    "ID": 497,
+    "Name": "Breastplate +5",
+    "Memo": ""
+  },
+  {
+    "ID": 498,
+    "Name": "Full Plate +5",
+    "Memo": ""
+  },
+  {
+    "ID": 499,
+    "Name": "Greater Quicken Metamagic Rod",
+    "Memo": ""
+  },
+  {
+    "ID": 500,
+    "Name": "Ravaged Capital Central Passage Treasure C",
+    "Memo": ""
+  },
+  {
+    "ID": 501,
+    "Name": "Ravaged Capital Central Passage Treasure D",
+    "Memo": ""
   }
 ]

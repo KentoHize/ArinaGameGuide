@@ -114,10 +114,12 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
                 parent.setAttribute(`class`, `divGroup1`);
                 for (let k = 0; k < Unity.Data[i].value[j].data.cgc.length; k++) {
                     child = document.createElement(`div`);
+                    if (Unity.Data[i].value[j].data.cgc[k].Team == `Ally`)
+                        child.appendChild(document.createTextNode(`Ally `));
                     child2 = document.createElement(`a`);
                     child2.href = `javascript:;`;
                     child2.addEventListener(`click`, () => { loadDataContent(mdiv, Unity.PageName, 'Creature', Unity.Data[i].value[j].data.cgc[k].Creature); });
-                    child2.textContent = Unity.Data[i].value[j].data.cgc[k].Creature;
+                    child2.textContent = `${Unity.Data[i].value[j].data.cgc[k].Creature}`;
                     child.appendChild(child2);
                     if (Unity.Data[i].value[j].data.cgc[k].Quantity != 1) {
                         t2 = document.createTextNode(`  x${Unity.Data[i].value[j].data.cgc[k].Quantity}`);
@@ -131,11 +133,16 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
                 parent.setAttribute(`class`, `divGroup1`);
                 
                 for (let k = 0; k < Unity.Data[i].value[j].data.isi.length; k++) {
-                    child = document.createElement(`div`);                    
-                    if (Unity.Data[i].value[j].data.isi[k].Quantity == 1)
-                        child.textContent = `T ${Unity.Data[i].value[j].data.isi[k].Item}`;
-                    else
-                        child.textContent = `T ${Unity.Data[i].value[j].data.isi[k].Item}  x${Unity.Data[i].value[j].data.isi[k].Quantity}`;
+                    child = document.createElement(`div`);
+                    child.appendChild(document.createTextNode('T '));
+                    let a = document.createElement(`a`);
+                    a.href = `javascript:;`;
+                    a.addEventListener(`click`, () => loadDataContent(mdiv, Unity.PageName, `Item`, Unity.Data[i].value[j].data.isi[k].Item));
+                    a.textContent = Unity.Data[i].value[j].data.isi[k].Item;                    
+                    child.appendChild(a);
+                    if (Unity.Data[i].value[j].data.isi[k].Quantity != 1)
+                        child.appendChild(document.createTextNode(`x${Unity.Data[i].value[j].data.isi[k].Quantity}`));
+                    
                     parent.appendChild(child);
                 }
             }

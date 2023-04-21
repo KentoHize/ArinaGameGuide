@@ -3832,5 +3832,167 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 428,
+    "Creature": "Jabberwock Shadow",
+    "Ability": "Fast Healing",
+    "Amount": 15,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 429,
+    "Creature": "Jabberwock Shadow",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 430,
+    "Creature": "The Lantern King Monk",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 431,
+    "Creature": "The Lantern King Monk",
+    "Ability": "Flurry of Blows",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 432,
+    "Creature": "The Lantern King Monk",
+    "Ability": "Ki Power: Extra Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 433,
+    "Creature": "The Lantern King Monk",
+    "Ability": "Become Dust",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 434,
+    "Creature": "The Lantern King Monk",
+    "Ability": "Doomsday",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 435,
+    "Creature": "The Lantern King Monk",
+    "Ability": "End of All",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 436,
+    "Creature": "The Lantern King Monk",
+    "Ability": "Everything Ends",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 437,
+    "Creature": "The Lantern King Minion 20 Towershield Fighter",
+    "Ability": "Protective Aura",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 438,
+    "Creature": "The Lantern King Minion 20 Greatsword Fighter",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 439,
+    "Creature": "The Lantern King Minion 20 Crossbowman",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 440,
+    "Creature": "The Lantern King Minion 20 Crossbowman",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 441,
+    "Creature": "The Lantern King Minion 20 Longbow Archer",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 442,
+    "Creature": "The Lantern King Minion 20 Longbow Archer",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 443,
+    "Creature": "The Lantern King Archer",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 444,
+    "Creature": "The Lantern King Archer",
+    "Ability": "Protective Aura",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 445,
+    "Creature": "The Lantern King True Form",
+    "Ability": "Ekpyrosis",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

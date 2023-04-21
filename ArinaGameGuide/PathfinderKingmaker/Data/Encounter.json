@@ -802,5 +802,29 @@
     "EnemyGroup3": "Ravaged Capital Central Passage Group I",
     "EnemyGroup4": null,
     "Memo": ""
+  },
+  {
+    "ID": 68,
+    "Name": "Ravaged Capital Castle Threshold Group D",
+    "Place": "Ravaged Capital Castle Threshold",
+    "Position": "South East",
+    "HasPlot": false,
+    "EnemyGroup1": "Ravaged Capital Castle Threshold Group D",
+    "EnemyGroup2": "Ravaged Capital Castle Threshold Group E",
+    "EnemyGroup3": null,
+    "EnemyGroup4": null,
+    "Memo": ""
+  },
+  {
+    "ID": 69,
+    "Name": "The Lantern King Group",
+    "Place": "Ruined Throne Room",
+    "Position": "Center",
+    "HasPlot": true,
+    "EnemyGroup1": "The Lantern King Group A",
+    "EnemyGroup2": "The Lantern King Group B",
+    "EnemyGroup3": "The Lantern King Group C",
+    "EnemyGroup4": "The Lantern King",
+    "Memo": ""
   }
 ]

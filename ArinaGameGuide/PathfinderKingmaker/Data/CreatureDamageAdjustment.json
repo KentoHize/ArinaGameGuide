@@ -3386,5 +3386,103 @@
     "Type": "DamageReduction",
     "DamageType": "Magic",
     "Amount": 15
+  },
+  {
+    "ID": 485,
+    "Creature": "Jabberwock Shadow",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 15
+  },
+  {
+    "ID": 486,
+    "Creature": "Jabberwock Shadow",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 30
+  },
+  {
+    "ID": 487,
+    "Creature": "Jabberwock Shadow",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 30
+  },
+  {
+    "ID": 488,
+    "Creature": "Jabberwock Shadow",
+    "Type": "Resistance",
+    "DamageType": "Sonic",
+    "Amount": 30
+  },
+  {
+    "ID": 489,
+    "Creature": "Jabberwock Shadow",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 490,
+    "Creature": "Jabberwock Shadow",
+    "Type": "Vulnerability",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 491,
+    "Creature": "The Lantern King Monk",
+    "Type": "DamageReduction",
+    "DamageType": "Chaotic",
+    "Amount": null
+  },
+  {
+    "ID": 492,
+    "Creature": "The Lantern King Minion 20 Two-Weapon Fighter",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 5
+  },
+  {
+    "ID": 493,
+    "Creature": "The Lantern King Minion 20 Towershield Fighter",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 5
+  },
+  {
+    "ID": 494,
+    "Creature": "The Lantern King Minion 20 Crossbowman",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 5
+  },
+  {
+    "ID": 495,
+    "Creature": "The Lantern King Minion 20 Longbow Archer",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 5
+  },
+  {
+    "ID": 496,
+    "Creature": "The Lantern King True Form",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 10
+  },
+  {
+    "ID": 497,
+    "Creature": "The Lantern King True Form",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 30
+  },
+  {
+    "ID": 498,
+    "Creature": "The Lantern King True Form",
+    "Type": "Resistance",
+    "DamageType": "Acid",
+    "Amount": 30
   }
 ]
