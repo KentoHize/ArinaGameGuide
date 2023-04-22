@@ -2278,5 +2278,29 @@
     "RelatedEncounter": "Womb of Lamashtu Group G",
     "Damage": "",
     "Memo": ""
+  },
+  {
+    "ID": 3,
+    "Name": "Deadly Passage Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Deadly Passage",
+    "DisarmDC": 20,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 4,
+    "Name": "Deadly Passage Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Deadly Passage",
+    "DisarmDC": 20,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

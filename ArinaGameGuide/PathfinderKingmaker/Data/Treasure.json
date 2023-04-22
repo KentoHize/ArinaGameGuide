@@ -3838,5 +3838,37 @@
     "Importance": "Good",
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 241,
+    "Name": "Deadly Passage Cave Treasure A",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Deadly Passage Cave",
+    "Position": "Center",
+    "ItemStack": "Deadly Passage Cave Treasure A",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": 21,
+    "Importance": "Very Good",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 242,
+    "Name": "City of Hollow Eyes(Varnhold) Treasure A",
+    "CName": "",
+    "Type": "Box",
+    "Place": "City of Hollow Eyes(Varnhold)",
+    "Position": "North West",
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure A",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": 25,
+    "Importance": "Good",
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

@@ -1402,5 +1402,23 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 159,
+    "Creature": "Goblin Alchemist Expert",
+    "EffectOrCondition": "Barskin",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 160,
+    "Creature": "Goblin Alchemist Expert",
+    "EffectOrCondition": "Mutagen - Dexterity",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

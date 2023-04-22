@@ -3133,5 +3133,50 @@
     "HasPlot": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 211,
+    "Name": "Deadly Passage",
+    "DisplayName": "Deadly Passage",
+    "CName": "",
+    "Type": "Hunting Area",
+    "Region": null,
+    "SuggestedLevelMin": 5,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 212,
+    "Name": "Deadly Passage Cave",
+    "DisplayName": "Deadly Passage",
+    "CName": "",
+    "Type": "Hunting Area",
+    "Region": null,
+    "SuggestedLevelMin": 6,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 213,
+    "Name": "City of Hollow Eyes(Varnhold)",
+    "DisplayName": "City of Hollow Eyes",
+    "CName": "",
+    "Type": "Hunting Area",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

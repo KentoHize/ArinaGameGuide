@@ -131,10 +131,11 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
             else if (Unity.Data[i].value[j].type == `TS`) {
                 haveStuff = 1;
                 parent.setAttribute(`class`, `divGroup1`);
-                
+                parent.appendChild(document.createTextNode('Treasure'));
+                parent.appendChild(document.createElement(`br`));
                 for (let k = 0; k < Unity.Data[i].value[j].data.isi.length; k++) {
                     child = document.createElement(`div`);
-                    child.appendChild(document.createTextNode('T '));
+                    //child.appendChild(document.createTextNode('T '));
                     let a = document.createElement(`a`);
                     a.href = `javascript:;`;
                     a.addEventListener(`click`, () => loadDataContent(mdiv, Unity.PageName, `Item`, Unity.Data[i].value[j].data.isi[k].Item));
@@ -147,6 +148,8 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
                 }
             }
             else if (Unity.Data[i].value[j].type == `TR`) {
+                parent.appendChild(document.createTextNode('Trap'));
+                parent.appendChild(document.createElement(`br`));
                 haveStuff = 1;
                 if (Unity.Data[i].value[j].data.DisarmDC == null)
                     parent.textContent = Unity.Data[i].value[j].data.Type;

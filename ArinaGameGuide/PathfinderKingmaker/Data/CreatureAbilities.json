@@ -181,7 +181,7 @@
   },
   {
     "ID": 75,
-    "Creature": "Bandit 7 Rouge",
+    "Creature": "Bandit 7 Rouge Archer",
     "Ability": "Bewildering Injury",
     "Amount": null,
     "DamageType1": null,
@@ -190,7 +190,7 @@
   },
   {
     "ID": 76,
-    "Creature": "Bandit 7 Rouge",
+    "Creature": "Bandit 7 Rouge Archer",
     "Ability": "Rapid Shot",
     "Amount": null,
     "DamageType1": null,
@@ -3990,6 +3990,60 @@
     "ID": 445,
     "Creature": "The Lantern King True Form",
     "Ability": "Ekpyrosis",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 446,
+    "Creature": "Goblin Dogreaper",
+    "Ability": "Piranha Strike",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 447,
+    "Creature": "Goblin Dogslahser",
+    "Ability": "Piranha Strike",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 448,
+    "Creature": "Goblin Dogcutter",
+    "Ability": "Piranha Strike",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 449,
+    "Creature": "Centaur 7 Archer",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 450,
+    "Creature": "Bandit 7 Archer",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 451,
+    "Creature": "Bandit 7 Archer",
+    "Ability": "Deadly Aim",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,

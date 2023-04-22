@@ -211,13 +211,13 @@
   },
   {
     "ID": 142,
-    "Creature": "Bandit 7 Rouge",
+    "Creature": "Bandit 7 Rouge Archer",
     "Skill": "Perception",
     "Bonus": 20
   },
   {
     "ID": 143,
-    "Creature": "Bandit 7 Rouge",
+    "Creature": "Bandit 7 Rouge Archer",
     "Skill": "Stealth",
     "Bonus": 14
   },
@@ -4618,5 +4618,119 @@
     "Creature": "The Lantern King Archer",
     "Skill": "Perception",
     "Bonus": 44
+  },
+  {
+    "ID": 772,
+    "Creature": "Gobllin Falcon Eye",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 773,
+    "Creature": "Gobllin Falcon Eye",
+    "Skill": "Stealth",
+    "Bonus": 21
+  },
+  {
+    "ID": 774,
+    "Creature": "Goblin Alchemist Expert",
+    "Skill": "Mobility",
+    "Bonus": 12
+  },
+  {
+    "ID": 775,
+    "Creature": "Goblin Alchemist Expert",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 776,
+    "Creature": "Goblin Alchemist Expert",
+    "Skill": "Athletics",
+    "Bonus": 10
+  },
+  {
+    "ID": 777,
+    "Creature": "Goblin Alchemist Expert",
+    "Skill": "Stealth",
+    "Bonus": 24
+  },
+  {
+    "ID": 778,
+    "Creature": "Goblin Alchemist Expert",
+    "Skill": "Trickery",
+    "Bonus": 11
+  },
+  {
+    "ID": 779,
+    "Creature": "Goblin Dogreaper",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 780,
+    "Creature": "Goblin Dogreaper",
+    "Skill": "Stealth",
+    "Bonus": 20
+  },
+  {
+    "ID": 781,
+    "Creature": "Goblin Dogslahser",
+    "Skill": "Perception",
+    "Bonus": 14
+  },
+  {
+    "ID": 782,
+    "Creature": "Goblin Dogslahser",
+    "Skill": "Stealth",
+    "Bonus": 19
+  },
+  {
+    "ID": 783,
+    "Creature": "Gobllin Lynx Eye",
+    "Skill": "Perception",
+    "Bonus": 13
+  },
+  {
+    "ID": 784,
+    "Creature": "Gobllin Lynx Eye",
+    "Skill": "Stealth",
+    "Bonus": 18
+  },
+  {
+    "ID": 785,
+    "Creature": "Goblin Dogcutter",
+    "Skill": "Perception",
+    "Bonus": 13
+  },
+  {
+    "ID": 786,
+    "Creature": "Goblin Dogcutter",
+    "Skill": "Stealth",
+    "Bonus": 18
+  },
+  {
+    "ID": 787,
+    "Creature": "Centaur 7 Fighter",
+    "Skill": "Lore(Nature)",
+    "Bonus": 15
+  },
+  {
+    "ID": 788,
+    "Creature": "Centaur 7 Fighter",
+    "Skill": "Perception",
+    "Bonus": 19
+  },
+  {
+    "ID": 789,
+    "Creature": "Bandit 7 Archer",
+    "Skill": "Perception",
+    "Bonus": 14
+  },
+  {
+    "ID": 790,
+    "Creature": "Bandit 7 Archer",
+    "Skill": "Stealth",
+    "Bonus": 13
   }
 ]

@@ -4438,5 +4438,45 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 556,
+    "Name": "Deadly Passage Group A",
+    "Place": "Deadly Passage",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 557,
+    "Name": "Yergrace Group ",
+    "Place": "Deadly Passage Cave",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 558,
+    "Name": "Centaur Patrol Leader Group",
+    "Place": "City of Hollow Eyes(Varnhold)",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 559,
+    "Name": "City of Hollow Eyes(Varnhold) Group A",
+    "Place": "City of Hollow Eyes(Varnhold)",
+    "Position": "North",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 560,
+    "Name": "City of Hollow Eyes(Varnhold) Group B",
+    "Place": "City of Hollow Eyes(Varnhold)",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

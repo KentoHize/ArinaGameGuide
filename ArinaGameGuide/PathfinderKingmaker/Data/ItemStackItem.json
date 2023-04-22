@@ -11086,5 +11086,229 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1390,
+    "ItemStack": "Deadly Passage Cave Treasure A",
+    "Item": "Grinding Stone",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1391,
+    "ItemStack": "Deadly Passage Cave Treasure A",
+    "Item": "Beetle in Amber",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1392,
+    "ItemStack": "Deadly Passage Cave Treasure A",
+    "Item": "Fine Feather",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1393,
+    "ItemStack": "Deadly Passage Cave Treasure A",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 2913,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1394,
+    "ItemStack": "Deadly Passage Cave Treasure A",
+    "Item": "Amulet of Natural Armor +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1395,
+    "ItemStack": "2MD + SB + PoCL + PoCM + LA1",
+    "Item": "Masterwork Dagger",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1396,
+    "ItemStack": "2MD + SB + PoCL + PoCM + LA1",
+    "Item": "Shortbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1397,
+    "ItemStack": "2MD + SB + PoCL + PoCM + LA1",
+    "Item": "Potion of Cure Light Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1398,
+    "ItemStack": "2MD + SB + PoCL + PoCM + LA1",
+    "Item": "Potion of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1399,
+    "ItemStack": "2MD + SB + PoCL + PoCM + LA1",
+    "Item": "Leather Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1405,
+    "ItemStack": "Centaur Patrol Leader RS",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1400,
+    "ItemStack": "Centaur Patrol Leader RS",
+    "Item": "Shortspear +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1401,
+    "ItemStack": "Centaur Patrol Leader RS",
+    "Item": "Heavy Shield +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1402,
+    "ItemStack": "Centaur Patrol Leader RS",
+    "Item": "Helmet of Guiding Light",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1403,
+    "ItemStack": "Centaur Patrol Leader RS",
+    "Item": "Amulet of Natural Armor +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1404,
+    "ItemStack": "Centaur Patrol Leader RS",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1406,
+    "ItemStack": "MV + GS + BP",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1407,
+    "ItemStack": "MV + GS + BP",
+    "Item": "Greatsword",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1408,
+    "ItemStack": "MV + GS + BP",
+    "Item": "Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1409,
+    "ItemStack": "MV + CLB + BP",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1411,
+    "ItemStack": "MV + CLB + BP",
+    "Item": "Composite Longbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1410,
+    "ItemStack": "MV + CLB + BP",
+    "Item": "Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1412,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure A",
+    "Item": "Coal",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1413,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure A",
+    "Item": "Bloodstone",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1414,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure A",
+    "Item": "Whimsical Berry",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1415,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure A",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 6,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1416,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure A",
+    "Item": "Butter",
+    "RandomItem": null,
+    "Quantity": 5,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1417,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure A",
+    "Item": "Rice",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

@@ -198,5 +198,13 @@
     "SubType1": "Reptilian",
     "SubType2": null,
     "KnowledgeSkill": null
+  },
+  {
+    "ID": 27,
+    "Name": "Centaur",
+    "MainRace": "Humanoid",
+    "SubType1": "Monstrous Humanoid",
+    "SubType2": null,
+    "KnowledgeSkill": null
   }
 ]

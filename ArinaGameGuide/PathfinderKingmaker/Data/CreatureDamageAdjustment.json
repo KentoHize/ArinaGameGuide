@@ -3484,5 +3484,12 @@
     "Type": "Resistance",
     "DamageType": "Acid",
     "Amount": 30
+  },
+  {
+    "ID": 499,
+    "Creature": "Goblin Alchemist Expert",
+    "Type": "Resistance",
+    "DamageType": "Fire",
+    "Amount": 5
   }
 ]
