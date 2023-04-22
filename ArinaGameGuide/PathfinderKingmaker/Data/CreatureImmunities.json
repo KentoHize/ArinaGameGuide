@@ -1708,5 +1708,11 @@
     "Creature": "The Lantern King True Form",
     "Condition": "Critical Hits",
     "ConditionGroup": null
+  },
+  {
+    "ID": 306,
+    "Creature": "Huge Earth Elemental",
+    "Condition": null,
+    "ConditionGroup": "Elemental Immunities"
   }
 ]

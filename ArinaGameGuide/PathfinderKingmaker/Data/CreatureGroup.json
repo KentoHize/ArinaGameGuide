@@ -4478,5 +4478,29 @@
     "Position": "North East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 561,
+    "Name": "City of Hollow Eyes(Varnhold) Group C",
+    "Place": "City of Hollow Eyes(Varnhold)",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 562,
+    "Name": "City of Hollow Eyes(Varnhold) Group D",
+    "Place": "City of Hollow Eyes(Varnhold)",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 563,
+    "Name": "City of Hollow Eyes(Varnhold) Group E",
+    "Place": "City of Hollow Eyes(Varnhold)",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

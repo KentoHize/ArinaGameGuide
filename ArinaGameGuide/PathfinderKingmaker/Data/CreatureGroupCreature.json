@@ -14628,5 +14628,115 @@
     "AddtionalEffectOrConditions": null,
     "ExpMultiplier": null,
     "Team": "1"
+  },
+  {
+    "ID": 1334,
+    "CreatureGroup": "City of Hollow Eyes(Varnhold) Group C",
+    "Creature": "Spriggan Crossbowman",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1335,
+    "CreatureGroup": "City of Hollow Eyes(Varnhold) Group C",
+    "Creature": "Spriggan Rogue 7",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1336,
+    "CreatureGroup": "City of Hollow Eyes(Varnhold) Group C",
+    "Creature": "Bandit 7 Rogue Fighter",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1337,
+    "CreatureGroup": "City of Hollow Eyes(Varnhold) Group C",
+    "Creature": "Bandit 8 Archer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1338,
+    "CreatureGroup": "City of Hollow Eyes(Varnhold) Group C",
+    "Creature": "Venomanticore",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "2"
+  },
+  {
+    "ID": 1339,
+    "CreatureGroup": "City of Hollow Eyes(Varnhold) Group D",
+    "Creature": "Dire Wolf",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "2"
+  },
+  {
+    "ID": 1340,
+    "CreatureGroup": "City of Hollow Eyes(Varnhold) Group D",
+    "Creature": "Bandit 7 Barbarian",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1341,
+    "CreatureGroup": "City of Hollow Eyes(Varnhold) Group D",
+    "Creature": "Bandit 7 Rogue Fighter",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1342,
+    "CreatureGroup": "City of Hollow Eyes(Varnhold) Group D",
+    "Creature": "Greater Worg",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "2"
+  },
+  {
+    "ID": 1343,
+    "CreatureGroup": "City of Hollow Eyes(Varnhold) Group E",
+    "Creature": "Huge Earth Elemental",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditonalItems": null,
+    "AddtionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
   }
 ]

@@ -4732,5 +4732,59 @@
     "Creature": "Bandit 7 Archer",
     "Skill": "Stealth",
     "Bonus": 13
+  },
+  {
+    "ID": 791,
+    "Creature": "Bandit 7 Rogue Fighter",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 792,
+    "Creature": "Bandit 7 Rogue Fighter",
+    "Skill": "Stealth",
+    "Bonus": 14
+  },
+  {
+    "ID": 793,
+    "Creature": "Spriggan Rogue 7",
+    "Skill": "Athletics",
+    "Bonus": 4
+  },
+  {
+    "ID": 794,
+    "Creature": "Spriggan Rogue 7",
+    "Skill": "Trickery",
+    "Bonus": 13
+  },
+  {
+    "ID": 795,
+    "Creature": "Bandit 7 Barbarian",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 796,
+    "Creature": "Bandit 7 Barbarian",
+    "Skill": "Stealth",
+    "Bonus": 7
+  },
+  {
+    "ID": 797,
+    "Creature": "Dire Wolf",
+    "Skill": "Lore(Nature)",
+    "Bonus": 8
+  },
+  {
+    "ID": 798,
+    "Creature": "Dire Wolf",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 799,
+    "Creature": "Huge Earth Elemental",
+    "Skill": "Perception",
+    "Bonus": 19
   }
 ]

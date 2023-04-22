@@ -474,5 +474,12 @@
     "CName": "",
     "DC": "44",
     "Description": "10d6 Fire\n10d6 Divine\n 50 ft radius"
+  },
+  {
+    "ID": 69,
+    "Name": "Size Alteration",
+    "CName": "",
+    "DC": "",
+    "Description": ""
   }
 ]
