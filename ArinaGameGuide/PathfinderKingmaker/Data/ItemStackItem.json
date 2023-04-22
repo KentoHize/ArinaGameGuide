@@ -11462,5 +11462,125 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1437,
+    "ItemStack": "MV + GA + BP",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1438,
+    "ItemStack": "MV + GA + BP",
+    "Item": "Greataxe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1439,
+    "ItemStack": "MV + GA + BP",
+    "Item": "Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1441,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure F",
+    "Item": "Heavy Shield +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1440,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure F",
+    "Item": "Wand of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1442,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure F",
+    "Item": "Edible Moss",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1443,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure F",
+    "Item": "Coal",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1444,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure F",
+    "Item": "Incense",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1445,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure F",
+    "Item": "Rare Root",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1446,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure F",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 34,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1447,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure G",
+    "Item": "Keen Shortsword +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1448,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure G",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 1302,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1449,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure G",
+    "Item": "Sapphire Ring",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1450,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure H",
+    "Item": "Belt of Giant Strength +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1451,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure H",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 2400,
+    "RandomQuantity": null
   }
 ]

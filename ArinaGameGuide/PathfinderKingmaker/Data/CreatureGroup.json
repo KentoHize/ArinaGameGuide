@@ -4550,5 +4550,29 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 570,
+    "Name": "Centaur Patrol Lieutenant Group",
+    "Place": "City of Hollow Eyes(Varnhold)",
+    "Position": "South",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 571,
+    "Name": "Wildness Clearing Start Group",
+    "Place": "Wildness Clearing",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 572,
+    "Name": "Wildness Clearing Group A",
+    "Place": "Wildness Clearing",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

@@ -14903,5 +14903,60 @@
     "AdditionalEffectOrConditions": null,
     "ExpMultiplier": null,
     "Team": "1"
+  },
+  {
+    "ID": 1359,
+    "CreatureGroup": "Centaur Patrol Lieutenant Group",
+    "Creature": "Centaur Patrol Lieutenant",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1360,
+    "CreatureGroup": "Centaur Patrol Lieutenant Group",
+    "Creature": "Centaur 7 Archer",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1361,
+    "CreatureGroup": "Wildness Clearing Start Group",
+    "Creature": "Zombie Cyclops",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1362,
+    "CreatureGroup": "Wildness Clearing Group A",
+    "Creature": "Nightmare Skeleton Soldier",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1363,
+    "CreatureGroup": "Wildness Clearing Group A",
+    "Creature": "Nightmare Skeletal Champion Archer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
   }
 ]

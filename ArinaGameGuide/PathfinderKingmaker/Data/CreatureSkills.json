@@ -4846,5 +4846,29 @@
     "Creature": "Ferocious Manticore",
     "Skill": "Perception",
     "Bonus": 18
+  },
+  {
+    "ID": 810,
+    "Creature": "Centaur Patrol Lieutenant",
+    "Skill": "Lore(Nature)",
+    "Bonus": 10
+  },
+  {
+    "ID": 811,
+    "Creature": "Centaur Patrol Lieutenant",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 812,
+    "Creature": "Centaur 7 Archer",
+    "Skill": "Lore(Nature)",
+    "Bonus": 15
+  },
+  {
+    "ID": 813,
+    "Creature": "Centaur 7 Archer",
+    "Skill": "Perception",
+    "Bonus": 19
   }
 ]

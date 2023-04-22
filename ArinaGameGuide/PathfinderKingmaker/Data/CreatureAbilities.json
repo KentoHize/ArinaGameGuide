@@ -4138,5 +4138,41 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 462,
+    "Creature": "Centaur Patrol Lieutenant",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 463,
+    "Creature": "Centaur Patrol Lieutenant",
+    "Ability": "Lethal Stance",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 464,
+    "Creature": "Centaur Patrol Lieutenant",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 465,
+    "Creature": "Nightmare Skeleton Soldier",
+    "Ability": "Combat Reflex",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

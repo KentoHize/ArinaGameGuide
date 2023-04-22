@@ -7208,5 +7208,61 @@
     "DamageAdditiveBonus": 13,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 555,
+    "Creature": "Centaur Patrol Lieutenant",
+    "Form": "Slashing Weapon",
+    "Type": "Primary",
+    "Range": 6,
+    "AdditionalAttack": 1,
+    "AttackBonus": 15,
+    "Weapon": "Greataxe",
+    "BasicDamage": "1d12",
+    "DamageAdditiveBonus": 19,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 556,
+    "Creature": "Centaur Patrol Lieutenant",
+    "Form": "Hoof",
+    "Type": "Other",
+    "Range": 6,
+    "AdditionalAttack": 1,
+    "AttackBonus": 10,
+    "Weapon": null,
+    "BasicDamage": "1d2",
+    "DamageAdditiveBonus": 6,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 557,
+    "Creature": "Centaur 7 Archer",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 54,
+    "AdditionalAttack": 2,
+    "AttackBonus": 15,
+    "Weapon": "Composite Longbow",
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 6,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 558,
+    "Creature": "Centaur 7 Archer",
+    "Form": "Hoof",
+    "Type": "Other",
+    "Range": 6,
+    "AdditionalAttack": 1,
+    "AttackBonus": 11,
+    "Weapon": null,
+    "BasicDamage": "1d2",
+    "DamageAdditiveBonus": 3,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]
