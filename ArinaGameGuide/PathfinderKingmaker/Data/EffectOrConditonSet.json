@@ -108,5 +108,10 @@
     "ID": 22,
     "Name": "Ooze Immunites",
     "CName": ""
+  },
+  {
+    "ID": 23,
+    "Name": "Haste",
+    "CName": ""
   }
 ]

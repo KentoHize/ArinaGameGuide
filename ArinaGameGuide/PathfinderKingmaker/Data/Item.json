@@ -12425,5 +12425,39 @@
     "StoryItem": false,
     "Weight": 0.25,
     "Description": ""
+  },
+  {
+    "ID": 732,
+    "Name": "Boots of the Creeping Death",
+    "DisplayName": "Boots of the Creeping Death",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Boots",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 3457,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 1.0,
+    "Description": "+5 competence Steath\nGreat Invisibility 1/Day"
+  },
+  {
+    "ID": 733,
+    "Name": "Scroll of Acid Maw",
+    "DisplayName": "Scroll of Acid Maw",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Scroll",
+    "SpecialMaterial": null,
+    "CasterLevel": 1,
+    "Charges": 1,
+    "DC": null,
+    "SellPrice": 6,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 0.2,
+    "Description": ""
   }
 ]

@@ -29,7 +29,10 @@ export async function Initialize(div, id1, id2) {
     let ts = (await import(`../Data/Treasure.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
     let is = (await import(`../Data/ItemStack.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
     let isi = (await import(`../Data/ItemStackItem.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
-    let tr = (await import(`../Data/Trap.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
+    let tr = (await import(`../Data/Trap.json${Unity.GetRandomString()}`, { assert: { type: `json` } })).default;
+
+    let eocsc = (await import(`../Data/EffectOrConditionSetEffectOrCondition.json${Unity.GetRandomString()}`, { assert: { type: `json` } })).default;
+    //EffectOrConditionSetEffectOrCondition
     Unity.DataMain = pl.find(m => m.Name == id1);
 
 
@@ -90,6 +93,7 @@ export async function Initialize(div, id1, id2) {
     
     Unity.Data.sort((a, b) => Unity.SortPosition(a.key, b.key));
     stages.sort();
+    Unity.Data2 = eocsc;
     //Display
     DisplayDetail(div, `mainDiv`, id1, stages);
 }
@@ -121,8 +125,15 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
                     child2.addEventListener(`click`, () => { loadDataContent(mdiv, Unity.PageName, 'Creature', Unity.Data[i].value[j].data.cgc[k].Creature); });
                     child2.textContent = `${Unity.Data[i].value[j].data.cgc[k].Creature}`;
                     child.appendChild(child2);
+                    if (Unity.Data[i].value[j].data.cgc[k].AdditionalEffectOrConditions != null) {
+                        for (let l = 0; l < Unity.Data2.length; l++) {
+                            if (Unity.Data[i].value[j].data.cgc[k].AdditionalEffectOrConditions == Unity.Data2[l].EffectOrConditionSet) {
+                                child.appendChild(document.createTextNode(`(${Unity.Data2[l].EffectOrCondition})`));
+                            }
+                        }
+                    }
                     if (Unity.Data[i].value[j].data.cgc[k].Quantity != 1) {
-                        t2 = document.createTextNode(`  x${Unity.Data[i].value[j].data.cgc[k].Quantity}`);
+                        t2 = document.createTextNode(` x${Unity.Data[i].value[j].data.cgc[k].Quantity}`);
                         child.appendChild(t2);
                     }
                     parent.appendChild(child);

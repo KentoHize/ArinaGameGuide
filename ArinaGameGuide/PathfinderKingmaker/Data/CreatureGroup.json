@@ -4502,5 +4502,53 @@
     "Position": "East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 564,
+    "Name": "City of Hollow Eyes(Varnhold) Group F",
+    "Place": "City of Hollow Eyes(Varnhold)",
+    "Position": "South East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 565,
+    "Name": "Pale Yan Group",
+    "Place": "City of Hollow Eyes(Varnhold)",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 566,
+    "Name": "City of Hollow Eyes(Varnhold) Group G",
+    "Place": "City of Hollow Eyes(Varnhold)",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 567,
+    "Name": "City of Hollow Eyes(Varnhold) Group H",
+    "Place": "City of Hollow Eyes(Varnhold)",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 568,
+    "Name": "City of Hollow Eyes(Varnhold) Group I",
+    "Place": "City of Hollow Eyes(Varnhold)",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 569,
+    "Name": "City of Hollow Eyes(Varnhold) Group J",
+    "Place": "City of Hollow Eyes(Varnhold)",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

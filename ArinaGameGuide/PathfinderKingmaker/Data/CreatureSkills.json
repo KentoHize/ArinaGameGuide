@@ -4786,5 +4786,65 @@
     "Creature": "Huge Earth Elemental",
     "Skill": "Perception",
     "Bonus": 19
+  },
+  {
+    "ID": 800,
+    "Creature": "Dread Skeleton Elite",
+    "Skill": "Perception",
+    "Bonus": 11
+  },
+  {
+    "ID": 801,
+    "Creature": "Dread Skeleton Elite",
+    "Skill": "Stealth",
+    "Bonus": 1
+  },
+  {
+    "ID": 802,
+    "Creature": "Pale Yan",
+    "Skill": "Perception",
+    "Bonus": 22
+  },
+  {
+    "ID": 803,
+    "Creature": "Pale Yan",
+    "Skill": "Stealth",
+    "Bonus": 22
+  },
+  {
+    "ID": 804,
+    "Creature": "Ferocious Worg",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 805,
+    "Creature": "Ferocious Worg",
+    "Skill": "Stealth",
+    "Bonus": 13
+  },
+  {
+    "ID": 806,
+    "Creature": "Cyclops 13",
+    "Skill": "Lore(Nature)",
+    "Bonus": 19
+  },
+  {
+    "ID": 807,
+    "Creature": "Cyclops 13",
+    "Skill": "Perception",
+    "Bonus": 23
+  },
+  {
+    "ID": 808,
+    "Creature": "Ferocious Manticore",
+    "Skill": "Lore(Nature)",
+    "Bonus": 11
+  },
+  {
+    "ID": 809,
+    "Creature": "Ferocious Manticore",
+    "Skill": "Perception",
+    "Bonus": 18
   }
 ]

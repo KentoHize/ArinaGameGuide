@@ -518,5 +518,10 @@
     "ID": 104,
     "EffectOrConditionSet": "Ooze Immunites",
     "EffectOrCondition": "Sleep"
+  },
+  {
+    "ID": 105,
+    "EffectOrConditionSet": "Haste",
+    "EffectOrCondition": "Haste"
   }
 ]

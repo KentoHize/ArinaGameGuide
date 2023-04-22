@@ -53,6 +53,8 @@ export async function Initialize(div, id1, id2) {
     document.getElementById(`cmb`).textContent = c.CombatManeuverBonus;
     document.getElementById(`cmd`).textContent = c.CombatManeuverDefense;
     document.getElementById(`sr`).textContent = c.SpellResistance == null ? `-` : c.SpellResistance;
+    document.getElementById(`skinItem`).textContent = c.SkinItem == null ? `-` : c.SkinItem;
+    document.getElementById(`skinDC`).textContent = c.SkinDC == null ? `-` : c.SkinDC;
 
 
     let ctab = (await import(`../Data/CreatureAbilities.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
@@ -83,7 +85,7 @@ export async function Initialize(div, id1, id2) {
     ed = document.getElementById(`conditionDiv`)
     for (let i = 0; i < ctec.length; i++) {
         if (ctec[i].Creature == id1)
-            writeBlock(ed, `${ctec[i].EffectOrCondition} ${ctec[i].Amount != null ? ctec[i].Amount : ``}`);
+            writeBlock(ed, `${ctec[i].EffectOrCondition} ${ctec[i].Amount != null ? ctec[i].Amount : ``}`);        
     }
     if (ed.textContent == ``)
         document.getElementById(`conditionTbl`).remove();
@@ -130,7 +132,7 @@ export async function Initialize(div, id1, id2) {
             }
         }
     }
-    if (ed.textContent == ``)
+    if (ed.innerHTML == `` && document.getElementById(`dmgAdjustDiv`).innerHTML == ``)
         document.getElementById(`immunityTbl`).remove();
     //let tr = document.createElement(`tr`);
     //document.getElementById(`lSR`).parentElement.insertAdjacentElement(`afterend`, tr);

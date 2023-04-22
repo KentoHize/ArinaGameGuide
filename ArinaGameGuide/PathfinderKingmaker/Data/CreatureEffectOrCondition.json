@@ -288,15 +288,6 @@
     "VulnearTo2": null
   },
   {
-    "ID": 28,
-    "Creature": "Venomanticore",
-    "EffectOrCondition": "Haste",
-    "Amount": null,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
     "ID": 30,
     "Creature": "Venomanticore",
     "EffectOrCondition": "Invisibility",
@@ -686,15 +677,6 @@
   {
     "ID": 78,
     "Creature": "Poisonous Primal Hydra",
-    "EffectOrCondition": "Blur",
-    "Amount": null,
-    "Period": null,
-    "VulnearTo1": null,
-    "VulnearTo2": null
-  },
-  {
-    "ID": 79,
-    "Creature": "Primal Manticore",
     "EffectOrCondition": "Blur",
     "Amount": null,
     "Period": null,

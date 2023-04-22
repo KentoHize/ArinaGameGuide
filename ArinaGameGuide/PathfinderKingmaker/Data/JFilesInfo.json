@@ -2724,7 +2724,7 @@
           "IsUnique": false
         },
         {
-          "Name": "AdditonalItems",
+          "Name": "AdditionalItems",
           "IsKey": false,
           "IsNullable": true,
           "Type": "String",
@@ -2742,7 +2742,7 @@
           "IsUnique": false
         },
         {
-          "Name": "AddtionalEffectOrConditions",
+          "Name": "AdditionalEffectOrConditions",
           "IsKey": false,
           "IsNullable": true,
           "Type": "String",

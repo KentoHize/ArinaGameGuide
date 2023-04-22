@@ -7,6 +7,7 @@ export class Unity {
     static BrowsingHistoryPage = 0;
     static DataMain = {};
     static Data = [];
+    static Data2 = [];
     static DebugMode = 1;
     
     static GetRandomString() {

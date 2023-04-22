@@ -3505,5 +3505,12 @@
     "Type": "DamageReduction",
     "DamageType": "None",
     "Amount": 5
+  },
+  {
+    "ID": 502,
+    "Creature": "Dread Skeleton Elite",
+    "Type": "DamageReduction",
+    "DamageType": "Bludgeon",
+    "Amount": null
   }
 ]

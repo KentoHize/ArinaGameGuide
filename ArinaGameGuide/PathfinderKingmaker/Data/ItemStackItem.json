@@ -11310,5 +11310,157 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1418,
+    "ItemStack": "Pale Yan RS",
+    "Item": "Ruby",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1419,
+    "ItemStack": "Pale Yan RS",
+    "Item": "Emerald",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1420,
+    "ItemStack": "Pale Yan RS",
+    "Item": "Dagger +1",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1421,
+    "ItemStack": "Pale Yan RS",
+    "Item": "Chainshirt +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1422,
+    "ItemStack": "Pale Yan RS",
+    "Item": "Belt of Incredible Dexterity +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1423,
+    "ItemStack": "Pale Yan RS",
+    "Item": "Boots of the Creeping Death",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1424,
+    "ItemStack": "Pale Yan RS",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1425,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure B",
+    "Item": "Shock Dagger +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1426,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure B",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1427,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure C",
+    "Item": "Amulet of Natural Armor +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1428,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure C",
+    "Item": "Potion of Barkskin",
+    "RandomItem": null,
+    "Quantity": 4,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1429,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure C",
+    "Item": "Potion of Cure Light Wounds",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1430,
+    "ItemStack": "MV + GA + HA",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1431,
+    "ItemStack": "MV + GA + HA",
+    "Item": "Greataxe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1432,
+    "ItemStack": "MV + GA + HA",
+    "Item": "Hide Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1433,
+    "ItemStack": "Chainshirt +2",
+    "Item": "Chainshirt +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1434,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure E",
+    "Item": "Scroll of Acid Maw",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1435,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure E",
+    "Item": "Potion of Protection from Evil",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1436,
+    "ItemStack": "City of Hollow Eyes(Varnhold) Treasure E",
+    "Item": "Coal",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]
