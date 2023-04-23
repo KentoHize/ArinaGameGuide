@@ -2633,5 +2633,30 @@
     "ID": 251,
     "Name": "Zorek RS",
     "Memo": ""
+  },
+  {
+    "ID": 529,
+    "Name": "RS + LCB",
+    "Memo": ""
+  },
+  {
+    "ID": 530,
+    "Name": "PoPfE + LCB + 2AF + 2AF + CS",
+    "Memo": ""
+  },
+  {
+    "ID": 531,
+    "Name": "MV + MSS + LS + HA",
+    "Memo": ""
+  },
+  {
+    "ID": 532,
+    "Name": "The Tomb's Threshold Treasure A",
+    "Memo": ""
+  },
+  {
+    "ID": 533,
+    "Name": "Ring of Protection +2",
+    "Memo": ""
   }
 ]

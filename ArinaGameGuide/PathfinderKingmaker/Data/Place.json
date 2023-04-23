@@ -3534,5 +3534,21 @@
     "HasPlot": true,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 223,
+    "Name": "Lostlarn Keep Upper Reachs",
+    "DisplayName": "Lostlarn Keep Upper Reachs",
+    "CName": "",
+    "Entrance": "The Tomb's Threshold",
+    "Type": "Dungeon",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": "Perception 27"
   }
 ]

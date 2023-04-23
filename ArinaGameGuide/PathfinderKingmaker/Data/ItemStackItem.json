@@ -11846,5 +11846,117 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1485,
+    "ItemStack": "RS + LCB",
+    "Item": null,
+    "RandomItem": "Random Scroll",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1486,
+    "ItemStack": "RS + LCB",
+    "Item": "Light Crossbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1487,
+    "ItemStack": "PoPfE + LCB + 2AF + 2AF + CS",
+    "Item": "Potion of Protection from Electricity",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1488,
+    "ItemStack": "PoPfE + LCB + 2AF + 2AF + CS",
+    "Item": "Light Crossbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1489,
+    "ItemStack": "PoPfE + LCB + 2AF + 2AF + CS",
+    "Item": "Acid Flask",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1490,
+    "ItemStack": "PoPfE + LCB + 2AF + 2AF + CS",
+    "Item": "Alchemist's Fire",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1491,
+    "ItemStack": "PoPfE + LCB + 2AF + 2AF + CS",
+    "Item": "Chainshirt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1492,
+    "ItemStack": "MV + MSS + LS + HA",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1493,
+    "ItemStack": "MV + MSS + LS + HA",
+    "Item": "Masterwork Shortspear",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1494,
+    "ItemStack": "MV + MSS + LS + HA",
+    "Item": "Light Shield",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1495,
+    "ItemStack": "MV + MSS + LS + HA",
+    "Item": "Hide Armor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1496,
+    "ItemStack": "The Tomb's Threshold Treasure A",
+    "Item": "Cloak of Resistance +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1497,
+    "ItemStack": "The Tomb's Threshold Treasure A",
+    "Item": "Corrosive Punching Dagger +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1498,
+    "ItemStack": "Ring of Protection +2",
+    "Item": "Ring of Protection +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

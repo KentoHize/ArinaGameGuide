@@ -4966,5 +4966,41 @@
     "Creature": "Centaur 9 Archer",
     "Skill": "Perception",
     "Bonus": 21
+  },
+  {
+    "ID": 830,
+    "Creature": "Centaur 4",
+    "Skill": "Lore(Nature)",
+    "Bonus": 11
+  },
+  {
+    "ID": 831,
+    "Creature": "Centaur 4",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 832,
+    "Creature": "Bandit 7 Necromancer",
+    "Skill": "Perception",
+    "Bonus": 16
+  },
+  {
+    "ID": 833,
+    "Creature": "Bandit 7 Necromancer",
+    "Skill": "Stealth",
+    "Bonus": 10
+  },
+  {
+    "ID": 834,
+    "Creature": "Centaur Nature Whisperer",
+    "Skill": "Lore(Nature)",
+    "Bonus": 24
+  },
+  {
+    "ID": 835,
+    "Creature": "Centaur Nature Whisperer",
+    "Skill": "Perception",
+    "Bonus": 26
   }
 ]

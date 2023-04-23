@@ -4062,5 +4062,37 @@
     "Importance": "Very Good",
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 256,
+    "Name": "The Tomb's Threshold Treasure A",
+    "CName": "",
+    "Type": "Other",
+    "Place": "The Tomb's Threshold",
+    "Position": "South East",
+    "ItemStack": "The Tomb's Threshold Treasure A",
+    "PerceptionDC": 24,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "Very Good",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 257,
+    "Name": "The Tomb's Threshold Treasure B",
+    "CName": "",
+    "Type": "Other",
+    "Place": "The Tomb's Threshold",
+    "Position": "North East",
+    "ItemStack": "Ring of Protection +2",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": 22,
+    "Importance": "Very Good",
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

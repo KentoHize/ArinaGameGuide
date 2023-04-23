@@ -4662,5 +4662,45 @@
     "Position": "West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 584,
+    "Name": "The Tomb's Threshold Group C",
+    "Place": "The Tomb's Threshold",
+    "Position": "South East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 585,
+    "Name": "The Tomb's Threshold Group D",
+    "Place": "The Tomb's Threshold",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 586,
+    "Name": "The Tomb's Threshold Group E",
+    "Place": "The Tomb's Threshold",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 587,
+    "Name": "Aecora Silverfire Group",
+    "Place": "The Tomb's Threshold",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 588,
+    "Name": "Lostlarn Keep Upper Reachs Group A",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "South East",
+    "Stage": 0,
+    "Memo": ""
   }
 ]
