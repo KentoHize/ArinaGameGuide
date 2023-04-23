@@ -102,6 +102,7 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
     let parent, child, child2, t, t2;
     
     let div = document.getElementById(divID);    
+    let s = ``;
     div.innerHTML = ``;
 
     for (let i = 0; i < Unity.Data.length; i++) {
@@ -123,7 +124,10 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
                     child2 = document.createElement(`a`);
                     child2.href = `javascript:;`;
                     child2.addEventListener(`click`, () => { loadDataContent(mdiv, Unity.PageName, 'Creature', Unity.Data[i].value[j].data.cgc[k].Creature); });
-                    child2.textContent = `${Unity.Data[i].value[j].data.cgc[k].Creature}`;
+                    if (Unity.Data[i].value[j].data.cgc[k].DisplayName == null)
+                        child2.textContent = `${Unity.Data[i].value[j].data.cgc[k].Creature}`
+                    else
+                        child2.textContent = `${Unity.Data[i].value[j].data.cgc[k].Creature}(${ Unity.Data[i].value[j].data.cgc[k].DisplayName })`;
                     child.appendChild(child2);
                     if (Unity.Data[i].value[j].data.cgc[k].AdditionalEffectOrConditions != null) {
                         for (let l = 0; l < Unity.Data2.length; l++) {
@@ -142,10 +146,23 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
             else if (Unity.Data[i].value[j].type == `TS`) {
                 haveStuff = 1;
                 parent.setAttribute(`class`, `divGroup1`);
-                parent.appendChild(document.createTextNode('Treasure'));
+                s = ``;
+                if (Unity.Data[i].value[j].data.ts.Importance != null)
+                    s += `Quality:${Unity.Data[i].value[j].data.ts.Importance} `;
+                if (Unity.Data[i].value[j].data.ts.PerceptionDC != null)
+                    s += `Perception:${Unity.Data[i].value[j].data.ts.PerceptionDC} `;
+                if (Unity.Data[i].value[j].data.ts.TrapDC != null)
+                    s += `Disarm Trap:${Unity.Data[i].value[j].data.ts.TrapDC} `;
+                if (Unity.Data[i].value[j].data.ts.LockDC != null)
+                    s += `Lock:${Unity.Data[i].value[j].data.ts.LockDC} `;
+                if(s == ``)
+                    parent.appendChild(document.createTextNode(`${Unity.Data[i].value[j].data.ts.Type} Treasure`));
+                else
+                    parent.appendChild(document.createTextNode(`${Unity.Data[i].value[j].data.ts.Type} Treasure (${s})`));
                 parent.appendChild(document.createElement(`br`));
                 for (let k = 0; k < Unity.Data[i].value[j].data.isi.length; k++) {
                     child = document.createElement(`div`);
+                    
                     //child.appendChild(document.createTextNode('T '));
                     let a = document.createElement(`a`);
                     a.href = `javascript:;`;

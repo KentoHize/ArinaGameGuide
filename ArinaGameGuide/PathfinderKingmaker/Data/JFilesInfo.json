@@ -2785,6 +2785,7 @@
           "Choices": [
             "1",
             "2",
+            "3",
             "None",
             "Ally"
           ],
@@ -5816,6 +5817,24 @@
           "Description": null,
           "MinValue": null,
           "MaxValue": null,
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        },
+        {
+          "Name": "Entrance",
+          "IsKey": false,
+          "IsNullable": true,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": "Place",
+          "FKColumn": "Name",
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
           "MaxLength": 0,
           "AutoGenerateKey": false,
           "IsUnique": false

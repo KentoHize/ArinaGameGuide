@@ -4141,7 +4141,7 @@
   },
   {
     "ID": 462,
-    "Creature": "Centaur Patrol Lieutenant",
+    "Creature": "Centaur 8 Barbarian",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -4150,7 +4150,7 @@
   },
   {
     "ID": 463,
-    "Creature": "Centaur Patrol Lieutenant",
+    "Creature": "Centaur 8 Barbarian",
     "Ability": "Lethal Stance",
     "Amount": null,
     "DamageType1": null,
@@ -4159,7 +4159,7 @@
   },
   {
     "ID": 464,
-    "Creature": "Centaur Patrol Lieutenant",
+    "Creature": "Centaur 8 Barbarian",
     "Ability": "Rage",
     "Amount": null,
     "DamageType1": null,
@@ -4170,6 +4170,87 @@
     "ID": 465,
     "Creature": "Nightmare Skeleton Soldier",
     "Ability": "Combat Reflex",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 466,
+    "Creature": "Rat Swarm",
+    "Ability": "Rat Swarm",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 467,
+    "Creature": "Bandit 5 Rogue Archer",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 468,
+    "Creature": "Bandit 5 Rogue Archer",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 469,
+    "Creature": "Bandit 5 Rogue Fighter",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 470,
+    "Creature": "Bandit 5 Barbarian",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 471,
+    "Creature": "Bandit 5 Barbarian",
+    "Ability": "Reckless Stance",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 472,
+    "Creature": "Bandit 5 Barbarian",
+    "Ability": "Rage",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 473,
+    "Creature": "Bandit 5 Fighter",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 474,
+    "Creature": "Centaur 9 Archer",
+    "Ability": "Rapid Shot",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,

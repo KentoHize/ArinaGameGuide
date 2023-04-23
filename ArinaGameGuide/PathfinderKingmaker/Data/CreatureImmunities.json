@@ -1714,5 +1714,11 @@
     "Creature": "Huge Earth Elemental",
     "Condition": null,
     "ConditionGroup": "Elemental Immunities"
+  },
+  {
+    "ID": 307,
+    "Creature": "Rat Swarm",
+    "Condition": null,
+    "ConditionGroup": "Swarm Immunities"
   }
 ]

@@ -4582,5 +4582,85 @@
     "Position": "Center",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 574,
+    "Name": "Blackstones Ford Cave Group A",
+    "Place": "Blackstones Ford Cave",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 575,
+    "Name": "Old Stump Story Group",
+    "Place": "Old Stump",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": "約略"
+  },
+  {
+    "ID": 576,
+    "Name": "Old Stump Group B",
+    "Place": "Old Stump",
+    "Position": "North East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 577,
+    "Name": "Old Stump Group C",
+    "Place": "Old Stump",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 578,
+    "Name": "Old Stump Group D",
+    "Place": "Old Stump",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 579,
+    "Name": "Old Stump Group E",
+    "Place": "Old Stump",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 580,
+    "Name": "Old Stump Group F",
+    "Place": "Old Stump",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 581,
+    "Name": "Zordesh Group",
+    "Place": "Cultist's Shrine",
+    "Position": "Center",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 582,
+    "Name": "The Tomb's Threshold Group A",
+    "Place": "The Tomb's Threshold",
+    "Position": "South West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 583,
+    "Name": "The Tomb's Threshold Group B",
+    "Place": "The Tomb's Threshold",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

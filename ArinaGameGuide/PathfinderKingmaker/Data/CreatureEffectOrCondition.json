@@ -1402,5 +1402,23 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 161,
+    "Creature": "Bandit 7 Alchemist",
+    "EffectOrCondition": "Mutagen - Dexterity",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 162,
+    "Creature": "Bandit 7 Alchemist",
+    "EffectOrCondition": "Barskin",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

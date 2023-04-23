@@ -4849,13 +4849,13 @@
   },
   {
     "ID": 810,
-    "Creature": "Centaur Patrol Lieutenant",
+    "Creature": "Centaur 8 Barbarian",
     "Skill": "Lore(Nature)",
     "Bonus": 10
   },
   {
     "ID": 811,
-    "Creature": "Centaur Patrol Lieutenant",
+    "Creature": "Centaur 8 Barbarian",
     "Skill": "Perception",
     "Bonus": 18
   },
@@ -4870,5 +4870,101 @@
     "Creature": "Centaur 7 Archer",
     "Skill": "Perception",
     "Bonus": 19
+  },
+  {
+    "ID": 814,
+    "Creature": "Bandit 5 Rogue Archer",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 815,
+    "Creature": "Bandit 5 Rogue Archer",
+    "Skill": "Stealth",
+    "Bonus": 12
+  },
+  {
+    "ID": 816,
+    "Creature": "Bandit 5 Barbarian",
+    "Skill": "Perception",
+    "Bonus": 15
+  },
+  {
+    "ID": 817,
+    "Creature": "Bandit 5 Barbarian",
+    "Skill": "Stealth",
+    "Bonus": 5
+  },
+  {
+    "ID": 818,
+    "Creature": "Bandit 5 Fighter",
+    "Skill": "Perception",
+    "Bonus": 12
+  },
+  {
+    "ID": 819,
+    "Creature": "Bandit 5 Fighter",
+    "Skill": "Stealth",
+    "Bonus": 3
+  },
+  {
+    "ID": 820,
+    "Creature": "Bandit 7 Alchemist",
+    "Skill": "Perception",
+    "Bonus": 17
+  },
+  {
+    "ID": 821,
+    "Creature": "Bandit 7 Alchemist",
+    "Skill": "Stealth",
+    "Bonus": 13
+  },
+  {
+    "ID": 822,
+    "Creature": "Bandit 7 Alchemist",
+    "Skill": "Trickery",
+    "Bonus": 18
+  },
+  {
+    "ID": 823,
+    "Creature": "Bandit 5 Alchemist B",
+    "Skill": "Perception",
+    "Bonus": 13
+  },
+  {
+    "ID": 824,
+    "Creature": "Bandit 5 Alchemist B",
+    "Skill": "Stealth",
+    "Bonus": 10
+  },
+  {
+    "ID": 825,
+    "Creature": "Bandit 5 Alchemist B",
+    "Skill": "Trickery",
+    "Bonus": 14
+  },
+  {
+    "ID": 826,
+    "Creature": "Centaur 9 Fighter",
+    "Skill": "Lore(Nature)",
+    "Bonus": 17
+  },
+  {
+    "ID": 827,
+    "Creature": "Centaur 9 Fighter",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 828,
+    "Creature": "Centaur 9 Archer",
+    "Skill": "Lore(Nature)",
+    "Bonus": 17
+  },
+  {
+    "ID": 829,
+    "Creature": "Centaur 9 Archer",
+    "Skill": "Perception",
+    "Bonus": 21
   }
 ]

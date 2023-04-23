@@ -488,5 +488,12 @@
     "CName": "",
     "DC": "",
     "Description": ""
+  },
+  {
+    "ID": 71,
+    "Name": "Rat Swarm",
+    "CName": "",
+    "DC": "",
+    "Description": "Nauseated 1 Round Fort Save\nFilith Fever 1d3 Dex 1d3 Con"
   }
 ]

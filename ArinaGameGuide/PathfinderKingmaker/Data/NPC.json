@@ -240,5 +240,27 @@
     "AsCreature": null,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 23,
+    "Name": "Mytko",
+    "CName": "",
+    "Gender": "Male",
+    "Place": "Blackstones Ford",
+    "Position": null,
+    "AsCreature": null,
+    "Description": "Varnhold",
+    "Memo": ""
+  },
+  {
+    "ID": 24,
+    "Name": "Yorgesh",
+    "CName": "",
+    "Gender": "Male",
+    "Place": "Blackstones Ford",
+    "Position": null,
+    "AsCreature": null,
+    "Description": "Varnhold",
+    "Memo": ""
   }
 ]

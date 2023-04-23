@@ -11582,5 +11582,269 @@
     "RandomItem": null,
     "Quantity": 2400,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1452,
+    "ItemStack": "A Little Key",
+    "Item": "A Little Key",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1453,
+    "ItemStack": "Blackstones Ford Cave Treasure B",
+    "Item": "Scroll of Color Spray",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1454,
+    "ItemStack": "Blackstones Ford Cave Treasure B",
+    "Item": "Agate",
+    "RandomItem": null,
+    "Quantity": 12,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1455,
+    "ItemStack": "Blackstones Ford Cave Treasure B",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 1770,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1456,
+    "ItemStack": "Blackstones Ford Cave Treasure B",
+    "Item": "Ruby",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1457,
+    "ItemStack": "Blackstones Ford Inn First Floor Treasure A",
+    "Item": "Artificial flower",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1458,
+    "ItemStack": "Blackstones Ford Inn First Floor Treasure A",
+    "Item": "Camping supplies and rations",
+    "RandomItem": null,
+    "Quantity": 12,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1459,
+    "ItemStack": "Blackstones Ford Inn First Floor Treasure A",
+    "Item": "Clear Quartz",
+    "RandomItem": null,
+    "Quantity": 5,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1460,
+    "ItemStack": "Blackstones Ford Inn First Floor Treasure A",
+    "Item": "Scroll of Flare Burst",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1461,
+    "ItemStack": "Blackstones Ford Inn First Floor Treasure A",
+    "Item": "Incense",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1462,
+    "ItemStack": "Blackstones Ford Inn First Floor Treasure A",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 432,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1463,
+    "ItemStack": "Club",
+    "Item": "Club",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1464,
+    "ItemStack": "Handaxe",
+    "Item": "Handaxe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1465,
+    "ItemStack": "Sickle",
+    "Item": "Sickle",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1466,
+    "ItemStack": "Zordesh RS",
+    "Item": "Moonstone",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1467,
+    "ItemStack": "Zordesh RS",
+    "Item": "Jade",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1468,
+    "ItemStack": "Zordesh RS",
+    "Item": "Citrine",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1469,
+    "ItemStack": "Zordesh RS",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 10,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1470,
+    "ItemStack": "Zordesh RS",
+    "Item": "Bloodstone",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1471,
+    "ItemStack": "Zordesh RS",
+    "Item": "Dagger +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1472,
+    "ItemStack": "Zordesh RS",
+    "Item": "Headband of Vast Intelligence +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1473,
+    "ItemStack": "Zordesh RS",
+    "Item": "Amulet of Natural Armor +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1474,
+    "ItemStack": "Zordesh RS",
+    "Item": "Ring of Protection +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1475,
+    "ItemStack": "PoPfA + LCB + 2AF + 2AF + SL",
+    "Item": "Potion of Protection from Arrows",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1476,
+    "ItemStack": "PoPfA + LCB + 2AF + 2AF + SL",
+    "Item": "Light Crossbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1477,
+    "ItemStack": "PoPfA + LCB + 2AF + 2AF + SL",
+    "Item": "Acid Flask",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1478,
+    "ItemStack": "PoPfA + LCB + 2AF + 2AF + SL",
+    "Item": "Alchemist's Fire",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1479,
+    "ItemStack": "PoPfA + LCB + 2AF + 2AF + SL",
+    "Item": "Studded Leather",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1480,
+    "ItemStack": "Cultist's Shrine Treasure A",
+    "Item": "Emerald",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1481,
+    "ItemStack": "Cultist's Shrine Treasure A",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 2850,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1482,
+    "ItemStack": "MV + MGS + BP",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1483,
+    "ItemStack": "MV + MGS + BP",
+    "Item": "Masterwork Greatsword",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1484,
+    "ItemStack": "MV + MGS + BP",
+    "Item": "Breastplate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]
