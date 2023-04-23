@@ -14958,5 +14958,27 @@
     "AdditionalEffectOrConditions": null,
     "ExpMultiplier": null,
     "Team": "1"
+  },
+  {
+    "ID": 1364,
+    "CreatureGroup": "Varnhold(Varnhold) Revolution Group",
+    "Creature": "Human 2 Humanoid",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1365,
+    "CreatureGroup": "Varnhold(Varnhold) Revolution Group",
+    "Creature": "Human 2 Humanoid",
+    "DisplayName": "Fisherman",
+    "Quantity": 3,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
   }
 ]

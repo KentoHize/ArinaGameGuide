@@ -3192,6 +3192,21 @@
     "HardSpotLevelMax": null,
     "HasPlot": true,
     "Description": "",
-    "Memo": "15 Perception 16 Knowledge(World)\n\n18 Perception\n\nLeave -> \n1.\n2. -> Lore(Nature) 20"
+    "Memo": "15 Perception 16 Knowledge(World)\n\n18 Perception\n\nLeave -> \n1.\n2. -> Lore(Nature) 20 -> Mobility 20 or Stelath 20\n->...-> 900 EXP"
+  },
+  {
+    "ID": 215,
+    "Name": "Varnhold(Varnhold)",
+    "DisplayName": "Varnhold",
+    "CName": "",
+    "Type": "Safe Area",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": "Perception(10) -> Knowledge(Arcana) 15 Self\nKownledge(World) 19 Self\nor Lore(Religion) 19 Self\n\nFailed\nDiplomancy 27 Self\nIntimidate 27 Self\nBluff 27 Self\n\nSuceess will change DC\nBetter Battle"
   }
 ]

@@ -7264,5 +7264,19 @@
     "DamageAdditiveBonus": 3,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 559,
+    "Creature": "Human 2 Humanoid",
+    "Form": "Bludgeoning Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AdditionalAttack": 0,
+    "AttackBonus": 7,
+    "Weapon": "Club",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 3,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

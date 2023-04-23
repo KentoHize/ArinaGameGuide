@@ -12612,5 +12612,22 @@
     "StoryItem": false,
     "Weight": 0.05,
     "Description": ""
+  },
+  {
+    "ID": 743,
+    "Name": "Club",
+    "DisplayName": "Club",
+    "DisplayCName": "",
+    "Type": null,
+    "BaseItem": "Club",
+    "SpecialMaterial": null,
+    "CasterLevel": null,
+    "Charges": null,
+    "DC": null,
+    "SellPrice": 1,
+    "ChangePrice": 0,
+    "StoryItem": false,
+    "Weight": 3.0,
+    "Description": ""
   }
 ]
