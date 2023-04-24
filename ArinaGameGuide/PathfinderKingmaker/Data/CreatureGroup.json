@@ -4718,5 +4718,93 @@
     "Position": "West",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 591,
+    "Name": "Lostlarn Keep Upper Reachs Group D",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 592,
+    "Name": "Lostlarn Keep Upper Reachs Group E",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 593,
+    "Name": "Lostlarn Keep Upper Reachs Group F",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 594,
+    "Name": "Lostlarn Keep Upper Reachs Group G",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 595,
+    "Name": "Lostlarn Keep Upper Reachs Great Nightmare",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "East",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 596,
+    "Name": "Lostlarn Keep Upper Reachs Group H",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "North West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 597,
+    "Name": "Lostlarn Keep Upper Reachs Group I",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 598,
+    "Name": "Lostlarn Keep Upper Reachs Elder Earth Elemental",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "West",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 599,
+    "Name": "Lostlarn Keep Upper Reachs Ankou",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "Center",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 600,
+    "Name": "Lostlarn Keep Upper Reachs Lower Level Group A",
+    "Place": "Lostlarn Keep Upper Reachs Lower Level",
+    "Position": "East",
+    "Stage": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 601,
+    "Name": "Lostlarn Keep Upper Bogeyman",
+    "Place": "Lostlarn Keep Upper Reachs Lower Level",
+    "Position": "Center",
+    "Stage": 1,
+    "Memo": ""
   }
 ]

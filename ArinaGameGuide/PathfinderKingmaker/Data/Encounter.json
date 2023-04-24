@@ -826,5 +826,17 @@
     "EnemyGroup3": "The Lantern King Group C",
     "EnemyGroup4": "The Lantern King",
     "Memo": ""
+  },
+  {
+    "ID": 70,
+    "Name": "Lostlarn Keep Upper Reachs Group D",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "East",
+    "HasPlot": false,
+    "EnemyGroup1": "Lostlarn Keep Upper Reachs Group D",
+    "EnemyGroup2": "Lostlarn Keep Upper Reachs Group E",
+    "EnemyGroup3": null,
+    "EnemyGroup4": null,
+    "Memo": ""
   }
 ]

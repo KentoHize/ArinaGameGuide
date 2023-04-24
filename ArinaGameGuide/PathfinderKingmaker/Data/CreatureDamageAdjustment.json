@@ -3540,5 +3540,47 @@
     "Type": "Vulnerability",
     "DamageType": "Magic Missile",
     "Amount": null
+  },
+  {
+    "ID": 507,
+    "Creature": "Hell Hound 7",
+    "Type": "DamageReduction",
+    "DamageType": "Good",
+    "Amount": 5
+  },
+  {
+    "ID": 508,
+    "Creature": "Hell Hound 7",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 509,
+    "Creature": "Hell Hound 7",
+    "Type": "Vulnerability",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 510,
+    "Creature": "Great Nightmare 12",
+    "Type": "DamageReduction",
+    "DamageType": "Good",
+    "Amount": 10
+  },
+  {
+    "ID": 511,
+    "Creature": "Ankou Strong",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 512,
+    "Creature": "Bogeyman",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 15
   }
 ]

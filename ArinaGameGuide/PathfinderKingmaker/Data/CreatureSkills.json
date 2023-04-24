@@ -5026,5 +5026,71 @@
     "Creature": "Will-o'-wisp 9 B",
     "Skill": "Stealth",
     "Bonus": 47
+  },
+  {
+    "ID": 840,
+    "Creature": "Hell Hound 7",
+    "Skill": "Perception",
+    "Bonus": 18
+  },
+  {
+    "ID": 841,
+    "Creature": "Great Nightmare 12",
+    "Skill": "Perception",
+    "Bonus": 30
+  },
+  {
+    "ID": 842,
+    "Creature": "Medium Earth Elemental",
+    "Skill": "Perception",
+    "Bonus": 13
+  },
+  {
+    "ID": 843,
+    "Creature": "Ankou Strong",
+    "Skill": "Perception",
+    "Bonus": 29
+  },
+  {
+    "ID": 844,
+    "Creature": "Ankou Strong",
+    "Skill": "Athletics",
+    "Bonus": 26
+  },
+  {
+    "ID": 845,
+    "Creature": "Ankou Strong",
+    "Skill": "Stealth",
+    "Bonus": 26
+  },
+  {
+    "ID": 846,
+    "Creature": "Bogeyman",
+    "Skill": "Mobility",
+    "Bonus": 29
+  },
+  {
+    "ID": 847,
+    "Creature": "Bogeyman",
+    "Skill": "Lore(Nature)",
+    "Bonus": 27
+  },
+  {
+    "ID": 848,
+    "Creature": "Bogeyman",
+    "Skill": "Perception",
+    "Bonus": 31
+  },
+  {
+    "ID": 849,
+    "Creature": "Bogeyman",
+    "Skill": "Athletics",
+    "Bonus": 22
+  },
+  {
+    "ID": 850,
+    "Creature": "Bogeyman",
+    "Skill": "Stealth",
+    "Bonus": 59
   }
 ]

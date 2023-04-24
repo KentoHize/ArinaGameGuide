@@ -3024,15 +3024,6 @@
     "DC": null
   },
   {
-    "ID": 338,
-    "Creature": "Ooze 8",
-    "Ability": "Protective Aura",
-    "Amount": null,
-    "DamageType1": null,
-    "DamageType2": null,
-    "DC": null
-  },
-  {
     "ID": 339,
     "Creature": "Mimic 22 Alchemist",
     "Ability": "Power Attack",
@@ -4259,6 +4250,15 @@
   {
     "ID": 475,
     "Creature": "Wolf Unknow",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 476,
+    "Creature": "Medium Earth Elemental",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,

@@ -3549,6 +3549,22 @@
     "HardSpotLevelMax": null,
     "HasPlot": true,
     "Description": "",
-    "Memo": "Perception 27"
+    "Memo": "Perception 27\n\nTeleport need caution, ready for battle"
+  },
+  {
+    "ID": 224,
+    "Name": "Lostlarn Keep Upper Reachs Lower Level",
+    "DisplayName": "Lostlarn Keep Upper Reachs",
+    "CName": "",
+    "Entrance": "The Tomb's Threshold",
+    "Type": "Dungeon",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": ""
   }
 ]

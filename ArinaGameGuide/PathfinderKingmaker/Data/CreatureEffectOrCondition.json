@@ -1420,5 +1420,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 163,
+    "Creature": "Bogeyman",
+    "EffectOrCondition": "Blur",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

@@ -1738,5 +1738,17 @@
     "Creature": "Will-o'-wisp 9 B",
     "Condition": "Spell",
     "ConditionGroup": null
+  },
+  {
+    "ID": 311,
+    "Creature": "Medium Earth Elemental",
+    "Condition": null,
+    "ConditionGroup": "Elemental Immunities"
+  },
+  {
+    "ID": 312,
+    "Creature": "Ankou Strong",
+    "Condition": "Spell - Prismatic Spray",
+    "ConditionGroup": null
   }
 ]

@@ -113,5 +113,10 @@
     "ID": 23,
     "Name": "Haste",
     "CName": ""
+  },
+  {
+    "ID": 24,
+    "Name": "Protection Aura",
+    "CName": ""
   }
 ]

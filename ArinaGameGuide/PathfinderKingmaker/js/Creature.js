@@ -219,16 +219,12 @@ export async function Initialize(div, id1, id2) {
         }
         else {
             document.getElementById(`itemsTbl`).remove();
-        }
-        //document.getElementById(`will`).textContent = c.Will;
-        if(c.Memo != ``)
-            document.getElementById(`memoDiv`).textContent = c.Memo;
-        else
-            document.getElementById(`memoTbl`).remove();
-        //document.getElementById(`descriptionDiv`).textContent = c.Memo;
-
-        //document.get
+        }       
     }
+    if (c.Memo != ``)
+        document.getElementById(`memoDiv`).textContent = c.Memo;
+    else
+        document.getElementById(`memoTbl`).remove();
 }
 
 function writeBlock(ed, s, width = 200) {

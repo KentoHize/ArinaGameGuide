@@ -12054,5 +12054,341 @@
     "RandomItem": null,
     "Quantity": 270,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1511,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre D",
+    "Item": "Moonstone",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1512,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre D",
+    "Item": "Scroll of Hurricane Bow",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1513,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre D",
+    "Item": "Scroll of Shield",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1514,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre D",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 35,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1515,
+    "ItemStack": "Amulet of Might Fists +2",
+    "Item": "Amulet of Might Fists +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1516,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre E",
+    "Item": "Gold Ring",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1517,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre E",
+    "Item": "Scroll of Remove Sickness",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1518,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre E",
+    "Item": "Green Quartz",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1519,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre E",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 10,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1520,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre E",
+    "Item": "Scroll of Remove Sickness",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1521,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre E",
+    "Item": "Scroll of Owl's Wisdom",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1522,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre E",
+    "Item": "Potion of Protection from Evil",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1523,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre E",
+    "Item": "Pocket Mirror",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1524,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre F",
+    "Item": "Scroll of Heal",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1526,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre F",
+    "Item": "Potion of Remove Blindness",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1525,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre F",
+    "Item": "Potion of Remove Curse",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1527,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre F",
+    "Item": "Scroll of Stone to Flesh",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1528,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre F",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 781,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1529,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre G",
+    "Item": "Potion of Heroism",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1530,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre G",
+    "Item": "Scroll of Heal, Mass",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1531,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre G",
+    "Item": "Potion of Restoration, Lesser",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1532,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre G",
+    "Item": "Potion of Shield of Faith",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1533,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre G",
+    "Item": "Headband of Vast Intelligence +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1534,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre G",
+    "Item": "Herb Liqueur",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1535,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre G",
+    "Item": "Potion of Protection from Law",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1536,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre G",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 40,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1537,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre H",
+    "Item": "Scroll of Eagle's Splendor",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1538,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre H",
+    "Item": "Clear Quartz",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1539,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre H",
+    "Item": "Potion of Cure Light Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1540,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre H",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 5,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1541,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre I",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 2641,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1542,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre I",
+    "Item": "Turquoise",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1543,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre I",
+    "Item": "Silver Disk",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1544,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre J",
+    "Item": "Battlemaster's Plate",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1545,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre J",
+    "Item": "Cold Iron Longword +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1547,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre J",
+    "Item": "Cloak of Resistance +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1546,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre J",
+    "Item": "Gold Ring",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1548,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre J",
+    "Item": "Diamond Dust",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1549,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure A",
+    "Item": "Potion of Shield of Faith",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1550,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure A",
+    "Item": "Potion of Feather Step",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1551,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure A",
+    "Item": "Silver Spoon",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1552,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure A",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 76,
+    "RandomQuantity": null
   }
 ]

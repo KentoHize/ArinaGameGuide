@@ -523,5 +523,10 @@
     "ID": 105,
     "EffectOrConditionSet": "Haste",
     "EffectOrCondition": "Haste"
+  },
+  {
+    "ID": 106,
+    "EffectOrConditionSet": "Protection Aura",
+    "EffectOrCondition": "Protective Aura"
   }
 ]

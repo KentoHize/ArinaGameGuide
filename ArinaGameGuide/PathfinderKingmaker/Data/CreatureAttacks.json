@@ -7600,5 +7600,61 @@
     "DamageAdditiveBonus": null,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 583,
+    "Creature": "Hell Hound 7",
+    "Form": "Flaming Bite",
+    "Type": "Other",
+    "Range": 2,
+    "AdditionalAttack": 0,
+    "AttackBonus": 17,
+    "Weapon": null,
+    "BasicDamage": "1d7",
+    "DamageAdditiveBonus": 7,
+    "OtherDamageBonus": "1d6 Fire",
+    "SneakDamage": null
+  },
+  {
+    "ID": 584,
+    "Creature": "Great Nightmare 12",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 2,
+    "AdditionalAttack": 0,
+    "AttackBonus": 27,
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 12,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 585,
+    "Creature": "Great Nightmare 12",
+    "Form": "Hoof",
+    "Type": "Other",
+    "Range": 2,
+    "AdditionalAttack": 1,
+    "AttackBonus": 22,
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 7,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 586,
+    "Creature": "Medium Earth Elemental",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 2,
+    "AdditionalAttack": 0,
+    "AttackBonus": 13,
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 14,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]
