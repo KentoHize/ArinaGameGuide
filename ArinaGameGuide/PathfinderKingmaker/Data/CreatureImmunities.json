@@ -1726,5 +1726,17 @@
     "Creature": "Centaur Nature Whisperer",
     "Condition": "Mind-Affecting",
     "ConditionGroup": null
+  },
+  {
+    "ID": 309,
+    "Creature": "Will-o'-wisp 9",
+    "Condition": "Spell",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 310,
+    "Creature": "Will-o'-wisp 9 B",
+    "Condition": "Spell",
+    "ConditionGroup": null
   }
 ]

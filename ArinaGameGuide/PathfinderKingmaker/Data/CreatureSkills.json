@@ -5002,5 +5002,29 @@
     "Creature": "Centaur Nature Whisperer",
     "Skill": "Perception",
     "Bonus": 26
+  },
+  {
+    "ID": 836,
+    "Creature": "Will-o'-wisp 9 B",
+    "Skill": "Mobility",
+    "Bonus": 23
+  },
+  {
+    "ID": 837,
+    "Creature": "Will-o'-wisp 9 B",
+    "Skill": "Persuasion",
+    "Bonus": 16
+  },
+  {
+    "ID": 838,
+    "Creature": "Will-o'-wisp 9 B",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 839,
+    "Creature": "Will-o'-wisp 9 B",
+    "Skill": "Stealth",
+    "Bonus": 47
   }
 ]

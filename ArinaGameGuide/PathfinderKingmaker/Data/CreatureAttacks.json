@@ -7586,5 +7586,19 @@
     "DamageAdditiveBonus": 1,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 582,
+    "Creature": "Will-o'-wisp 9 B",
+    "Form": "Touch",
+    "Type": "Other",
+    "Range": 2,
+    "AdditionalAttack": 0,
+    "AttackBonus": 22,
+    "Weapon": null,
+    "BasicDamage": "2d8 Shock",
+    "DamageAdditiveBonus": null,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

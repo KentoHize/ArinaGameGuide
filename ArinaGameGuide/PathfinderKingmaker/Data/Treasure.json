@@ -4094,5 +4094,53 @@
     "Importance": "Very Good",
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 258,
+    "Name": "Lostlarn Keep Upper Reachs Treausre A",
+    "CName": "",
+    "Type": "Ground",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "Center",
+    "ItemStack": "Lion's Claw",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "Very Good",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 259,
+    "Name": "Lostlarn Keep Upper Reachs Treausre B",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "Center",
+    "ItemStack": "Lion's Claw",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "First Class",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 260,
+    "Name": "Lostlarn Keep Upper Reachs Treausre C",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "West",
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre C",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": 25,
+    "LockDC": null,
+    "Importance": "Good",
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

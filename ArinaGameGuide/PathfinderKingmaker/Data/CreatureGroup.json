@@ -4702,5 +4702,21 @@
     "Position": "South East",
     "Stage": 0,
     "Memo": ""
+  },
+  {
+    "ID": 589,
+    "Name": "Lostlarn Keep Upper Reachs Group B",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "Center",
+    "Stage": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 590,
+    "Name": "Lostlarn Keep Upper Reachs Group C",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "West",
+    "Stage": 0,
+    "Memo": ""
   }
 ]

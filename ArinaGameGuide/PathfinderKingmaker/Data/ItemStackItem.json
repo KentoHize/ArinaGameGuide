@@ -11958,5 +11958,101 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1499,
+    "ItemStack": "Lion's Claw",
+    "Item": "Lion's Claw",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1500,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre B",
+    "Item": "Scroll of Raise Dead",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1501,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre B",
+    "Item": "Scroll of Glitterdust",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1502,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre B",
+    "Item": "Belt of Incredible Dexterity +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1503,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre B",
+    "Item": "Pearl",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1504,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre B",
+    "Item": "Peridot",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1505,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre B",
+    "Item": "Scroll of Cure Light Wounds",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1506,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre B",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 120,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1507,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre C",
+    "Item": "Scroll of Resist Fire, Communal",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1508,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre C",
+    "Item": "Scroll of Displacement",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1509,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre C",
+    "Item": "Scroll of Summon Monster V(Bralani Azata or Redcap)",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1510,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre C",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 270,
+    "RandomQuantity": null
   }
 ]

@@ -170,7 +170,7 @@ export function DisplayDetail(mdiv, divID, id1, stages, stage = 0) {
                     a.textContent = Unity.Data[i].value[j].data.isi[k].Item;                    
                     child.appendChild(a);
                     if (Unity.Data[i].value[j].data.isi[k].Quantity != 1)
-                        child.appendChild(document.createTextNode(`x${Unity.Data[i].value[j].data.isi[k].Quantity}`));
+                        child.appendChild(document.createTextNode(` x${Unity.Data[i].value[j].data.isi[k].Quantity}`));
                     
                     parent.appendChild(child);
                 }

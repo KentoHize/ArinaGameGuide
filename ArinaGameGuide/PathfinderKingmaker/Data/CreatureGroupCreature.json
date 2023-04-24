@@ -15849,5 +15849,27 @@
     "AdditionalEffectOrConditions": null,
     "ExpMultiplier": null,
     "Team": "1"
+  },
+  {
+    "ID": 1446,
+    "CreatureGroup": "Lostlarn Keep Upper Reachs Group B",
+    "Creature": "Iron Golem",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1447,
+    "CreatureGroup": "Lostlarn Keep Upper Reachs Group C",
+    "Creature": "Will-o'-wisp 9 B",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
   }
 ]

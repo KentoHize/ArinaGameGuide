@@ -3512,5 +3512,33 @@
     "Type": "DamageReduction",
     "DamageType": "Bludgeon",
     "Amount": null
+  },
+  {
+    "ID": 503,
+    "Creature": "Will-o'-wisp 9",
+    "Type": "Immunity",
+    "DamageType": "Electricity",
+    "Amount": null
+  },
+  {
+    "ID": 504,
+    "Creature": "Will-o'-wisp 9",
+    "Type": "Vulnerability",
+    "DamageType": "Magic Missile",
+    "Amount": null
+  },
+  {
+    "ID": 505,
+    "Creature": "Will-o'-wisp 9 B",
+    "Type": "Immunity",
+    "DamageType": "Electricity",
+    "Amount": null
+  },
+  {
+    "ID": 506,
+    "Creature": "Will-o'-wisp 9 B",
+    "Type": "Vulnerability",
+    "DamageType": "Magic Missile",
+    "Amount": null
   }
 ]
