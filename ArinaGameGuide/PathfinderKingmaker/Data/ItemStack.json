@@ -2140,11 +2140,6 @@
     "Memo": ""
   },
   {
-    "ID": 70,
-    "Name": "Satyr RS",
-    "Memo": ""
-  },
-  {
     "ID": 463,
     "Name": "Saviour",
     "Memo": ""
@@ -2717,6 +2712,41 @@
   {
     "ID": 545,
     "Name": "Lostlarn Keep Upper Reachs Lower Level Treasure A",
+    "Memo": ""
+  },
+  {
+    "ID": 546,
+    "Name": "Bogeyman RS",
+    "Memo": ""
+  },
+  {
+    "ID": 547,
+    "Name": "Lostlarn Keep Upper Reachs Lower Level Treasure B",
+    "Memo": ""
+  },
+  {
+    "ID": 548,
+    "Name": "Lostlarn Keep Upper Reachs Lower Level Treasure C",
+    "Memo": ""
+  },
+  {
+    "ID": 549,
+    "Name": "Lostlarn Keep Upper Reachs Lower Level Treasure D",
+    "Memo": ""
+  },
+  {
+    "ID": 550,
+    "Name": "Lostlarn Keep Upper Reachs Lower Level Treasure E",
+    "Memo": ""
+  },
+  {
+    "ID": 551,
+    "Name": "MV + KD1 + BoID4 + AoNA2",
+    "Memo": ""
+  },
+  {
+    "ID": 552,
+    "Name": "MV + MSS",
     "Memo": ""
   }
 ]

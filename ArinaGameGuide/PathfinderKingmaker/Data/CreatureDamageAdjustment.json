@@ -3582,5 +3582,26 @@
     "Type": "DamageReduction",
     "DamageType": "Cold Iron",
     "Amount": 15
+  },
+  {
+    "ID": 513,
+    "Creature": "Primal Hydra",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
+  },
+  {
+    "ID": 514,
+    "Creature": "Primal Hydra",
+    "Type": "DamageReduction",
+    "DamageType": "Magic",
+    "Amount": 10
+  },
+  {
+    "ID": 515,
+    "Creature": "Dryad Lifetaker",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 5
   }
 ]

@@ -3538,7 +3538,7 @@
   {
     "ID": 223,
     "Name": "Lostlarn Keep Upper Reachs",
-    "DisplayName": "Lostlarn Keep Upper Reachs",
+    "DisplayName": "Lostlarn Keep - Upper Reachs",
     "CName": "",
     "Entrance": "The Tomb's Threshold",
     "Type": "Dungeon",
@@ -3554,7 +3554,23 @@
   {
     "ID": 224,
     "Name": "Lostlarn Keep Upper Reachs Lower Level",
-    "DisplayName": "Lostlarn Keep Upper Reachs",
+    "DisplayName": "Lostlarn Keep - Upper Reachs",
+    "CName": "",
+    "Entrance": "The Tomb's Threshold",
+    "Type": "Dungeon",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": "找房間時出現，Bogeyman 即死法術\n"
+  },
+  {
+    "ID": 225,
+    "Name": "Lostlarn Keep The Depths A",
+    "DisplayName": "Lostlarn Keep - The Depths",
     "CName": "",
     "Entrance": "The Tomb's Threshold",
     "Type": "Dungeon",

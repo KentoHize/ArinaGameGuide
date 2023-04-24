@@ -262,5 +262,16 @@
     "AsCreature": null,
     "Description": "Varnhold",
     "Memo": ""
+  },
+  {
+    "ID": 25,
+    "Name": "Marcida Vittari",
+    "CName": "",
+    "Gender": "Female",
+    "Place": "Lostlarn Keep Upper Reachs Lower Level",
+    "Position": "Center",
+    "AsCreature": null,
+    "Description": "",
+    "Memo": ""
   }
 ]

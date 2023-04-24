@@ -1750,5 +1750,11 @@
     "Creature": "Ankou Strong",
     "Condition": "Spell - Prismatic Spray",
     "ConditionGroup": null
+  },
+  {
+    "ID": 313,
+    "Creature": "Primal Hydra",
+    "Condition": "Prone",
+    "ConditionGroup": null
   }
 ]

@@ -16025,5 +16025,159 @@
     "AdditionalEffectOrConditions": null,
     "ExpMultiplier": null,
     "Team": "1"
+  },
+  {
+    "ID": 1462,
+    "CreatureGroup": "Lostlarn Keep Upper Reachs Lower Level Group B",
+    "Creature": "Ooze 10",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1463,
+    "CreatureGroup": "Lostlarn Keep Upper Reachs Lower Level Group C",
+    "Creature": "Redcap",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1464,
+    "CreatureGroup": "Lostlarn Keep Upper Reachs Lower Level Group C",
+    "Creature": "Redcap Trickster",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1465,
+    "CreatureGroup": "Lostlarn Keep Upper Reachs Lower Level Group C",
+    "Creature": "Mimic",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1466,
+    "CreatureGroup": "Lostlarn Keep Upper Reachs Group J",
+    "Creature": "Purple Dweomerowlbear",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1467,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group A",
+    "Creature": "Owlbear",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1468,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group A",
+    "Creature": "Dweomercat",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1469,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group B",
+    "Creature": "Ooze 10",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1470,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group C",
+    "Creature": "Primal Hydra",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1471,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group D",
+    "Creature": "Ooze 10",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1472,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group E",
+    "Creature": "Dryad Lifetaker",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1473,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group E",
+    "Creature": "Redcap",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1474,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group E",
+    "Creature": "Satyr",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1475,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group E",
+    "Creature": "Satyr Archer",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
   }
 ]

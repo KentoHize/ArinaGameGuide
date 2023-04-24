@@ -4264,5 +4264,41 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 477,
+    "Creature": "Primal Hydra",
+    "Ability": "Fast Healing",
+    "Amount": 9,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 478,
+    "Creature": "Dryad Lifetaker",
+    "Ability": "Bewildering Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 479,
+    "Creature": "Dryad Lifetaker",
+    "Ability": "Disorienting Injury",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 480,
+    "Creature": "Dryad Lifetaker",
+    "Ability": "Crane Style",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

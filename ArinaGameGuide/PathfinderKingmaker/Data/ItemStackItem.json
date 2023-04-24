@@ -4217,7 +4217,7 @@
   },
   {
     "ID": 156,
-    "ItemStack": "Satyr RS",
+    "ItemStack": "MV + MSS",
     "Item": "Masterwork Shortsword",
     "RandomItem": null,
     "Quantity": 1,
@@ -4225,10 +4225,10 @@
   },
   {
     "ID": 157,
-    "ItemStack": "Satyr RS",
+    "ItemStack": "MV + MSS",
     "Item": null,
-    "RandomItem": "Random Jewelry",
-    "Quantity": 2,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
     "RandomQuantity": null
   },
   {
@@ -12389,6 +12389,174 @@
     "Item": "Gold Coin",
     "RandomItem": null,
     "Quantity": 76,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1553,
+    "ItemStack": "Bogeyman RS",
+    "Item": "Ring of Blur",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1554,
+    "ItemStack": "Bogeyman RS",
+    "Item": "Cloak of Resistance +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1555,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure B",
+    "Item": "Diamond",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1556,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure B",
+    "Item": "Diamond Dust",
+    "RandomItem": null,
+    "Quantity": 13,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1557,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure B",
+    "Item": "Frost Dwarven Waraxe +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1558,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure C",
+    "Item": "Scroll of Find Traps",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1559,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure C",
+    "Item": "Silver Inkwell",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1560,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure C",
+    "Item": "Silver Earring",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1565,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure C",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 16,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1561,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure D",
+    "Item": "Scroll of Faerie Fire",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1562,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure D",
+    "Item": "Scroll of Ear-Piercing Scream",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1563,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure D",
+    "Item": "Scroll of Protection from Evil",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1564,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure D",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 50,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1566,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure E",
+    "Item": "Scroll of Veil of Heaven",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1567,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure E",
+    "Item": "Citrine",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1568,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure E",
+    "Item": "Bone Necklace",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1569,
+    "ItemStack": "Lostlarn Keep Upper Reachs Lower Level Treasure E",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 58,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1570,
+    "ItemStack": "MV + KD1 + BoID4 + AoNA2",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1571,
+    "ItemStack": "MV + KD1 + BoID4 + AoNA2",
+    "Item": "Keen Dagger +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1572,
+    "ItemStack": "MV + KD1 + BoID4 + AoNA2",
+    "Item": "Belt of Incredible Dexterity +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1573,
+    "ItemStack": "MV + KD1 + BoID4 + AoNA2",
+    "Item": "Amulet of Natural Armor +2",
+    "RandomItem": null,
+    "Quantity": 1,
     "RandomQuantity": null
   }
 ]

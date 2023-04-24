@@ -85,7 +85,7 @@ export async function Initialize(div, id1, id2) {
     ed = document.getElementById(`conditionDiv`)
     for (let i = 0; i < ctec.length; i++) {
         if (ctec[i].Creature == id1)
-            writeBlock(ed, `${ctec[i].EffectOrCondition} ${ctec[i].Amount != null ? ctec[i].Amount : ``}`);        
+            writeBlock(ed, `${ctec[i].EffectOrCondition} ${ctec[i].Amount != null ? ctec[i].Amount : ``}${ctec[i].Period != null ? `(${ctec[i].Period} rounds)` : ``}`);        
     }
     if (ed.textContent == ``)
         document.getElementById(`conditionTbl`).remove();

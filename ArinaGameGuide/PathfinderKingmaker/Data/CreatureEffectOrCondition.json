@@ -210,7 +210,7 @@
     "ID": 1,
     "Creature": "Purple Dweomerowlbear",
     "EffectOrCondition": "Mirror Image",
-    "Amount": 0,
+    "Amount": null,
     "Period": 140,
     "VulnearTo1": null,
     "VulnearTo2": null
@@ -1424,6 +1424,15 @@
   {
     "ID": 163,
     "Creature": "Bogeyman",
+    "EffectOrCondition": "Blur",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 164,
+    "Creature": "Primal Hydra",
     "EffectOrCondition": "Blur",
     "Amount": null,
     "Period": null,

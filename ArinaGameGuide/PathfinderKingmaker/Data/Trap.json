@@ -2362,5 +2362,17 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 199,
+    "Name": "Lostlarn Keep The Depths A Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Lostlarn Keep The Depths A",
+    "DisarmDC": 24,
+    "Position": "West",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

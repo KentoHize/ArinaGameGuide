@@ -7656,5 +7656,61 @@
     "DamageAdditiveBonus": 14,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 587,
+    "Creature": "Primal Hydra",
+    "Form": "Bite",
+    "Type": "Other",
+    "Range": 5,
+    "AdditionalAttack": 4,
+    "AttackBonus": 21,
+    "Weapon": null,
+    "BasicDamage": "1d8",
+    "DamageAdditiveBonus": 8,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 588,
+    "Creature": "Dryad Lifetaker",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AdditionalAttack": 2,
+    "AttackBonus": 26,
+    "Weapon": "Keen Dagger +1",
+    "BasicDamage": "1d4",
+    "DamageAdditiveBonus": 12,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 589,
+    "Creature": "Satyr",
+    "Form": "Piercing Weapon",
+    "Type": "Primary",
+    "Range": 2,
+    "AdditionalAttack": 0,
+    "AttackBonus": 13,
+    "Weapon": "Masterwork Shortsword",
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 4,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 590,
+    "Creature": "Satyr",
+    "Form": "Gore",
+    "Type": "Other",
+    "Range": 2,
+    "AdditionalAttack": 0,
+    "AttackBonus": 7,
+    "Weapon": null,
+    "BasicDamage": "1d6",
+    "DamageAdditiveBonus": 2,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

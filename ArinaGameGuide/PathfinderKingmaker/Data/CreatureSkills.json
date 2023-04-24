@@ -5092,5 +5092,71 @@
     "Creature": "Bogeyman",
     "Skill": "Stealth",
     "Bonus": 59
+  },
+  {
+    "ID": 851,
+    "Creature": "Primal Hydra",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 852,
+    "Creature": "Dryad Lifetaker",
+    "Skill": "Mobility",
+    "Bonus": 35
+  },
+  {
+    "ID": 853,
+    "Creature": "Dryad Lifetaker",
+    "Skill": "Lore(Nature)",
+    "Bonus": 14
+  },
+  {
+    "ID": 854,
+    "Creature": "Dryad Lifetaker",
+    "Skill": "Perception",
+    "Bonus": 33
+  },
+  {
+    "ID": 855,
+    "Creature": "Dryad Lifetaker",
+    "Skill": "Athletics",
+    "Bonus": 11
+  },
+  {
+    "ID": 856,
+    "Creature": "Dryad Lifetaker",
+    "Skill": "Stealth",
+    "Bonus": 35
+  },
+  {
+    "ID": 857,
+    "Creature": "Satyr",
+    "Skill": "Mobility",
+    "Bonus": 22
+  },
+  {
+    "ID": 858,
+    "Creature": "Satyr",
+    "Skill": "Persuasion",
+    "Bonus": 22
+  },
+  {
+    "ID": 859,
+    "Creature": "Satyr",
+    "Skill": "Lore(Nature)",
+    "Bonus": 15
+  },
+  {
+    "ID": 860,
+    "Creature": "Satyr",
+    "Skill": "Perception",
+    "Bonus": 23
+  },
+  {
+    "ID": 861,
+    "Creature": "Satyr",
+    "Skill": "Stealth",
+    "Bonus": 26
   }
 ]
