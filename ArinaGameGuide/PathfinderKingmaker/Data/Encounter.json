@@ -850,5 +850,29 @@
     "EnemyGroup3": null,
     "EnemyGroup4": null,
     "Memo": ""
+  },
+  {
+    "ID": 72,
+    "Name": "Lostlarn Keep The Depths A Group U",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "West",
+    "HasPlot": false,
+    "EnemyGroup1": "Lostlarn Keep The Depths A Group U",
+    "EnemyGroup2": "Lostlarn Keep The Depths A Group V",
+    "EnemyGroup3": "Lostlarn Keep The Depths A Group W",
+    "EnemyGroup4": "Lostlarn Keep The Depths A Group X",
+    "Memo": ""
+  },
+  {
+    "ID": 73,
+    "Name": "Lostlarn Keep The Depths A Group Y",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "North",
+    "HasPlot": false,
+    "EnemyGroup1": "Lostlarn Keep The Depths A Group Y",
+    "EnemyGroup2": "Lostlarn Keep The Depths A Group Z",
+    "EnemyGroup3": null,
+    "EnemyGroup4": null,
+    "Memo": ""
   }
 ]

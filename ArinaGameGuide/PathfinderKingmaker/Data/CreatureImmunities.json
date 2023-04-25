@@ -558,12 +558,6 @@
     "ConditionGroup": null
   },
   {
-    "ID": 8,
-    "Creature": "Quickspider Swarm",
-    "Condition": "Mind-Affecting",
-    "ConditionGroup": null
-  },
-  {
     "ID": 75,
     "Creature": "Ravan Swarm",
     "Condition": null,
@@ -1483,7 +1477,7 @@
   },
   {
     "ID": 268,
-    "Creature": "Guardian Armor",
+    "Creature": "Guardian Armor 20",
     "Condition": null,
     "ConditionGroup": "Undead Immunities"
   },
@@ -1810,5 +1804,41 @@
     "Creature": "Illusion Weaver Nymph",
     "Condition": "Difficult Terrain",
     "ConditionGroup": null
+  },
+  {
+    "ID": 327,
+    "Creature": "Spider Swarm",
+    "Condition": "Web",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 323,
+    "Creature": "Spider Swarm",
+    "Condition": null,
+    "ConditionGroup": "Diminutive Swarm Immunities"
+  },
+  {
+    "ID": 326,
+    "Creature": "Spider Swarm",
+    "Condition": null,
+    "ConditionGroup": "Vermin Immunities"
+  },
+  {
+    "ID": 325,
+    "Creature": "Quickspider Swarm",
+    "Condition": null,
+    "ConditionGroup": "Vermin Immunities"
+  },
+  {
+    "ID": 324,
+    "Creature": "Quickspider Swarm",
+    "Condition": null,
+    "ConditionGroup": "Diminutive Swarm Immunities"
+  },
+  {
+    "ID": 328,
+    "Creature": "Guardian Armor 15",
+    "Condition": null,
+    "ConditionGroup": "Undead Immunities"
   }
 ]

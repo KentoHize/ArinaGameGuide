@@ -528,5 +528,35 @@
     "ID": 106,
     "EffectOrConditionSet": "Protection Aura",
     "EffectOrCondition": "Protective Aura"
+  },
+  {
+    "ID": 108,
+    "EffectOrConditionSet": "Diminutive Swarm Immunities",
+    "EffectOrCondition": "Critical Hits"
+  },
+  {
+    "ID": 109,
+    "EffectOrConditionSet": "Diminutive Swarm Immunities",
+    "EffectOrCondition": "precision damage"
+  },
+  {
+    "ID": 110,
+    "EffectOrConditionSet": "Diminutive Swarm Immunities",
+    "EffectOrCondition": "spell with a target"
+  },
+  {
+    "ID": 111,
+    "EffectOrConditionSet": "Diminutive Swarm Immunities",
+    "EffectOrCondition": "physical damage from weapon"
+  },
+  {
+    "ID": 112,
+    "EffectOrConditionSet": "Diminutive Swarm Immunities",
+    "EffectOrCondition": "Combat Maneuver"
+  },
+  {
+    "ID": 113,
+    "EffectOrConditionSet": "Diminutive Swarm Immunities",
+    "EffectOrCondition": "Dirty Trick"
   }
 ]

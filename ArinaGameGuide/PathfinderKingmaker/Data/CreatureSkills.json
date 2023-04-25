@@ -5512,5 +5512,23 @@
     "Creature": "Illusion Weaver Nymph",
     "Skill": "Stealth",
     "Bonus": 29
+  },
+  {
+    "ID": 921,
+    "Creature": "Spider Swarm",
+    "Skill": "Perception",
+    "Bonus": 10
+  },
+  {
+    "ID": 922,
+    "Creature": "Quickspider Swarm",
+    "Skill": "Perception",
+    "Bonus": 12
+  },
+  {
+    "ID": 923,
+    "Creature": "Doomspider",
+    "Skill": "Perception",
+    "Bonus": 19
   }
 ]

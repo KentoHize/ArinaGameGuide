@@ -3295,7 +3295,7 @@
   },
   {
     "ID": 369,
-    "Creature": "Guardian Armor",
+    "Creature": "Guardian Armor 20",
     "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
@@ -4368,6 +4368,33 @@
     "ID": 488,
     "Creature": "Illusion Weaver Nymph",
     "Ability": "Blinding Beauty",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 489,
+    "Creature": "Quickspider Swarm",
+    "Ability": "Spider Swarm",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 490,
+    "Creature": "Spider Swarm",
+    "Ability": "Spider Swarm",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 491,
+    "Creature": "Guardian Armor 15",
+    "Ability": "Power Attack",
     "Amount": null,
     "DamageType1": null,
     "DamageType2": null,

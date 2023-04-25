@@ -5686,5 +5686,68 @@
     "Stage": 0,
     "Assault": false,
     "Memo": "Initiative + 10?"
+  },
+  {
+    "ID": 634,
+    "Name": "Lostlarn Keep The Depths A Group U",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "West",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 635,
+    "Name": "Lostlarn Keep The Depths A Group V",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "West",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 636,
+    "Name": "Lostlarn Keep The Depths A Group W",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "West",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 637,
+    "Name": "Lostlarn Keep The Depths A Group X",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "West",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 638,
+    "Name": "Lostlarn Keep The Depths A Group Y",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "North",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 639,
+    "Name": "Lostlarn Keep The Depths A Group Z",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "North",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 640,
+    "Name": "Lostlarn Keep The Depths First World Group A",
+    "Place": "Lostlarn Keep The Depths First World",
+    "Position": "Center",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
   }
 ]

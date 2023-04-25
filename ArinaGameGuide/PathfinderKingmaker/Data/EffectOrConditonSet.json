@@ -118,5 +118,10 @@
     "ID": 24,
     "Name": "Protection Aura",
     "CName": ""
+  },
+  {
+    "ID": 25,
+    "Name": "Diminutive Swarm Immunities",
+    "CName": ""
   }
 ]

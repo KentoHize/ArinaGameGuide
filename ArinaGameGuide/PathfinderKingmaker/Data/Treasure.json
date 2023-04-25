@@ -4926,5 +4926,37 @@
     "Importance": "First Class",
     "RelatedEncounter": null,
     "Memo": ""
+  },
+  {
+    "ID": 310,
+    "Name": "Lostlarn Keep The Depths A Treasure N",
+    "CName": "",
+    "Type": "Other",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "West",
+    "ItemStack": "Charon's Touch",
+    "PerceptionDC": null,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": null,
+    "Importance": "First Class",
+    "RelatedEncounter": null,
+    "Memo": ""
+  },
+  {
+    "ID": 311,
+    "Name": "Lostlarn Keep The Depths A Treasure O",
+    "CName": "",
+    "Type": "Box",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "North",
+    "ItemStack": "Breastplate +3",
+    "PerceptionDC": 25,
+    "Trap": null,
+    "TrapDC": null,
+    "LockDC": 23,
+    "Importance": "Very Good",
+    "RelatedEncounter": null,
+    "Memo": ""
   }
 ]

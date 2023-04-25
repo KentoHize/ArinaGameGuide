@@ -718,5 +718,32 @@
     "IsGroup": false,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 82,
+    "Name": "physical damage from weapon",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 83,
+    "Name": "Combat Maneuver",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 84,
+    "Name": "Dirty Trick",
+    "CName": "",
+    "IsCondition": false,
+    "IsGroup": false,
+    "Description": "",
+    "Memo": ""
   }
 ]

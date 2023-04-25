@@ -3646,5 +3646,21 @@
     "HasPlot": true,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 230,
+    "Name": "Lostlarn Keep The Depths First World",
+    "DisplayName": "Lostlarn Keep - The Depths",
+    "CName": "",
+    "Entrance": "The Tomb's Threshold",
+    "Type": "Dungeon",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": true,
+    "Description": "",
+    "Memo": ""
   }
 ]

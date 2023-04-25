@@ -13558,5 +13558,85 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1699,
+    "ItemStack": "Illusion Weaver Nymph RS",
+    "Item": "Masterwork Dagger",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1700,
+    "ItemStack": "Illusion Weaver Nymph RS",
+    "Item": "Headband of Alluring Charisma +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1701,
+    "ItemStack": "Illusion Weaver Nymph RS",
+    "Item": "Amulet of Natural Armor +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1702,
+    "ItemStack": "Illusion Weaver Nymph RS",
+    "Item": "Ring of Protection +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1703,
+    "ItemStack": "Illusion Weaver Nymph RS",
+    "Item": "Cloak of Resistance +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1704,
+    "ItemStack": "Charon's Touch",
+    "Item": "Charon's Touch",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1705,
+    "ItemStack": "Breastplate +3",
+    "Item": "Breastplate +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1706,
+    "ItemStack": "LP1 + HS1 + FP1",
+    "Item": "Light Pick +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1707,
+    "ItemStack": "LP1 + HS1 + FP1",
+    "Item": "Heavy Shield +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1708,
+    "ItemStack": "LP1 + HS1 + FP1",
+    "Item": "Full Plate +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]
