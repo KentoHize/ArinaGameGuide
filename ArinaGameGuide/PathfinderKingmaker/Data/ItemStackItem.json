@@ -4200,19 +4200,19 @@
     "RandomQuantity": null
   },
   {
-    "ID": 158,
-    "ItemStack": "Satyr Archer RS",
-    "Item": "Shortbow",
-    "RandomItem": null,
+    "ID": 159,
+    "ItemStack": "MV + SB",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
     "Quantity": 1,
     "RandomQuantity": null
   },
   {
-    "ID": 159,
-    "ItemStack": "Satyr Archer RS",
-    "Item": null,
-    "RandomItem": "Random Jewelry",
-    "Quantity": 2,
+    "ID": 158,
+    "ItemStack": "MV + SB",
+    "Item": "Shortbow",
+    "RandomItem": null,
+    "Quantity": 1,
     "RandomQuantity": null
   },
   {
@@ -13163,6 +13163,398 @@
     "ID": 1649,
     "ItemStack": "Manual of Gainful Exercise +2",
     "Item": "Manual of Gainful Exercise +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1650,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure E",
+    "Item": "Tome of Leadership and Influence +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1651,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure E",
+    "Item": "Manual of Bodily Health +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1652,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure E",
+    "Item": "Scroll of Vanish",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1653,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure E",
+    "Item": "Scroll of Magic Missile",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1654,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure E",
+    "Item": "Decorated Scabbard",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1655,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure F",
+    "Item": "Potion of Barkskin",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1656,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure F",
+    "Item": "Potion of Cure Serious Wounds",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1657,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure F",
+    "Item": "Potion of Blur",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1658,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure F",
+    "Item": "Alchemist's Fire",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1659,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure G",
+    "Item": "Alchemist's Fire",
+    "RandomItem": null,
+    "Quantity": 5,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1660,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure G",
+    "Item": "Acid Flask",
+    "RandomItem": null,
+    "Quantity": 7,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1661,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure G",
+    "Item": "Potion of Protection from Good",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1662,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure G",
+    "Item": "Potion of Protection from Law",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1663,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure G",
+    "Item": "Potion of Protection from Evil",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1664,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure G",
+    "Item": "Potion of Protection from Chaos",
+    "RandomItem": null,
+    "Quantity": 4,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1665,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure G",
+    "Item": "Potion of Heroism",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1666,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure H",
+    "Item": "Potion of Resist Acid",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1667,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure H",
+    "Item": "Potion of Resist Cold",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1668,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure H",
+    "Item": "Potion of Resist Electricity",
+    "RandomItem": null,
+    "Quantity": 5,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1669,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure H",
+    "Item": "Potion of Resist Fire",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1670,
+    "ItemStack": "Lostlarn Keep Upper Reachs Laboratory Treasure H",
+    "Item": "Potion of Inflict Serious Wounds",
+    "RandomItem": null,
+    "Quantity": 9,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1671,
+    "ItemStack": "Marcida Vittari RS",
+    "Item": "Amulet of Dying Wisdom",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1672,
+    "ItemStack": "Marcida Vittari RS",
+    "Item": "Ring of Protection +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1673,
+    "ItemStack": "Marcida Vittari RS",
+    "Item": "Headband of Vast Intelligence +4",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1674,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure E",
+    "Item": "Camping supplies and rations",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1675,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure E",
+    "Item": "Bourbon",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1676,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure E",
+    "Item": "Herb Liqueur",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1677,
+    "ItemStack": "Shortsword +3",
+    "Item": "Shortsword +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1678,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure H",
+    "Item": "Moonstone",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1679,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure H",
+    "Item": "Old Smoking Pipe",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1680,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure H",
+    "Item": "Shining Scale",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1681,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure H",
+    "Item": "Amulet of Natural Armor +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1682,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure I",
+    "Item": "Bottle of Oil",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1683,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure I",
+    "Item": "Diamond Dust",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1684,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure I",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 5,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1685,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure J",
+    "Item": "Camping supplies and rations",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1686,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure J",
+    "Item": "Port",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1687,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure J",
+    "Item": "Dwarven Stout",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1688,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure K",
+    "Item": "Corrosive Dagger +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1689,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure K",
+    "Item": "Oak's Pelt",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1690,
+    "ItemStack": "Satyr Deadeye RS",
+    "Item": null,
+    "RandomItem": "Money and Valuables",
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1691,
+    "ItemStack": "Satyr Deadeye RS",
+    "Item": "Shortbow",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1692,
+    "ItemStack": "Satyr Deadeye RS",
+    "Item": "Belt of Physical Flow +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1693,
+    "ItemStack": "Satyr Deadeye RS",
+    "Item": "Ring of Protection +1",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1694,
+    "ItemStack": "Satyr Deadeye RS",
+    "Item": "Brancers of Archery",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1695,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure L",
+    "Item": "Scroll of Heal",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1696,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure L",
+    "Item": "Amulet of Natural Armor +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1697,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure M",
+    "Item": "Flaming Longbow +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1698,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure M",
+    "Item": "Quiver of Lightning Arrows",
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null

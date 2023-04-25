@@ -16619,5 +16619,203 @@
     "AdditionalEffectOrConditions": null,
     "ExpMultiplier": null,
     "Team": "1"
+  },
+  {
+    "ID": 1516,
+    "CreatureGroup": "Marquise Immolatia",
+    "Creature": "Marquise Immolatia",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1517,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group O",
+    "Creature": "Yellow Dweomerwyvern",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1518,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group P",
+    "Creature": "Mimic",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1519,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group P",
+    "Creature": "Ooze 10",
+    "DisplayName": null,
+    "Quantity": 5,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1520,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group P",
+    "Creature": "Ooze 8",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1521,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group Q",
+    "Creature": "Searing War Wisp",
+    "DisplayName": null,
+    "Quantity": 6,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1522,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group R",
+    "Creature": "Red Dweomerwyvern",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1523,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group R",
+    "Creature": "Venomanticore",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1524,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group R",
+    "Creature": "Dire Venomwolf",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1525,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group S",
+    "Creature": "Satyr Deadeye",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1526,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group S",
+    "Creature": "Satyr Archer",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1527,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group S",
+    "Creature": "Satyr",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1528,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group S",
+    "Creature": "Redcap",
+    "DisplayName": null,
+    "Quantity": 2,
+    "AdditionalItems": "Money and Valuables",
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1531,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group T",
+    "Creature": "Illusion Weaver Nymph",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1532,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group T",
+    "Creature": "Leopard Pet",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1530,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group T",
+    "Creature": "Satyr Archer",
+    "DisplayName": null,
+    "Quantity": 3,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1529,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group T",
+    "Creature": "Redcap",
+    "DisplayName": null,
+    "Quantity": 4,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1533,
+    "CreatureGroup": "Lostlarn Keep The Depths A Group T",
+    "Creature": "Will-o'-wisp 9 B",
+    "DisplayName": "Marquise's Jester",
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
   }
 ]

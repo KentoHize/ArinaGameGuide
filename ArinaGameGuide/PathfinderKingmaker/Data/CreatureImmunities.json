@@ -1786,5 +1786,29 @@
     "Creature": "Huge Air Elemental",
     "Condition": null,
     "ConditionGroup": "Elemental Immunities"
+  },
+  {
+    "ID": 319,
+    "Creature": "Yellow Dweomerwyvern",
+    "Condition": null,
+    "ConditionGroup": "Dragon Immunities"
+  },
+  {
+    "ID": 320,
+    "Creature": "Searing War Wisp",
+    "Condition": "Spell",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 321,
+    "Creature": "Red Dweomerwyvern",
+    "Condition": null,
+    "ConditionGroup": "Dragon Immunities"
+  },
+  {
+    "ID": 322,
+    "Creature": "Illusion Weaver Nymph",
+    "Condition": "Difficult Terrain",
+    "ConditionGroup": null
   }
 ]

@@ -5623,5 +5623,68 @@
     "Stage": 0,
     "Assault": false,
     "Memo": ""
+  },
+  {
+    "ID": 627,
+    "Name": "Marquise Immolatia",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "North East",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": "Will Leave"
+  },
+  {
+    "ID": 628,
+    "Name": "Lostlarn Keep The Depths A Group O",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "North",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 629,
+    "Name": "Lostlarn Keep The Depths A Group P",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "North",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 630,
+    "Name": "Lostlarn Keep The Depths A Group Q",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "North West",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 631,
+    "Name": "Lostlarn Keep The Depths A Group R",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "North West",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 632,
+    "Name": "Lostlarn Keep The Depths A Group S",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "Center",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 633,
+    "Name": "Lostlarn Keep The Depths A Group T",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "North West",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": "Initiative + 10?"
   }
 ]

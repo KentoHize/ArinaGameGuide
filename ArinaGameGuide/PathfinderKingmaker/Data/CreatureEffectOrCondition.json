@@ -1456,5 +1456,14 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 167,
+    "Creature": "Red Dweomerwyvern",
+    "EffectOrCondition": "True Seeing",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

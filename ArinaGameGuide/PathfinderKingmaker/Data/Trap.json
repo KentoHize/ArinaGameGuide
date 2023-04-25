@@ -2386,5 +2386,41 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 201,
+    "Name": "Lostlarn Keep The Depths A Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Lostlarn Keep The Depths A",
+    "DisarmDC": 24,
+    "Position": "North",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 202,
+    "Name": "Lostlarn Keep The Depths A Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Lostlarn Keep The Depths A",
+    "DisarmDC": 23,
+    "Position": "North",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
+  },
+  {
+    "ID": 203,
+    "Name": "Lostlarn Keep The Depths A Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Lostlarn Keep The Depths A",
+    "DisarmDC": 23,
+    "Position": "Center",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

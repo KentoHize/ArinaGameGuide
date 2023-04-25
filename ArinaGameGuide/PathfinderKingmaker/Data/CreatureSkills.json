@@ -5368,5 +5368,149 @@
     "Creature": "Huge Water Elemental",
     "Skill": "Perception",
     "Bonus": 19
+  },
+  {
+    "ID": 897,
+    "Creature": "Jabberwock",
+    "Skill": "Persuasion",
+    "Bonus": 39
+  },
+  {
+    "ID": 898,
+    "Creature": "Jabberwock",
+    "Skill": "Knowledge(Arcana)",
+    "Bonus": 32
+  },
+  {
+    "ID": 899,
+    "Creature": "Jabberwock",
+    "Skill": "Perception",
+    "Bonus": 44
+  },
+  {
+    "ID": 900,
+    "Creature": "Jabberwock",
+    "Skill": "Athletics",
+    "Bonus": 44
+  },
+  {
+    "ID": 901,
+    "Creature": "Jabberwock",
+    "Skill": "Stealth",
+    "Bonus": 28
+  },
+  {
+    "ID": 902,
+    "Creature": "Yellow Dweomerwyvern",
+    "Skill": "Perception",
+    "Bonus": 26
+  },
+  {
+    "ID": 903,
+    "Creature": "Yellow Dweomerwyvern",
+    "Skill": "Stealth",
+    "Bonus": 11
+  },
+  {
+    "ID": 904,
+    "Creature": "Searing War Wisp",
+    "Skill": "Mobility",
+    "Bonus": 24
+  },
+  {
+    "ID": 905,
+    "Creature": "Searing War Wisp",
+    "Skill": "Persuasion",
+    "Bonus": 16
+  },
+  {
+    "ID": 906,
+    "Creature": "Searing War Wisp",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 907,
+    "Creature": "Searing War Wisp",
+    "Skill": "Stealth",
+    "Bonus": 48
+  },
+  {
+    "ID": 908,
+    "Creature": "Red Dweomerwyvern",
+    "Skill": "Perception",
+    "Bonus": 26
+  },
+  {
+    "ID": 909,
+    "Creature": "Red Dweomerwyvern",
+    "Skill": "Stealth",
+    "Bonus": 11
+  },
+  {
+    "ID": 910,
+    "Creature": "Satyr Deadeye",
+    "Skill": "Mobility",
+    "Bonus": 26
+  },
+  {
+    "ID": 911,
+    "Creature": "Satyr Deadeye",
+    "Skill": "Persuasion",
+    "Bonus": 21
+  },
+  {
+    "ID": 912,
+    "Creature": "Satyr Deadeye",
+    "Skill": "Lore(Nature)",
+    "Bonus": 15
+  },
+  {
+    "ID": 913,
+    "Creature": "Satyr Deadeye",
+    "Skill": "Perception",
+    "Bonus": 27
+  },
+  {
+    "ID": 914,
+    "Creature": "Satyr Deadeye",
+    "Skill": "Stealth",
+    "Bonus": 30
+  },
+  {
+    "ID": 915,
+    "Creature": "Illusion Weaver Nymph",
+    "Skill": "Mobility",
+    "Bonus": 25
+  },
+  {
+    "ID": 916,
+    "Creature": "Illusion Weaver Nymph",
+    "Skill": "Persuasion",
+    "Bonus": 27
+  },
+  {
+    "ID": 917,
+    "Creature": "Illusion Weaver Nymph",
+    "Skill": "Lore(Nature)",
+    "Bonus": 16
+  },
+  {
+    "ID": 918,
+    "Creature": "Illusion Weaver Nymph",
+    "Skill": "Perception",
+    "Bonus": 24
+  },
+  {
+    "ID": 919,
+    "Creature": "Illusion Weaver Nymph",
+    "Skill": "Athletics",
+    "Bonus": 10
+  },
+  {
+    "ID": 920,
+    "Creature": "Illusion Weaver Nymph",
+    "Skill": "Stealth",
+    "Bonus": 29
   }
 ]

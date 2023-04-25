@@ -4336,5 +4336,41 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 485,
+    "Creature": "Red Dweomerwyvern",
+    "Ability": "Burning Arc",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 486,
+    "Creature": "Satyr Deadeye",
+    "Ability": "Deadly Aim",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 487,
+    "Creature": "Satyr Deadeye",
+    "Ability": "Rapid Shot",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 488,
+    "Creature": "Illusion Weaver Nymph",
+    "Ability": "Blinding Beauty",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]

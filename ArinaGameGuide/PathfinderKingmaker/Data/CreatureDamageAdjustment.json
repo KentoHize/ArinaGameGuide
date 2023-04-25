@@ -3652,5 +3652,68 @@
     "Type": "DamageReduction",
     "DamageType": "None",
     "Amount": 5
+  },
+  {
+    "ID": 523,
+    "Creature": "Yellow Dweomerwyvern",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 524,
+    "Creature": "Yellow Dweomerwyvern",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 525,
+    "Creature": "Searing War Wisp",
+    "Type": "Immunity",
+    "DamageType": "Fire",
+    "Amount": null
+  },
+  {
+    "ID": 526,
+    "Creature": "Searing War Wisp",
+    "Type": "Vulnerability",
+    "DamageType": "Cold",
+    "Amount": null
+  },
+  {
+    "ID": 527,
+    "Creature": "Searing War Wisp",
+    "Type": "Vulnerability",
+    "DamageType": "Magic Missile",
+    "Amount": null
+  },
+  {
+    "ID": 528,
+    "Creature": "Red Dweomerwyvern",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 529,
+    "Creature": "Red Dweomerwyvern",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 530,
+    "Creature": "Satyr Deadeye",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 5
+  },
+  {
+    "ID": 531,
+    "Creature": "Illusion Weaver Nymph",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 10
   }
 ]

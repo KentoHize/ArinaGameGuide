@@ -502,5 +502,12 @@
     "CName": "",
     "DC": "",
     "Description": "Trip while attack"
+  },
+  {
+    "ID": 73,
+    "Name": "Burning Arc",
+    "CName": "",
+    "DC": "",
+    "Description": ""
   }
 ]

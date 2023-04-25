@@ -2136,7 +2136,7 @@
   },
   {
     "ID": 71,
-    "Name": "Satyr Archer RS",
+    "Name": "MV + SB",
     "Memo": ""
   },
   {
@@ -2867,6 +2867,76 @@
   {
     "ID": 576,
     "Name": "Manual of Gainful Exercise +2",
+    "Memo": ""
+  },
+  {
+    "ID": 577,
+    "Name": "Lostlarn Keep Upper Reachs Laboratory Treasure E",
+    "Memo": ""
+  },
+  {
+    "ID": 578,
+    "Name": "Lostlarn Keep Upper Reachs Laboratory Treasure F",
+    "Memo": ""
+  },
+  {
+    "ID": 579,
+    "Name": "Lostlarn Keep Upper Reachs Laboratory Treasure G",
+    "Memo": ""
+  },
+  {
+    "ID": 580,
+    "Name": "Lostlarn Keep Upper Reachs Laboratory Treasure H",
+    "Memo": ""
+  },
+  {
+    "ID": 581,
+    "Name": "Marcida Vittari RS",
+    "Memo": ""
+  },
+  {
+    "ID": 582,
+    "Name": "Lostlarn Keep The Depths A Treasure E",
+    "Memo": ""
+  },
+  {
+    "ID": 583,
+    "Name": "Shortsword +3",
+    "Memo": ""
+  },
+  {
+    "ID": 584,
+    "Name": "Lostlarn Keep The Depths A Treasure H",
+    "Memo": ""
+  },
+  {
+    "ID": 585,
+    "Name": "Lostlarn Keep The Depths A Treasure I",
+    "Memo": ""
+  },
+  {
+    "ID": 586,
+    "Name": "Lostlarn Keep The Depths A Treasure J",
+    "Memo": ""
+  },
+  {
+    "ID": 587,
+    "Name": "Lostlarn Keep The Depths A Treasure K",
+    "Memo": ""
+  },
+  {
+    "ID": 588,
+    "Name": "Satyr Deadeye RS",
+    "Memo": ""
+  },
+  {
+    "ID": 589,
+    "Name": "Lostlarn Keep The Depths A Treasure L",
+    "Memo": ""
+  },
+  {
+    "ID": 590,
+    "Name": "Lostlarn Keep The Depths A Treasure M",
     "Memo": ""
   }
 ]
