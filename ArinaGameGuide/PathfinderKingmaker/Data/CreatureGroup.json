@@ -5572,9 +5572,54 @@
   },
   {
     "ID": 621,
-    "Name": "Lostlarn Keep The Depths Tower A Group A",
-    "Place": "Lostlarn Keep The Depths Tower A",
+    "Name": "Lostlarn Keep The Depths Tower 1F Group A",
+    "Place": "Lostlarn Keep The Depths Tower 1F",
     "Position": "Center",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 622,
+    "Name": "Lostlarn Keep The Depths Tower 1F Group B",
+    "Place": "Lostlarn Keep The Depths Tower 1F",
+    "Position": "Center",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 623,
+    "Name": "Lostlarn Keep The Depths Tower 3F Group A",
+    "Place": "Lostlarn Keep The Depths Tower 3F",
+    "Position": "Center",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 624,
+    "Name": "Lostlarn Keep The Depths Tower 3F Elemental Group",
+    "Place": "Lostlarn Keep The Depths Tower 3F",
+    "Position": "South West",
+    "Stage": 1,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 625,
+    "Name": "Lostlarn Keep Upper Reachs Group L",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "West",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 626,
+    "Name": "Lostlarn Keep Upper Reachs Group M",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "West",
     "Stage": 0,
     "Assault": false,
     "Memo": ""

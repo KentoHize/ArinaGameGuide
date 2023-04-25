@@ -1780,5 +1780,11 @@
     "Creature": "Quickling Tatzlwyrm",
     "Condition": null,
     "ConditionGroup": "Dragon Immunities"
+  },
+  {
+    "ID": 318,
+    "Creature": "Huge Air Elemental",
+    "Condition": null,
+    "ConditionGroup": "Elemental Immunities"
   }
 ]

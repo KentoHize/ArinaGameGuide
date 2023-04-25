@@ -5344,5 +5344,29 @@
     "Creature": "Purple Dweomertatzlwyrm",
     "Skill": "Stealth",
     "Bonus": 14
+  },
+  {
+    "ID": 893,
+    "Creature": "Gargoyle",
+    "Skill": "Perception",
+    "Bonus": 14
+  },
+  {
+    "ID": 894,
+    "Creature": "Gargoyle",
+    "Skill": "Stealth",
+    "Bonus": 9
+  },
+  {
+    "ID": 895,
+    "Creature": "Huge Air Elemental",
+    "Skill": "Mobility",
+    "Bonus": 24
+  },
+  {
+    "ID": 896,
+    "Creature": "Huge Water Elemental",
+    "Skill": "Perception",
+    "Bonus": 19
   }
 ]

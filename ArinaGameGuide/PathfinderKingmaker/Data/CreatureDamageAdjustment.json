@@ -3645,5 +3645,12 @@
     "Type": "Resistance",
     "DamageType": "Electricity",
     "Amount": 10
+  },
+  {
+    "ID": 522,
+    "Creature": "Huge Air Elemental",
+    "Type": "DamageReduction",
+    "DamageType": "None",
+    "Amount": 5
   }
 ]

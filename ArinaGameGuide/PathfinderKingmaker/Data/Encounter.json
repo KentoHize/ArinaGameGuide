@@ -838,5 +838,17 @@
     "EnemyGroup3": null,
     "EnemyGroup4": null,
     "Memo": ""
+  },
+  {
+    "ID": 71,
+    "Name": "Lostlarn Keep The Depths Tower 1F Group A",
+    "Place": "Lostlarn Keep The Depths Tower 1F",
+    "Position": "Center",
+    "HasPlot": false,
+    "EnemyGroup1": "Lostlarn Keep The Depths Tower 1F Group A",
+    "EnemyGroup2": "Lostlarn Keep The Depths Tower 1F Group B",
+    "EnemyGroup3": null,
+    "EnemyGroup4": null,
+    "Memo": ""
   }
 ]

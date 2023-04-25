@@ -2374,5 +2374,17 @@
     "RelatedEncounter": null,
     "Damage": null,
     "Memo": ""
+  },
+  {
+    "ID": 200,
+    "Name": "Lostlarn Keep The Depths Tower 2F Trap",
+    "CName": "",
+    "Type": "Unknown Trap",
+    "Place": "Lostlarn Keep The Depths Tower 2F",
+    "DisarmDC": 25,
+    "Position": "East",
+    "RelatedEncounter": null,
+    "Damage": null,
+    "Memo": ""
   }
 ]

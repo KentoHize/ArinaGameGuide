@@ -7894,5 +7894,33 @@
     "DamageAdditiveBonus": 12,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 604,
+    "Creature": "Huge Air Elemental",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 9,
+    "AdditionalAttack": 1,
+    "AttackBonus": 23,
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 8,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
+  },
+  {
+    "ID": 605,
+    "Creature": "Huge Water Elemental",
+    "Form": "Slam",
+    "Type": "Other",
+    "Range": 9,
+    "AdditionalAttack": 1,
+    "AttackBonus": 18,
+    "Weapon": null,
+    "BasicDamage": "2d6",
+    "DamageAdditiveBonus": 15,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

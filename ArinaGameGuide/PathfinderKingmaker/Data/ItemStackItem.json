@@ -12942,5 +12942,229 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1624,
+    "ItemStack": "Lostlarn Keep The Depths Tower A Treasure A",
+    "Item": "The Legend of the Pathfinder by Aren Roarvie",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1625,
+    "ItemStack": "Lostlarn Keep The Depths Tower A Treasure A",
+    "Item": "Secret Overlords: the Essence of the World Order",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1622,
+    "ItemStack": "Lostlarn Keep The Depths Tower A Treasure A",
+    "Item": "Scroll of Restoration, Greater",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1623,
+    "ItemStack": "Lostlarn Keep The Depths Tower A Treasure A",
+    "Item": "Scroll of Find Traps",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1626,
+    "ItemStack": "Lostlarn Keep The Depths Tower A Treasure B",
+    "Item": "Scroll of Remove Blindness(15)",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1627,
+    "ItemStack": "Lostlarn Keep The Depths Tower A Treasure B",
+    "Item": "Scroll of Stoneskin",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1628,
+    "ItemStack": "Lostlarn Keep The Depths Tower A Treasure C",
+    "Item": "Herb Liqueur",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1629,
+    "ItemStack": "Lostlarn Keep The Depths Tower A Treasure C",
+    "Item": "Wine",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1630,
+    "ItemStack": "Lostlarn Keep The Depths Tower A Treasure C",
+    "Item": "Potion of Shield of Faith",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1631,
+    "ItemStack": "Lostlarn Keep The Depths Tower A Treasure C",
+    "Item": "Camping supplies and rations",
+    "RandomItem": null,
+    "Quantity": 5,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1632,
+    "ItemStack": "Lostlarn Keep The Depths Tower A Treasure D",
+    "Item": "Cloak of Resistance +3",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1633,
+    "ItemStack": "Lostlarn Keep The Depths Tower A Treasure D",
+    "Item": "Wand of Fireball",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1634,
+    "ItemStack": "Lostlarn Keep The Depths Tower 2F Treasure A",
+    "Item": "Scroll of Protection from Fire",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1635,
+    "ItemStack": "Lostlarn Keep The Depths Tower 2F Treasure A",
+    "Item": "Scroll of Frigid Touch",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1636,
+    "ItemStack": "Lostlarn Keep The Depths Tower 2F Treasure A",
+    "Item": "Scroll of Barkskin",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1637,
+    "ItemStack": "Lostlarn Keep The Depths Tower 3F Treasure A",
+    "Item": "Scroll of Greater Invisibility",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1638,
+    "ItemStack": "Lostlarn Keep The Depths Tower 3F Treasure A",
+    "Item": "Scroll of Protection from Cold, Communal",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1639,
+    "ItemStack": "Lostlarn Keep The Depths Tower 3F Treasure B",
+    "Item": "Wand of Cure Moderate Wounds",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1640,
+    "ItemStack": "Lostlarn Keep The Depths Tower 3F Treasure B",
+    "Item": "Diamond Dust",
+    "RandomItem": null,
+    "Quantity": 7,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1641,
+    "ItemStack": "Gemstone of Unseen Paths",
+    "Item": "Gemstone of Unseen Paths",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1643,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre Q",
+    "Item": "Gold Coin",
+    "RandomItem": null,
+    "Quantity": 2636,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1642,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre Q",
+    "Item": "Potion of Enlarge Person",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1644,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre Q",
+    "Item": "Citrine",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1645,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre Q",
+    "Item": "Garnet Ring",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1646,
+    "ItemStack": "Tome of Clear Thought +2",
+    "Item": "Tome of Clear Thought +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1647,
+    "ItemStack": "Tome of Understanding +2",
+    "Item": "Tome of Understanding +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1648,
+    "ItemStack": "Manual of Quickness Action +2",
+    "Item": "Manual of Quickness Action +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1649,
+    "ItemStack": "Manual of Gainful Exercise +2",
+    "Item": "Manual of Gainful Exercise +2",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]
