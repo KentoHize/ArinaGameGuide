@@ -5158,5 +5158,191 @@
     "Creature": "Satyr",
     "Skill": "Stealth",
     "Bonus": 26
+  },
+  {
+    "ID": 862,
+    "Creature": "Satyr Archer",
+    "Skill": "Mobility",
+    "Bonus": 22
+  },
+  {
+    "ID": 863,
+    "Creature": "Satyr Archer",
+    "Skill": "Persuasion",
+    "Bonus": 22
+  },
+  {
+    "ID": 864,
+    "Creature": "Satyr Archer",
+    "Skill": "Lore(Nature)",
+    "Bonus": 15
+  },
+  {
+    "ID": 865,
+    "Creature": "Satyr Archer",
+    "Skill": "Perception",
+    "Bonus": 23
+  },
+  {
+    "ID": 866,
+    "Creature": "Satyr Archer",
+    "Skill": "Stealth",
+    "Bonus": 26
+  },
+  {
+    "ID": 867,
+    "Creature": "Dire Venomwolf",
+    "Skill": "Lore(Nature)",
+    "Bonus": 10
+  },
+  {
+    "ID": 868,
+    "Creature": "Dire Venomwolf",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 869,
+    "Creature": "Hodag-like Treant",
+    "Skill": "Perception",
+    "Bonus": 20
+  },
+  {
+    "ID": 870,
+    "Creature": "Ferocious Owlbear",
+    "Skill": "Perception",
+    "Bonus": 26
+  },
+  {
+    "ID": 871,
+    "Creature": "Satyr Warrior",
+    "Skill": "Mobility",
+    "Bonus": 25
+  },
+  {
+    "ID": 872,
+    "Creature": "Satyr Warrior",
+    "Skill": "Persuasion",
+    "Bonus": 22
+  },
+  {
+    "ID": 873,
+    "Creature": "Satyr Warrior",
+    "Skill": "Lore(Nature)",
+    "Bonus": 20
+  },
+  {
+    "ID": 874,
+    "Creature": "Satyr Warrior",
+    "Skill": "Perception",
+    "Bonus": 24
+  },
+  {
+    "ID": 875,
+    "Creature": "Satyr Warrior",
+    "Skill": "Stealth",
+    "Bonus": 29
+  },
+  {
+    "ID": 876,
+    "Creature": "Mysterious Satyr Enchanter",
+    "Skill": "Mobility",
+    "Bonus": 23
+  },
+  {
+    "ID": 877,
+    "Creature": "Mysterious Satyr Enchanter",
+    "Skill": "Persuasion",
+    "Bonus": 25
+  },
+  {
+    "ID": 878,
+    "Creature": "Mysterious Satyr Enchanter",
+    "Skill": "Lore(Nature)",
+    "Bonus": 16
+  },
+  {
+    "ID": 879,
+    "Creature": "Mysterious Satyr Enchanter",
+    "Skill": "Perception",
+    "Bonus": 24
+  },
+  {
+    "ID": 880,
+    "Creature": "Mysterious Satyr Enchanter",
+    "Skill": "Stealth",
+    "Bonus": 27
+  },
+  {
+    "ID": 881,
+    "Creature": "Tatzlwyrm",
+    "Skill": "Mobility",
+    "Bonus": 12
+  },
+  {
+    "ID": 882,
+    "Creature": "Tatzlwyrm",
+    "Skill": "Perception",
+    "Bonus": 14
+  },
+  {
+    "ID": 883,
+    "Creature": "Tatzlwyrm",
+    "Skill": "Athletics",
+    "Bonus": 10
+  },
+  {
+    "ID": 884,
+    "Creature": "Tatzlwyrm",
+    "Skill": "Stealth",
+    "Bonus": 12
+  },
+  {
+    "ID": 885,
+    "Creature": "Quickling Tatzlwyrm",
+    "Skill": "Mobility",
+    "Bonus": 21
+  },
+  {
+    "ID": 886,
+    "Creature": "Quickling Tatzlwyrm",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 887,
+    "Creature": "Quickling Tatzlwyrm",
+    "Skill": "Athletics",
+    "Bonus": 21
+  },
+  {
+    "ID": 888,
+    "Creature": "Quickling Tatzlwyrm",
+    "Skill": "Stealth",
+    "Bonus": 17
+  },
+  {
+    "ID": 889,
+    "Creature": "Purple Dweomertatzlwyrm",
+    "Skill": "Mobility",
+    "Bonus": 18
+  },
+  {
+    "ID": 890,
+    "Creature": "Purple Dweomertatzlwyrm",
+    "Skill": "Perception",
+    "Bonus": 21
+  },
+  {
+    "ID": 891,
+    "Creature": "Purple Dweomertatzlwyrm",
+    "Skill": "Athletics",
+    "Bonus": 21
+  },
+  {
+    "ID": 892,
+    "Creature": "Purple Dweomertatzlwyrm",
+    "Skill": "Stealth",
+    "Bonus": 14
   }
 ]

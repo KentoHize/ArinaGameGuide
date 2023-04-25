@@ -1438,5 +1438,23 @@
     "Period": null,
     "VulnearTo1": null,
     "VulnearTo2": null
+  },
+  {
+    "ID": 165,
+    "Creature": "Quickling Tatzlwyrm",
+    "EffectOrCondition": "Blur",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
+  },
+  {
+    "ID": 166,
+    "Creature": "Purple Dweomertatzlwyrm",
+    "EffectOrCondition": "Mirror Image",
+    "Amount": null,
+    "Period": null,
+    "VulnearTo1": null,
+    "VulnearTo2": null
   }
 ]

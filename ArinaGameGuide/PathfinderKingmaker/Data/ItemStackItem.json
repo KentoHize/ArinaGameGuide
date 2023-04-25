@@ -12558,5 +12558,389 @@
     "RandomItem": null,
     "Quantity": 1,
     "RandomQuantity": null
+  },
+  {
+    "ID": 1574,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre K",
+    "Item": "Scroll of Ear-Piercing Scream",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1575,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre K",
+    "Item": "Scroll of Faerie Fire",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1576,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre K",
+    "Item": "Scroll of Ray of Enfeeblement",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1577,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre K",
+    "Item": "Scroll of Raise Dead",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1578,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre L",
+    "Item": "Scroll of Restoration",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1579,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre L",
+    "Item": "Scroll of Remove Curse",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1580,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre L",
+    "Item": "Scroll of Invisibility",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1581,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre L",
+    "Item": "Scroll of Remove Blindness(15)",
+    "RandomItem": null,
+    "Quantity": 4,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1582,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre M",
+    "Item": "Scroll of Heal",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1583,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre M",
+    "Item": "Scroll of Remove Paralysis",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1584,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre M",
+    "Item": "Scroll of False Life",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1585,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre M",
+    "Item": "Scroll of Mirror Image",
+    "RandomItem": null,
+    "Quantity": 4,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1586,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre M",
+    "Item": "Scroll of Invisibility",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1587,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre M",
+    "Item": "Scroll of Good Hope",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1588,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre N",
+    "Item": "Scroll of Hellfire Ray",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1589,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre N",
+    "Item": "Scroll of Heroism, Greater",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1590,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre N",
+    "Item": "Scroll of Banishment",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1591,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre N",
+    "Item": "Scroll of Hold Master",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1592,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre N",
+    "Item": "Decorated Scabbard",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1593,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre N",
+    "Item": "Scroll of Feather Step",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1594,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre N",
+    "Item": "Golden Earring",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1595,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre O",
+    "Item": "Scroll of Breath of Life",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1596,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre O",
+    "Item": "Scroll of Feeblemind",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1597,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre O",
+    "Item": "Scroll of Hold Master",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1598,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre O",
+    "Item": "Scroll of Heal",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1599,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre O",
+    "Item": "Scroll of Remove Fear",
+    "RandomItem": null,
+    "Quantity": 6,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1600,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre P",
+    "Item": "Scroll of Holy Aura",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1601,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre P",
+    "Item": "Scroll of Sunburst",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1602,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre P",
+    "Item": "Scroll of Echolocation",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1603,
+    "ItemStack": "Lostlarn Keep Upper Reachs Treausre P",
+    "Item": "Scroll of Icy Prison",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1604,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure A",
+    "Item": "Scroll of Find Traps",
+    "RandomItem": null,
+    "Quantity": 4,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1605,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure A",
+    "Item": "Trapspringer's Gloves",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1606,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure A",
+    "Item": "Pearl",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1607,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure A",
+    "Item": "Silver Pocket Mirror",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1608,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure B",
+    "Item": "Camping supplies and rations",
+    "RandomItem": null,
+    "Quantity": 5,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1609,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure B",
+    "Item": "Mushroom",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1610,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure B",
+    "Item": "Edible Moss",
+    "RandomItem": null,
+    "Quantity": 3,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1611,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure B",
+    "Item": "Onions",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1612,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure C",
+    "Item": "Potion of Heroism",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1613,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure C",
+    "Item": "Potion of Resist Acid",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1614,
+    "ItemStack": "Mysterious Satyr Enchanter RS",
+    "Item": "Moonstone",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1615,
+    "ItemStack": "Mysterious Satyr Enchanter RS",
+    "Item": "Silver Ring",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1616,
+    "ItemStack": "Mysterious Satyr Enchanter RS",
+    "Item": "Copper Ring",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1617,
+    "ItemStack": "Mysterious Satyr Enchanter RS",
+    "Item": "Pearl",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1618,
+    "ItemStack": "Mysterious Satyr Enchanter RS",
+    "Item": "Masterwork Shortsword",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1619,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure D",
+    "Item": "Ring of the Natural Born Commander",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1620,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure D",
+    "Item": "Potion of Restoration, Lesser",
+    "RandomItem": null,
+    "Quantity": 2,
+    "RandomQuantity": null
+  },
+  {
+    "ID": 1621,
+    "ItemStack": "Lostlarn Keep The Depths A Treasure D",
+    "Item": "Scroll of Greater Invisibility",
+    "RandomItem": null,
+    "Quantity": 1,
+    "RandomQuantity": null
   }
 ]

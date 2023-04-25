@@ -3581,6 +3581,22 @@
     "HardSpotLevelMax": null,
     "HasPlot": true,
     "Description": "",
+    "Memo": "Athletics 20"
+  },
+  {
+    "ID": 226,
+    "Name": "Lostlarn Keep The Depths Tower A",
+    "DisplayName": "Lostlarn Keep - The Depths",
+    "CName": "",
+    "Entrance": "The Tomb's Threshold",
+    "Type": "Dungeon",
+    "Region": null,
+    "SuggestedLevelMin": 0,
+    "SuggestedLevelMax": 0,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
     "Memo": ""
   }
 ]

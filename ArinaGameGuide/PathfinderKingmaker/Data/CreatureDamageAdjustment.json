@@ -3603,5 +3603,47 @@
     "Type": "DamageReduction",
     "DamageType": "Cold Iron",
     "Amount": 5
+  },
+  {
+    "ID": 516,
+    "Creature": "Dire Venomwolf",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
+  },
+  {
+    "ID": 517,
+    "Creature": "Dire Venomwolf",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 518,
+    "Creature": "Satyr Warrior",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 5
+  },
+  {
+    "ID": 519,
+    "Creature": "Mysterious Satyr Enchanter",
+    "Type": "DamageReduction",
+    "DamageType": "Cold Iron",
+    "Amount": 5
+  },
+  {
+    "ID": 520,
+    "Creature": "Purple Dweomertatzlwyrm",
+    "Type": "Resistance",
+    "DamageType": "Cold",
+    "Amount": 10
+  },
+  {
+    "ID": 521,
+    "Creature": "Purple Dweomertatzlwyrm",
+    "Type": "Resistance",
+    "DamageType": "Electricity",
+    "Amount": 10
   }
 ]

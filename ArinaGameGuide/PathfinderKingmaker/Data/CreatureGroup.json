@@ -5479,5 +5479,104 @@
     "Stage": 0,
     "Assault": true,
     "Memo": ""
+  },
+  {
+    "ID": 610,
+    "Name": "Lostlarn Keep The Depths A Group F",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "Center",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 612,
+    "Name": "Lostlarn Keep Upper Reachs Group K",
+    "Place": "Lostlarn Keep Upper Reachs",
+    "Position": "West",
+    "Stage": 1,
+    "Assault": true,
+    "Memo": ""
+  },
+  {
+    "ID": 613,
+    "Name": "Lostlarn Keep The Depths A Group G",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "North West",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 614,
+    "Name": "Lostlarn Keep The Depths A Group H",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "South West",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 615,
+    "Name": "Lostlarn Keep The Depths A Group I",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "South",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 616,
+    "Name": "Lostlarn Keep The Depths A Group J",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "South",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 617,
+    "Name": "Lostlarn Keep The Depths A Group K",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "Center",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 618,
+    "Name": "Lostlarn Keep The Depths A Group L",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "South",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 619,
+    "Name": "Lostlarn Keep The Depths A Group M",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "South East",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 620,
+    "Name": "Lostlarn Keep The Depths A Group N",
+    "Place": "Lostlarn Keep The Depths A",
+    "Position": "East",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
+  },
+  {
+    "ID": 621,
+    "Name": "Lostlarn Keep The Depths Tower A Group A",
+    "Place": "Lostlarn Keep The Depths Tower A",
+    "Position": "Center",
+    "Stage": 0,
+    "Assault": false,
+    "Memo": ""
   }
 ]

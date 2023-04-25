@@ -495,5 +495,12 @@
     "CName": "",
     "DC": "",
     "Description": "Nauseated 1 Round Fort Save\nFilith Fever 1d3 Dex 1d3 Con"
+  },
+  {
+    "ID": 72,
+    "Name": "Trip(Bite Attack)",
+    "CName": "",
+    "DC": "",
+    "Description": "Trip while attack"
   }
 ]

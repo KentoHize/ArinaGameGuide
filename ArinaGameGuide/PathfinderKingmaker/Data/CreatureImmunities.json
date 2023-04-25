@@ -1756,5 +1756,29 @@
     "Creature": "Primal Hydra",
     "Condition": "Prone",
     "ConditionGroup": null
+  },
+  {
+    "ID": 314,
+    "Creature": "Mysterious Satyr Enchanter",
+    "Condition": "Difficult Terrain",
+    "ConditionGroup": null
+  },
+  {
+    "ID": 315,
+    "Creature": "Tatzlwyrm",
+    "Condition": null,
+    "ConditionGroup": "Dragon Immunities"
+  },
+  {
+    "ID": 316,
+    "Creature": "Purple Dweomertatzlwyrm",
+    "Condition": null,
+    "ConditionGroup": "Dragon Immunities"
+  },
+  {
+    "ID": 317,
+    "Creature": "Quickling Tatzlwyrm",
+    "Condition": null,
+    "ConditionGroup": "Dragon Immunities"
   }
 ]

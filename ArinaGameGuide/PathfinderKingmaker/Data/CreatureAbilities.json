@@ -4300,5 +4300,41 @@
     "DamageType1": null,
     "DamageType2": null,
     "DC": null
+  },
+  {
+    "ID": 481,
+    "Creature": "Dire Venomwolf",
+    "Ability": "Trip(Bite Attack)",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 482,
+    "Creature": "Hodag-like Treant",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 483,
+    "Creature": "Hodag-like Treant",
+    "Ability": "Stunning Blow",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
+  },
+  {
+    "ID": 484,
+    "Creature": "Ferocious Owlbear",
+    "Ability": "Power Attack",
+    "Amount": null,
+    "DamageType1": null,
+    "DamageType2": null,
+    "DC": null
   }
 ]
