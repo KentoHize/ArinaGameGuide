@@ -5530,5 +5530,29 @@
     "Creature": "Doomspider",
     "Skill": "Perception",
     "Bonus": 19
+  },
+  {
+    "ID": 924,
+    "Creature": "Marquise Immolatia",
+    "Skill": "Mobility",
+    "Bonus": 35
+  },
+  {
+    "ID": 925,
+    "Creature": "Marquise Immolatia",
+    "Skill": "Persuasion",
+    "Bonus": 30
+  },
+  {
+    "ID": 926,
+    "Creature": "Marquise Immolatia",
+    "Skill": "Perception",
+    "Bonus": 32
+  },
+  {
+    "ID": 927,
+    "Creature": "Marquise Immolatia",
+    "Skill": "Stealth",
+    "Bonus": 59
   }
 ]

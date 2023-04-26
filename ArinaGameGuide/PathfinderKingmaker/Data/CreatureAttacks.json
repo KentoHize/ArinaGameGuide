@@ -8132,5 +8132,19 @@
     "DamageAdditiveBonus": 13,
     "OtherDamageBonus": null,
     "SneakDamage": null
+  },
+  {
+    "ID": 621,
+    "Creature": "Marquise Immolatia",
+    "Form": "Touch",
+    "Type": "Other",
+    "Range": 2,
+    "AdditionalAttack": 1,
+    "AttackBonus": 32,
+    "Weapon": null,
+    "BasicDamage": "3d8 Shock",
+    "DamageAdditiveBonus": null,
+    "OtherDamageBonus": null,
+    "SneakDamage": null
   }
 ]

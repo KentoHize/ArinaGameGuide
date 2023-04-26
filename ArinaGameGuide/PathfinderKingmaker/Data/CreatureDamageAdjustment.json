@@ -3729,5 +3729,19 @@
     "Type": "Immunity",
     "DamageType": "Negative",
     "Amount": null
+  },
+  {
+    "ID": 534,
+    "Creature": "Marquise Immolatia",
+    "Type": "Immunity",
+    "DamageType": "Electricity",
+    "Amount": null
+  },
+  {
+    "ID": 535,
+    "Creature": "Marquise Immolatia",
+    "Type": "Vulnerability",
+    "DamageType": "Magic Missile",
+    "Amount": null
   }
 ]

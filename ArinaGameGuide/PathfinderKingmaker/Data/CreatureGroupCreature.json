@@ -16909,7 +16909,18 @@
   {
     "ID": 1542,
     "CreatureGroup": "Lostlarn Keep The Depths First World Group A",
-    "Creature": "Mimic",
+    "Creature": "Mimic 16",
+    "DisplayName": null,
+    "Quantity": 1,
+    "AdditionalItems": null,
+    "AdditionalEffectOrConditions": null,
+    "ExpMultiplier": null,
+    "Team": "1"
+  },
+  {
+    "ID": 1543,
+    "CreatureGroup": "Lostlarn Keep The Depths First World Group A",
+    "Creature": "Marquise Immolatia",
     "DisplayName": null,
     "Quantity": 1,
     "AdditionalItems": null,

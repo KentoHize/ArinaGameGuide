@@ -1840,5 +1840,11 @@
     "Creature": "Guardian Armor 15",
     "Condition": null,
     "ConditionGroup": "Undead Immunities"
+  },
+  {
+    "ID": 329,
+    "Creature": "Marquise Immolatia",
+    "Condition": "Spell",
+    "ConditionGroup": null
   }
 ]
