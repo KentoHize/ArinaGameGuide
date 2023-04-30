@@ -42,7 +42,7 @@
   {
     "ID": 9,
     "Subject": "Portraits",
-    "Memo": "Ryavelana HE-FM-FM-F106\nTifvae HE-MF-2H-F203\nRyria GH-GH-MS-F303\nRina HE-PC-CE-F206\nElianna HE-MF-SH-F204\nLeslie HE-MF-SH-F202\nAdonis HE-MF-DD-M104\nDalolug DW-MF-MS-M303\nGarhar HE-WS-MS-M150"
+    "Memo": "Ryavelana HE-FM-FM-F106\nTifvae HE-MF-2H-F203\nRyria GH-GH-MS-F303\nRina HE-PC-CE-F206\nElianna HE-MF-SH-F204\nLeslie HE-MF-SH-F202\nAdonis HE-MF-DD-M104\nDalolug DW-MF-MS-M303\nGarhar HE-WS-MS-M150\nArirad HE-FM-FM-F201\nFreya HE-PC-CE-F208"
   },
   {
     "ID": 10,
@@ -63,5 +63,25 @@
     "ID": 13,
     "Subject": "Fix Issue",
     "Memo": "Stag Lord of Shadow maybe more Archer reinforce"
+  },
+  {
+    "ID": 14,
+    "Subject": "Safe Time",
+    "Memo": "如何保存時間\n\nLore(Nature) DC 18\nKnowledge(Arcana) DC 20\nPerception DC 25"
+  },
+  {
+    "ID": 15,
+    "Subject": "Mecerneies",
+    "Memo": "1230 -> 1141\n1141 -> 1052\n1052 -> 963\n963 -> 874\n874 -> 785\n785 -> 696\n696 -> 607\n607 -> 518\n518 -> 429"
+  },
+  {
+    "ID": 16,
+    "Subject": "Old Guide",
+    "Memo": "Troll Wildness 謎題未解\n\n英雄\nLamyth \n10 16 14 10 12 19\n10 16 14 12  7 20\n        \n傭兵\nRyavelana (Elf Saint Sword) Reserved\nGarhar (Human Wizard) Wise\nDalolug (Dwarf Druid 近戰) Pious\nTifvae (Half-Elf Druid 施法) Cunning\nRyria (Elf Ranger 弓箭) Confident\nElianna (Aasimar Paladin) Brave\nLeslie (Human Fighter) Madman\nAdonis (Human Aldori Defender) Confident\nRina (Human Herald Caller) Carefree\n//Nathalie (Bard)\n//Selene (Human Sorcerer)\n\n寶箱\nAbandoned Hut X\nNettle Crossing X -> O\n\nBridge over the Gudrin River\n\n\n\n攻略\n-----------------------------------\n起始時間 4710 4/16\n\n技能分配\n主角\nPersuasion\n(Use Magic Device)\n\n牧師\nLore(Regligion)\n\n遊俠/德魯伊\nLore(Nature)\nPerception\n\nAmiri\nAthletic\nPerception\n\nLinzi\nMobility\nStealth\nTrickery\nKnowledge(Arcana)\nKnowledge(World)\n\n\nEndless Plain \n小Boss 3~5級\nManticore\n\nFangberry Cave\n狩獵場 2~3級\n後繼 3~5級\n\nTwo-Rivers Field(東邊)\n狩獵場 2~3級\n Boggard\n Wolf\n Trap DC 17 \n\nOld Mesa \n小Boss Great Werewolf 10/Sliver\n\nThree-Pine Islet\n遊蕩怪 Tatzlwyrm 3~4級 Trap\n\nOvergrown Pool\nDyrad Melianse 綁架事件 Direwolf\n\nLone House\n遊蕩怪 4~5級 劇情點之一\nBandit\n\n劇情後\n狩獵場 6~8級\nTroll\nBranded Troll\n\nWaterlogged Lowland\n遊記 5~7級\n\nNettle's Crossing\n劇情 DC 27寶箱\n\nAbandoned Hut\n遊蕩怪 2~4級 劇情\nFerocious Wolf\n寶箱 DC 21\n\nTranquil River Band\n狩獵場 6~8級\n Boggard Savage\n Boggard Scarred One\n Boggard Prophet\n Monitor Lizzard\nBridge over the Gudrin River\n狩獵場 5~6級 劇情點\n Tatzlwyrm\n Alpha Wolf\n Worg\n Ferocious Wolf\n Hodag\n Ferocious Hodag\n Bear\n 隱藏地區\n\nRuined Watch Tower\n劇情 - Troll Branded Troll\n遊蕩怪 4~5級\n Bandit\n Bandit Alchemist\n Ferocious Wolf\n Troll\n Kobold Boomsayer\n Great Giant Spider\n\nTrail In The Hills\n小Boss 5~7級\nMature Leopard \n\nKobold Camp\n劇情 - 善良無戰鬥\n\nKobold Trail\n遊記 Mobility 15 Rope needed\n善良 500 gp\n\nTroll Cleaning\n遊記 Lore(Nature) 20\n\nGlade In The Wildness\n遊蕩怪 5~7級 \n洞穴的戰鬥稍難\nWolf From Silent's Pack\nSilent, the Wold of Alpha\n\nOld Oak\n小Boss 5~7級\nMan-Eater Troll\nBoggard\n\nTenebrous Depth\n劇情\n\nTuskgutter's Lair\n劇情 3~4級\n單挑6級以上\nTuskgutter\n\nOak-That-Strayed\n小Boss 4~7級\nInsane Dryad\n\nTemple Of The Elk\n劇情 4~6級 早拿Tritisan路線，3級可以去嘗試(困難)\n\nSwamp Witch's Hut\n狩獵場 劇情 6~8級\n右上左上，可隔空解決\n\nMonster Den\n小Boss\nAncient Wyven\n\nSecluded Lodge\n劇情 無戰鬥\n\nMud Bowl\n小Boss 6~9級\nTendriculos\n\nEmpty Skull Rock\n狩獵場 5-7級\nFerocious Trollhound \n\nLizardfolk Village\n劇情 遊蕩怪 5~7級\nGiant Poisonous Frog\nGreat Monitor Lizard\nVenomHodag\n\nWolf Lair\n狩獵場 5~7級\nWolf\nAlpha Wolf\n\nVerdant Chamber\n遊蕩怪 4~6級 劇情\nFerocious Wolf\n\nLonlely Barrow\n劇情 5~7級 技能考驗\n後續關卡 8~10級 (下次繼續)\n\nCandlemere Tower\n劇情 6級~8級，需要抗電\n\nBald Stone\n小Boss 7~9級\nTorpor, the Great Nightmare\n\nArbar Rock\n小Boss 4~7級\nHuge Earth Elemental\nMedium Earth Elemental\n\nHilltop Trail\n\nDweomerCat\n小Boss 5~7級\n往後\nDwomerLion 9~11級\nBrace of Armor + 5\n\nLake Silverstep Village\n狩獵場 7~10級 劇情\nTatzlwyrm\nGreater Tatzlwyrm\nDire Boar\nGreater Dire Boar\nNixie Prankster\nNereid\nWorg\nGreater Worg\nFerocious Hydra\nNixie Trickster\n\nSilverstep Grove\n狩獵場 7~9級 劇情\nAlpha Wolf\nAlpha Worg\nIvor\n\nAncient Mine\n小Boss 7~9級\nAncient Wyvern\n\nRatnook Hill\n小Boss 8~10級 陷阱\nWererat Rogue 8\nWererat Alchemist 8\nWererat Fighter 2\n\nHunting Ground\n狩獵場 7~9級 劇情\n\n多種怪物　熊　狼　九頭蛇等\n\n建議"
+  },
+  {
+    "ID": 17,
+    "Subject": "Divine Hunter Challenge",
+    "Memo": "Remain Items\nTechnic League Encampment "
   }
 ]
