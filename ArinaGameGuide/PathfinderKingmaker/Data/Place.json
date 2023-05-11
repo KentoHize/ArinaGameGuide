@@ -3662,5 +3662,21 @@
     "HasPlot": true,
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 231,
+    "Name": "Old Sycamore Caves",
+    "DisplayName": "Old Sycamore Caves",
+    "CName": "",
+    "Entrance": null,
+    "Type": "Dungeon",
+    "Region": null,
+    "SuggestedLevelMin": 5,
+    "SuggestedLevelMax": 7,
+    "HardSpotLevelMin": null,
+    "HardSpotLevelMax": null,
+    "HasPlot": false,
+    "Description": "",
+    "Memo": "Resist Acid, Resist Fire"
   }
 ]

@@ -617,6 +617,65 @@
       ]
     },
     {
+      "Name": "LocationStats",
+      "Columns": [
+        {
+          "Name": "ID",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "Integer",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": true,
+          "IsUnique": false
+        },
+        {
+          "Name": "Name",
+          "IsKey": true,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        },
+        {
+          "Name": "CName",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": null,
+          "Description": null,
+          "MinValue": null,
+          "MaxValue": null,
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        }
+      ]
+    },
+    {
       "Name": "Memo",
       "Columns": [
         {
@@ -1543,65 +1602,6 @@
           "Description": "",
           "MinValue": "",
           "MaxValue": "",
-          "MaxLength": 0,
-          "AutoGenerateKey": false,
-          "IsUnique": false
-        }
-      ]
-    },
-    {
-      "Name": "LocationStats",
-      "Columns": [
-        {
-          "Name": "ID",
-          "IsKey": false,
-          "IsNullable": false,
-          "Type": "Integer",
-          "Choices": [],
-          "FKTable": null,
-          "FKColumn": null,
-          "NumberOfRows": 1,
-          "Display": true,
-          "RegularExpression": "",
-          "Description": "",
-          "MinValue": "",
-          "MaxValue": "",
-          "MaxLength": 0,
-          "AutoGenerateKey": true,
-          "IsUnique": false
-        },
-        {
-          "Name": "Name",
-          "IsKey": true,
-          "IsNullable": false,
-          "Type": "String",
-          "Choices": [],
-          "FKTable": null,
-          "FKColumn": null,
-          "NumberOfRows": 1,
-          "Display": true,
-          "RegularExpression": "",
-          "Description": "",
-          "MinValue": "",
-          "MaxValue": "",
-          "MaxLength": 0,
-          "AutoGenerateKey": false,
-          "IsUnique": false
-        },
-        {
-          "Name": "CName",
-          "IsKey": false,
-          "IsNullable": false,
-          "Type": "String",
-          "Choices": [],
-          "FKTable": null,
-          "FKColumn": null,
-          "NumberOfRows": 1,
-          "Display": true,
-          "RegularExpression": null,
-          "Description": null,
-          "MinValue": null,
-          "MaxValue": null,
           "MaxLength": 0,
           "AutoGenerateKey": false,
           "IsUnique": false
