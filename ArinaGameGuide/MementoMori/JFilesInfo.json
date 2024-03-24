@@ -80,13 +80,13 @@
       ]
     },
     {
-      "Name": "MainQuest",
+      "Name": "CharacterRank",
       "Columns": [
         {
-          "Name": "ID",
-          "IsKey": false,
+          "Name": "Name",
+          "IsKey": true,
           "IsNullable": false,
-          "Type": "Integer",
+          "Type": "String",
           "Choices": [],
           "FKTable": null,
           "FKColumn": null,
@@ -97,7 +97,55 @@
           "MinValue": "",
           "MaxValue": "",
           "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        }
+      ]
+    },
+    {
+      "Name": "Quest",
+      "Columns": [
+        {
+          "Name": "ID",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "Integer",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
           "AutoGenerateKey": true,
+          "IsUnique": false
+        },
+        {
+          "Name": "Type",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "Choice",
+          "Choices": [
+            "Main",
+            "Tower",
+            "Blue Tower",
+            "Red Tower",
+            "Yellow Tower",
+            "Green Tower"
+          ],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
           "IsUnique": false
         },
         {
@@ -119,9 +167,27 @@
           "IsUnique": false
         },
         {
+          "Name": "Level",
+          "IsKey": false,
+          "IsNullable": true,
+          "Type": "Integer",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false
+        },
+        {
           "Name": "Chapter",
           "IsKey": false,
-          "IsNullable": false,
+          "IsNullable": true,
           "Type": "Integer",
           "Choices": [],
           "FKTable": null,
@@ -139,7 +205,7 @@
         {
           "Name": "Section",
           "IsKey": false,
-          "IsNullable": false,
+          "IsNullable": true,
           "Type": "Integer",
           "Choices": [],
           "FKTable": null,
@@ -247,7 +313,7 @@
       ]
     },
     {
-      "Name": "MainQuestSolution",
+      "Name": "QuestSolution",
       "Columns": [
         {
           "Name": "ID",
@@ -268,12 +334,12 @@
           "IsUnique": false
         },
         {
-          "Name": "MainQuest",
+          "Name": "Quest",
           "IsKey": false,
           "IsNullable": true,
           "Type": "String",
           "Choices": [],
-          "FKTable": "MainQuest",
+          "FKTable": "Quest",
           "FKColumn": "Name",
           "NumberOfRows": 1,
           "Display": true,
@@ -554,22 +620,17 @@
           "MaxLength": 0,
           "AutoGenerateKey": false,
           "IsUnique": false
-        }
-      ]
-    },
-    {
-      "Name": "CharacterRank",
-      "Columns": [
+        },
         {
-          "Name": "Name",
-          "IsKey": true,
+          "Name": "Memo",
+          "IsKey": false,
           "IsNullable": false,
           "Type": "String",
           "Choices": [],
           "FKTable": null,
           "FKColumn": null,
-          "NumberOfRows": 1,
-          "Display": true,
+          "NumberOfRows": 4,
+          "Display": false,
           "RegularExpression": "",
           "Description": "",
           "MinValue": "",

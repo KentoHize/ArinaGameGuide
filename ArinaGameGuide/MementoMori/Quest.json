@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 1,
+    "Type": "Main",
+    "Name": "20-11",
+    "Level": null,
+    "Chapter": 20,
+    "Section": 11,
+    "Position1": null,
+    "Position2": null,
+    "Position3": null,
+    "Position4": null,
+    "Position5": null
+  },
+  {
+    "ID": 2,
+    "Type": "Main",
+    "Name": "20-16",
+    "Level": null,
+    "Chapter": 20,
+    "Section": 16,
+    "Position1": null,
+    "Position2": null,
+    "Position3": null,
+    "Position4": null,
+    "Position5": null
+  },
+  {
+    "ID": 3,
+    "Type": "Main",
+    "Name": "20-17",
+    "Level": null,
+    "Chapter": 20,
+    "Section": 17,
+    "Position1": null,
+    "Position2": null,
+    "Position3": null,
+    "Position4": null,
+    "Position5": null
+  },
+  {
+    "ID": 4,
+    "Type": "Yellow Tower",
+    "Name": "135",
+    "Level": 135,
+    "Chapter": null,
+    "Section": null,
+    "Position1": null,
+    "Position2": null,
+    "Position3": null,
+    "Position4": null,
+    "Position5": null
+  },
+  {
+    "ID": 5,
+    "Type": "Yellow Tower",
+    "Name": "140",
+    "Level": 140,
+    "Chapter": null,
+    "Section": null,
+    "Position1": null,
+    "Position2": null,
+    "Position3": null,
+    "Position4": null,
+    "Position5": null
+  }
+]
