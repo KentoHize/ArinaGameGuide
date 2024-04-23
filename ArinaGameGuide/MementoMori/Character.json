@@ -1,68 +1,137 @@
 [
   {
     "ID": 1,
-    "Name": "1",
+    "Name": "Amleth",
     "CName": "阿姆蕾特",
-    "JName": ""
+    "JName": "",
+    "Soul": null,
+    "Class": null,
+    "BaseRarity": null
   },
   {
     "ID": 2,
-    "Name": "2",
+    "Name": "Florence",
     "CName": "佛羅倫斯",
-    "JName": ""
+    "JName": "",
+    "Soul": null,
+    "Class": null,
+    "BaseRarity": null
   },
   {
     "ID": 3,
-    "Name": "3",
+    "Name": "Mimi",
     "CName": "咪咪",
-    "JName": ""
+    "JName": "",
+    "Soul": null,
+    "Class": null,
+    "BaseRarity": null
   },
   {
     "ID": 4,
-    "Name": "4",
+    "Name": "Primavera",
     "CName": "普莉瑪維拉",
-    "JName": "プリマヴェーラ"
+    "JName": "プリマヴェーラ",
+    "Soul": null,
+    "Class": null,
+    "BaseRarity": null
   },
   {
     "ID": 5,
-    "Name": "5",
+    "Name": "Matilda",
     "CName": "瑪提爾德",
-    "JName": ""
+    "JName": "",
+    "Soul": null,
+    "Class": null,
+    "BaseRarity": null
   },
   {
     "ID": 6,
     "Name": "6",
     "CName": "科迪",
-    "JName": ""
+    "JName": "",
+    "Soul": null,
+    "Class": null,
+    "BaseRarity": null
   },
   {
     "ID": 7,
     "Name": "7",
     "CName": "露娜琳德",
-    "JName": ""
+    "JName": "",
+    "Soul": null,
+    "Class": null,
+    "BaseRarity": null
   },
   {
     "ID": 8,
     "Name": "8",
     "CName": "梅琳",
-    "JName": ""
+    "JName": "",
+    "Soul": null,
+    "Class": null,
+    "BaseRarity": null
   },
   {
     "ID": 9,
     "Name": "9",
     "CName": "奧莉維亞",
-    "JName": ""
+    "JName": "",
+    "Soul": null,
+    "Class": null,
+    "BaseRarity": null
   },
   {
     "ID": 10,
     "Name": "10",
     "CName": "托波波",
-    "JName": ""
+    "JName": "",
+    "Soul": null,
+    "Class": null,
+    "BaseRarity": null
   },
   {
     "ID": 11,
     "Name": "11",
     "CName": "哈索兒",
-    "JName": ""
+    "JName": "",
+    "Soul": null,
+    "Class": null,
+    "BaseRarity": null
+  },
+  {
+    "ID": 12,
+    "Name": "12",
+    "CName": "索爾提娜",
+    "JName": "",
+    "Soul": null,
+    "Class": null,
+    "BaseRarity": null
+  },
+  {
+    "ID": 13,
+    "Name": "13",
+    "CName": "芬里爾",
+    "JName": "",
+    "Soul": null,
+    "Class": null,
+    "BaseRarity": null
+  },
+  {
+    "ID": 14,
+    "Name": "14",
+    "CName": "艾莉絲",
+    "JName": "",
+    "Soul": null,
+    "Class": null,
+    "BaseRarity": null
+  },
+  {
+    "ID": 15,
+    "Name": "15",
+    "CName": "伊利亞",
+    "JName": "",
+    "Soul": null,
+    "Class": null,
+    "BaseRarity": null
   }
 ]

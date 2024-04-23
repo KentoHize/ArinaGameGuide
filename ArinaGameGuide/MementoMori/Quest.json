@@ -63,5 +63,70 @@
     "Position3": null,
     "Position4": null,
     "Position5": null
+  },
+  {
+    "ID": 6,
+    "Type": "Yellow Tower",
+    "Name": "141",
+    "Level": 141,
+    "Chapter": null,
+    "Section": null,
+    "Position1": null,
+    "Position2": null,
+    "Position3": null,
+    "Position4": null,
+    "Position5": null
+  },
+  {
+    "ID": 7,
+    "Type": "Blue Tower",
+    "Name": "192",
+    "Level": 192,
+    "Chapter": null,
+    "Section": null,
+    "Position1": null,
+    "Position2": null,
+    "Position3": null,
+    "Position4": null,
+    "Position5": null
+  },
+  {
+    "ID": 8,
+    "Type": "Blue Tower",
+    "Name": "195",
+    "Level": 195,
+    "Chapter": null,
+    "Section": null,
+    "Position1": null,
+    "Position2": null,
+    "Position3": null,
+    "Position4": null,
+    "Position5": null
+  },
+  {
+    "ID": 9,
+    "Type": "Blue Tower",
+    "Name": "198",
+    "Level": 198,
+    "Chapter": null,
+    "Section": null,
+    "Position1": null,
+    "Position2": null,
+    "Position3": null,
+    "Position4": null,
+    "Position5": null
+  },
+  {
+    "ID": 10,
+    "Type": "Blue Tower",
+    "Name": "208",
+    "Level": 208,
+    "Chapter": null,
+    "Section": null,
+    "Position1": null,
+    "Position2": null,
+    "Position3": null,
+    "Position4": null,
+    "Position5": null
   }
 ]
