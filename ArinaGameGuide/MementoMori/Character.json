@@ -1,137 +1,299 @@
 [
   {
+    "ID": 16,
+    "Name": "A.A.",
+    "CName": "A.A.",
+    "JName": "",
+    "Soul": "Chaos",
+    "Class": "Sorcerer",
+    "BaseRarity": "SR(Limited)"
+  },
+  {
     "ID": 1,
     "Name": "Amleth",
     "CName": "阿姆蕾特",
     "JName": "",
-    "Soul": null,
-    "Class": null,
-    "BaseRarity": null
+    "Soul": "Azure",
+    "Class": "Warrior",
+    "BaseRarity": "SR"
+  },
+  {
+    "ID": 6,
+    "Name": "Cordie",
+    "CName": "科迪",
+    "JName": "",
+    "Soul": "Emerald",
+    "Class": "Sniper",
+    "BaseRarity": "SR"
+  },
+  {
+    "ID": 13,
+    "Name": "Fenrir",
+    "CName": "芬里爾",
+    "JName": "",
+    "Soul": "Azure",
+    "Class": "Sorcerer",
+    "BaseRarity": "SR"
   },
   {
     "ID": 2,
     "Name": "Florence",
     "CName": "佛羅倫斯",
     "JName": "",
-    "Soul": null,
-    "Class": null,
-    "BaseRarity": null
+    "Soul": "Azure",
+    "Class": "Warrior",
+    "BaseRarity": "SR"
   },
   {
-    "ID": 3,
-    "Name": "Mimi",
-    "CName": "咪咪",
+    "ID": 11,
+    "Name": "Hathor",
+    "CName": "哈索兒",
     "JName": "",
-    "Soul": null,
-    "Class": null,
-    "BaseRarity": null
+    "Soul": "Amber",
+    "Class": "Sniper",
+    "BaseRarity": "SR"
   },
   {
-    "ID": 4,
-    "Name": "Primavera",
-    "CName": "普莉瑪維拉",
-    "JName": "プリマヴェーラ",
-    "Soul": null,
-    "Class": null,
-    "BaseRarity": null
+    "ID": 15,
+    "Name": "Illya",
+    "CName": "伊利亞",
+    "JName": "",
+    "Soul": "Azure",
+    "Class": "Warrior",
+    "BaseRarity": "R"
+  },
+  {
+    "ID": 14,
+    "Name": "Iris",
+    "CName": "艾莉絲",
+    "JName": "",
+    "Soul": "Azure",
+    "Class": "Warrior",
+    "BaseRarity": "R"
+  },
+  {
+    "ID": 7,
+    "Name": "Lunalynn",
+    "CName": "露娜琳德",
+    "JName": "",
+    "Soul": "Chaos",
+    "Class": "Sorcerer",
+    "BaseRarity": "SR"
   },
   {
     "ID": 5,
     "Name": "Matilda",
     "CName": "瑪提爾德",
     "JName": "",
-    "Soul": null,
-    "Class": null,
-    "BaseRarity": null
-  },
-  {
-    "ID": 6,
-    "Name": "6",
-    "CName": "科迪",
-    "JName": "",
-    "Soul": null,
-    "Class": null,
-    "BaseRarity": null
-  },
-  {
-    "ID": 7,
-    "Name": "7",
-    "CName": "露娜琳德",
-    "JName": "",
-    "Soul": null,
-    "Class": null,
-    "BaseRarity": null
+    "Soul": "Crimson",
+    "Class": "Sorcerer",
+    "BaseRarity": "SR(Limited)"
   },
   {
     "ID": 8,
-    "Name": "8",
+    "Name": "Merlyn",
     "CName": "梅琳",
     "JName": "",
-    "Soul": null,
-    "Class": null,
-    "BaseRarity": null
+    "Soul": "Emerald",
+    "Class": "Sorcerer",
+    "BaseRarity": "SR"
+  },
+  {
+    "ID": 3,
+    "Name": "Mimi",
+    "CName": "咪咪",
+    "JName": "",
+    "Soul": "Amber",
+    "Class": "Warrior",
+    "BaseRarity": "SR"
   },
   {
     "ID": 9,
-    "Name": "9",
+    "Name": "Olivia",
     "CName": "奧莉維亞",
     "JName": "",
-    "Soul": null,
-    "Class": null,
-    "BaseRarity": null
+    "Soul": "Amber",
+    "Class": "Warrior",
+    "BaseRarity": "SR"
   },
   {
-    "ID": 10,
-    "Name": "10",
-    "CName": "托波波",
-    "JName": "",
-    "Soul": null,
-    "Class": null,
-    "BaseRarity": null
-  },
-  {
-    "ID": 11,
-    "Name": "11",
-    "CName": "哈索兒",
-    "JName": "",
-    "Soul": null,
-    "Class": null,
-    "BaseRarity": null
+    "ID": 4,
+    "Name": "Primavera",
+    "CName": "普莉瑪維拉",
+    "JName": "プリマヴェーラ",
+    "Soul": "Amber",
+    "Class": "Sniper",
+    "BaseRarity": "SR"
   },
   {
     "ID": 12,
-    "Name": "12",
+    "Name": "Soltina",
     "CName": "索爾提娜",
     "JName": "",
-    "Soul": null,
-    "Class": null,
-    "BaseRarity": null
+    "Soul": "Azure",
+    "Class": "Sorcerer",
+    "BaseRarity": "SR"
   },
   {
-    "ID": 13,
-    "Name": "13",
-    "CName": "芬里爾",
+    "ID": 10,
+    "Name": "Tropon",
+    "CName": "托波波",
     "JName": "",
-    "Soul": null,
-    "Class": null,
-    "BaseRarity": null
+    "Soul": "Amber",
+    "Class": "Sorcerer",
+    "BaseRarity": "SR"
   },
   {
-    "ID": 14,
-    "Name": "14",
-    "CName": "艾莉絲",
+    "ID": 17,
+    "Name": "Amour",
+    "CName": "愛沐爾",
     "JName": "",
-    "Soul": null,
-    "Class": null,
-    "BaseRarity": null
+    "Soul": "Crimson",
+    "Class": "Sniper",
+    "BaseRarity": "SR"
   },
   {
-    "ID": 15,
-    "Name": "15",
-    "CName": "伊利亞",
+    "ID": 18,
+    "Name": "Arianrhod",
+    "CName": "阿利安蘿德",
     "JName": "",
-    "Soul": null,
-    "Class": null,
-    "BaseRarity": null
+    "Soul": "Crimson",
+    "Class": "Warrior",
+    "BaseRarity": "R"
+  },
+  {
+    "ID": 19,
+    "Name": "Armstrong",
+    "CName": "阿姆斯壯",
+    "JName": "",
+    "Soul": "Chaos",
+    "Class": "Sniper",
+    "BaseRarity": "SR(Limited)"
+  },
+  {
+    "ID": 20,
+    "Name": "Artie",
+    "CName": "亞緹",
+    "JName": "",
+    "Soul": "Crimson",
+    "Class": "Sorcerer",
+    "BaseRarity": "SR(Limited)"
+  },
+  {
+    "ID": 21,
+    "Name": "Belle",
+    "CName": "貝爾",
+    "JName": "",
+    "Soul": "Crimson",
+    "Class": "Sorcerer",
+    "BaseRarity": "SR(Limited)"
+  },
+  {
+    "ID": 22,
+    "Name": "Carol",
+    "CName": "卡羅",
+    "JName": "",
+    "Soul": "Amber",
+    "Class": "Sorcerer",
+    "BaseRarity": "SR(Limited)"
+  },
+  {
+    "ID": 23,
+    "Name": "Cerberus",
+    "CName": "克爾柏洛絲",
+    "JName": "",
+    "Soul": "Radiance",
+    "Class": "Warrior",
+    "BaseRarity": "SR(Limited)"
+  },
+  {
+    "ID": 24,
+    "Name": "Charlotte",
+    "CName": "夏樂",
+    "JName": "",
+    "Soul": "Crimson",
+    "Class": "Warrior",
+    "BaseRarity": "N"
+  },
+  {
+    "ID": 25,
+    "Name": "Cherna",
+    "CName": "切爾娜",
+    "JName": "",
+    "Soul": "Amber",
+    "Class": "Sorcerer",
+    "BaseRarity": "R"
+  },
+  {
+    "ID": 26,
+    "Name": "Chiffon",
+    "CName": "戚風",
+    "JName": "",
+    "Soul": "Crimson",
+    "Class": "Sorcerer",
+    "BaseRarity": "SR(Limited)"
+  },
+  {
+    "ID": 27,
+    "Name": "Claudia",
+    "CName": "克勞迪亞",
+    "JName": "",
+    "Soul": "Emerald",
+    "Class": "Warrior",
+    "BaseRarity": "SR(Limited)"
+  },
+  {
+    "ID": 28,
+    "Name": "Dian",
+    "CName": "黛安",
+    "JName": "",
+    "Soul": "Crimson",
+    "Class": "Sniper",
+    "BaseRarity": "SR"
+  },
+  {
+    "ID": 29,
+    "Name": "Eir",
+    "CName": "埃爾",
+    "JName": "",
+    "Soul": "Azure",
+    "Class": "Sniper",
+    "BaseRarity": "SR(Limited)"
+  },
+  {
+    "ID": 30,
+    "Name": "Elfriede",
+    "CName": "埃爾芙琳黛",
+    "JName": "",
+    "Soul": "Radiance",
+    "Class": "Warrior",
+    "BaseRarity": "SR(Limited)"
+  },
+  {
+    "ID": 31,
+    "Name": "Fenny",
+    "CName": "菲尼",
+    "JName": "",
+    "Soul": "Azure",
+    "Class": "Sniper",
+    "BaseRarity": "SR(Limited)"
+  },
+  {
+    "ID": 32,
+    "Name": "Fia",
+    "CName": "菲雅",
+    "JName": "",
+    "Soul": "Emerald",
+    "Class": "Warrior",
+    "BaseRarity": "SR(Limited)"
+  },
+  {
+    "ID": 33,
+    "Name": "Fortina",
+    "CName": "福爾蒂娜",
+    "JName": "",
+    "Soul": "Radiance",
+    "Class": "Warrior",
+    "BaseRarity": "SR(Limited)"
   }
 ]
