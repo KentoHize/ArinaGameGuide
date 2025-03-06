@@ -1,0 +1,65 @@
+[
+  {
+    "ID": 1,
+    "Name": "肉体の薬",
+    "Type": "薬",
+    "UnidentifiedName": "甘たるい薬",
+    "Instruction": "+1防 +1攻"
+  },
+  {
+    "ID": 2,
+    "Name": "Potion",
+    "Type": "薬",
+    "UnidentifiedName": "暗綠",
+    "Instruction": "半分Hp"
+  },
+  {
+    "ID": 3,
+    "Name": " 魔力の薬",
+    "Type": "薬",
+    "UnidentifiedName": "ほろ苦しい薬",
+    "Instruction": "+2 MP"
+  },
+  {
+    "ID": 4,
+    "Name": "不退element",
+    "Type": "エレメント",
+    "UnidentifiedName": "燦爛",
+    "Instruction": "降低屬性和降低等級效果無效化90%)"
+  },
+  {
+    "ID": 5,
+    "Name": "",
+    "Type": "杖",
+    "UnidentifiedName": "亞鉛之杖",
+    "Instruction": ""
+  },
+  {
+    "ID": 6,
+    "Name": "",
+    "Type": "巻物",
+    "UnidentifiedName": "ワーウルフ柄の巻物",
+    "Instruction": ""
+  },
+  {
+    "ID": 7,
+    "Name": "猛火の杖",
+    "Type": "杖",
+    "UnidentifiedName": "銅の杖",
+    "Instruction": ""
+  },
+  {
+    "ID": 8,
+    "Name": "",
+    "Type": "薬",
+    "UnidentifiedName": "緑色の薬",
+    "Instruction": ""
+  },
+  {
+    "ID": 9,
+    "Name": "封印之杖",
+    "Type": "杖",
+    "UnidentifiedName": "アラバスタの杖",
+    "Instruction": ""
+  }
+]

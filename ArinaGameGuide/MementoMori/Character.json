@@ -295,5 +295,59 @@
     "Soul": "Radiance",
     "Class": "Warrior",
     "BaseRarity": "SR(Limited)"
+  },
+  {
+    "ID": 34,
+    "Name": "Freesia",
+    "CName": "小蒼蘭",
+    "JName": "",
+    "Soul": "Crimson",
+    "Class": "Sorcerer",
+    "BaseRarity": "SR"
+  },
+  {
+    "ID": 35,
+    "Name": "Garmr",
+    "CName": "加姆",
+    "JName": "",
+    "Soul": "Amber",
+    "Class": "Sniper",
+    "BaseRarity": "N"
+  },
+  {
+    "ID": 36,
+    "Name": "Gil'uial",
+    "CName": "吉薇艾爾",
+    "JName": "",
+    "Soul": "Azure",
+    "Class": "Sorcerer",
+    "BaseRarity": "SR(Limited)"
+  },
+  {
+    "ID": 37,
+    "Name": "Ivy",
+    "CName": "艾薇",
+    "JName": "",
+    "Soul": "Emerald",
+    "Class": "Sniper",
+    "BaseRarity": "SR"
+  },
+  {
+    "ID": 38,
+    "Name": "Lea",
+    "CName": "蕾雅",
+    "JName": "",
+    "Soul": "Emerald",
+    "Class": "Sniper",
+    "BaseRarity": "SR(Limited)"
+  },
+  {
+    "ID": 39,
+    "Name": "Libra",
+    "CName": "莉布拉",
+    "JName": "",
+    "Soul": "Emerald",
+    "Class": "Sniper",
+    "BaseRarity": "R"
   }
 ]
