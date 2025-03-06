@@ -1,0 +1,38 @@
+[
+  {
+    "ID": 1,
+    "Name": "風",
+    "UnidentifiedName": "",
+    "Instruction": "AAA",
+    "WeaponEffect": "",
+    "ShieldEffect": "",
+    "AccessoryEffect": ""
+  },
+  {
+    "ID": 2,
+    "Name": "不退",
+    "UnidentifiedName": "燦爛",
+    "Instruction": "",
+    "WeaponEffect": "降低屬性和降低等級效果無效化90%)",
+    "ShieldEffect": "",
+    "AccessoryEffect": ""
+  },
+  {
+    "ID": 3,
+    "Name": "癒し",
+    "UnidentifiedName": "",
+    "Instruction": "",
+    "WeaponEffect": "",
+    "ShieldEffect": "",
+    "AccessoryEffect": ""
+  },
+  {
+    "ID": 4,
+    "Name": "慈愛",
+    "UnidentifiedName": "",
+    "Instruction": "",
+    "WeaponEffect": "",
+    "ShieldEffect": "",
+    "AccessoryEffect": ""
+  }
+]

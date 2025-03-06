@@ -4,6 +4,8 @@
     "Name": "肉体の薬",
     "Type": "薬",
     "UnidentifiedName": "甘たるい薬",
+    "Element": null,
+    "Element2": null,
     "Instruction": "+1防 +1攻"
   },
   {
@@ -11,6 +13,8 @@
     "Name": "Potion",
     "Type": "薬",
     "UnidentifiedName": "暗綠",
+    "Element": null,
+    "Element2": null,
     "Instruction": "半分Hp"
   },
   {
@@ -18,20 +22,17 @@
     "Name": " 魔力の薬",
     "Type": "薬",
     "UnidentifiedName": "ほろ苦しい薬",
+    "Element": null,
+    "Element2": null,
     "Instruction": "+2 MP"
-  },
-  {
-    "ID": 4,
-    "Name": "不退element",
-    "Type": "エレメント",
-    "UnidentifiedName": "燦爛",
-    "Instruction": "降低屬性和降低等級效果無效化90%)"
   },
   {
     "ID": 5,
     "Name": "",
     "Type": "杖",
     "UnidentifiedName": "亞鉛之杖",
+    "Element": null,
+    "Element2": null,
     "Instruction": ""
   },
   {
@@ -39,6 +40,8 @@
     "Name": "",
     "Type": "巻物",
     "UnidentifiedName": "ワーウルフ柄の巻物",
+    "Element": null,
+    "Element2": null,
     "Instruction": ""
   },
   {
@@ -46,6 +49,8 @@
     "Name": "猛火の杖",
     "Type": "杖",
     "UnidentifiedName": "銅の杖",
+    "Element": null,
+    "Element2": null,
     "Instruction": ""
   },
   {
@@ -53,6 +58,8 @@
     "Name": "",
     "Type": "薬",
     "UnidentifiedName": "緑色の薬",
+    "Element": null,
+    "Element2": null,
     "Instruction": ""
   },
   {
@@ -60,6 +67,89 @@
     "Name": "封印之杖",
     "Type": "杖",
     "UnidentifiedName": "アラバスタの杖",
+    "Element": null,
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 10,
+    "Name": "旋風之杖",
+    "Type": "杖",
+    "UnidentifiedName": "ローレルの杖",
+    "Element": "風",
+    "Element2": null,
+    "Instruction": "往後吹"
+  },
+  {
+    "ID": 11,
+    "Name": "",
+    "Type": "杖",
+    "UnidentifiedName": "アルダーの杖",
+    "Element": null,
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 12,
+    "Name": "",
+    "Type": "箱",
+    "UnidentifiedName": "威圧感のある箱",
+    "Element": "癒し",
+    "Element2": "慈愛",
+    "Instruction": "３\n治癒"
+  },
+  {
+    "ID": 13,
+    "Name": "強化の巻物",
+    "Type": "巻物",
+    "UnidentifiedName": "リザードマン柄の巻物",
+    "Element": null,
+    "Element2": null,
+    "Instruction": "+1~3強化"
+  },
+  {
+    "ID": 14,
+    "Name": "",
+    "Type": "箱",
+    "UnidentifiedName": "恐ろしい箱",
+    "Element": null,
+    "Element2": null,
+    "Instruction": "抽出"
+  },
+  {
+    "ID": 15,
+    "Name": "",
+    "Type": "箱",
+    "UnidentifiedName": "奇妙な箱",
+    "Element": null,
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 16,
+    "Name": "",
+    "Type": "薬",
+    "UnidentifiedName": "黄色の薬",
+    "Element": null,
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 17,
+    "Name": "",
+    "Type": "巻物",
+    "UnidentifiedName": "シルフ柄の巻物",
+    "Element": null,
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 18,
+    "Name": "",
+    "Type": "盾",
+    "UnidentifiedName": "オリハルコンの盾",
+    "Element": null,
+    "Element2": null,
     "Instruction": ""
   }
 ]
