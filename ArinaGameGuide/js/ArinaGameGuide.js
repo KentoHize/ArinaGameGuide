@@ -6,15 +6,17 @@ function getDataPath(pageName, dataName) {
     return "../" + pageName + "/Data/" + dataName + ".json";
 }
 
-export function loadDataIndex(document, indexDiv, contentDiv, pageName, dataName, id1, id2, nameId)
-{
-    let debugString = ``    
+export function loadDataIndex(document, indexDiv, contentDiv, pageName, dataName, id1, id2, nameId) {
+    let debugString = ``;
     if (Debug == 1)
         debugString = `?v=${Math.random()}`;
-    import(`${getDataPath(pageName, dataName)}${debugString}`, { assert: { type: 'json' } }).then(
-        m => {
-            let d = m.default;
-            //let doc = new Doc();
+    //alert(`${getDataPath(pageName, dataName)}${debugString}`);
+    //import(`${getDataPath(pageName, dataName)}${debugString}`, { assert: { type: 'json' } });
+    fetch(`${getDataPath(pageName, dataName)}${debugString}`).then(m => {
+        return m.json();
+    }).then(
+        d => {
+
             indexDiv.innerHTML = ``;
             for (let i = 0; i < d.length; i++) {
                 let child = document.createElement(`div`);
@@ -32,9 +34,20 @@ export function loadDataIndex(document, indexDiv, contentDiv, pageName, dataName
                 //let a = Riana.CreateDiv(doc, null, null, null, false, false, doc);
                 //Riana.CreateText(d[i].Name, a);
             }
+            //alert(n[0].Name);
 
-            //doc.printTo(document, div);         
-        });
+    });    
+    
+    return;  
+   
+    //import(`${getDataPath(pageName, dataName)}${debugString}`, { assert: { type: 'json' } }).then(
+    //    m => {
+
+            
+            
+
+    //        //doc.printTo(document, div);         
+    //    });
 }
 
 export function loadDataContent(div, pageName, dataName, id1, id2 = null) {    

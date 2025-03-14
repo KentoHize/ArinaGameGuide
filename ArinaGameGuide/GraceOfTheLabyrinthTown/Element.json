@@ -34,5 +34,140 @@
     "WeaponEffect": "",
     "ShieldEffect": "",
     "AccessoryEffect": ""
+  },
+  {
+    "ID": 5,
+    "Name": "吸収",
+    "UnidentifiedName": "",
+    "Instruction": "",
+    "WeaponEffect": "通常+1MP",
+    "ShieldEffect": "屬性14％吸收",
+    "AccessoryEffect": ""
+  },
+  {
+    "ID": 6,
+    "Name": "水",
+    "UnidentifiedName": "",
+    "Instruction": "",
+    "WeaponEffect": "",
+    "ShieldEffect": "",
+    "AccessoryEffect": ""
+  },
+  {
+    "ID": 7,
+    "Name": "火",
+    "UnidentifiedName": "",
+    "Instruction": "",
+    "WeaponEffect": "",
+    "ShieldEffect": "",
+    "AccessoryEffect": ""
+  },
+  {
+    "ID": 8,
+    "Name": "地",
+    "UnidentifiedName": "",
+    "Instruction": "",
+    "WeaponEffect": "",
+    "ShieldEffect": "",
+    "AccessoryEffect": ""
+  },
+  {
+    "ID": 9,
+    "Name": "闇",
+    "UnidentifiedName": "",
+    "Instruction": "",
+    "WeaponEffect": "",
+    "ShieldEffect": "",
+    "AccessoryEffect": ""
+  },
+  {
+    "ID": 10,
+    "Name": "光",
+    "UnidentifiedName": "",
+    "Instruction": "",
+    "WeaponEffect": "",
+    "ShieldEffect": "",
+    "AccessoryEffect": ""
+  },
+  {
+    "ID": 11,
+    "Name": "",
+    "UnidentifiedName": "薄ら寒い",
+    "Instruction": "",
+    "WeaponEffect": "",
+    "ShieldEffect": "",
+    "AccessoryEffect": ""
+  },
+  {
+    "ID": 12,
+    "Name": "a",
+    "UnidentifiedName": "懲罰",
+    "Instruction": "",
+    "WeaponEffect": "",
+    "ShieldEffect": "",
+    "AccessoryEffect": ""
+  },
+  {
+    "ID": 13,
+    "Name": "鉄壁",
+    "UnidentifiedName": "",
+    "Instruction": "",
+    "WeaponEffect": "",
+    "ShieldEffect": " １２％　Ｇｕａｒｄ\n３０％　自己和物品不吹飛",
+    "AccessoryEffect": "３０％　自己和物品不吹飛"
+  },
+  {
+    "ID": 14,
+    "Name": "不動",
+    "UnidentifiedName": "",
+    "Instruction": "",
+    "WeaponEffect": "18%Atk\n-9%Hitrate",
+    "ShieldEffect": "77%不動",
+    "AccessoryEffect": "77%不動"
+  },
+  {
+    "ID": 15,
+    "Name": "b",
+    "UnidentifiedName": "不格好",
+    "Instruction": "",
+    "WeaponEffect": "",
+    "ShieldEffect": "",
+    "AccessoryEffect": ""
+  },
+  {
+    "ID": 16,
+    "Name": "魅了",
+    "UnidentifiedName": "",
+    "Instruction": "",
+    "WeaponEffect": "",
+    "ShieldEffect": "",
+    "AccessoryEffect": ""
+  },
+  {
+    "ID": 17,
+    "Name": "ｄ",
+    "UnidentifiedName": "悪臭を放つ",
+    "Instruction": "",
+    "WeaponEffect": "",
+    "ShieldEffect": "",
+    "AccessoryEffect": ""
+  },
+  {
+    "ID": 18,
+    "Name": "え",
+    "UnidentifiedName": "痛ましい",
+    "Instruction": "",
+    "WeaponEffect": "",
+    "ShieldEffect": "",
+    "AccessoryEffect": ""
+  },
+  {
+    "ID": 19,
+    "Name": "転移",
+    "UnidentifiedName": "",
+    "Instruction": "",
+    "WeaponEffect": "",
+    "ShieldEffect": "",
+    "AccessoryEffect": ""
   }
 ]

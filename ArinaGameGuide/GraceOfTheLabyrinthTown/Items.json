@@ -1,36 +1,18 @@
 [
   {
-    "ID": 1,
-    "Name": "肉体の薬",
-    "Type": "薬",
-    "UnidentifiedName": "甘たるい薬",
-    "Element": null,
-    "Element2": null,
-    "Instruction": "+1防 +1攻"
-  },
-  {
-    "ID": 2,
-    "Name": "Potion",
-    "Type": "薬",
-    "UnidentifiedName": "暗綠",
-    "Element": null,
-    "Element2": null,
-    "Instruction": "半分Hp"
-  },
-  {
-    "ID": 3,
-    "Name": " 魔力の薬",
-    "Type": "薬",
-    "UnidentifiedName": "ほろ苦しい薬",
-    "Element": null,
-    "Element2": null,
-    "Instruction": "+2 MP"
-  },
-  {
-    "ID": 5,
+    "ID": 27,
     "Name": "",
-    "Type": "杖",
-    "UnidentifiedName": "亞鉛之杖",
+    "Type": "アミュレット",
+    "UnidentifiedName": "ガーネットのアミュレット",
+    "Element": "光",
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 17,
+    "Name": "",
+    "Type": "巻物",
+    "UnidentifiedName": "シルフ柄の巻物",
     "Element": null,
     "Element2": null,
     "Instruction": ""
@@ -45,28 +27,64 @@
     "Instruction": ""
   },
   {
-    "ID": 7,
-    "Name": "猛火の杖",
-    "Type": "杖",
-    "UnidentifiedName": "銅の杖",
+    "ID": 13,
+    "Name": "強化の巻物",
+    "Type": "巻物",
+    "UnidentifiedName": "リザードマン柄の巻物",
     "Element": null,
     "Element2": null,
-    "Instruction": ""
+    "Instruction": "+1~3強化"
   },
   {
-    "ID": 8,
+    "ID": 18,
     "Name": "",
-    "Type": "薬",
-    "UnidentifiedName": "緑色の薬",
+    "Type": "盾",
+    "UnidentifiedName": "オリハルコンの盾",
     "Element": null,
     "Element2": null,
     "Instruction": ""
   },
   {
-    "ID": 9,
-    "Name": "封印之杖",
+    "ID": 11,
+    "Name": "",
     "Type": "杖",
-    "UnidentifiedName": "アラバスタの杖",
+    "UnidentifiedName": "アルダーの杖",
+    "Element": null,
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 20,
+    "Name": "",
+    "Type": "杖",
+    "UnidentifiedName": "オリーブの杖",
+    "Element": "吸収",
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 22,
+    "Name": "",
+    "Type": "杖",
+    "UnidentifiedName": "ブリキの杖",
+    "Element": "不動",
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 26,
+    "Name": "",
+    "Type": "杖",
+    "UnidentifiedName": "金の杖",
+    "Element": "光",
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 5,
+    "Name": "",
+    "Type": "杖",
+    "UnidentifiedName": "亞鉛之杖",
     "Element": null,
     "Element2": null,
     "Instruction": ""
@@ -81,10 +99,19 @@
     "Instruction": "往後吹"
   },
   {
-    "ID": 11,
-    "Name": "",
+    "ID": 9,
+    "Name": "封印之杖",
     "Type": "杖",
-    "UnidentifiedName": "アルダーの杖",
+    "UnidentifiedName": "アラバスタの杖",
+    "Element": null,
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 7,
+    "Name": "猛火の杖",
+    "Type": "杖",
+    "UnidentifiedName": "銅の杖",
     "Element": null,
     "Element2": null,
     "Instruction": ""
@@ -99,13 +126,13 @@
     "Instruction": "３\n治癒"
   },
   {
-    "ID": 13,
-    "Name": "強化の巻物",
-    "Type": "巻物",
-    "UnidentifiedName": "リザードマン柄の巻物",
+    "ID": 15,
+    "Name": "",
+    "Type": "箱",
+    "UnidentifiedName": "奇妙な箱",
     "Element": null,
     "Element2": null,
-    "Instruction": "+1~3強化"
+    "Instruction": ""
   },
   {
     "ID": 14,
@@ -117,10 +144,28 @@
     "Instruction": "抽出"
   },
   {
-    "ID": 15,
+    "ID": 21,
     "Name": "",
     "Type": "箱",
-    "UnidentifiedName": "奇妙な箱",
+    "UnidentifiedName": "幸せの箱",
+    "Element": null,
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 24,
+    "Name": "",
+    "Type": "武器",
+    "UnidentifiedName": "海賊のカトラス",
+    "Element": null,
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 19,
+    "Name": "",
+    "Type": "武器",
+    "UnidentifiedName": "盲人の剣",
     "Element": null,
     "Element2": null,
     "Instruction": ""
@@ -135,19 +180,145 @@
     "Instruction": ""
   },
   {
-    "ID": 17,
+    "ID": 25,
     "Name": "",
-    "Type": "巻物",
-    "UnidentifiedName": "シルフ柄の巻物",
+    "Type": "薬",
+    "UnidentifiedName": "黄緑色の薬",
     "Element": null,
     "Element2": null,
     "Instruction": ""
   },
   {
-    "ID": 18,
+    "ID": 23,
     "Name": "",
-    "Type": "盾",
-    "UnidentifiedName": "オリハルコンの盾",
+    "Type": "薬",
+    "UnidentifiedName": "酸っぱい薬",
+    "Element": null,
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 28,
+    "Name": "",
+    "Type": "薬",
+    "UnidentifiedName": "汁気の多い薬",
+    "Element": null,
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 8,
+    "Name": "",
+    "Type": "薬",
+    "UnidentifiedName": "緑色の薬",
+    "Element": "転移",
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 3,
+    "Name": " 魔力の薬",
+    "Type": "薬",
+    "UnidentifiedName": "ほろ苦しい薬",
+    "Element": null,
+    "Element2": null,
+    "Instruction": "+2 MP"
+  },
+  {
+    "ID": 2,
+    "Name": "Potion",
+    "Type": "薬",
+    "UnidentifiedName": "暗綠",
+    "Element": null,
+    "Element2": null,
+    "Instruction": "半分Hp"
+  },
+  {
+    "ID": 1,
+    "Name": "肉体の薬",
+    "Type": "薬",
+    "UnidentifiedName": "甘たるい薬",
+    "Element": null,
+    "Element2": null,
+    "Instruction": "+1防 +1攻"
+  },
+  {
+    "ID": 4,
+    "Name": "",
+    "Type": "杖",
+    "UnidentifiedName": "エポニーの杖",
+    "Element": null,
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 29,
+    "Name": "無敵の秘薬",
+    "Type": "薬",
+    "UnidentifiedName": "",
+    "Element": "鉄壁",
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 30,
+    "Name": "",
+    "Type": "巻物",
+    "UnidentifiedName": "アラクネ柄の巻物",
+    "Element": null,
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 31,
+    "Name": "",
+    "Type": "巻物",
+    "UnidentifiedName": "拡張の巻物",
+    "Element": null,
+    "Element2": null,
+    "Instruction": "+1 Slot"
+  },
+  {
+    "ID": 32,
+    "Name": "",
+    "Type": "武器",
+    "UnidentifiedName": "火竜の剣",
+    "Element": null,
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 33,
+    "Name": "理性のアミュレット",
+    "Type": "アミュレット",
+    "UnidentifiedName": "ベリルのアミュレット",
+    "Element": null,
+    "Element2": "魅了",
+    "Instruction": ""
+  },
+  {
+    "ID": 34,
+    "Name": "",
+    "Type": "杖",
+    "UnidentifiedName": "ホリーの杖",
+    "Element": null,
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 35,
+    "Name": "",
+    "Type": "杖",
+    "UnidentifiedName": "チェリーの杖",
+    "Element": null,
+    "Element2": null,
+    "Instruction": ""
+  },
+  {
+    "ID": 36,
+    "Name": "",
+    "Type": "杖",
+    "UnidentifiedName": "リンデンの杖",
     "Element": null,
     "Element2": null,
     "Instruction": ""
