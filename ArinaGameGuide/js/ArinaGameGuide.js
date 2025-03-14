@@ -9,9 +9,7 @@ function getDataPath(pageName, dataName) {
 export function loadDataIndex(document, indexDiv, contentDiv, pageName, dataName, id1, id2, nameId) {
     let debugString = ``;
     if (Debug == 1)
-        debugString = `?v=${Math.random()}`;
-    //alert(`${getDataPath(pageName, dataName)}${debugString}`);
-    //import(`${getDataPath(pageName, dataName)}${debugString}`, { assert: { type: 'json' } });
+        debugString = `?v=${Math.random()}`;    
     fetch(`${getDataPath(pageName, dataName)}${debugString}`).then(m => {
         return m.json();
     }).then(
@@ -34,20 +32,8 @@ export function loadDataIndex(document, indexDiv, contentDiv, pageName, dataName
                 //let a = Riana.CreateDiv(doc, null, null, null, false, false, doc);
                 //Riana.CreateText(d[i].Name, a);
             }
-            //alert(n[0].Name);
-
-    });    
-    
-    return;  
-   
-    //import(`${getDataPath(pageName, dataName)}${debugString}`, { assert: { type: 'json' } }).then(
-    //    m => {
-
-            
-            
-
-    //        //doc.printTo(document, div);         
-    //    });
+    });
+    return;
 }
 
 export function loadDataContent(div, pageName, dataName, id1, id2 = null) {    

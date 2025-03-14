@@ -21,18 +21,32 @@ export async function Initialize(div, id1, id2) {
     }
 
     //Debug Script
-   
 
-    let pl = (await import(`../Data/Place.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
-    let cg = (await import(`../Data/CreatureGroup.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
-    let cgc = (await import(`../Data/CreatureGroupCreature.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
-    let ts = (await import(`../Data/Treasure.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
-    let is = (await import(`../Data/ItemStack.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
-    let isi = (await import(`../Data/ItemStackItem.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
-    let tr = (await import(`../Data/Trap.json${Unity.GetRandomString()}`, { assert: { type: `json` } })).default;
 
-    let eocsc = (await import(`../Data/EffectOrConditionSetEffectOrCondition.json${Unity.GetRandomString()}`, { assert: { type: `json` } })).default;
-    //EffectOrConditionSetEffectOrCondition
+    //let pl = (await import(`../Data/Place.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
+
+    //let pl = fetch(`../Data/Place.json${Unity.GetRandomString()}`).then(m => { return m.json(); }).then(n => { alert(n); return n; });
+    //alert(`../Data/Place.json${Unity.GetRandomString()}`);
+    
+    let pl = (await fetch(`Data/Place.json${Unity.GetRandomString()}`).then(m => m.json()));
+    let cg = (await fetch(`Data/CreatureGroup.json${Unity.GetRandomString()}`).then(m => m.json()));
+    let cgc = (await fetch(`Data/CreatureGroupCreature.json${Unity.GetRandomString()}`).then(m => m.json()));
+    let ts = (await fetch(`Data/Treasure.json${Unity.GetRandomString()}`).then(m => m.json()));
+    let is = (await fetch(`Data/ItemStack.json${Unity.GetRandomString()}`).then(m => m.json()));
+    let isi = (await fetch(`Data/ItemStackItem.json${Unity.GetRandomString()}`).then(m => m.json()));
+    let tr = (await fetch(`Data/Trap.json${Unity.GetRandomString()}`).then(m => m.json()));
+    let eocsc = (await fetch(`Data/EffectOrConditionSetEffectOrCondition.json${Unity.GetRandomString()}`).then(m => m.json()));
+
+
+    //let cg = (await import(`../Data/CreatureGroup.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
+    //let cgc = (await import(`../Data/CreatureGroupCreature.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
+    //let ts = (await import(`../Data/Treasure.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
+    //let is = (await import(`../Data/ItemStack.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
+    //let isi = (await import(`../Data/ItemStackItem.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
+    //let tr = (await import(`../Data/Trap.json${Unity.GetRandomString()}`, { assert: { type: `json` } })).default;
+
+    //let eocsc = (await import(`../Data/EffectOrConditionSetEffectOrCondition.json${Unity.GetRandomString()}`, { assert: { type: `json` } })).default;
+    ////EffectOrConditionSetEffectOrCondition
     Unity.DataMain = pl.find(m => m.Name == id1);
 
 
