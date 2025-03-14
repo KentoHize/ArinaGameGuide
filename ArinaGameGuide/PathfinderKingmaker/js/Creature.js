@@ -8,8 +8,8 @@ export async function Initialize(div, id1, id2) {
         Unity.RecordHistoryPage(`Creature`, id1, id2);
     else
         Unity.BrowsingHistoryPage = 0;
-
-    let ct = (await import(`../Data/Creature.json${Unity.GetRandomString()}`, { assert: { type: `json` } })).default;
+    
+    let ct = (await fetch(`Data/Creature.json${Unity.GetRandomString()}`).then(m => m.json()));
     let c = ct.find(m => m.Name == id1);
 
     if (c == null)
@@ -57,16 +57,16 @@ export async function Initialize(div, id1, id2) {
     document.getElementById(`skinDC`).textContent = c.SkinDC == null ? `-` : c.SkinDC;
 
 
-    let ctab = (await import(`../Data/CreatureAbilities.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
-    let cta = (await import(`../Data/CreatureAttacks.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
-    let ctda = (await import(`../Data/CreatureDamageAdjustment.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
-    let ctec = (await import(`../Data/CreatureEffectorCondition.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
-    let ctim = (await import(`../Data/CreatureImmunities.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
-    let cts = (await import(`../Data/CreatureSkills.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
-    let is = (await import(`../Data/ItemStack.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
-    let isi = (await import(`../Data/ItemStackItem.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
+    let ctab = (await fetch(`Data/CreatureAbilities.json${Unity.GetRandomString()}`).then(m => m.json()));
+    let cta = (await fetch(`Data/CreatureAttacks.json${Unity.GetRandomString()}`).then(m => m.json()));
+    let ctda = (await fetch(`Data/CreatureDamageAdjustment.json${Unity.GetRandomString()}`).then(m => m.json()));
+    let ctec = (await fetch(`Data/CreatureEffectorCondition.json${Unity.GetRandomString()}`).then(m => m.json()));
+    let ctim = (await fetch(`Data/CreatureImmunities.json${Unity.GetRandomString()}`).then(m => m.json()));
+    let cts = (await fetch(`Data/CreatureSkills.json${Unity.GetRandomString()}`).then(m => m.json()));
+    let is = (await fetch(`Data/ItemStack.json${Unity.GetRandomString()}`).then(m => m.json()));
+    let isi = (await fetch(`Data/ItemStackItem.json${Unity.GetRandomString()}`).then(m => m.json()));
+    let eocsc = (await fetch(`Data/EffectOrConditionSetEffectOrCondition.json${Unity.GetRandomString()}`).then(m => m.json()));
 
-    let eocsc = (await import(`../Data/EffectOrConditionSetEffectOrCondition.json${Unity.GetRandomString() }`, { assert: { type: `json` } })).default;
     let s = ``;
     let additionalAttack = 0;
 
