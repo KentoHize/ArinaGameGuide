@@ -1,0 +1,122 @@
+[
+  {
+    "ID": 1,
+    "Name": "奇術師",
+    "Character": 1,
+    "HP": null,
+    "StackOfHP": null,
+    "Counter": null,
+    "Poison": null,
+    "ManyAttacks": null,
+    "SeveralAttacks": null,
+    "Memo": "有效卡片\n\n力量降低\n防禦反擊"
+  },
+  {
+    "ID": 2,
+    "Name": "凸月侍女",
+    "Character": 2,
+    "HP": null,
+    "StackOfHP": null,
+    "Counter": null,
+    "Poison": null,
+    "ManyAttacks": null,
+    "SeveralAttacks": null,
+    "Memo": "送算力卡，第一階段造成中毒\n\n第二階段造成易傷、脆弱與虛弱和中毒\n\n吃飽喝足消耗算力就加臨時力量，理論上單回合內只放高算力少數招\n\n攻擊1次與攻擊3次\n\n會遲緩可以解掉遲緩\n\n主要刷卡解決\n\n"
+  },
+  {
+    "ID": 3,
+    "Name": "缸中之腦",
+    "Character": 3,
+    "HP": null,
+    "StackOfHP": null,
+    "Counter": null,
+    "Poison": null,
+    "ManyAttacks": null,
+    "SeveralAttacks": null,
+    "Memo": "防禦分體一堆 攻擊次數低\n\n難打，理論上毒死"
+  },
+  {
+    "ID": 4,
+    "Name": "渴血者",
+    "Character": 4,
+    "HP": null,
+    "StackOfHP": null,
+    "Counter": null,
+    "Poison": null,
+    "ManyAttacks": null,
+    "SeveralAttacks": null,
+    "Memo": "提升力量\n\n攻擊次數中等\n\n覺醒後多段式防禦，要分批擊敗\n\n苦痛 x3傷害，每次加入2張未被滿足之痛(自傷加臨時力量並抽一張牌)"
+  },
+  {
+    "ID": 5,
+    "Name": "陰影的忠犬",
+    "Character": null,
+    "HP": null,
+    "StackOfHP": null,
+    "Counter": null,
+    "Poison": null,
+    "ManyAttacks": null,
+    "SeveralAttacks": null,
+    "Memo": "多段式防禦(可能是終末)\n\n不停增加反擊\n\n抗毒"
+  },
+  {
+    "ID": 6,
+    "Name": "沉淵者",
+    "Character": null,
+    "HP": null,
+    "StackOfHP": null,
+    "Counter": null,
+    "Poison": null,
+    "ManyAttacks": null,
+    "SeveralAttacks": null,
+    "Memo": "兩段血、反擊、極硬"
+  },
+  {
+    "ID": 7,
+    "Name": "甜蜜惡鬼",
+    "Character": 5,
+    "HP": null,
+    "StackOfHP": null,
+    "Counter": null,
+    "Poison": null,
+    "ManyAttacks": null,
+    "SeveralAttacks": null,
+    "Memo": "驅除易傷"
+  },
+  {
+    "ID": 8,
+    "Name": "審判的使徒",
+    "Character": null,
+    "HP": null,
+    "StackOfHP": null,
+    "Counter": null,
+    "Poison": null,
+    "ManyAttacks": null,
+    "SeveralAttacks": null,
+    "Memo": "波納配頌歌\n\n依據手牌數減少傷害次數\n造成遲緩與中毒\n依據手牌數增加屏障次數"
+  },
+  {
+    "ID": 9,
+    "Name": "冥海祭司",
+    "Character": null,
+    "HP": null,
+    "StackOfHP": null,
+    "Counter": null,
+    "Poison": null,
+    "ManyAttacks": null,
+    "SeveralAttacks": null,
+    "Memo": "召喚加強自身生物\n免疫負面狀態\n爆擊減少次數的攻擊"
+  },
+  {
+    "ID": 10,
+    "Name": "腐潮之魁?儡 ",
+    "Character": null,
+    "HP": null,
+    "StackOfHP": null,
+    "Counter": null,
+    "Poison": null,
+    "ManyAttacks": null,
+    "SeveralAttacks": null,
+    "Memo": ""
+  }
+]
