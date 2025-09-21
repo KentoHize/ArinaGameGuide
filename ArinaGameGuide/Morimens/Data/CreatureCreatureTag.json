@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 1,
+    "Creature": 36,
+    "CreatureTag": "主宰"
+  },
+  {
+    "ID": 2,
+    "Creature": 36,
+    "CreatureTag": "提燈教會"
+  },
+  {
+    "ID": 3,
+    "Creature": 36,
+    "CreatureTag": "人型"
+  },
+  {
+    "ID": 4,
+    "Creature": 36,
+    "CreatureTag": "雕塑家協會"
+  },
+  {
+    "ID": 5,
+    "Creature": 35,
+    "CreatureTag": "主宰"
+  },
+  {
+    "ID": 6,
+    "Creature": 35,
+    "CreatureTag": "提燈教會"
+  },
+  {
+    "ID": 7,
+    "Creature": 35,
+    "CreatureTag": "人型"
+  },
+  {
+    "ID": 8,
+    "Creature": 35,
+    "CreatureTag": "雕塑家協會"
+  },
+  {
+    "ID": 9,
+    "Creature": 50,
+    "CreatureTag": "眷族"
+  },
+  {
+    "ID": 10,
+    "Creature": 50,
+    "CreatureTag": "人型"
+  },
+  {
+    "ID": 11,
+    "Creature": 50,
+    "CreatureTag": "審查會"
+  },
+  {
+    "ID": 13,
+    "Creature": 44,
+    "CreatureTag": "主宰"
+  },
+  {
+    "ID": 12,
+    "Creature": 44,
+    "CreatureTag": "喚醒體"
+  }
+]

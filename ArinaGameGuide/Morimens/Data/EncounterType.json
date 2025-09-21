@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Normal",
+    "CName": "普通"
+  },
+  {
+    "Name": "Elite",
+    "CName": "精英"
+  },
+  {
+    "Name": "Boss",
+    "CName": "首領"
+  }
+]

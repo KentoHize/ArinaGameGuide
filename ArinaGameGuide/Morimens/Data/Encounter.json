@@ -1,0 +1,11 @@
+[
+  {
+    "ID": 1,
+    "Name": "H2-3",
+    "Type": "Boss",
+    "Creature1": 35,
+    "Creature2": 36,
+    "Creature3": null,
+    "Creature4": null
+  }
+]
