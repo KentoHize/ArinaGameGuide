@@ -99,7 +99,7 @@
     "ID": 31,
     "Name": "「石之眼」",
     "Character": null,
-    "HP": null,
+    "HP": 101000,
     "StackOfHP": 2,
     "UseCounter": "╳",
     "UsePoison": null,
@@ -108,7 +108,7 @@
     "Bleeding": null,
     "Weak": null,
     "Grow": "未知",
-    "Description": "",
+    "Description": "遲緩",
     "Memo": "遲緩\n常見單下攻擊"
   },
   {
@@ -1164,8 +1164,8 @@
     "Bleeding": null,
     "Weak": null,
     "Grow": "未知",
-    "Description": "殘骸10\n\n死亡抵抗回復生命5倍\n\n第二條血398K(多出130K)，召喚者不會消失(但是會重複召喚，而且血量較多)\n\n會有制定策略\n正面干擾 所有敵人傷害降低30%\n偷襲儲備 所有敵人獲得147點臨時力量，杜勒賽因失去一半殘骸",
-    "Memo": "召喚與吸收獲得殘骸\n生命越低傷害越高攻擊\n\n出血不是很適合\n變身後似乎直接出冥府之路\n\n攻略重點：即時清除召喚怪(2 Turn開始)"
+    "Description": "殘骸10\n\n\n死亡抵抗回復生命5倍\n\n第二條血398K(多出130K)，召喚者不會消失(但是會重複召喚，而且血量較多)\n\n會有制定策略\n正面干擾 所有敵人傷害降低30%\n偷襲儲備 所有敵人獲得147點臨時力量，杜勒賽因失去一半殘骸",
+    "Memo": "召喚與吸收獲得殘骸\n生命越低傷害越高攻擊\n\n出血不是很適合\n變身後似乎直接出冥府之路\n\n攻略重點：即時清除召喚怪(2 Turn開始)\n\n第一條3/4極限194K"
   },
   {
     "ID": 74,
@@ -1262,5 +1262,21 @@
     "Grow": "未知",
     "Description": "召喚",
     "Memo": ""
+  },
+  {
+    "ID": 80,
+    "Name": "「猩紅」",
+    "Character": null,
+    "HP": 180000,
+    "StackOfHP": 2,
+    "UseCounter": "△",
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "未知",
+    "Description": "血之狂暴49816層\n層數為0時轉換意圖為高額傷害的狂氣爆發並且解除石化效果\n\n第二條血250000",
+    "Memo": "免疫石化能力"
   }
 ]
