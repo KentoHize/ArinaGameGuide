@@ -551,6 +551,25 @@
           "DefaultValue": ""
         },
         {
+          "Name": "UsePierceDamage",
+          "IsKey": false,
+          "IsNullable": true,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": "Efficient",
+          "FKColumn": "Name",
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": ""
+        },
+        {
           "Name": "Bleeding",
           "IsKey": false,
           "IsNullable": true,
