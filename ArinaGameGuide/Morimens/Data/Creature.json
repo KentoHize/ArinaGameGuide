@@ -496,8 +496,8 @@
     "ID": 18,
     "Name": "融為一體",
     "Character": null,
-    "HP": null,
-    "StackOfHP": null,
+    "HP": 318000,
+    "StackOfHP": 1,
     "UseCounter": null,
     "UsePoison": null,
     "UseManyAttacks": null,
@@ -506,24 +506,24 @@
     "Bleeding": null,
     "Weak": null,
     "Grow": "無",
-    "Description": "",
-    "Memo": "毒刺攻擊可以損傷兩次死亡抵抗，根據護盾降低傷害"
+    "Description": "巢群共感─裂變\n生命低於50%後，召喚一名「初變者」在後方，每場戰鬥僅觸發1次\n\n舊日餘燼5%",
+    "Memo": "毒刺攻擊可以損傷兩次死亡抵抗，根據護盾降低傷害\n\n類似「??賜福者」"
   },
   {
     "ID": 28,
     "Name": "擁抱進化",
     "Character": null,
-    "HP": 172000,
+    "HP": 276000,
     "StackOfHP": 1,
-    "UseCounter": null,
-    "UsePoison": null,
+    "UseCounter": "O",
+    "UsePoison": "╳",
     "UseManyAttacks": null,
     "UseSeveralAttacks": null,
     "UsePierceDamage": null,
     "Bleeding": null,
     "Weak": "小",
     "Grow": "無",
-    "Description": "",
+    "Description": "巢群共感─異維\n力量被降低時，僅降低50%力量。每當玩家釋放狂氣爆發，獲得1層「臨時瘋狂」\n\n舊日餘燼3%\n\n類似「??庇護者」",
     "Memo": "狂氣爆發時增加瘋狂\n力量降低只產生50%效果\n\n似乎不會變強\n\n心智寄生 390x1 賦予保留卡片遲緩\n狩獵時刻 - x5 脆弱/重創 循環\n神經毒素 - 抽牌堆遲緩2 、置入2張巢群捕食"
   },
   {
@@ -1091,7 +1091,7 @@
     "ID": 65,
     "Name": "至善至美",
     "Character": null,
-    "HP": 102000,
+    "HP": 188000,
     "StackOfHP": 1,
     "UseCounter": null,
     "UsePoison": null,
@@ -1101,8 +1101,8 @@
     "Bleeding": null,
     "Weak": null,
     "Grow": "未知",
-    "Description": "",
-    "Memo": ""
+    "Description": "巢群共感─異維\n力量被降低時，僅降低50%力量。每當玩家釋放狂氣爆發，獲得1層「臨時瘋狂」\n\n舊日餘燼5%",
+    "Memo": "似乎是「??庇護者」弱化版"
   },
   {
     "ID": 66,
@@ -1458,8 +1458,8 @@
     "Bleeding": null,
     "Weak": null,
     "Grow": "未知",
-    "Description": "虛弱 易傷 屏障\n第二條血142K",
-    "Memo": "屏障很多\n攻擊次數慢慢增加\n可用反擊\n第一條血量很少\n變身後連續兩次雷霆"
+    "Description": "虛弱 易傷2 屏障\n第二條血142K",
+    "Memo": "屏障很多，變身後易傷多\n攻擊次數慢慢增加\n可用反擊\n第一條血量很少\n變身後連續兩次雷霆"
   },
   {
     "ID": 87,
@@ -1511,5 +1511,22 @@
     "Grow": "未知",
     "Description": "似乎同提燈‧衛道士",
     "Memo": "重創加深 50%\n脆弱加深 50%\n聖化 回合開始+5加固，最大50"
+  },
+  {
+    "ID": 90,
+    "Name": "「超維??之蛹」",
+    "Character": null,
+    "HP": 1030000,
+    "StackOfHP": 2,
+    "UseCounter": null,
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "未知",
+    "Description": "宇宙幽能\n蛻變後根據層數加強\n\n異維抗體\n力量被降低時只降低50%力量，自身回合內，承受的被動傷害提高100%\n\n蛻變之刻\n第五回合或即將死亡時，移除所有其他敵人，將意圖改為「蛻變之刻」\n\n舊日餘燼10%\n\n變身後改名為「宇宙??投影」",
+    "Memo": "遲緩\n融蝕彩墨\n瘋狂\n\n換血會繼續攻擊\n\n攻略：宇宙幽能層數會使得生命值大量提升，可能盡量極早擊敗小怪"
   }
 ]
