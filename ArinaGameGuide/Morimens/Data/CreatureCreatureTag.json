@@ -63,5 +63,45 @@
     "ID": 12,
     "Creature": 44,
     "CreatureTag": "喚醒體"
+  },
+  {
+    "ID": 14,
+    "Creature": 100,
+    "CreatureTag": "眷族"
+  },
+  {
+    "ID": 17,
+    "Creature": 100,
+    "CreatureTag": "未知生物"
+  },
+  {
+    "ID": 15,
+    "Creature": 100,
+    "CreatureTag": "深海"
+  },
+  {
+    "ID": 16,
+    "Creature": 100,
+    "CreatureTag": "野獸"
+  },
+  {
+    "ID": 19,
+    "Creature": 10,
+    "CreatureTag": "主宰"
+  },
+  {
+    "ID": 18,
+    "Creature": 10,
+    "CreatureTag": "亡靈"
+  },
+  {
+    "ID": 20,
+    "Creature": 10,
+    "CreatureTag": "深海"
+  },
+  {
+    "ID": 21,
+    "Creature": 10,
+    "CreatureTag": "原初投影"
   }
 ]
