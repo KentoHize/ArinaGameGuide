@@ -31,7 +31,7 @@
     "Weak": null,
     "Grow": "小",
     "Description": "巢群共感─裂變\n受到致命傷害後立刻回復所有生命並獲得80%臨時加固，召喚一名「初變者」在後方，可觸發兩次\n\n舊日餘燼6%\n\n重生不會換招",
-    "Memo": "虛弱、易傷\n\n攻略\n強力的毒刺，需要強力的防守以免中毒"
+    "Memo": "虛弱、易傷\n\n攻略\n強力的毒刺，需要強力的防禦以免中毒"
   },
   {
     "ID": 48,
@@ -156,7 +156,7 @@
     "ID": 27,
     "Name": "「海之使徒」",
     "Character": 7,
-    "HP": 77425,
+    "HP": 252000,
     "StackOfHP": 2,
     "UseCounter": null,
     "UsePoison": null,
@@ -166,8 +166,8 @@
     "Bleeding": null,
     "Weak": null,
     "Grow": "未知",
-    "Description": "",
-    "Memo": "神眷之刃 x4 封印最高\n應選知人 召喚「靈覺之子」(裂傷後自爆)\n無上生祭 x1 2張驚厥\n\n易傷\n釋放狂氣爆發會增加孕育，增加28點力量 5層時放高額傷害306x3 以及召喚利莫里亞的希望x2(登場時其它友方增加28點力量)"
+    "Description": "尚未覺醒\n\n利莫尼亞的最終降神\n每次釋放一次狂氣爆發獲得一層「孕育」，每層孕育獲得26點力量，上限5層\n\n孕育：達到5層時將會釋放「利莫尼亞的榮光」，造成高額傷害並呼喚眷族(會清空孕育)",
+    "Memo": "對付封印\n另考慮多使用高強度指令卡\n\n水之子易傷\n釋放狂氣爆發會增加孕育，增加28點力量 5層時放高額傷害306x3 以及召喚利莫里亞的希望x2(登場時其它友方增加28點力量)\n\n"
   },
   {
     "ID": 1,
@@ -207,7 +207,7 @@
     "ID": 46,
     "Name": "「鯨躍」",
     "Character": 13,
-    "HP": 11118,
+    "HP": 141000,
     "StackOfHP": 2,
     "UseCounter": null,
     "UsePoison": null,
@@ -216,7 +216,7 @@
     "UsePierceDamage": null,
     "Bleeding": null,
     "Weak": null,
-    "Grow": "未知",
+    "Grow": "中",
     "Description": "",
     "Memo": ""
   },
@@ -425,23 +425,6 @@
     "Memo": "極強角色\n\n會製造彩墨導致卡片無法辨識"
   },
   {
-    "ID": 83,
-    "Name": "「超維??之蛹」",
-    "Character": null,
-    "HP": null,
-    "StackOfHP": null,
-    "UseCounter": null,
-    "UsePoison": null,
-    "UseManyAttacks": null,
-    "UseSeveralAttacks": null,
-    "UsePierceDamage": null,
-    "Bleeding": null,
-    "Weak": null,
-    "Grow": "未知",
-    "Description": "原初",
-    "Memo": ""
-  },
-  {
     "ID": 90,
     "Name": "「超維??之蛹」",
     "Character": null,
@@ -455,7 +438,7 @@
     "Bleeding": null,
     "Weak": null,
     "Grow": "未知",
-    "Description": "宇宙幽能\n蛻變後根據層數加強\n\n異維抗體\n力量被降低時只降低50%力量，自身回合內，承受的被動傷害提高100%\n\n蛻變之刻\n第五回合或即將死亡時，移除所有其他敵人，將意圖改為「蛻變之刻」\n\n舊日餘燼10%\n\n變身後改名為「宇宙??投影」",
+    "Description": "宇宙幽能\n蛻變後根據層數加強\n\n異維抗體\n力量被降低時只降低50%力量，自身回合內，承受的被動傷害提高100%\n\n蛻變之刻\n第五回合或即將死亡時，移除所有其他敵人，將意圖改為「蛻變之刻」\n\n舊日餘燼10%\n\n變身後改名為「宇宙??投影」\n並獲得宇宙輪迴\n受到致命傷害後回復所有生命並且得到臨時加固50層，可以使用2次",
     "Memo": "遲緩\n融蝕彩墨\n瘋狂\n\n換血會繼續攻擊\n\n攻略：宇宙幽能層數會使得生命值大量提升，可能盡量極早擊敗小怪"
   },
   {
@@ -506,8 +489,8 @@
     "Bleeding": "無",
     "Weak": null,
     "Grow": "小",
-    "Description": "第二條血3倍\n\n非常會塞卡\n842K",
-    "Memo": ""
+    "Description": "敖伏\n\n第二條血3倍842K\n",
+    "Memo": "\n非常會塞卡\n"
   },
   {
     "ID": 22,
@@ -541,7 +524,7 @@
     "Weak": null,
     "Grow": "無",
     "Description": "",
-    "Memo": "送算力卡，第一階段造成中毒\n\n第二階段造成易傷、脆弱與虛弱和中毒\n\n吃飽喝足消耗算力就加臨時力量，理論上單回合內只放高算力少數招\n\n攻擊1次與攻擊3次\n\n會遲緩可以解掉遲緩\n\n主要刷卡解決\n\n"
+    "Memo": "送算力卡，第一階段造成中毒\n\n第二階段造成易傷、脆弱與虛弱和中毒\n\n吃飽喝足消耗算力就加臨時力量，理論上單回合內只放高算力少數招\n\n攻擊1次與攻擊3次\n會遲緩可以解掉遲緩\n主要刷卡解決\n強者為尊可以解決"
   },
   {
     "ID": 42,
@@ -581,18 +564,18 @@
     "ID": 60,
     "Name": "「美德騎士」",
     "Character": null,
-    "HP": 42225,
+    "HP": 600000,
     "StackOfHP": 2,
-    "UseCounter": null,
+    "UseCounter": "△",
     "UsePoison": null,
     "UseManyAttacks": null,
     "UseSeveralAttacks": null,
     "UsePierceDamage": null,
     "Bleeding": null,
     "Weak": null,
-    "Grow": "未知",
-    "Description": "",
-    "Memo": "脆弱加深\n重創加深\n\n騎士的決心\n戰鬥開始時獲得5845層護盾，回合結束時，護盾不會消失\n\n騎士的信仰\n每回合首次被擊破護盾時，失去25%最大生命，獲得165點臨時力量和75層臨時加固。下回合開始時，重新得到5845層護盾，每觸發一次「騎士的信仰」額外獲得一次護盾"
+    "Grow": "小",
+    "Description": "脆弱加深\n重創加深\n\n騎士的決心\n戰鬥開始時獲得5845層護盾，回合結束時，護盾不會消失\n\n騎士的信仰\n每回合首次被擊破護盾時，失去25%最大生命，獲得165點臨時力量和75層臨時加固。下回合開始時，重新得到5845層護盾，每觸發一次「騎士的信仰」額外獲得一次護盾",
+    "Memo": "出血\n\n護盾不會在回合消失而且極高，高等級應該採取對策"
   },
   {
     "ID": 25,
@@ -634,16 +617,16 @@
     "Character": null,
     "HP": 1319000,
     "StackOfHP": 1,
-    "UseCounter": null,
+    "UseCounter": "△",
     "UsePoison": null,
-    "UseManyAttacks": null,
-    "UseSeveralAttacks": null,
+    "UseManyAttacks": "╳",
+    "UseSeveralAttacks": "O",
     "UsePierceDamage": null,
     "Bleeding": null,
     "Weak": null,
     "Grow": "未知",
     "Description": "死亡抵抗5\n\n絕望化身\n觸發死亡抵抗時，對抽牌堆或手牌堆1張隨機卡牌施加遲緩\n\n舊日餘燼3%",
-    "Memo": ""
+    "Memo": "遲緩 易傷2 臨時反擊\n\n不滅之魂後死亡抵抗10\n\n狂暴後，受到攻擊時獲得等量臨時力量，觸手攻擊是合法目標\n\n可用偷力的方式解決"
   },
   {
     "ID": 29,
@@ -801,7 +784,7 @@
   {
     "ID": 68,
     "Name": "「豐釀之息」",
-    "Character": null,
+    "Character": 22,
     "HP": 56815,
     "StackOfHP": 2,
     "UseCounter": null,
@@ -819,7 +802,7 @@
     "ID": 76,
     "Name": "「賽勒菲斯的倒影」",
     "Character": null,
-    "HP": 47461,
+    "HP": 76356,
     "StackOfHP": 1,
     "UseCounter": null,
     "UsePoison": null,
@@ -972,7 +955,7 @@
     "ID": 50,
     "Name": "高級作戰員",
     "Character": null,
-    "HP": 55268,
+    "HP": 290000,
     "StackOfHP": 1,
     "UseCounter": "O",
     "UsePoison": null,
@@ -983,7 +966,7 @@
     "Weak": null,
     "Grow": "小",
     "Description": "",
-    "Memo": "脆弱加深 - 50%\n\n極愛出血\n\n臨時反擊"
+    "Memo": "脆弱加深 - 50%\n\n極愛出血\n\n臨時反擊\n幻影劍有多段攻擊並附帶反擊，需有對策"
   },
   {
     "ID": 65,
@@ -1068,7 +1051,7 @@
     "Weak": null,
     "Grow": "小",
     "Description": "舊日餘燼5%\n\n重創加深 50%",
-    "Memo": "適合深海\n中毒多、重創3\n\n不算強敵，中等強度\n\n可能的話速殺"
+    "Memo": "適合深海\n中毒多、重創3\n\n不算強敵，中等強度\n召喚怪如果未殺掉成長速度較快\n可能的話速殺"
   },
   {
     "ID": 8,
@@ -1242,10 +1225,10 @@
   },
   {
     "ID": 7,
-    "Name": "甜蜜惡鬼",
+    "Name": "「甜蜜惡鬼」",
     "Character": 5,
-    "HP": null,
-    "StackOfHP": null,
+    "HP": 3000000,
+    "StackOfHP": 2,
     "UseCounter": null,
     "UsePoison": null,
     "UseManyAttacks": null,
@@ -1253,9 +1236,9 @@
     "UsePierceDamage": null,
     "Bleeding": null,
     "Weak": null,
-    "Grow": "無",
-    "Description": "",
-    "Memo": "驅除易傷"
+    "Grow": "中",
+    "Description": "尚未覺醒",
+    "Memo": "易傷\n\n注意在第一招時攻擊會造成攻擊次數上升"
   },
   {
     "ID": 93,
@@ -1429,10 +1412,10 @@
   },
   {
     "ID": 14,
-    "Name": "淤泥之花",
+    "Name": "「淤泥之花」",
     "Character": 6,
-    "HP": null,
-    "StackOfHP": null,
+    "HP": 337000,
+    "StackOfHP": 2,
     "UseCounter": null,
     "UsePoison": null,
     "UseManyAttacks": null,
@@ -1441,7 +1424,7 @@
     "Bleeding": null,
     "Weak": null,
     "Grow": "小",
-    "Description": "",
+    "Description": "尚未覺醒\n\n覺醒後獲得「莉莉覺醒」\n\n「莉莉覺醒」\n莉莉會模仿玩家打出的第1張指令卡。若是打擊卡莉莉攻擊次數+1，若是防禦卡莉莉獲得10%生命的護盾，若是其他指令卡，莉莉也不知道發生了什麼事情會先放一隻膿皰在這裡",
     "Memo": "莉莉覺醒之後\n\n攻擊 -> 多一次傷害\n防禦 -> 10%生命護頓\n其他 -> 自殺膿包"
   },
   {
@@ -1698,5 +1681,107 @@
     "Grow": "未知",
     "Description": "",
     "Memo": ""
+  },
+  {
+    "ID": 101,
+    "Name": "「繪者」",
+    "Character": 21,
+    "HP": 41981,
+    "StackOfHP": 2,
+    "UseCounter": null,
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "未知",
+    "Description": "幻世染料5\n加強技能，上限10層\n\n異象調色盤\n打出融蝕彩墨的卡片後，繪者獲得一層幻世染料",
+    "Memo": ""
+  },
+  {
+    "ID": 102,
+    "Name": "緊急連絡",
+    "Character": null,
+    "HP": 9132,
+    "StackOfHP": 1,
+    "UseCounter": null,
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "小",
+    "Description": "「通訊者」\n每打出1張指令卡，獲得7點力量和457護盾",
+    "Memo": "虛弱2 -> 打 -> 脆弱2 -> 打"
+  },
+  {
+    "ID": 103,
+    "Name": "「查泰德夫人」",
+    "Character": null,
+    "HP": 48774,
+    "StackOfHP": 1,
+    "UseCounter": null,
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "小",
+    "Description": "",
+    "Memo": "塞入許多蠟油\n\n難度較低"
+  },
+  {
+    "ID": 104,
+    "Name": "高禮帽",
+    "Character": null,
+    "HP": 26360,
+    "StackOfHP": 1,
+    "UseCounter": null,
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "中",
+    "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 105,
+    "Name": "軍士長",
+    "Character": null,
+    "HP": 143000,
+    "StackOfHP": 1,
+    "UseCounter": null,
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "未知",
+    "Description": "蛹化\n戰鬥開始時和回合開始時獲得臨時加固，玩家生命越高獲得越多，最高為25層\n\n重創加深 50%",
+    "Memo": ""
+  },
+  {
+    "ID": 106,
+    "Name": "狂躁野犬",
+    "Character": null,
+    "HP": 50106,
+    "StackOfHP": 1,
+    "UseCounter": null,
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "無",
+    "Description": "",
+    "Memo": "漸強撕咬"
   }
 ]

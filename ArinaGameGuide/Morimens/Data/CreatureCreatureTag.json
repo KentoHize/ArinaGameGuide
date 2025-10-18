@@ -103,5 +103,15 @@
     "ID": 21,
     "Creature": 10,
     "CreatureTag": "原初投影"
+  },
+  {
+    "ID": 22,
+    "Creature": 62,
+    "CreatureTag": "眷族"
+  },
+  {
+    "ID": 23,
+    "Creature": 62,
+    "CreatureTag": "異變體"
   }
 ]
