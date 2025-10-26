@@ -113,5 +113,15 @@
     "ID": 23,
     "Creature": 62,
     "CreatureTag": "異變體"
+  },
+  {
+    "ID": 24,
+    "Creature": 107,
+    "CreatureTag": "主宰"
+  },
+  {
+    "ID": 25,
+    "Creature": 107,
+    "CreatureTag": "植物"
   }
 ]
