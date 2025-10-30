@@ -426,7 +426,7 @@
           "FKTable": "Character",
           "FKColumn": "ID",
           "NumberOfRows": 1,
-          "Display": false,
+          "Display": true,
           "RegularExpression": "",
           "Description": "",
           "MinValue": "",

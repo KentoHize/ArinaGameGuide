@@ -275,7 +275,7 @@
     "ID": 33,
     "Name": "「手術利刃」",
     "Character": null,
-    "HP": 106000,
+    "HP": 169000,
     "StackOfHP": 1,
     "UseCounter": null,
     "UsePoison": null,
@@ -445,7 +445,7 @@
     "ID": 34,
     "Name": "「鎮痛劑」",
     "Character": null,
-    "HP": 125000,
+    "HP": 199000,
     "StackOfHP": 1,
     "UseCounter": null,
     "UsePoison": null,
@@ -456,7 +456,7 @@
     "Weak": null,
     "Grow": "未知",
     "Description": "",
-    "Memo": "雙Boss\n\n放毒"
+    "Memo": "雙Boss(與手術利刃)\n\n放毒\n護盾"
   },
   {
     "ID": 87,
@@ -542,23 +542,6 @@
     "Grow": "大",
     "Description": "",
     "Memo": "常見打一下\n覺醒後增加1275點力量\n第二條血380000\n\n偷取力量是好方法"
-  },
-  {
-    "ID": 15,
-    "Name": "「破鍊者」",
-    "Character": null,
-    "HP": 96206,
-    "StackOfHP": 2,
-    "UseCounter": null,
-    "UsePoison": null,
-    "UseManyAttacks": null,
-    "UseSeveralAttacks": null,
-    "UsePierceDamage": null,
-    "Bleeding": null,
-    "Weak": null,
-    "Grow": "大",
-    "Description": "",
-    "Memo": "基本每次單下攻擊"
   },
   {
     "ID": 60,
@@ -717,7 +700,7 @@
     "ID": 80,
     "Name": "「猩紅」",
     "Character": null,
-    "HP": 180000,
+    "HP": 217000,
     "StackOfHP": 2,
     "UseCounter": "△",
     "UsePoison": null,
@@ -727,7 +710,7 @@
     "Bleeding": null,
     "Weak": null,
     "Grow": "未知",
-    "Description": "血之狂暴49816層\n層數為0時轉換意圖為高額傷害的狂氣爆發並且解除石化效果\n\n第二條血250000",
+    "Description": "血之狂暴49816層\n層數為0時轉換意圖為高額傷害的狂氣爆發並且解除石化效果\n\n第二條血322000\n覺醒後造成傷害提高？",
     "Memo": "免疫石化能力"
   },
   {
@@ -891,14 +874,14 @@
     "StackOfHP": 3,
     "UseCounter": null,
     "UsePoison": null,
-    "UseManyAttacks": null,
-    "UseSeveralAttacks": null,
+    "UseManyAttacks": "╳",
+    "UseSeveralAttacks": "◎",
     "UsePierceDamage": null,
     "Bleeding": null,
     "Weak": null,
     "Grow": "中",
     "Description": "陰影的惡鬼\n第一次被擊敗時回復生命並轉換意圖為「終焉進化」，獲得力量和加固\n第二次即將被擊敗時回復生命並轉換意圖為「鬼面撕咬」，造成超高額單次傷害",
-    "Memo": "多段式防禦(可能是終末)\n\n不停增加反擊\n\n抗毒/出血等等"
+    "Memo": "多段式防禦(可能是終末)\n終焉後抗多次攻擊\n\n不停增加反擊\n\n抗毒/出血等等持續性負面效果"
   },
   {
     "ID": 41,
@@ -1397,7 +1380,7 @@
     "ID": 35,
     "Name": "殘酷的「父親」",
     "Character": null,
-    "HP": 127000,
+    "HP": 676000,
     "StackOfHP": 1,
     "UseCounter": null,
     "UsePoison": null,
@@ -1406,9 +1389,9 @@
     "UsePierceDamage": null,
     "Bleeding": null,
     "Weak": null,
-    "Grow": "未知",
-    "Description": "",
-    "Memo": "提燈聖壇\n\n回合結束時若當前生命低於50%，則獲得69點力量和2層屏障"
+    "Grow": "大",
+    "Description": "提燈聖壇\n回合結束時若當前生命低於50%，則獲得105點力量和2層屏障",
+    "Memo": "重點在於有守備的燈芯長明\n\n須找到攻擊後方的手法或是強力降攻"
   },
   {
     "ID": 14,
@@ -1482,7 +1465,7 @@
     "ID": 43,
     "Name": "虔心教眾",
     "Character": null,
-    "HP": null,
+    "HP": 10129,
     "StackOfHP": 1,
     "UseCounter": null,
     "UsePoison": null,
@@ -1533,7 +1516,7 @@
     "ID": 36,
     "Name": "沉默的「母親」",
     "Character": null,
-    "HP": 123000,
+    "HP": 654000,
     "StackOfHP": 1,
     "UseCounter": null,
     "UsePoison": null,
@@ -1542,9 +1525,9 @@
     "UsePierceDamage": null,
     "Bleeding": null,
     "Weak": null,
-    "Grow": "未知",
-    "Description": "",
-    "Memo": "血之提燈，回合結束時回復5%已損失生命\n\n玩家美抽到1張症狀或狀態卡，全體友方獲得14點力量"
+    "Grow": "中",
+    "Description": "血之提燈\n回合結束時回復5%已損失生命\n玩家每抽到1張症狀或狀態卡，全體友方獲得21點力量",
+    "Memo": "雙Boss(殘酷的父親)"
   },
   {
     "ID": 92,
@@ -1851,5 +1834,39 @@
     "Grow": "小",
     "Description": "亙古混沌\n受到致命傷害後將回復所有生命，意圖轉化為「真‧深空注目」，獲得80層臨時加固並移除自身負面狀態和玩家正面狀態\n\n初期無法打死\n\n8 Turn後變身為「託乎瓦波，亙古混沌」\n2188K\n擁有融蝕霧盾，每受到10%傷害就獲得99層臨時加固\n打完召喚怪之後移除\n第一條血量結束後會給予戰鬥勝利的卡片，無須打第二條血",
     "Memo": "虛弱99 易傷99 脆弱99\n中毒、出血(內有招式可解)\n屏障50\n初期打不死\n真空注目會移除玩家正面狀態包含力量"
+  },
+  {
+    "ID": 111,
+    "Name": "「迷宮蛛」",
+    "Character": 23,
+    "HP": 185000,
+    "StackOfHP": 2,
+    "UseCounter": "╳",
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": "O",
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "大",
+    "Description": "",
+    "Memo": "中毒 遲緩 護盾 解除石化\n\n主要阻止中毒即可減少傷害\n\n不過力量爬升很快"
+  },
+  {
+    "ID": 112,
+    "Name": "「海窟特」",
+    "Character": null,
+    "HP": 8591,
+    "StackOfHP": 1,
+    "UseCounter": null,
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "未知",
+    "Description": "血色福音\n回合結束時，回復等同於已損失生命5%的生命。每當玩家抽到1張狀態卡或症狀卡時，所有「努比亞」獲得9點臨時力量",
+    "Memo": "蹣跚 畸變 傷害減少攻擊次數\n擊中出血\n\n類似努比亞巨木\n"
   }
 ]
