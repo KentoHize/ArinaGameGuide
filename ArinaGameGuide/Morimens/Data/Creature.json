@@ -540,7 +540,7 @@
     "Bleeding": null,
     "Weak": null,
     "Grow": "大",
-    "Description": "",
+    "Description": "尚未覺醒",
     "Memo": "常見打一下\n覺醒後增加1275點力量\n第二條血380000\n\n偷取力量是好方法"
   },
   {
@@ -709,8 +709,8 @@
     "UsePierceDamage": null,
     "Bleeding": null,
     "Weak": null,
-    "Grow": "未知",
-    "Description": "血之狂暴49816層\n層數為0時轉換意圖為高額傷害的狂氣爆發並且解除石化效果\n\n第二條血322000\n覺醒後造成傷害提高？",
+    "Grow": "中",
+    "Description": "血之狂暴49816層\n每失去1點生命降低1點，層數為0時轉換意圖為高額傷害的狂氣爆發並且解除石化效果\n\n尚未覺醒\n\n第二條血322000\n覺醒後造成傷害提高？",
     "Memo": "免疫石化能力"
   },
   {
@@ -778,8 +778,8 @@
     "Bleeding": null,
     "Weak": null,
     "Grow": "小",
-    "Description": "會一直召喚檔住\n\n孕育之母，每降低42651點生命召喚一個擬態喚醒體，若是已達2個，增加50%最大生命\n\n母神汲取\n戰鬥開始時，所有喚醒體狂氣減半\n\n隱於林中\n若當前存在擬態喚醒體，自身獲得50層「隱匿」(每層降低1%傷害，其他友方死亡後解除該狀態)\n\n尚未覺醒\n\n第二條血287K",
-    "Memo": "反擊(小) 中毒 出血 致盲 虛弱2\n\n失去狂氣(開始和後面招式，變身後喚醒體只能產生50%狂氣)"
+    "Description": "孕育之母，每降低42651點生命召喚一個擬態喚醒體，若是已達2個，增加50%最大生命\n\n母神汲取\n戰鬥開始時，所有喚醒體狂氣減半\n\n隱於林中\n若當前存在擬態喚醒體，自身獲得50層「隱匿」(每層降低1%傷害，其他友方死亡後解除該狀態)\n\n尚未覺醒\n\n第二條血287K",
+    "Memo": "反擊(小) 中毒 出血 致盲 虛弱2\n\n會一直召喚檔住\n\n失去狂氣(開始和後面招式，變身後喚醒體只能產生50%狂氣)"
   },
   {
     "ID": 76,
@@ -2071,7 +2071,7 @@
     "Weak": null,
     "Grow": "小",
     "Description": "畏懼狂氣\n我方隊伍釋放狂氣爆發後，自身當回合失去力量，一回合一次",
-    "Memo": "空虛\n第五回合後力量快速增加"
+    "Memo": "空虛\n第五回合後力量快速增加\n\n臨界值203250 204K保險"
   },
   {
     "ID": 126,
@@ -2122,6 +2122,57 @@
     "Weak": null,
     "Grow": "未知",
     "Description": "",
+    "Memo": ""
+  },
+  {
+    "ID": 129,
+    "Name": "「雙生矛盾」",
+    "Character": null,
+    "HP": 43481,
+    "StackOfHP": 4,
+    "UseCounter": null,
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "未知",
+    "Description": "矛盾\n每當打出卡牌後，「雙生矛盾」都會變化意圖\n\n重創加深 50%\n虛弱加深 50%\n脆弱加深 50%\n\n2回合後\n「於麗埃特之詠」\n受到了於麗埃特的影響，每個回合結束後，雙子融合度提高10%，並將一張「畸變」洗入抽牌堆\n\n1次變身後\n更名為「雙子神像」\n移除矛盾效果\n\n2次變身後\n變為「暗之子」與「光之子」\n\n3次變身後\n更名為「遺忘的伊始」\n移除「於麗埃特之詠」\n\n融蝕霧盾\n每回合累計受到10%生命的傷害時，獲得33層臨時的「加固」",
+    "Memo": ""
+  },
+  {
+    "ID": 130,
+    "Name": "「暗之子」",
+    "Character": null,
+    "HP": 85576,
+    "StackOfHP": 2,
+    "UseCounter": null,
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "未知",
+    "Description": "重創加深 50%\n虛弱加深 50%\n脆弱加深 50%",
+    "Memo": ""
+  },
+  {
+    "ID": 131,
+    "Name": "「光之子」",
+    "Character": null,
+    "HP": 38699,
+    "StackOfHP": 1,
+    "UseCounter": null,
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "未知",
+    "Description": "犧牲\n「暗之子」進行強行融合後，對「遺忘的伊始」造成等同於自身當前生命3倍的固定傷害",
     "Memo": ""
   }
 ]
