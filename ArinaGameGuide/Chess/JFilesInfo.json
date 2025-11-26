@@ -1,0 +1,70 @@
+{
+  "Name": "Chess",
+  "CalendarEra": " AR",
+  "Description": null,
+  "TablesInfo": [
+    {
+      "Name": "Article",
+      "Columns": [
+        {
+          "Name": "ID",
+          "IsKey": true,
+          "IsNullable": false,
+          "Type": "Integer",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": null,
+          "Description": null,
+          "MinValue": null,
+          "MaxValue": null,
+          "MaxLength": 0,
+          "AutoGenerateKey": true,
+          "IsUnique": false,
+          "DefaultValue": null
+        },
+        {
+          "Name": "Title",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": null,
+          "Description": null,
+          "MinValue": null,
+          "MaxValue": null,
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": null
+        },
+        {
+          "Name": "Content",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 7,
+          "Display": true,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": ""
+        }
+      ],
+      "InsertFirst": false
+    }
+  ]
+}

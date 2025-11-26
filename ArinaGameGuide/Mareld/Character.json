@@ -1,0 +1,41 @@
+[
+  {
+    "Name": "極星",
+    "Rarirty": "唯一",
+    "HP": 40,
+    "Attack": 2,
+    "Magic": 10,
+    "Fluffy": false,
+    "UpgradeLimit": 6,
+    "Skill": "身前角色每進行一次攻擊，其暴擊率上升60%",
+    "SupportSkill": "戰鬥中魔法值上升8",
+    "GetMethod": "遺跡投入40硬幣後擊退怪",
+    "Memo": ""
+  },
+  {
+    "Name": "晨星",
+    "Rarirty": "唯一",
+    "HP": 40,
+    "Attack": 4,
+    "Magic": 2,
+    "Fluffy": true,
+    "UpgradeLimit": 6,
+    "Skill": "提高被攻擊的機率。有25%的機率閃避傷害，每有一個毛絨絨隊友，閃避上升5%",
+    "SupportSkill": "攻擊時附加當前角色最大生命值10%的傷害",
+    "GetMethod": "遺跡 -> 出船",
+    "Memo": ""
+  },
+  {
+    "Name": "風鈴",
+    "Rarirty": "唯一",
+    "HP": 20,
+    "Attack": 1,
+    "Magic": 0,
+    "Fluffy": true,
+    "UpgradeLimit": 2,
+    "Skill": "製作料理時會獲得隨機的調味效果，。也許生命值越高運氣越好？",
+    "SupportSkill": "作為風鈴的輔助角色時，風鈴的效果上升",
+    "GetMethod": "奇怪的粉末置入後與風鈴和守門人對話",
+    "Memo": ""
+  }
+]
