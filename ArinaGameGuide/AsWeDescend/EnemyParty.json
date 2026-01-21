@@ -306,7 +306,7 @@
     "DevelopSlot": 0,
     "Level": 2,
     "Description": "Spawner\nSiege Attacker",
-    "Memo": "",
+    "Memo": "前排後排\n與攻城攻擊",
     "Creature1": 6,
     "Creature1Count": 1,
     "Creature2": null,
@@ -583,5 +583,35 @@
     "Creature2Count": 2,
     "Creature3": null,
     "Creature3Count": null
+  },
+  {
+    "Name": "Vermin Tide",
+    "Boss": false,
+    "Elite": false,
+    "DevelopSlot": 2,
+    "Level": 2,
+    "Description": "Swarmer\nSplat\nHealing Intent",
+    "Memo": "",
+    "Creature1": 5,
+    "Creature1Count": 4,
+    "Creature2": null,
+    "Creature2Count": null,
+    "Creature3": null,
+    "Creature3Count": null
+  },
+  {
+    "Name": "Great Symbiosis",
+    "Boss": false,
+    "Elite": true,
+    "DevelopSlot": 3,
+    "Level": null,
+    "Description": "Heavy Plating\nAfflicter",
+    "Memo": "",
+    "Creature1": 39,
+    "Creature1Count": 1,
+    "Creature2": 7,
+    "Creature2Count": 1,
+    "Creature3": 5,
+    "Creature3Count": 1
   }
 ]

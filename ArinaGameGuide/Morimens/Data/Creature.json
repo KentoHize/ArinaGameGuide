@@ -193,9 +193,9 @@
     "UseAreaAttacks": null,
     "Bleeding": null,
     "Weak": null,
-    "Grow": "無",
+    "Grow": "中",
     "Description": "尚未覺醒",
-    "Memo": "有效卡片\n\n力量降低\n防禦反擊\n\n策略\n有打敗幻影的方法"
+    "Memo": "有效卡片\n\n力量降低\n防禦反擊\n\n策略\n有打敗幻影的方法\n\n虛弱2 脆弱2"
   },
   {
     "ID": 30,
@@ -1939,7 +1939,7 @@
     "UseAreaAttacks": null,
     "Bleeding": null,
     "Weak": null,
-    "Grow": "大",
+    "Grow": "未知",
     "Description": "",
     "Memo": "中毒 遲緩 護盾 解除石化\n\n多段式防禦\n\n阻止受傷後等量%數中毒即可減少傷害\n\n力量爬升很快"
   },
@@ -2325,7 +2325,7 @@
     "ID": 133,
     "Name": "穢血魚王",
     "Character": null,
-    "HP": 4713,
+    "HP": 16615,
     "StackOfHP": 1,
     "UseCounter": null,
     "UsePoison": null,
@@ -2337,13 +2337,13 @@
     "Weak": null,
     "Grow": "未知",
     "Description": "群序之力 1層\n登場時自身最大生命提高10%併為其他友方增加5的力量，使本場戰鬥中群序之力的生命提高和獲取力量效果額外觸發1次\n\n魚潮洄遊 5層\n死亡後立刻召喚一名隨機的「魚王」，使其「魚潮洄遊」降低1層",
-    "Memo": "共18隻\n\n全體攻擊有效\n毒無法累積\n\n最後血量提升至11139"
+    "Memo": "共18隻\n\n全體攻擊有效\n毒無法累積\n\n最後血量提升至11139\n獻祭傷害"
   },
   {
     "ID": 134,
     "Name": "腐潰魚王",
     "Character": null,
-    "HP": 4626,
+    "HP": 16552,
     "StackOfHP": 1,
     "UseCounter": null,
     "UsePoison": null,
@@ -2361,7 +2361,7 @@
     "ID": 135,
     "Name": "惡咒魚王",
     "Character": null,
-    "HP": 4456,
+    "HP": 15777,
     "StackOfHP": 1,
     "UseCounter": null,
     "UsePoison": "╳",
@@ -2811,7 +2811,7 @@
     "ID": 160,
     "Name": "「爆燃之主」",
     "Character": null,
-    "HP": null,
+    "HP": 2250000,
     "StackOfHP": 2,
     "UseCounter": null,
     "UsePoison": null,
@@ -2821,14 +2821,14 @@
     "UseAreaAttacks": null,
     "Bleeding": null,
     "Weak": null,
-    "Grow": "未知",
-    "Description": "爆炎\n積攅10層爆炎後將意圖切換為極高傷害的「億兆耀斑」！\n\n不熄之焰\n敵人打出燃燒卡牌時，使自身獲得1層爆炎，但臨時降低54力量",
-    "Memo": ""
+    "Grow": "中",
+    "Description": "爆炎\n積攅10層爆炎後將意圖切換為極高傷害的「億兆耀斑」！\n\n不熄之焰\n敵人打出燃燒卡牌時，使自身獲得1層爆炎，但臨時降低81力量",
+    "Memo": "燃燒\n易傷"
   },
   {
     "ID": 161,
     "Name": "「萊夏」",
-    "Character": null,
+    "Character": 27,
     "HP": 22680,
     "StackOfHP": 2,
     "UseCounter": null,
@@ -2841,6 +2841,24 @@
     "Weak": null,
     "Grow": "未知",
     "Description": "尚未覺醒\n\n起床氣\n死亡抵抗的回復生命效果提高為5倍。敵方每使用1張卡牌，使自身獲得1層狂熱\n\n死亡抵抗3\n\n脆弱加深50\n\n衰竭抵抗\n力量被降低時，僅會降低50%力量\n\n狂熱\n回合開始時清除。達到10層後，下次打出卡牌後，萊夏立刻行動，移除「狂熱」並追加意圖「人間爆破」",
+    "Memo": ""
+  },
+  {
+    "ID": 162,
+    "Name": "「垂死嘶鳴」",
+    "Character": null,
+    "HP": 366000,
+    "StackOfHP": 1,
+    "UseCounter": null,
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "UseAreaAttacks": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "無",
+    "Description": "深度融蝕\n受到的主動傷害提高1。每次受到傷害融蝕傷口都會擴大，回合開始時恢復。",
     "Memo": ""
   }
 ]
