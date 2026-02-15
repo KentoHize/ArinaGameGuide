@@ -69,7 +69,7 @@
     "Weak": null,
     "Grow": "無",
     "Description": "巢群共感─異維\n力量被降低時，僅降低25%力量。每當玩家釋放狂氣爆發，獲得1層「臨時瘋狂」\n\n舊日餘燼1%",
-    "Memo": "遲緩、脆弱1、重創\n\n攻略：降攻被克制\n主要出防禦抵擋\n\n脆弱下回合無攻擊，可以不用理會\n\n第一次心智寄生似乎加強\n舊日餘燼%數死亡抵抗後似乎會增加"
+    "Memo": "遲緩、脆弱1、重創\n\n攻略：降攻被克制\n主要出防禦抵擋或速攻\n注意黑羽被遲緩克制\n\n脆弱下回合無攻擊，可以不用理會\n\n第一次心智寄生似乎加強\n舊日餘燼%數死亡抵抗後似乎會增加"
   },
   {
     "ID": 75,
@@ -129,7 +129,7 @@
     "ID": 78,
     "Name": "「永恆助祭」",
     "Character": null,
-    "HP": 117000,
+    "HP": 265000,
     "StackOfHP": 1,
     "UseCounter": null,
     "UsePoison": null,
@@ -141,7 +141,7 @@
     "Weak": null,
     "Grow": "未知",
     "Description": "",
-    "Memo": ""
+    "Memo": "控制手牌"
   },
   {
     "ID": 12,
@@ -807,7 +807,7 @@
     "Weak": null,
     "Grow": "未知",
     "Description": "尚未覺醒",
-    "Memo": ""
+    "Memo": "虛弱3\n脆弱3"
   },
   {
     "ID": 68,
@@ -861,7 +861,7 @@
     "Weak": null,
     "Grow": "中",
     "Description": "",
-    "Memo": "攻擊次數造成力量降低\n\n不是非常強力\n\n會脆弱與虛弱"
+    "Memo": "攻擊次數造成力量降低\n\n單條血 不是非常強力\n\n會脆弱與虛弱\n觸手不算"
   },
   {
     "ID": 57,
@@ -1329,7 +1329,7 @@
     "Weak": null,
     "Grow": "小",
     "Description": "重創加深 50%\n脆弱加深 50%\n聖化 回合開始+5加固，最大50層\n破蛹\n受到致命傷害時回復50%生命，免疫傷害一回合，意圖變為「破蛹」",
-    "Memo": "出血、脆弱、重創\n多次攻擊減少攻擊力\n\n重生後固定加固80層\n\n攻略；防守，黑羽等失血招式有用"
+    "Memo": "出血、脆弱2、重創2\n多次攻擊減少攻擊力\n\n重生後固定加固80層\n\n攻略；防守，黑羽等失血招式有用"
   },
   {
     "ID": 54,
@@ -1761,7 +1761,7 @@
     "Weak": null,
     "Grow": "未知",
     "Description": "幻世染料5\n加強技能，上限10層\n\n異象調色盤\n打出融蝕彩墨的卡片後，繪者獲得一層幻世染料",
-    "Memo": ""
+    "Memo": "融蝕彩墨\n易傷1\n召喚\n\n有多下攻擊，降攻有效"
   },
   {
     "ID": 102,
@@ -2509,7 +2509,7 @@
     "StackOfHP": 1,
     "UseCounter": null,
     "UsePoison": null,
-    "UseManyAttacks": "△",
+    "UseManyAttacks": null,
     "UseSeveralAttacks": null,
     "UsePierceDamage": null,
     "UseAreaAttacks": null,
@@ -2517,7 +2517,7 @@
     "Weak": null,
     "Grow": "未知",
     "Description": "觸腕集結\n\n以牙還牙\n受到力量降低的效果時也會對施加者產生等量力量降低的效果\n\n舊日餘燼10266層",
-    "Memo": ""
+    "Memo": "腐朽 手牌操控\n\n血量單條可用%數"
   },
   {
     "ID": 144,
@@ -2827,7 +2827,7 @@
   },
   {
     "ID": 161,
-    "Name": "「萊夏」",
+    "Name": "「霧中駭獸」",
     "Character": 27,
     "HP": 22680,
     "StackOfHP": 2,
@@ -2859,6 +2859,42 @@
     "Weak": null,
     "Grow": "無",
     "Description": "深度融蝕\n受到的主動傷害提高1。每次受到傷害融蝕傷口都會擴大，回合開始時恢復。",
+    "Memo": ""
+  },
+  {
+    "ID": 164,
+    "Name": "「永恆寄主」",
+    "Character": null,
+    "HP": 707000,
+    "StackOfHP": 1,
+    "UseCounter": "O",
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "UseAreaAttacks": "O",
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "未知",
+    "Description": "拜些\n受到來自獻祭以外的傷害時，獲得傷害50%的獻祭",
+    "Memo": "出血\n\n召喚"
+  },
+  {
+    "ID": 166,
+    "Name": "超變融蝕體",
+    "Character": null,
+    "HP": 246000,
+    "StackOfHP": 1,
+    "UseCounter": null,
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "UseAreaAttacks": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "未知",
+    "Description": "分裂\n當生命低於50%時，將會分裂為2只等量生命的「干涉型融蝕體、",
     "Memo": ""
   }
 ]

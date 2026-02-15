@@ -1,0 +1,362 @@
+[
+  {
+    "ID": 1,
+    "Name": "",
+    "CName": "不白之冤",
+    "Important": false,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "選擇等待 -> 被誤會後遭到攻擊\n\n智20 敏20 選項"
+  },
+  {
+    "ID": 2,
+    "Name": "",
+    "CName": "代理決鬥II",
+    "Important": false,
+    "Alignment": null,
+    "Type": "Battle",
+    "Memo": ""
+  },
+  {
+    "ID": 3,
+    "Name": "",
+    "CName": "當代騎士",
+    "Important": false,
+    "Alignment": null,
+    "Type": null,
+    "Memo": ""
+  },
+  {
+    "ID": 4,
+    "Name": "",
+    "CName": "靈丹妙藥",
+    "Important": false,
+    "Alignment": "Base",
+    "Type": "Store",
+    "Memo": ""
+  },
+  {
+    "ID": 5,
+    "Name": "",
+    "CName": "羅亞",
+    "Important": false,
+    "Alignment": null,
+    "Type": null,
+    "Memo": ""
+  },
+  {
+    "ID": 6,
+    "Name": "",
+    "CName": "外來人專用旅館",
+    "Important": false,
+    "Alignment": "Army",
+    "Type": "Store",
+    "Memo": "特等250金幣 但需要擁有10張以上羅亞卡牌\n\n簡易房 -> 無事發生"
+  },
+  {
+    "ID": 7,
+    "Name": "",
+    "CName": "彈藥交付",
+    "Important": false,
+    "Alignment": "Army",
+    "Type": "Battle",
+    "Memo": "\n拿走戰利品\n上報情況(建議)"
+  },
+  {
+    "ID": 8,
+    "Name": "",
+    "CName": "眼鏡蛇獵人",
+    "Important": false,
+    "Alignment": "Base",
+    "Type": "Battle",
+    "Memo": "尾隨Dex16\n攻擊他們\n\n解救他"
+  },
+  {
+    "ID": 9,
+    "Name": "",
+    "CName": "學步家庭",
+    "Important": false,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": ""
+  },
+  {
+    "ID": 10,
+    "Name": "",
+    "CName": "黑漆漆的飲料",
+    "Important": false,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "喝一口 +HP\n62 Exp"
+  },
+  {
+    "ID": 11,
+    "Name": "",
+    "CName": "被凍僵的商人",
+    "Important": false,
+    "Alignment": "Merchant",
+    "Type": "Store",
+    "Memo": "\n澆些溫水 -> X"
+  },
+  {
+    "ID": 12,
+    "Name": "",
+    "CName": "外逃資金",
+    "Important": false,
+    "Alignment": null,
+    "Type": null,
+    "Memo": ""
+  },
+  {
+    "ID": 13,
+    "Name": "",
+    "CName": "盜賊們的寶箱",
+    "Important": false,
+    "Alignment": "Base",
+    "Type": "Battle",
+    "Memo": "賭上一把"
+  },
+  {
+    "ID": 14,
+    "Name": "",
+    "CName": "實驗助手",
+    "Important": false,
+    "Alignment": "Base",
+    "Type": "Battle",
+    "Memo": "測試 -> 戰鬥\n62\n坐上椅子\n補血\n深紅系列套牌3"
+  },
+  {
+    "ID": 15,
+    "Name": "",
+    "CName": "哥布林與馬車",
+    "Important": false,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": "戰鬥\n\n砸開馬車 力28\n打開馬車(開鎖)"
+  },
+  {
+    "ID": 16,
+    "Name": "",
+    "CName": "踏上征途",
+    "Important": true,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": "17 exp\n盲目的突進\n二重爪擊\n\n卡牌\n同伴"
+  },
+  {
+    "ID": 17,
+    "Name": "",
+    "CName": "甜蜜陷阱",
+    "Important": true,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": "觀察後戰鬥\n 黃蜂\n\n品嘗\n"
+  },
+  {
+    "ID": 18,
+    "Name": "",
+    "CName": "長滿青苔的岩石",
+    "Important": true,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": "還是快點趕路要緊\n找個歇腳的地方\n\n調查岩石智力14\n休息 -> 戰鬥"
+  },
+  {
+    "ID": 19,
+    "Name": "",
+    "CName": "外來者",
+    "Important": true,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": "智力12才能直接離開\n17 exp"
+  },
+  {
+    "ID": 20,
+    "Name": "",
+    "CName": "小木屋",
+    "Important": true,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": "相關事件 外來者\n\n馬庫斯死亡"
+  },
+  {
+    "ID": 21,
+    "Name": "",
+    "CName": "初見村莊",
+    "Important": false,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": "沒有特別事情"
+  },
+  {
+    "ID": 22,
+    "Name": "",
+    "CName": "壟斷商",
+    "Important": false,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": "\n要求誣陷某商人\n選擇我退出沒有事"
+  },
+  {
+    "ID": 23,
+    "Name": "",
+    "CName": "耕牛",
+    "Important": true,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": "戰鬥\n\n放過托米 (可能對)\n處理托米 -> 戰鬥 \n\n獎勵可"
+  },
+  {
+    "ID": 24,
+    "Name": "",
+    "CName": "村莊商人",
+    "Important": false,
+    "Alignment": "Base",
+    "Type": "Store",
+    "Memo": "餐館\n雜貨店\n服裝店 ->裝備"
+  },
+  {
+    "ID": 25,
+    "Name": "",
+    "CName": "陷入危險的老人",
+    "Important": true,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": "追尋凱倫事件\n\n上前幫助 -> 戰鬥\n\n33exp\n32 gold\n自然卡牌2\n\n表示感謝\n應急儲備糧\n\n表示拒絕(放棄)\n結伴而行"
+  },
+  {
+    "ID": 26,
+    "Name": "",
+    "CName": "進入帝國領土",
+    "Important": true,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": "首先送卡\n\n敏20\n智20\n\n放棄抵抗 ->33exp hp-15"
+  },
+  {
+    "ID": 27,
+    "Name": "",
+    "CName": "被燒毀的村莊",
+    "Important": true,
+    "Alignment": "Empire",
+    "Type": null,
+    "Memo": "智力20"
+  },
+  {
+    "ID": 28,
+    "Name": "",
+    "CName": "遺跡和過去",
+    "Important": true,
+    "Alignment": "Empire",
+    "Type": null,
+    "Memo": ""
+  },
+  {
+    "ID": 29,
+    "Name": "",
+    "CName": "扒手",
+    "Important": true,
+    "Alignment": "Empire",
+    "Type": null,
+    "Memo": ""
+  },
+  {
+    "ID": 30,
+    "Name": "",
+    "CName": "禁忌研究",
+    "Important": true,
+    "Alignment": "Empire",
+    "Type": null,
+    "Memo": "智力20\n\n幫助伊亞索\n幫助騎士 exp 26 gold 97\n聖魔法卡牌3"
+  },
+  {
+    "ID": 31,
+    "Name": "",
+    "CName": "歧路沾巾",
+    "Important": true,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": ""
+  },
+  {
+    "ID": 32,
+    "Name": "",
+    "CName": "露西",
+    "Important": true,
+    "Alignment": "Wizard",
+    "Type": null,
+    "Memo": "置之不理\n心生歹念 ->戰鬥後結束\n33 exp 194 gold 3張聖魔法卡牌 1物品\n上前搭話"
+  },
+  {
+    "ID": 33,
+    "Name": "",
+    "CName": "陰險的交易",
+    "Important": false,
+    "Alignment": "Base",
+    "Type": "Store",
+    "Memo": "賣軍隊裝備"
+  },
+  {
+    "ID": 34,
+    "Name": "",
+    "CName": "書店",
+    "Important": false,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": "不會讀 -> 25exp"
+  },
+  {
+    "ID": 35,
+    "Name": "",
+    "CName": "拐杖商店",
+    "Important": false,
+    "Alignment": "Wizard",
+    "Type": "Store",
+    "Memo": "賣Wizard卡"
+  },
+  {
+    "ID": 36,
+    "Name": "",
+    "CName": "梅爾庫裡翁",
+    "Important": true,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": ""
+  },
+  {
+    "ID": 37,
+    "Name": "",
+    "CName": "成為真正野馬的旅途",
+    "Important": true,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": "根據對話\n摩根可加入 得到草原上的野馬"
+  },
+  {
+    "ID": 38,
+    "Name": "",
+    "CName": "傾翻的馬車",
+    "Important": false,
+    "Alignment": "Base",
+    "Type": "Battle",
+    "Memo": "假需要幫忙 -> 戰鬥\n\n得到許多戰利品"
+  },
+  {
+    "ID": 39,
+    "Name": "",
+    "CName": "再會",
+    "Important": true,
+    "Alignment": "Base",
+    "Type": null,
+    "Memo": "49 exp"
+  },
+  {
+    "ID": 40,
+    "Name": "",
+    "CName": "施工中的魔法宮殿",
+    "Important": true,
+    "Alignment": "Wizard",
+    "Type": null,
+    "Memo": "凱倫相關故事"
+  }
+]
