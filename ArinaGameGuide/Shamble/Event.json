@@ -31,7 +31,7 @@
     "Name": "",
     "CName": "靈丹妙藥",
     "Important": false,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": "Store",
     "Memo": ""
   },
@@ -49,7 +49,7 @@
     "Name": "",
     "CName": "外來人專用旅館",
     "Important": false,
-    "Alignment": "Army",
+    "Alignment": "ROA",
     "Type": "Store",
     "Memo": "特等250金幣 但需要擁有10張以上羅亞卡牌\n\n簡易房 -> 無事發生"
   },
@@ -58,7 +58,7 @@
     "Name": "",
     "CName": "彈藥交付",
     "Important": false,
-    "Alignment": "Army",
+    "Alignment": "ROA",
     "Type": "Battle",
     "Memo": "\n拿走戰利品\n上報情況(建議)"
   },
@@ -67,7 +67,7 @@
     "Name": "",
     "CName": "眼鏡蛇獵人",
     "Important": false,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": "Battle",
     "Memo": "尾隨Dex16\n攻擊他們\n\n解救他"
   },
@@ -76,7 +76,7 @@
     "Name": "",
     "CName": "學步家庭",
     "Important": false,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": ""
   },
@@ -94,7 +94,7 @@
     "Name": "",
     "CName": "被凍僵的商人",
     "Important": false,
-    "Alignment": "Merchant",
+    "Alignment": "Machinaze",
     "Type": "Store",
     "Memo": "\n澆些溫水 -> X"
   },
@@ -112,7 +112,7 @@
     "Name": "",
     "CName": "盜賊們的寶箱",
     "Important": false,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": "Battle",
     "Memo": "賭上一把"
   },
@@ -121,7 +121,7 @@
     "Name": "",
     "CName": "實驗助手",
     "Important": false,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": "Battle",
     "Memo": "測試 -> 戰鬥\n62\n坐上椅子\n補血\n深紅系列套牌3"
   },
@@ -130,7 +130,7 @@
     "Name": "",
     "CName": "哥布林與馬車",
     "Important": false,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": "戰鬥\n\n砸開馬車 力28\n打開馬車(開鎖)"
   },
@@ -139,7 +139,7 @@
     "Name": "",
     "CName": "踏上征途",
     "Important": true,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": "17 exp\n盲目的突進\n二重爪擊\n\n卡牌\n同伴"
   },
@@ -148,7 +148,7 @@
     "Name": "",
     "CName": "甜蜜陷阱",
     "Important": true,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": "觀察後戰鬥\n 黃蜂\n\n品嘗\n"
   },
@@ -157,7 +157,7 @@
     "Name": "",
     "CName": "長滿青苔的岩石",
     "Important": true,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": "還是快點趕路要緊\n找個歇腳的地方\n\n調查岩石智力14\n休息 -> 戰鬥"
   },
@@ -166,7 +166,7 @@
     "Name": "",
     "CName": "外來者",
     "Important": true,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": "智力12才能直接離開\n17 exp"
   },
@@ -175,7 +175,7 @@
     "Name": "",
     "CName": "小木屋",
     "Important": true,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": "相關事件 外來者\n\n馬庫斯死亡"
   },
@@ -184,7 +184,7 @@
     "Name": "",
     "CName": "初見村莊",
     "Important": false,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": "沒有特別事情"
   },
@@ -193,7 +193,7 @@
     "Name": "",
     "CName": "壟斷商",
     "Important": false,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": "\n要求誣陷某商人\n選擇我退出沒有事"
   },
@@ -202,7 +202,7 @@
     "Name": "",
     "CName": "耕牛",
     "Important": true,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": "戰鬥\n\n放過托米 (可能對)\n處理托米 -> 戰鬥 \n\n獎勵可"
   },
@@ -211,7 +211,7 @@
     "Name": "",
     "CName": "村莊商人",
     "Important": false,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": "Store",
     "Memo": "餐館\n雜貨店\n服裝店 ->裝備"
   },
@@ -220,7 +220,7 @@
     "Name": "",
     "CName": "陷入危險的老人",
     "Important": true,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": "追尋凱倫事件\n\n上前幫助 -> 戰鬥\n\n33exp\n32 gold\n自然卡牌2\n\n表示感謝\n應急儲備糧\n\n表示拒絕(放棄)\n結伴而行"
   },
@@ -229,7 +229,7 @@
     "Name": "",
     "CName": "進入帝國領土",
     "Important": true,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": "首先送卡\n\n敏20\n智20\n\n放棄抵抗 ->33exp hp-15"
   },
@@ -238,7 +238,7 @@
     "Name": "",
     "CName": "被燒毀的村莊",
     "Important": true,
-    "Alignment": "Empire",
+    "Alignment": "Imperial",
     "Type": null,
     "Memo": "智力20"
   },
@@ -247,7 +247,7 @@
     "Name": "",
     "CName": "遺跡和過去",
     "Important": true,
-    "Alignment": "Empire",
+    "Alignment": "Imperial",
     "Type": null,
     "Memo": ""
   },
@@ -256,7 +256,7 @@
     "Name": "",
     "CName": "扒手",
     "Important": true,
-    "Alignment": "Empire",
+    "Alignment": "Imperial",
     "Type": null,
     "Memo": ""
   },
@@ -265,7 +265,7 @@
     "Name": "",
     "CName": "禁忌研究",
     "Important": true,
-    "Alignment": "Empire",
+    "Alignment": "Imperial",
     "Type": null,
     "Memo": "智力20\n\n幫助伊亞索\n幫助騎士 exp 26 gold 97\n聖魔法卡牌3"
   },
@@ -274,7 +274,7 @@
     "Name": "",
     "CName": "歧路沾巾",
     "Important": true,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": ""
   },
@@ -283,7 +283,7 @@
     "Name": "",
     "CName": "露西",
     "Important": true,
-    "Alignment": "Wizard",
+    "Alignment": "San Magica",
     "Type": null,
     "Memo": "置之不理\n心生歹念 ->戰鬥後結束\n33 exp 194 gold 3張聖魔法卡牌 1物品\n上前搭話"
   },
@@ -292,7 +292,7 @@
     "Name": "",
     "CName": "陰險的交易",
     "Important": false,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": "Store",
     "Memo": "賣軍隊裝備"
   },
@@ -301,7 +301,7 @@
     "Name": "",
     "CName": "書店",
     "Important": false,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": "不會讀 -> 25exp"
   },
@@ -310,7 +310,7 @@
     "Name": "",
     "CName": "拐杖商店",
     "Important": false,
-    "Alignment": "Wizard",
+    "Alignment": "San Magica",
     "Type": "Store",
     "Memo": "賣Wizard卡"
   },
@@ -319,7 +319,7 @@
     "Name": "",
     "CName": "梅爾庫裡翁",
     "Important": true,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": ""
   },
@@ -328,7 +328,7 @@
     "Name": "",
     "CName": "成為真正野馬的旅途",
     "Important": true,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": "根據對話\n摩根可加入 得到草原上的野馬"
   },
@@ -337,7 +337,7 @@
     "Name": "",
     "CName": "傾翻的馬車",
     "Important": false,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": "Battle",
     "Memo": "假需要幫忙 -> 戰鬥\n\n得到許多戰利品"
   },
@@ -346,7 +346,7 @@
     "Name": "",
     "CName": "再會",
     "Important": true,
-    "Alignment": "Base",
+    "Alignment": null,
     "Type": null,
     "Memo": "49 exp"
   },
@@ -355,8 +355,350 @@
     "Name": "",
     "CName": "施工中的魔法宮殿",
     "Important": true,
-    "Alignment": "Wizard",
+    "Alignment": "San Magica",
     "Type": null,
-    "Memo": "凱倫相關故事"
+    "Memo": "凱倫相關故事\n\n大吼後開戰 -> 2連打\n\n->大量經驗與金幣\n\n開戰\n\n腦力石頭"
+  },
+  {
+    "ID": 41,
+    "Name": "",
+    "CName": "尤斯提亞生物圖譜II",
+    "Important": false,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "33\n97"
+  },
+  {
+    "ID": 42,
+    "Name": "",
+    "CName": "隱秘的報道",
+    "Important": false,
+    "Alignment": "San Magica",
+    "Type": null,
+    "Memo": "智力20\n\n否則沒用"
+  },
+  {
+    "ID": 43,
+    "Name": "",
+    "CName": "逃跑的殉教者",
+    "Important": false,
+    "Alignment": "San Magica",
+    "Type": null,
+    "Memo": "拒絕 -> 戰鬥\n\n聖魔法小幅下降"
+  },
+  {
+    "ID": 44,
+    "Name": "",
+    "CName": "神奇聖水",
+    "Important": false,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "買下後發現是幌子\n\n追蹤後可攻擊"
+  },
+  {
+    "ID": 45,
+    "Name": "",
+    "CName": "(凱倫調查)",
+    "Important": true,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "了結他"
+  },
+  {
+    "ID": 46,
+    "Name": "",
+    "CName": "進入戰場",
+    "Important": false,
+    "Alignment": "Multi",
+    "Type": null,
+    "Memo": ""
+  },
+  {
+    "ID": 47,
+    "Name": "",
+    "CName": "自由騎士",
+    "Important": false,
+    "Alignment": "Multi",
+    "Type": "Battle",
+    "Memo": ""
+  },
+  {
+    "ID": 48,
+    "Name": "",
+    "CName": "可疑騎士",
+    "Important": false,
+    "Alignment": "Imperial",
+    "Type": null,
+    "Memo": "力量28\n敏捷24"
+  },
+  {
+    "ID": 49,
+    "Name": "",
+    "CName": "逃犯",
+    "Important": false,
+    "Alignment": "Imperial",
+    "Type": null,
+    "Memo": "威脅後 戰鬥"
+  },
+  {
+    "ID": 50,
+    "Name": "",
+    "CName": "羅亞領地",
+    "Important": false,
+    "Alignment": "Imperial",
+    "Type": "Store",
+    "Memo": "去訓練場 -> +107exp\n去商店\n稍作休息"
+  },
+  {
+    "ID": 51,
+    "Name": "",
+    "CName": "真正的野馬",
+    "Important": true,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "卡牌升級"
+  },
+  {
+    "ID": 52,
+    "Name": "",
+    "CName": "難民保護",
+    "Important": false,
+    "Alignment": "Multi",
+    "Type": "Battle",
+    "Memo": "幫助 -> 戰鬥"
+  },
+  {
+    "ID": 53,
+    "Name": "",
+    "CName": "戰場上的怪物們",
+    "Important": false,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "躲在森林 ->與怪物戰鬥"
+  },
+  {
+    "ID": 54,
+    "Name": "",
+    "CName": "瘋狂的士兵",
+    "Important": false,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "沒見過 ->戰鬥"
+  },
+  {
+    "ID": 55,
+    "Name": "",
+    "CName": "離開戰場",
+    "Important": false,
+    "Alignment": "Imperial",
+    "Type": null,
+    "Memo": ""
+  },
+  {
+    "ID": 56,
+    "Name": "",
+    "CName": "萊西托村",
+    "Important": true,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "好久不見 卡洛斯(正確)"
+  },
+  {
+    "ID": 57,
+    "Name": "",
+    "CName": "意料之外的見面",
+    "Important": true,
+    "Alignment": null,
+    "Type": null,
+    "Memo": ""
+  },
+  {
+    "ID": 58,
+    "Name": "",
+    "CName": "大屠殺",
+    "Important": true,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "看向凱倫 -> 重選\n不同意加入\n同意加入"
+  },
+  {
+    "ID": 59,
+    "Name": "",
+    "CName": "謎題之屋",
+    "Important": false,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "首先可解決盜賊\n\n答案210"
+  },
+  {
+    "ID": 60,
+    "Name": "",
+    "CName": "安全的遺址",
+    "Important": false,
+    "Alignment": null,
+    "Type": "Battle",
+    "Memo": "32力量 -> 無戰鬥"
+  },
+  {
+    "ID": 61,
+    "Name": "",
+    "CName": "落葉中的遇難者",
+    "Important": false,
+    "Alignment": "ROA",
+    "Type": "None",
+    "Memo": "襲擊 -> 錯誤"
+  },
+  {
+    "ID": 62,
+    "Name": "",
+    "CName": "夜幕下的不速之客",
+    "Important": false,
+    "Alignment": null,
+    "Type": "Battle",
+    "Memo": "警惕 -> 戰鬥 "
+  },
+  {
+    "ID": 63,
+    "Name": "",
+    "CName": "羅亞的補給車",
+    "Important": false,
+    "Alignment": "ROA",
+    "Type": "Battle",
+    "Memo": "掠奪物資->戰鬥(結果不差)"
+  },
+  {
+    "ID": 64,
+    "Name": "",
+    "CName": "甜蜜誘惑",
+    "Important": false,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "品嘗->補血"
+  },
+  {
+    "ID": 65,
+    "Name": "",
+    "CName": "在村子裡休息",
+    "Important": false,
+    "Alignment": null,
+    "Type": "Store",
+    "Memo": "溫泉住宿+22HP"
+  },
+  {
+    "ID": 66,
+    "Name": "",
+    "CName": "前往新世界",
+    "Important": true,
+    "Alignment": null,
+    "Type": null,
+    "Memo": ""
+  },
+  {
+    "ID": 67,
+    "Name": "",
+    "CName": "聖地",
+    "Important": true,
+    "Alignment": null,
+    "Type": null,
+    "Memo": ""
+  },
+  {
+    "ID": 68,
+    "Name": "",
+    "CName": "伊甸園",
+    "Important": true,
+    "Alignment": null,
+    "Type": null,
+    "Memo": ""
+  },
+  {
+    "ID": 69,
+    "Name": "",
+    "CName": "滅火行動",
+    "Important": true,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "似乎有陣營選擇\n\n選擇善良->無事"
+  },
+  {
+    "ID": 71,
+    "Name": "",
+    "CName": "最後的選擇",
+    "Important": true,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "考驗是否要炸掉假掩體"
+  },
+  {
+    "ID": 70,
+    "Name": "",
+    "CName": "所謂的未來",
+    "Important": true,
+    "Alignment": null,
+    "Type": null,
+    "Memo": ""
+  },
+  {
+    "ID": 72,
+    "Name": "",
+    "CName": "日暮途窮",
+    "Important": false,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "游過->難\n砍倒樹林 ->戰鬥"
+  },
+  {
+    "ID": 73,
+    "Name": "",
+    "CName": "廢棄礦洞",
+    "Important": false,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "拿取補給箱 ->經驗 金錢 卡牌\n\n力量16\n敏捷16"
+  },
+  {
+    "ID": 74,
+    "Name": "",
+    "CName": "撲滅害蟲",
+    "Important": false,
+    "Alignment": null,
+    "Type": null,
+    "Memo": ""
+  },
+  {
+    "ID": 75,
+    "Name": "",
+    "CName": "瀕死的戰士",
+    "Important": true,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "智力16\n\n死亡之後會有任務"
+  },
+  {
+    "ID": 76,
+    "Name": "",
+    "CName": "休息",
+    "Important": false,
+    "Alignment": null,
+    "Type": "Store",
+    "Memo": ""
+  },
+  {
+    "ID": 77,
+    "Name": "",
+    "CName": "迷霧中的小屋",
+    "Important": false,
+    "Alignment": null,
+    "Type": "Store",
+    "Memo": "叫醒商人後打開商店"
+  },
+  {
+    "ID": 78,
+    "Name": "",
+    "CName": "螞蟻洞",
+    "Important": true,
+    "Alignment": null,
+    "Type": null,
+    "Memo": "幫助女商人之後獲得大量經驗與螞蟻蛋"
   }
 ]

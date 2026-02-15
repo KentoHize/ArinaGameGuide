@@ -1,26 +1,34 @@
 [
   {
-    "Name": "Base",
+    "Name": "Bunker",
     "Memo": ""
   },
   {
-    "Name": "Empire",
+    "Name": "Machinaze",
     "Memo": ""
   },
   {
-    "Name": "Wizard",
+    "Name": "Imperial",
     "Memo": ""
   },
   {
-    "Name": "Nature",
+    "Name": "San Magica",
     "Memo": ""
   },
   {
-    "Name": "Army",
+    "Name": "Greenpia",
     "Memo": ""
   },
   {
-    "Name": "Merchant",
+    "Name": "ROA",
+    "Memo": ""
+  },
+  {
+    "Name": "Citadel",
+    "Memo": ""
+  },
+  {
+    "Name": "Multi",
     "Memo": ""
   }
 ]

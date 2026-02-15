@@ -2,11 +2,13 @@
   {
     "ID": 1,
     "Name": "長裙",
+    "Rarity": null,
     "Memo": ""
   },
   {
     "ID": 2,
     "Name": "碎石",
+    "Rarity": null,
     "Memo": ""
   }
 ]

@@ -3,30 +3,54 @@
     "ID": 1,
     "Name": "",
     "CName": "深紅之箭",
+    "Alignment": "San Magica",
+    "Rarity": null,
+    "Cost": 0,
     "Memo": ""
   },
   {
     "ID": 2,
     "Name": "",
     "CName": "深紅盾牌",
+    "Alignment": "San Magica",
+    "Rarity": null,
+    "Cost": 0,
     "Memo": ""
   },
   {
     "ID": 3,
     "Name": "",
     "CName": "深紅切割機",
+    "Alignment": "San Magica",
+    "Rarity": null,
+    "Cost": 0,
     "Memo": ""
   },
   {
     "ID": 4,
     "Name": "",
     "CName": "萎縮的果實",
+    "Alignment": "Greenpia",
+    "Rarity": null,
+    "Cost": 0,
     "Memo": ""
   },
   {
     "ID": 5,
     "Name": "",
     "CName": "草藥",
+    "Alignment": "Greenpia",
+    "Rarity": null,
+    "Cost": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 6,
+    "Name": "",
+    "CName": "螞蟻蛋",
+    "Alignment": "Greenpia",
+    "Rarity": null,
+    "Cost": 0,
     "Memo": ""
   }
 ]

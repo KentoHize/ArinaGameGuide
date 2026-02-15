@@ -70,5 +70,23 @@
     "CorrectChoice": null,
     "CorrectChoice2": null,
     "Memo": ""
+  },
+  {
+    "ID": 6,
+    "Event": 56,
+    "PreNode": null,
+    "Name": null,
+    "Choice1": "好久不見！卡洛斯",
+    "Choice1Attritube": null,
+    "Choice1AttritubeQuantity": null,
+    "Choice2": "好久不見！XXX",
+    "Choice2Attritube": null,
+    "Choice2AttritubeQuantity": null,
+    "Choice3": "好久不見！XXX",
+    "Choice3Attritube": null,
+    "Choice3AttritubeQuantity": null,
+    "CorrectChoice": 1,
+    "CorrectChoice2": null,
+    "Memo": ""
   }
 ]
