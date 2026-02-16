@@ -313,8 +313,14 @@
           "Name": "Recommand",
           "IsKey": false,
           "IsNullable": false,
-          "Type": "Boolean",
-          "Choices": [],
+          "Type": "Choice",
+          "Choices": [
+            "Unknown",
+            "Best",
+            "Good",
+            "Not Good",
+            "Bad"
+          ],
           "FKTable": null,
           "FKColumn": null,
           "NumberOfRows": 1,
