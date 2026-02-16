@@ -52,5 +52,230 @@
     "Rarity": null,
     "Cost": 0,
     "Memo": ""
+  },
+  {
+    "ID": 7,
+    "Name": "",
+    "CName": "連擊",
+    "Alignment": "Bunker",
+    "Rarity": "Rare",
+    "Cost": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 8,
+    "Name": "",
+    "CName": "排擠",
+    "Alignment": "Bunker",
+    "Rarity": "Common",
+    "Cost": 3,
+    "Memo": ""
+  },
+  {
+    "ID": 9,
+    "Name": "",
+    "CName": "審判者",
+    "Alignment": "Bunker",
+    "Rarity": "Rare",
+    "Cost": 2,
+    "Memo": ""
+  },
+  {
+    "ID": 10,
+    "Name": "",
+    "CName": "決鬥",
+    "Alignment": "Bunker",
+    "Rarity": "Legendary",
+    "Cost": 2,
+    "Memo": ""
+  },
+  {
+    "ID": 11,
+    "Name": "",
+    "CName": "飽滿感",
+    "Alignment": "Bunker",
+    "Rarity": null,
+    "Cost": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 12,
+    "Name": "",
+    "CName": "痛苦的詛咒",
+    "Alignment": "Greenpia",
+    "Rarity": null,
+    "Cost": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 13,
+    "Name": "",
+    "CName": "螞蟻蛋",
+    "Alignment": "Greenpia",
+    "Rarity": null,
+    "Cost": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 14,
+    "Name": "",
+    "CName": "侍從的協助",
+    "Alignment": "Imperial",
+    "Rarity": null,
+    "Cost": 0,
+    "Memo": "消耗品，丟棄所有手牌。恢復3行動力，抽取等同於丟棄手牌數量的卡牌"
+  },
+  {
+    "ID": 15,
+    "Name": "",
+    "CName": "戰鬥協助",
+    "Alignment": "Greenpia",
+    "Rarity": null,
+    "Cost": 3,
+    "Memo": "消耗品，給敵人造同等於體力能力的傷害，在此次戰鬥中，力量、敏捷、智力提高2"
+  },
+  {
+    "ID": 16,
+    "Name": "",
+    "CName": "輪擺式位移",
+    "Alignment": "Bunker",
+    "Rarity": "Legendary",
+    "Cost": 0,
+    "Memo": "消耗品，隨機生成6張'刺拳' '直拳' '鉤拳'並放入手牌，行動力恢復到最大值，下一輪開始時獲得持續1層的暈眩"
+  },
+  {
+    "ID": 17,
+    "Name": "",
+    "CName": "扭抱",
+    "Alignment": "Bunker",
+    "Rarity": "Common",
+    "Cost": 3,
+    "Memo": ""
+  },
+  {
+    "ID": 18,
+    "Name": "",
+    "CName": "奇怪的肉",
+    "Alignment": "Greenpia",
+    "Rarity": "Common",
+    "Cost": 0,
+    "Memo": "消耗品，隨機獲得buff或者debuff。buff持續5，debuff持續3輪"
+  },
+  {
+    "ID": 19,
+    "Name": "",
+    "CName": "喵嗚",
+    "Alignment": "Bunker",
+    "Rarity": "Legendary",
+    "Cost": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 20,
+    "Name": "",
+    "CName": "喵喵拳",
+    "Alignment": "Bunker",
+    "Rarity": "Legendary",
+    "Cost": 2,
+    "Memo": ""
+  },
+  {
+    "ID": 21,
+    "Name": "",
+    "CName": "準備：包圍",
+    "Alignment": "ROA",
+    "Rarity": "Common",
+    "Cost": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 22,
+    "Name": "",
+    "CName": "開始包圍",
+    "Alignment": "ROA",
+    "Rarity": "Common",
+    "Cost": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 23,
+    "Name": "",
+    "CName": "托特勒的報恩",
+    "Alignment": "Greenpia",
+    "Rarity": "Rare",
+    "Cost": 0,
+    "Memo": "消耗品，恢復2點行動力，抽兩張卡牌"
+  },
+  {
+    "ID": 24,
+    "Name": "",
+    "CName": "生肉",
+    "Alignment": "Bunker",
+    "Rarity": "Common",
+    "Cost": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 25,
+    "Name": "",
+    "CName": "毒罐",
+    "Alignment": "Greenpia",
+    "Rarity": "Common",
+    "Cost": 2,
+    "Memo": ""
+  },
+  {
+    "ID": 26,
+    "Name": "",
+    "CName": "有嚼勁的肉脯",
+    "Alignment": "Bunker",
+    "Rarity": "Common",
+    "Cost": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 27,
+    "Name": "",
+    "CName": "戰鬥糧食",
+    "Alignment": "ROA",
+    "Rarity": "Common",
+    "Cost": 2,
+    "Memo": ""
+  },
+  {
+    "ID": 28,
+    "Name": "",
+    "CName": "扔飼料",
+    "Alignment": "Greenpia",
+    "Rarity": "Common",
+    "Cost": 2,
+    "Memo": ""
+  },
+  {
+    "ID": 29,
+    "Name": "",
+    "CName": "戈登的料理",
+    "Alignment": "Imperial",
+    "Rarity": "Legendary",
+    "Cost": 3,
+    "Memo": "一次性，恢復7HP，獲得12防禦值，獲得持續2輪的硬化"
+  },
+  {
+    "ID": 30,
+    "Name": "",
+    "CName": "來吧！",
+    "Alignment": "ROA",
+    "Rarity": "Common",
+    "Cost": 0,
+    "Memo": "在手牌中，丟棄2張牌(隨機)，抽取2張牌"
+  },
+  {
+    "ID": 31,
+    "Name": "",
+    "CName": "拿來吧你！",
+    "Alignment": "ROA",
+    "Rarity": "Common",
+    "Cost": 0,
+    "Memo": "給敵人造成2點傷害。此卡牌有50%機率回到手牌中。"
   }
 ]
