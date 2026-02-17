@@ -42,5 +42,9 @@
   {
     "Name": "Multi(San-ROA)",
     "Memo": ""
+  },
+  {
+    "Name": "Merchant",
+    "Memo": ""
   }
 ]

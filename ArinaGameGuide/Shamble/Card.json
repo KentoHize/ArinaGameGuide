@@ -277,5 +277,68 @@
     "Rarity": "Common",
     "Cost": 0,
     "Memo": "給敵人造成2點傷害。此卡牌有50%機率回到手牌中。"
+  },
+  {
+    "ID": 32,
+    "Name": "",
+    "CName": "草藥",
+    "Alignment": "Greenpia",
+    "Rarity": "Common",
+    "Cost": 2,
+    "Memo": ""
+  },
+  {
+    "ID": 33,
+    "Name": "",
+    "CName": "魔力盾",
+    "Alignment": null,
+    "Rarity": null,
+    "Cost": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 34,
+    "Name": "",
+    "CName": "生存反擊之道",
+    "Alignment": "ROA",
+    "Rarity": "Rare",
+    "Cost": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 35,
+    "Name": "",
+    "CName": "生存防禦之道",
+    "Alignment": "ROA",
+    "Rarity": "Rare",
+    "Cost": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 36,
+    "Name": "",
+    "CName": "汲取魔力",
+    "Alignment": "San Magica",
+    "Rarity": "Rare",
+    "Cost": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 37,
+    "Name": "",
+    "CName": "天賦",
+    "Alignment": "San Magica",
+    "Rarity": "Rare",
+    "Cost": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 38,
+    "Name": "",
+    "CName": "魔力風暴",
+    "Alignment": "San Magica",
+    "Rarity": "Rare",
+    "Cost": 2,
+    "Memo": ""
   }
 ]
