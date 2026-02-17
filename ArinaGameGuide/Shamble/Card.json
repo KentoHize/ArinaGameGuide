@@ -340,5 +340,23 @@
     "Rarity": "Rare",
     "Cost": 2,
     "Memo": ""
+  },
+  {
+    "ID": 39,
+    "Name": "",
+    "CName": "生存恢復之道",
+    "Alignment": "ROA",
+    "Rarity": "Rare",
+    "Cost": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 40,
+    "Name": "",
+    "CName": "強力吸血",
+    "Alignment": "Greenpia",
+    "Rarity": "Legendary",
+    "Cost": 4,
+    "Memo": "消耗品，賦予敵人持續3輪的出血。造成12傷害，並恢復等同於給出傷害一半的HP"
   }
 ]

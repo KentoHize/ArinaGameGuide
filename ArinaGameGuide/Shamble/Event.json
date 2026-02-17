@@ -187,8 +187,8 @@
     "Alignment": null,
     "Type": null,
     "Important": true,
-    "OnlyChoice": false,
-    "Recommand": "Unknown",
+    "OnlyChoice": true,
+    "Recommand": "Best",
     "Memo": "17 exp\n盲目的突進\n二重爪擊\n\n卡牌\n同伴"
   },
   {
@@ -201,7 +201,7 @@
     "Important": true,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "觀察後戰鬥\n 黃蜂\n\n品嘗\n"
+    "Memo": "嘗上一口 -> 被樹抓住\n力量18扯斷樹枝\n力量15扯斷樹枝\n掙扎 -3HP\n3次後掙脫 -> 結束\n\n觀察後戰鬥\n 黃蜂\n\n品嘗\n"
   },
   {
     "ID": 18,
@@ -405,7 +405,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Not Good",
-    "Memo": "不會讀 -> 25exp\n歷史書 -> 思想品德書 18exp\n科學知識 -> 思想品德書 7exp\n社會知識 -> 思想品德書 13exp"
+    "Memo": "不會讀 -> 25exp\n其他怎麼選都是思想品德書\n神話書 ->\n歷史書 -> 思想品德書 18exp\n科學知識 -> 思想品德書 7exp\n社會知識 -> 思想品德書 13exp"
   },
   {
     "ID": 35,
@@ -1569,7 +1569,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "力量22\n力量16\n\n只有93金幣，不建議"
+    "Memo": "輕輕舉起 -> 8exp 失敗\n\n力量22\n力量16\n\n只有93金幣，不建議"
   },
   {
     "ID": 132,
@@ -2179,9 +2179,9 @@
     "Alignment": null,
     "Type": null,
     "Important": true,
-    "OnlyChoice": false,
+    "OnlyChoice": true,
     "Recommand": "Unknown",
-    "Memo": "7exp 夥伴離開"
+    "Memo": "不追時發生\n7exp 夥伴離開"
   },
   {
     "ID": 183,
@@ -2709,6 +2709,126 @@
     "Important": true,
     "OnlyChoice": true,
     "Recommand": "Best",
+    "Memo": "必須阻止巴爾約納 ->\n堂堂正正地面對 -> -5HP\n力量20\n敏捷20\n-> 戰鬥(強)\n\n不相信希爾德\n相信希爾德 ->\n戰鬥(強)\n"
+  },
+  {
+    "ID": 227,
+    "Name": "",
+    "CName": "足跡",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": true,
+    "OnlyChoice": false,
+    "Recommand": "Best",
+    "Memo": "追尋 -> 戰鬥"
+  },
+  {
+    "ID": 228,
+    "Name": "",
+    "CName": "草藥學",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": true,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "第一個 -> X"
+  },
+  {
+    "ID": 229,
+    "Name": "",
+    "CName": "落葉堆中的遇難者",
+    "RelatedEvent": null,
+    "Alignment": "ROA",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "10金幣 或是食物卡牌需要"
+  },
+  {
+    "ID": 230,
+    "Name": "",
+    "CName": "綠野部落的營地",
+    "RelatedEvent": null,
+    "Alignment": "Greenpia",
+    "Type": "Battle",
+    "Important": false,
+    "OnlyChoice": true,
+    "Recommand": "Unknown",
+    "Memo": "逃跑 -> 結束"
+  },
+  {
+    "ID": 231,
+    "Name": "",
+    "CName": "泥沼",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": true,
+    "Recommand": "Unknown",
+    "Memo": "穩住身形 -> X\n減輕負重 -> 向後躺去 -> O 生存恢復之道"
+  },
+  {
+    "ID": 232,
+    "Name": "",
+    "CName": "歡迎光臨林中洞窟",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": true,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
     "Memo": ""
+  },
+  {
+    "ID": 233,
+    "Name": "",
+    "CName": "巧克力與香草",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "上前搭救\n\n-> 一路不理得到+13 exp"
+  },
+  {
+    "ID": 234,
+    "Name": "",
+    "CName": "目擊者",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Good",
+    "Memo": "攔下他 -> 戰鬥"
+  },
+  {
+    "ID": 235,
+    "Name": "",
+    "CName": "害蟲們",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Best",
+    "Memo": "觀察周圍 -> 故意反著來 ->戰鬥\n與其搏鬥 -> 戰鬥\n與其搏鬥 -> 戰鬥\n\n獎勵豐富"
+  },
+  {
+    "ID": 236,
+    "Name": "",
+    "CName": "哥布林巢穴",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": true,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "委託 -> 戰鬥\n送遊俠卡"
   }
 ]
