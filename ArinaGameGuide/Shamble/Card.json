@@ -358,5 +358,41 @@
     "Rarity": "Legendary",
     "Cost": 4,
     "Memo": "消耗品，賦予敵人持續3輪的出血。造成12傷害，並恢復等同於給出傷害一半的HP"
+  },
+  {
+    "ID": 41,
+    "Name": "",
+    "CName": "頭腦風暴",
+    "Alignment": "San Magica",
+    "Rarity": "Common",
+    "Cost": 1,
+    "Memo": ""
+  },
+  {
+    "ID": 42,
+    "Name": "",
+    "CName": "慈悲",
+    "Alignment": "Imperial",
+    "Rarity": "Rare",
+    "Cost": 3,
+    "Memo": "賦予所有敵人2輪停止"
+  },
+  {
+    "ID": 43,
+    "Name": "",
+    "CName": "應急儲備糧",
+    "Alignment": "Bunker",
+    "Rarity": "Common",
+    "Cost": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 44,
+    "Name": "",
+    "CName": "甜蜜的果實",
+    "Alignment": "Greenpia",
+    "Rarity": "Common",
+    "Cost": 0,
+    "Memo": "隨機去除自身的一個debuff"
   }
 ]

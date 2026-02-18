@@ -45,7 +45,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "假藥\n\n喝 -> 4exp -30 gold -5 HP"
+    "Memo": "無視 -> 結束\n購買\n(假藥)\n\n喝 -> 4exp -30 gold -5 HP"
   },
   {
     "ID": 5,
@@ -153,7 +153,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "賭上一把"
+    "Memo": "賭上一把 -> 開鎖 ->未遇到戰鬥"
   },
   {
     "ID": 14,
@@ -260,8 +260,8 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "\n要求誣陷某商人\n選擇我退出沒有事\n\n選擇好之後告發->19exp 187 gold"
+    "Recommand": "Good",
+    "Memo": "\n要求誣陷某商人\n選擇我退出沒有事\n\n選擇好之後告發->19exp 187 gold\n\n放入寶石 -> 錢換成2張卡片\n\n告發比較好"
   },
   {
     "ID": 23,
@@ -381,7 +381,7 @@
     "Important": true,
     "OnlyChoice": false,
     "Recommand": "Good",
-    "Memo": "置之不理\n心生歹念 ->戰鬥後結束\n33 exp 194 gold 3張聖魔法卡牌 1物品(結果不錯)\n上前搭話 -> 戰鬥\n發出怪聲嚇唬人 -> 兩張卡片\n+26 exp"
+    "Memo": "置之不理\n心生歹念 ->戰鬥後結束\n33 exp 194 gold 3張聖魔法卡牌 1物品(結果不錯)\n上前搭話 -> 戰鬥(弱)\n什麼話也不說/發出怪聲嚇唬人 -> 兩張卡片\n+26 exp"
   },
   {
     "ID": 33,
@@ -453,7 +453,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "假需要幫忙 -> 戰鬥\n幫忙會-12 HP\n\n得到許多戰利品"
+    "Memo": "假需要幫忙\n\n報酬 ->\n上前幫忙 -> -12 HP\n\n你們是什麼人?/聚精會神反擊 -> 戰鬥\n\n得到許多戰利品"
   },
   {
     "ID": 39,
@@ -488,8 +488,8 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "有觸角 4條\n觸角知道"
+    "Recommand": "Good",
+    "Memo": "有觸角 4條\n觸角\n\n送比較多錢"
   },
   {
     "ID": 42,
@@ -501,7 +501,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "智力20\n\n否則沒用"
+    "Memo": "智力20觀察他們\n否則沒用\n\n右邊的人是騎士 -> 正確"
   },
   {
     "ID": 43,
@@ -525,7 +525,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Best",
-    "Memo": "完全是騙子吧 -> O\n攻擊他們 -> O\n買下後發現是幌子\n\n\n追蹤後可攻擊"
+    "Memo": "買下 -> 幌子\n\n\n完全是騙子吧 -> 追蹤消失的男人\n\n繼續聽/攻擊他們 -> 戰鬥"
   },
   {
     "ID": 45,
@@ -753,7 +753,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "掠奪物資->戰鬥(結果不差)"
+    "Memo": "掠奪物資->戰鬥(結果不差)\n施以援手 -> 補給車\n不想這樣做 -> 告發她 ->些許獎勵"
   },
   {
     "ID": 64,
@@ -896,8 +896,8 @@
     "Type": null,
     "Important": true,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "智力16\n\n其他兩選項->戰鬥\n\n死亡之後會有任務\n\n小姐是 -> 可能多拿一張卡牌\n競技場線"
+    "Recommand": "Good",
+    "Memo": "智力16讓我解釋一下\n一邊解釋一邊靠近\n\n\n其他兩選項->戰鬥\n\n死亡之後會有任務\n\n小姐是 -> 可能多拿一張卡牌\n競技場線\n\n去死吧 -> 任務結束(有獎勵)"
   },
   {
     "ID": 76,
@@ -1077,7 +1077,7 @@
     "Important": true,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "智力18 後可以拔腿逃跑\n\n與之搏鬥(似乎強) -> 無獎勵(?)"
+    "Memo": "智力18 後可以拔腿逃跑 -> 結束\n\n與之搏鬥(似乎強) -> 無獎勵(?)"
   },
   {
     "ID": 91,
@@ -1089,7 +1089,7 @@
     "Important": true,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "商店後\n\n可詢問買蟻卵 -> \n戰鬥"
+    "Memo": "商店後\n\n賣掉一個道具 -> 出售1張Deck內的卡牌\n然後再詢問買蟻卵 -> \n戰鬥\n\n"
   },
   {
     "ID": 92,
@@ -1353,7 +1353,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Good",
-    "Memo": "智力20 復原標誌牌\n走右邊/走左邊 -> 哥布林 ->\n吐口水或是不給 -> 戰鬥"
+    "Memo": "智力20 復原標誌牌 -> 增加選項找其他的路(避開戰鬥 不好)\n\n走右邊/走左邊 -> 哥布林 ->\n吐口水或是不給 -> 戰鬥"
   },
   {
     "ID": 114,
@@ -1400,8 +1400,8 @@
     "Type": "Store",
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "沒有其他需求 -> +8HP"
+    "Recommand": "Good",
+    "Memo": "不是外地人\n我是外地人 ->\n想買裝備 -> 給錢20 ->\n 6樣戰士裝備\n\n沒有其他需求 -> +8HP"
   },
   {
     "ID": 118,
@@ -1545,7 +1545,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Best",
-    "Memo": "智力需要12\n\n同行後獲得報恩卡"
+    "Memo": "智力需要12\n給它\n\n同行後獲得報恩卡"
   },
   {
     "ID": 130,
@@ -1592,8 +1592,8 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "幫助商人 -> 戰鬥\n名聲下降但是不錯賺"
+    "Recommand": "Good",
+    "Memo": "直接離開 -> 結束\n幫助商人 -> 戰鬥\n名聲下降但是不錯賺"
   },
   {
     "ID": 134,
@@ -1617,7 +1617,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Best",
-    "Memo": "打架->戰鬥(強)"
+    "Memo": "和他們打架->戰鬥(強)\n\n乖乖坐下 -> 得到一些深紅卡片"
   },
   {
     "ID": 136,
@@ -1641,7 +1641,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "賣裝備和San Magica卡"
+    "Memo": "賣魔法裝備和San Magica卡"
   },
   {
     "ID": 138,
@@ -1735,7 +1735,7 @@
     "Alignment": "ROA",
     "Type": null,
     "Important": false,
-    "OnlyChoice": false,
+    "OnlyChoice": true,
     "Recommand": "Unknown",
     "Memo": ""
   },
@@ -1795,9 +1795,9 @@
     "Alignment": null,
     "Type": "Battle",
     "Important": true,
-    "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "講話後 -> 戰鬥"
+    "OnlyChoice": true,
+    "Recommand": "Good",
+    "Memo": "講話後 -> 戰鬥(強)"
   },
   {
     "ID": 151,
@@ -1940,8 +1940,8 @@
     "Type": "Battle",
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "敏捷26 才能追趕\n說謊 ->\n別胡說八道 -> 戰鬥\n反面 -> 戰鬥\n\n老實作答 -> 結束\n"
+    "Recommand": "Good",
+    "Memo": "敏捷26 追趕 -> 和老人戰鬥\n->\n歸還 -> 少量獎勵\n不歸還\n\n放任不管 -> 說謊 ->\n別胡說八道 -> 戰鬥\n反面 -> 戰鬥\n\n老實作答 -> 結束\n"
   },
   {
     "ID": 163,
@@ -1976,8 +1976,8 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "80金幣 -> 13exp +20 hp"
+    "Recommand": "Not Good",
+    "Memo": "前往 ->\n沒有更好的嗎？\n使用豪華療法(250金幣) -> 類似補滿?\n使用普通療法(80金幣)\n\n付80金幣 -> 13exp +20 hp"
   },
   {
     "ID": 166,
@@ -1989,7 +1989,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "幫助他 -> 戰鬥\n尚可"
+    "Memo": "幫助他 -> \n敏捷20拋棄他逃跑 -> 結束\n和他們戰鬥 -> 戰鬥\n單就獎勵尚可"
   },
   {
     "ID": 167,
@@ -2049,7 +2049,7 @@
     "Important": true,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "開始戰鬥 -> 戰鬥(似乎錯誤)"
+    "Memo": "閉門不出 -> 結束(似乎錯誤)\n開始戰鬥 -> 戰鬥(似乎錯誤)"
   },
   {
     "ID": 172,
@@ -2121,7 +2121,7 @@
     "Important": true,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "沒聽說過 -> 結束\n開玩笑吧！->結束"
+    "Memo": "沒聽說過 -> 結束\n諷刺譏笑 -> 結束\n開玩笑吧！->結束\n\n(謎)"
   },
   {
     "ID": 178,
@@ -2181,7 +2181,7 @@
     "Important": true,
     "OnlyChoice": true,
     "Recommand": "Unknown",
-    "Memo": "不追時發生\n7exp 夥伴離開"
+    "Memo": "不追時發生，有必要不停止主線\n7exp 夥伴離開"
   },
   {
     "ID": 183,
@@ -2217,7 +2217,7 @@
     "Important": true,
     "OnlyChoice": false,
     "Recommand": "Best",
-    "Memo": "\n扭頭就走->結束\n隨他進去 -> 突然發難 ->戰鬥(結果可)"
+    "Memo": "扭頭就走->結束\n上下打量-> 重選\n隨他進去 -> 突然發難 ->戰鬥(中，結果可)\n\n提出疑問 -> 沒事\n茶 -> (X)"
   },
   {
     "ID": 186,
@@ -2228,7 +2228,7 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
+    "Recommand": "Good",
     "Memo": "幫忙制服\n\n處理那些傢伙 -> 戰鬥"
   },
   {
@@ -2324,8 +2324,8 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "有10張San Magica卡片會有額外選項\n\n不是 -> \n忍住(體力14以上)\n教訓他 -> 戰鬥(好像不對)"
+    "Recommand": "Not Good",
+    "Memo": "牌組中有10張San Magica卡片會有額外選項\n\n不是 -> \n隨便選?\n->\n忍住(體力14以上) -> 25exp 1張卡\n教訓他 -> 戰鬥(好像不對)"
   },
   {
     "ID": 195,
@@ -2445,7 +2445,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "需要20金幣\n開門->戰鬥(強)"
+    "Memo": "需要20金幣\n開門->戰鬥(強)\n已經在打掃了-> 檢查櫃台\n-> 不錯獎勵"
   },
   {
     "ID": 205,
@@ -2456,8 +2456,8 @@
     "Type": null,
     "Important": true,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "目送螞蟻離開 -> 結束"
+    "Recommand": "Best",
+    "Memo": "目送螞蟻離開 -> 結束\n殺掉螞蟻 -> 戰鬥\n甜蜜的果實"
   },
   {
     "ID": 206,
@@ -2498,7 +2498,7 @@
   {
     "ID": 209,
     "Name": "",
-    "CName": "(沙漠求生)",
+    "CName": "生存專家-沙漠",
     "RelatedEvent": null,
     "Alignment": null,
     "Type": null,
@@ -2513,10 +2513,10 @@
     "CName": "被襲擊的村莊",
     "RelatedEvent": 32,
     "Alignment": "San Magica",
-    "Type": null,
+    "Type": "Battle",
     "Important": true,
-    "OnlyChoice": false,
-    "Recommand": "Unknown",
+    "OnlyChoice": true,
+    "Recommand": "Best",
     "Memo": ""
   },
   {
@@ -2529,7 +2529,7 @@
     "Important": true,
     "OnlyChoice": true,
     "Recommand": "Best",
-    "Memo": ""
+    "Memo": "除了退堂鼓以外\n目前沒看出選項的差別"
   },
   {
     "ID": 212,
@@ -2541,7 +2541,7 @@
     "Important": true,
     "OnlyChoice": true,
     "Recommand": "Best",
-    "Memo": ""
+    "Memo": "還是先等一下吧/\n沒時間了，立刻進攻！\n\n->\n二連戰\n\n犧牲品？->沒特別"
   },
   {
     "ID": 213,
@@ -2553,7 +2553,7 @@
     "Important": true,
     "OnlyChoice": true,
     "Recommand": "Best",
-    "Memo": "先選好感高\n後面可以測試"
+    "Memo": "先選好感高\n\n目前沒看出太大差別"
   },
   {
     "ID": 214,
@@ -2577,19 +2577,19 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "沒有 -> 結束"
+    "Memo": "沒有 -> 結束\n有 ->\n他們只是普通人\n25\n得到甜蜜的果實"
   },
   {
     "ID": 216,
     "Name": "",
     "CName": "洗衣機",
     "RelatedEvent": null,
-    "Alignment": null,
+    "Alignment": "San Magica",
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "智力20 警告周圍有危險 -> 31exp(好像錯誤)"
+    "Recommand": "Good",
+    "Memo": "智力20 警告周圍有危險 -> 31exp(好像錯誤)\n救他->攻擊商人 -> 二連戰鬥 -> 獎勵不錯"
   },
   {
     "ID": 217,
@@ -2613,7 +2613,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Good",
-    "Memo": "(選項) -> 戰鬥\n獎品應該是不錯(未知)"
+    "Memo": "退後\n(選項) -> 戰鬥 -> 3張綠卡等\n"
   },
   {
     "ID": 219,
@@ -2621,11 +2621,11 @@
     "CName": "又見露西",
     "RelatedEvent": null,
     "Alignment": "San Magica",
-    "Type": null,
+    "Type": "Battle",
     "Important": true,
     "OnlyChoice": true,
     "Recommand": "Best",
-    "Memo": "緩緩投降\n22敏捷 快速轉身壓住\n\n繼續戰鬥！-> 戰鬥\n露西！撤退！ -> 戰鬥"
+    "Memo": "緩緩投降\n22敏捷 快速轉身壓住\n\n繼續戰鬥！/\n露西！撤退！ -> 戰鬥\n\n獎勵多"
   },
   {
     "ID": 220,
@@ -2637,7 +2637,7 @@
     "Important": true,
     "OnlyChoice": true,
     "Recommand": "Best",
-    "Memo": "勸阻露西"
+    "Memo": "首先勸阻露西"
   },
   {
     "ID": 221,
@@ -2649,7 +2649,7 @@
     "Important": true,
     "OnlyChoice": true,
     "Recommand": "Best",
-    "Memo": ""
+    "Memo": "獎勵好"
   },
   {
     "ID": 222,
@@ -2666,14 +2666,14 @@
   {
     "ID": 223,
     "Name": "",
-    "CName": "()",
+    "CName": "對殉教者",
     "RelatedEvent": null,
     "Alignment": "San Magica",
     "Type": null,
     "Important": true,
-    "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "用拳頭解決\n智力20 已經得到許可"
+    "OnlyChoice": true,
+    "Recommand": "Best",
+    "Memo": "扔掉行李 ->?\n\n吃料理 -> +10HP\n\n用拳頭解決\n智力20 已經得到許可 -> 結束"
   },
   {
     "ID": 224,
@@ -2691,13 +2691,13 @@
     "ID": 225,
     "Name": "",
     "CName": "令人不適的真相",
-    "RelatedEvent": null,
+    "RelatedEvent": 32,
     "Alignment": "San Magica",
     "Type": null,
     "Important": true,
     "OnlyChoice": true,
     "Recommand": "Best",
-    "Memo": "\n經驗不明"
+    "Memo": "隨便選 -> 戰鬥\n無獎勵"
   },
   {
     "ID": 226,
@@ -2709,7 +2709,7 @@
     "Important": true,
     "OnlyChoice": true,
     "Recommand": "Best",
-    "Memo": "必須阻止巴爾約納 ->\n堂堂正正地面對 -> -5HP\n力量20\n敏捷20\n-> 戰鬥(強)\n\n不相信希爾德\n相信希爾德 ->\n戰鬥(強)\n"
+    "Memo": "必須阻止巴爾約納 ->\n堂堂正正地面對 -> -5HP\n力量20\n敏捷20\n-> 戰鬥(強) 42x2連砍\n\n不相信希爾德\n相信希爾德 ->\n戰鬥(強) 小心最後的傷轉攻buff\n\n\n救了他->\n\n獎勵不明"
   },
   {
     "ID": 227,
@@ -2830,5 +2830,245 @@
     "OnlyChoice": false,
     "Recommand": "Unknown",
     "Memo": "委託 -> 戰鬥\n送遊俠卡"
+  },
+  {
+    "ID": 237,
+    "Name": "",
+    "CName": "秘密房間",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Good",
+    "Memo": "砸開門25力量\n拋開門"
+  },
+  {
+    "ID": 238,
+    "Name": "",
+    "CName": "艱辛的布道",
+    "RelatedEvent": null,
+    "Alignment": "San Magica",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "智力20傳教不是那樣做的 \n懶得管，打倒他 -> 戰鬥(弱)"
+  },
+  {
+    "ID": 239,
+    "Name": "",
+    "CName": "想成為魔法師",
+    "RelatedEvent": null,
+    "Alignment": "San Magica",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "只是靜靜觀察 -> 結束"
+  },
+  {
+    "ID": 240,
+    "Name": "",
+    "CName": "沙漠中的海市蜃樓",
+    "RelatedEvent": 177,
+    "Alignment": null,
+    "Type": "Battle",
+    "Important": true,
+    "OnlyChoice": false,
+    "Recommand": "Best",
+    "Memo": "繼續前進\n隨聲而去 -> -8HP 受傷\n\n放棄抵抗(100金幣以上)\n戰鬥到底 -> 戰鬥(中)"
+  },
+  {
+    "ID": 241,
+    "Name": "",
+    "CName": "奇怪的果子",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "做熟再吃 -> 13exp\n一口咬下"
+  },
+  {
+    "ID": 242,
+    "Name": "",
+    "CName": "沙漠中的商隊",
+    "RelatedEvent": null,
+    "Alignment": "Machinaze",
+    "Type": "Store",
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Not Good",
+    "Memo": "普通裝備和一些卡片"
+  },
+  {
+    "ID": 243,
+    "Name": "",
+    "CName": "(最後選擇)",
+    "RelatedEvent": 32,
+    "Alignment": "San Magica",
+    "Type": null,
+    "Important": true,
+    "OnlyChoice": true,
+    "Recommand": "Unknown",
+    "Memo": "和我一起離開嗎？\n改變聖魔法學會吧！"
+  },
+  {
+    "ID": 244,
+    "Name": "",
+    "CName": "信號",
+    "RelatedEvent": null,
+    "Alignment": "San Magica",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Good",
+    "Memo": "跟著他做/把手指放進圈圈\n->\n指手畫腳什麼 -> 戰鬥 ->中獎勵\n\n保持不動 -> 保持不動 -> 錯誤\n\n道歉 -> 13exp (錯誤)"
+  },
+  {
+    "ID": 245,
+    "Name": "",
+    "CName": "土匪",
+    "RelatedEvent": null,
+    "Alignment": "San Magica",
+    "Type": "Battle",
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Best",
+    "Memo": "保護商人 -> 戰鬥\n幫助盜匪\n\n留下你的份額後離開"
+  },
+  {
+    "ID": 246,
+    "Name": "",
+    "CName": "險橋",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": true,
+    "Recommand": "Best",
+    "Memo": "智力20製作木筏 -> 小獎勵\n敏捷14一躍而過(失敗)"
+  },
+  {
+    "ID": 247,
+    "Name": "",
+    "CName": "紐藍迪亞商店",
+    "RelatedEvent": null,
+    "Alignment": "ROA",
+    "Type": "Store",
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "四處逛逛 -> 結束"
+  },
+  {
+    "ID": 248,
+    "Name": "",
+    "CName": "淪陷的村莊",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": "Battle",
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "處理盜賊 -> 戰鬥\n\n要求給予食物\n要求一處休息的地方 -> +15 HP"
+  },
+  {
+    "ID": 249,
+    "Name": "",
+    "CName": "規則與協議",
+    "RelatedEvent": null,
+    "Alignment": "ROA",
+    "Type": "Battle",
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Best",
+    "Memo": "軍人們說得對\n商隊的人說得對 -> 得到少許經驗\n\n什麼-> 拒絕 -> 戰鬥開始！\n\n獎勵豐富"
+  },
+  {
+    "ID": 250,
+    "Name": "",
+    "CName": "探險之旅的盡頭",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": true,
+    "Recommand": "Unknown",
+    "Memo": "結束事件"
+  },
+  {
+    "ID": 251,
+    "Name": "",
+    "CName": "妨礙就寢",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "檢查入口x2 -> 教訓他 ->  戰鬥\n\n智力20了解情況 -> 稍稍躲藏(避開下一次戰鬥) -> 些許獎勵"
+  },
+  {
+    "ID": 252,
+    "Name": "",
+    "CName": "可疑的石塊",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "智力14觀察石塊 -> +6exp\n\n抬起他 -> 開始戰鬥\n\n->觀察大洞"
+  },
+  {
+    "ID": 253,
+    "Name": "",
+    "CName": "遺址居民",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "進入 -> 看商品\n主要賣雜貨"
+  },
+  {
+    "ID": 254,
+    "Name": "",
+    "CName": "見習騎士的自尊心",
+    "RelatedEvent": null,
+    "Alignment": "Imperial",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Good",
+    "Memo": "開始決鬥 -> 戰鬥\n拒絕決鬥\n\n承認自己弱 -> 獎勵\n戰利品"
+  },
+  {
+    "ID": 255,
+    "Name": "",
+    "CName": "扒手",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": true,
+    "Recommand": "Unknown",
+    "Memo": "智力14追蹤男孩\n敏捷14抓住男孩\n放棄\n\n這就算了? -> 不可以 -> 獎勵\n-> 放走男孩 -> 慈悲"
+  },
+  {
+    "ID": 256,
+    "Name": "",
+    "CName": "哥布林的魔術",
+    "RelatedEvent": null,
+    "Alignment": "San Magica",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "直接經過 -> 結束"
   }
 ]

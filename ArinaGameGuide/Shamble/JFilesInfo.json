@@ -784,6 +784,25 @@
           "DefaultValue": ""
         },
         {
+          "Name": "Choice",
+          "IsKey": false,
+          "IsNullable": true,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": ""
+        },
+        {
           "Name": "HP",
           "IsKey": false,
           "IsNullable": true,
