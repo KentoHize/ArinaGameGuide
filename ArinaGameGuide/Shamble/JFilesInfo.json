@@ -43,6 +43,25 @@
           "AutoGenerateKey": false,
           "IsUnique": false,
           "DefaultValue": ""
+        },
+        {
+          "Name": "CName",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": null,
+          "Description": null,
+          "MinValue": null,
+          "MaxValue": null,
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": null
         }
       ],
       "InsertFirst": false
@@ -262,14 +281,14 @@
           "FKColumn": null,
           "NumberOfRows": 1,
           "Display": true,
-          "RegularExpression": null,
-          "Description": null,
-          "MinValue": null,
-          "MaxValue": null,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
           "MaxLength": 0,
           "AutoGenerateKey": false,
           "IsUnique": false,
-          "DefaultValue": null
+          "DefaultValue": ""
         },
         {
           "Name": "RelatedEvent",

@@ -94,7 +94,7 @@
     "Name": "",
     "CName": "飽滿感",
     "Alignment": "Bunker",
-    "Rarity": null,
+    "Rarity": "Common",
     "Cost": 0,
     "Memo": ""
   },
@@ -394,5 +394,32 @@
     "Rarity": "Common",
     "Cost": 0,
     "Memo": "隨機去除自身的一個debuff"
+  },
+  {
+    "ID": 45,
+    "Name": "",
+    "CName": "開始追擊",
+    "Alignment": "ROA",
+    "Rarity": "Common",
+    "Cost": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 46,
+    "Name": "",
+    "CName": "準備：包圍",
+    "Alignment": "ROA",
+    "Rarity": "Common",
+    "Cost": 0,
+    "Memo": ""
+  },
+  {
+    "ID": 47,
+    "Name": "",
+    "CName": "自適應砲塔",
+    "Alignment": "Machinaze",
+    "Rarity": null,
+    "Cost": 3,
+    "Memo": "保存，造成3傷害。每當敵人獲得buff時，傷害值就增加2。(最多增加10次)"
   }
 ]

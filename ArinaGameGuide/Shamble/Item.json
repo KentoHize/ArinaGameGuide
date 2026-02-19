@@ -16,5 +16,23 @@
     "Name": "粗糙的槍",
     "Rarity": null,
     "Memo": ""
+  },
+  {
+    "ID": 4,
+    "Name": "獵人戒指",
+    "Rarity": null,
+    "Memo": ""
+  },
+  {
+    "ID": 5,
+    "Name": "長袍",
+    "Rarity": null,
+    "Memo": ""
+  },
+  {
+    "ID": 6,
+    "Name": "工作服",
+    "Rarity": null,
+    "Memo": ""
   }
 ]

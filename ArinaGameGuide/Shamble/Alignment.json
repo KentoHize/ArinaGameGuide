@@ -1,50 +1,67 @@
 [
   {
     "Name": "Bunker",
-    "Memo": ""
+    "Memo": "",
+    "CName": ""
   },
   {
     "Name": "Machinaze",
-    "Memo": ""
+    "Memo": "",
+    "CName": ""
   },
   {
     "Name": "Imperial",
-    "Memo": ""
+    "Memo": "",
+    "CName": ""
   },
   {
     "Name": "San Magica",
-    "Memo": ""
+    "Memo": "",
+    "CName": ""
   },
   {
     "Name": "Greenpia",
-    "Memo": ""
+    "Memo": "",
+    "CName": ""
   },
   {
     "Name": "ROA",
-    "Memo": ""
+    "Memo": "",
+    "CName": ""
   },
   {
     "Name": "Citadel",
-    "Memo": ""
+    "Memo": "",
+    "CName": ""
   },
   {
     "Name": "Multi",
-    "Memo": ""
+    "Memo": "",
+    "CName": ""
   },
   {
     "Name": "Boxer",
-    "Memo": ""
+    "Memo": "",
+    "CName": ""
   },
   {
     "Name": "Hunter",
-    "Memo": ""
+    "Memo": "",
+    "CName": ""
   },
   {
     "Name": "Multi(San-ROA)",
-    "Memo": ""
+    "Memo": "",
+    "CName": ""
   },
   {
     "Name": "Merchant",
-    "Memo": ""
+    "Memo": "",
+    "CName": ""
+  },
+  {
+    "Name": "Martyr Supply",
+    "Memo": "",
+    "CName": ""
   }
 ]
