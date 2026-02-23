@@ -421,5 +421,32 @@
     "Rarity": null,
     "Cost": 3,
     "Memo": "保存，造成3傷害。每當敵人獲得buff時，傷害值就增加2。(最多增加10次)"
+  },
+  {
+    "ID": 48,
+    "Name": "",
+    "CName": "納米盾",
+    "Alignment": "Citadel",
+    "Rarity": "Rare",
+    "Cost": 1,
+    "Memo": "獲得8防禦，去除所擁有的全部壓制與拿獲"
+  },
+  {
+    "ID": 49,
+    "Name": "",
+    "CName": "能量轉換器",
+    "Alignment": "Citadel",
+    "Rarity": "Rare",
+    "Cost": 2,
+    "Memo": "獲得12防禦，獲得2傷害轉換。如果手牌中有弱化裝置，則全部除去。"
+  },
+  {
+    "ID": 50,
+    "Name": "",
+    "CName": "護具",
+    "Alignment": "Citadel",
+    "Rarity": "Rare",
+    "Cost": 3,
+    "Memo": "消耗品，在此次戰鬥中，使體能能力增加10，獲得2無敵"
   }
 ]

@@ -848,7 +848,7 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
+    "Recommand": "Not Good",
     "Memo": ""
   },
   {
@@ -969,7 +969,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "按她說的做->X"
+    "Memo": "按她說的做->X\n這是什麼意思 -> 我幫您取回包袱吧 -> 沒關係\n\n力量14猛踏地面\n智力14觸碰蜘蛛網\n去拿包袱 -> 戰鬥 -> 獎勵"
   },
   {
     "ID": 85,
@@ -1135,9 +1135,9 @@
     "Alignment": "Imperial",
     "Type": null,
     "Important": false,
-    "OnlyChoice": false,
+    "OnlyChoice": true,
     "Recommand": "Unknown",
-    "Memo": ""
+    "Memo": "繞過關卡 -> 開始戰鬥 -> 戰鬥 -> 戰敗不清楚"
   },
   {
     "ID": 99,
@@ -1280,8 +1280,8 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "一起抓兔子 -> 戰鬥\n得到一些經驗和補血"
+    "Recommand": "Not Good",
+    "Memo": "一起抓兔子 -> 戰鬥\n得到一些經驗和補血\n拒絕 -> 結束"
   },
   {
     "ID": 112,
@@ -2037,7 +2037,7 @@
     "Important": true,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "是騙局\n心生疑慮 -> 結束"
+    "Memo": "是騙局\n心生疑慮 -> 結束\n\n給他一拳 -> 戰鬥"
   },
   {
     "ID": 175,
@@ -2702,14 +2702,14 @@
   {
     "ID": 230,
     "Name": "",
-    "CName": "綠野部落的營地",
+    "CName": "綠野部落的土地",
     "RelatedEvent": null,
     "Alignment": "Greenpia",
     "Type": "Battle",
     "Important": false,
     "OnlyChoice": true,
-    "Recommand": "Unknown",
-    "Memo": "逃跑 -> 結束"
+    "Recommand": "Not Good",
+    "Memo": "逃跑 -> 結束\n無視並繼續前進 -> 戰鬥"
   },
   {
     "ID": 231,
@@ -2769,7 +2769,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Best",
-    "Memo": "觀察周圍 -> 故意反著來 ->戰鬥\n與其搏鬥 -> 戰鬥\n與其搏鬥 -> 戰鬥\n\n獎勵豐富"
+    "Memo": "觀察周圍 -> 故意反著來 ->戰鬥\n與其搏鬥 -> 戰鬥\n與其搏鬥 -> 戰鬥\n\n獎勵豐富\n\n按他們說的做 -> 開始戰鬥 ->\n獎勵可"
   },
   {
     "ID": 236,
@@ -3429,7 +3429,7 @@
     "Important": true,
     "OnlyChoice": true,
     "Recommand": "Best",
-    "Memo": "我們是來阻止你的\n\n->卡洛斯(最終頭目)\n\n會召喚以及幫召喚物上防禦\n召喚物會更換\n\n乘坐飛行器"
+    "Memo": "我們是來阻止你的\n\n->卡洛斯(大頭目戰)\n\n會召喚以及幫召喚物上防禦\n召喚物會更換\n\n乘坐飛行器"
   },
   {
     "ID": 292,
@@ -3465,6 +3465,174 @@
     "Important": true,
     "OnlyChoice": true,
     "Recommand": "Best",
+    "Memo": "奪回C區\n去找休布里斯\n\n得到卡片 護盾"
+  },
+  {
+    "ID": 295,
+    "Name": "",
+    "CName": "火矩之光",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": true,
+    "OnlyChoice": true,
+    "Recommand": "Best",
+    "Memo": "很多選項"
+  },
+  {
+    "ID": 296,
+    "Name": "",
+    "CName": "星星之火可以燎原",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": true,
+    "OnlyChoice": true,
+    "Recommand": "Best",
+    "Memo": "戰鬥 -> 無獎勵"
+  },
+  {
+    "ID": 297,
+    "Name": "",
+    "CName": "眾人拾柴",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": true,
+    "OnlyChoice": true,
+    "Recommand": "Best",
+    "Memo": "我需要補給箱\n我需要治療\n\n-> 戰鬥\n\n退到後面\n讓我來"
+  },
+  {
+    "ID": 298,
+    "Name": "",
+    "CName": "羅梅烏斯和卡洛斯",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": true,
+    "OnlyChoice": true,
+    "Recommand": "Best",
+    "Memo": "對話與抵抗後 凱倫被抓\n結束後得到經驗與補血"
+  },
+  {
+    "ID": 299,
+    "Name": "",
+    "CName": "終末",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": true,
+    "OnlyChoice": true,
+    "Recommand": "Best",
+    "Memo": "許多選項\n\n-> 捨命一搏 -> 戰鬥(強)"
+  },
+  {
+    "ID": 300,
+    "Name": "",
+    "CName": "未來已來",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": true,
+    "OnlyChoice": true,
+    "Recommand": "Best",
     "Memo": ""
+  },
+  {
+    "ID": 301,
+    "Name": "",
+    "CName": "被丟棄的麵包",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Not Good",
+    "Memo": "拿起麵包\n吃掉他 -> +HP"
+  },
+  {
+    "ID": 302,
+    "Name": "",
+    "CName": "(加雷斯)",
+    "RelatedEvent": null,
+    "Alignment": "Imperial",
+    "Type": null,
+    "Important": true,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "戰鬥"
+  },
+  {
+    "ID": 303,
+    "Name": "",
+    "CName": "草蟹",
+    "RelatedEvent": null,
+    "Alignment": "Greenpia",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "輕輕刮一下 -> 小獎勵(有果實)"
+  },
+  {
+    "ID": 304,
+    "Name": "",
+    "CName": "哨兵",
+    "RelatedEvent": null,
+    "Alignment": "Imperial",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "幫助士兵之後  得到13 exp"
+  },
+  {
+    "ID": 305,
+    "Name": "",
+    "CName": "綠野部落的襲擊",
+    "RelatedEvent": null,
+    "Alignment": "Imperial",
+    "Type": null,
+    "Important": true,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "放棄 -> 結束\n智力16\n力量16"
+  },
+  {
+    "ID": 306,
+    "Name": "",
+    "CName": "教團來襲",
+    "RelatedEvent": 302,
+    "Alignment": "Imperial",
+    "Type": null,
+    "Important": true,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "靜觀其變 -> 獎勵"
+  },
+  {
+    "ID": 307,
+    "Name": "",
+    "CName": "陷阱裡的豬",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "尋找聲響的來源 ->  幫它脫困\n -> 獎勵(陷阱卡 Machinaze)"
+  },
+  {
+    "ID": 308,
+    "Name": "",
+    "CName": "深山幽泉",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "保持安靜\n後退\n搭話\n\n保持安靜 -> 08HP -> 開始戰鬥 -> 些許獎勵"
   }
 ]
