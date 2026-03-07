@@ -1,0 +1,58 @@
+[
+  {
+    "ID": 1,
+    "Name": "",
+    "CName": "班西內部",
+    "Master": null,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 2,
+    "Name": "",
+    "CName": "班西外圍",
+    "Master": 1,
+    "From": "1",
+    "To": null
+  },
+  {
+    "ID": 3,
+    "Name": "",
+    "CName": "水晶岩火山",
+    "Master": null,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 4,
+    "Name": "",
+    "CName": "里維拉村周圍",
+    "Master": null,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 5,
+    "Name": "",
+    "CName": "里維拉村內部",
+    "Master": 4,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 6,
+    "Name": "",
+    "CName": "里維拉村外部",
+    "Master": 4,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 7,
+    "Name": "",
+    "CName": "帕拉斯遺址",
+    "Master": null,
+    "From": null,
+    "To": null
+  }
+]

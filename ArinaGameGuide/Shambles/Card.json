@@ -448,5 +448,32 @@
     "Rarity": "Rare",
     "Cost": 3,
     "Memo": "消耗品，在此次戰鬥中，使體能能力增加10，獲得2無敵"
+  },
+  {
+    "ID": 51,
+    "Name": "",
+    "CName": "自然保護",
+    "Alignment": "Greenpia",
+    "Rarity": "Rare",
+    "Cost": 1,
+    "Memo": "消耗品，如果牌組一半都是綠野部落卡牌的話，賦予敵人持續1輪的停止"
+  },
+  {
+    "ID": 52,
+    "Name": "",
+    "CName": "生存攻擊之道",
+    "Alignment": "ROA",
+    "Rarity": "Rare",
+    "Cost": 1,
+    "Memo": "獲得4銳利 (或6)"
+  },
+  {
+    "ID": 53,
+    "Name": "",
+    "CName": "普拉那",
+    "Alignment": "Greenpia",
+    "Rarity": "Legendary",
+    "Cost": 3,
+    "Memo": "消耗品，3輪期間，每輪開始後第一次使用的卡牌不會消耗行動力\n\n實際使用只有2輪"
   }
 ]

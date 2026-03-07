@@ -186,7 +186,7 @@
     "Bleed": null,
     "Counter": null,
     "Barrier": null,
-    "Description": "將2張「黑暗料理」置入對方手牌\n\n獲得「吃飽喝足」2回合：己方隊伍每次消耗算力，就使珈倫獲得75點臨時力量",
+    "Description": "將2張「黑暗料理」置入對方手牌\n\n獲得「吃飽喝足」2回合：己方隊伍每次消耗算力，就使珈倫獲得75點臨時力量\n\n變身後在燉菜之後出現",
     "Memo": ""
   },
   {
@@ -9838,7 +9838,7 @@
     "Bleed": null,
     "Counter": null,
     "Barrier": null,
-    "Description": "虛弱2 致盲2\n清除自身負面狀態",
+    "Description": "虛弱2 致盲2\n清除自身負面狀態\n(似乎不會清除獻祭)\n",
     "Memo": ""
   },
   {
@@ -12860,6 +12860,44 @@
     "Counter": null,
     "Barrier": null,
     "Description": "敵方消耗算力時，獲得的銀鑰能量降低50%。塔薇造成未被格擋的傷害後，將1張「真‧輪回悖論」置入手中\n\n真‧輪回悖論 1\n選擇1名喚醒體獲得30點狂氣，其他喚醒體，其他喚醒體失去10狂氣。此卡回合結束若在手中，對我方造成385點傷害。消耗。保留",
+    "Memo": ""
+  },
+  {
+    "ID": 690,
+    "Name": "六翼滿開",
+    "Owner": 167,
+    "ChangeTurn": null,
+    "AtTurn": 2,
+    "Cycle": null,
+    "Period": null,
+    "Damage": 72,
+    "DamageTimes": 6,
+    "Shield": null,
+    "AddStrength": null,
+    "Poison": null,
+    "Bleed": null,
+    "Counter": null,
+    "Barrier": null,
+    "Description": "虛弱2 脆弱2 易傷2。",
+    "Memo": ""
+  },
+  {
+    "ID": 691,
+    "Name": "毀滅",
+    "Owner": 129,
+    "ChangeTurn": 1,
+    "AtTurn": 2,
+    "Cycle": null,
+    "Period": null,
+    "Damage": 262,
+    "DamageTimes": 3,
+    "Shield": null,
+    "AddStrength": 158,
+    "Poison": null,
+    "Bleed": null,
+    "Counter": null,
+    "Barrier": null,
+    "Description": "重創2\n將1張「融蝕之芯」置入抽牌堆",
     "Memo": ""
   }
 ]

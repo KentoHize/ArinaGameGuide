@@ -1491,7 +1491,7 @@
     "Weak": null,
     "Grow": "小",
     "Description": "尚未覺醒\n\n覺醒後獲得「莉莉覺醒」\n\n「莉莉覺醒」\n莉莉會模仿玩家打出的第1張指令卡。若是打擊卡莉莉攻擊次數+1，若是防禦卡莉莉獲得10%生命的護盾，若是其他指令卡，莉莉也不知道發生了什麼事情會先放一隻膿皰在這裡\n\n自爆膿包 21523\n1212x1 152層中毒\n\n不滅之花暫停一回合",
-    "Memo": "莉莉覺醒之後\n\n攻擊 -> 多一次傷害\n防禦 -> 10%生命護頓\n其他 -> 自爆膿包\n\n\n\n第二血2118K"
+    "Memo": "莉莉覺醒之後\n\n攻擊 -> 多一次傷害\n防禦 -> 10%生命護頓\n其他 -> 自爆膿包\n\n\n\n第二血2118K，召喚物會留下\n"
   },
   {
     "ID": 39,
@@ -2913,6 +2913,24 @@
     "Weak": null,
     "Grow": "中",
     "Description": "尚未覺醒\n\n不存在的存在\n單回合受到76471點傷害後，獲得70層臨時加固和怨恨鎖鏈",
-    "Memo": "略強\n\n大絕5張消耗3張卡片\n封印2回合\n塞傷害卡等招式"
+    "Memo": "略強，有防續打招式\n\n大絕手牌外5張消耗3張卡片\n封印\n塞傷害卡等招式\n有虛弱 脆弱 易傷等招式可驅散 也可以選擇只有虛弱"
+  },
+  {
+    "ID": 168,
+    "Name": "佈道者",
+    "Character": null,
+    "HP": 200000,
+    "StackOfHP": 1,
+    "UseCounter": null,
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "UseAreaAttacks": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "未知",
+    "Description": "觸腕集結(83)\n\n以牙還牙\n\n舊日餘燼9308",
+    "Memo": ""
   }
 ]

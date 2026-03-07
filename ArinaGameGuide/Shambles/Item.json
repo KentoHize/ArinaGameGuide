@@ -34,5 +34,17 @@
     "Name": "工作服",
     "Rarity": null,
     "Memo": ""
+  },
+  {
+    "ID": 7,
+    "Name": "殉教者的項鍊",
+    "Rarity": null,
+    "Memo": ""
+  },
+  {
+    "ID": 8,
+    "Name": "騎士的雙手劍",
+    "Rarity": null,
+    "Memo": ""
   }
 ]

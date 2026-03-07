@@ -16,24 +16,24 @@
     "Name": "",
     "CName": "代理決鬥II",
     "RelatedEvent": null,
-    "Alignment": null,
+    "Alignment": "Imperial",
     "Type": "Battle",
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": ""
+    "Recommand": "Best",
+    "Memo": "詢問發生了什麼 -> 代理決鬥是什麼？ -> 現在就開始救吧\n\n拒絕\n接受 ->\n\n逃跑\n開始決鬥 -> 戰鬥(強)"
   },
   {
     "ID": 3,
     "Name": "",
     "CName": "當代騎士",
     "RelatedEvent": null,
-    "Alignment": null,
+    "Alignment": "Imperial",
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": ""
+    "Memo": "見習騎士也能理解 -> 稍稍離開\n吉爾伯特爵士說得對"
   },
   {
     "ID": 4,
@@ -128,8 +128,8 @@
     "Type": "Store",
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "搓揉身體 -> X\n澆些溫水 -> X"
+    "Recommand": "Good",
+    "Memo": "搓揉身體 -> X\n澆些溫水 -> X\n擋住寒風 -> O\n\n打折商店"
   },
   {
     "ID": 12,
@@ -153,7 +153,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "賭上一把 -> 開鎖 ->未遇到戰鬥"
+    "Memo": "賭上一把 -> \n使用蠻力(力量20)\n開鎖 -> 獎勵(未遇到戰鬥)"
   },
   {
     "ID": 14,
@@ -213,7 +213,7 @@
     "Important": true,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "還是快點趕路要緊\n找個歇腳的地方\n\n調查岩石智力14\n休息 -> 戰鬥"
+    "Memo": "還是快點趕路要緊 -> X -5HP\n找個歇腳的地方\n\n調查岩石智力14\n休息 -> 戰鬥"
   },
   {
     "ID": 19,
@@ -261,7 +261,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Good",
-    "Memo": "\n要求誣陷某商人\n選擇我退出沒有事\n\n選擇好之後告發->19exp 187 gold\n\n放入寶石 -> 錢換成2張卡片\n\n告發比較好"
+    "Memo": "\n要求誣陷某商人\n選擇我退出沒有事\n\n選擇好之後告發->7exp 65 gold\n\n放入寶石 -> 錢換成2張卡片\n\n告發比較好"
   },
   {
     "ID": 23,
@@ -428,8 +428,8 @@
     "Type": "Battle",
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "假需要幫忙\n\n報酬 ->\n上前幫忙 -> -12 HP\n\n你們是什麼人?/聚精會神反擊 -> 戰鬥\n\n得到許多戰利品"
+    "Recommand": "Good",
+    "Memo": "假需要幫忙\n\n光靠嘴說可不行吧 ->\n不，我不想做 -> \n  盡全力防禦\n  力量16用腳踢開\n  敏捷16躲閃開\n   -> 戰鬥\n包在我身上 -> -12HP\n上前幫忙 -> -12 HP\n\n你們是什麼人?/聚精會神反擊 -> 戰鬥\n\n得到許多戰利品\nMachinaze卡片"
   },
   {
     "ID": 40,
@@ -693,7 +693,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "襲擊 -> 錯誤"
+    "Memo": "逃之夭夭\n檢查屍體 ->\n\n起了歹心\n地主家也沒餘糧了...\n施以援手 -> \n\n地主家也沒餘糧了...\n給他金幣\n給他吃的 -> 似乎不好\n\n\n襲擊 -> 錯誤"
   },
   {
     "ID": 62,
@@ -849,7 +849,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Not Good",
-    "Memo": ""
+    "Memo": "觀察周圍 -> 開始戰鬥"
   },
   {
     "ID": 75,
@@ -968,8 +968,8 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "按她說的做->X\n這是什麼意思 -> 我幫您取回包袱吧 -> 沒關係\n\n力量14猛踏地面\n智力14觸碰蜘蛛網\n去拿包袱 -> 戰鬥 -> 獎勵"
+    "Recommand": "Best",
+    "Memo": "按她說的做->X\n這是什麼意思 -> 我幫您取回包袱吧 -> 沒關係\n\n不用你管 ->\n\n力量17猛踏地面\n智力17觸碰蜘蛛網\n去拿包袱 -> 戰鬥 -> 獎勵"
   },
   {
     "ID": 85,
@@ -1137,7 +1137,7 @@
     "Important": false,
     "OnlyChoice": true,
     "Recommand": "Unknown",
-    "Memo": "繞過關卡 -> 開始戰鬥 -> 戰鬥 -> 戰敗不清楚"
+    "Memo": "繞過關卡 -> 開始戰鬥 -> 戰鬥 -> 戰敗不清楚\n\n通過關卡 -> 展示帝國卡牌 -> \n用力量擺脫戰鬥\n給賄絡\n(知道逃兵)舉報逃兵\n"
   },
   {
     "ID": 99,
@@ -1232,8 +1232,8 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "查看工具 -> 戰鬥"
+    "Recommand": "Not Good",
+    "Memo": "查看動物骸骨\n查看工具 -> 戰鬥\n檢查床鋪 ->\n\n準備入睡\n在周邊埋伏 -> 戰鬥(-10 HP開始)\n離開此處"
   },
   {
     "ID": 107,
@@ -1281,7 +1281,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Not Good",
-    "Memo": "一起抓兔子 -> 戰鬥\n得到一些經驗和補血\n拒絕 -> 結束"
+    "Memo": "+HP 飽滿感\n\n一起抓兔子 -> 戰鬥\n得到一些經驗和補血\n拒絕 -> 結束"
   },
   {
     "ID": 112,
@@ -1653,7 +1653,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "得到喵嗚"
+    "Memo": "一把推開\n輕輕撫摸  -> 2\n給它點吃的(不需要真的給卡) -> 2\n\n2\n一起出發 -> 得到喵嗚\n丟出來並離開\n\n"
   },
   {
     "ID": 143,
@@ -1664,8 +1664,8 @@
     "Type": null,
     "Important": true,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "得到喵喵拳"
+    "Recommand": "Good",
+    "Memo": "不是貓咪\n或許是吧 ->\n是貓咪沒錯\n\n我一點也不好奇\n當然想知道 ->\n\n不買\n購買(40金幣)\n\n\n多聽幾句 -> 多聽幾句\n\n得到喵喵拳\n\n"
   },
   {
     "ID": 144,
@@ -1688,8 +1688,8 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": true,
-    "Recommand": "Unknown",
-    "Memo": ""
+    "Recommand": "Not Good",
+    "Memo": "弄丟了\n沒有"
   },
   {
     "ID": 146,
@@ -1701,7 +1701,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "去黑市\n去餐廳 -> \n生魚片160 47exp +28 HP\n耳朵80"
+    "Memo": "沒興趣 -> 結束\n問黑市的事 -> 重選\n我想去黑市(50金幣)\n\n去黑市\n去餐廳 -> \n生魚片160 47exp +28 HP\n耳朵80"
   },
   {
     "ID": 147,
@@ -1748,7 +1748,7 @@
     "Type": "Battle",
     "Important": true,
     "OnlyChoice": true,
-    "Recommand": "Good",
+    "Recommand": "Best",
     "Memo": "講話後 -> 戰鬥(強)"
   },
   {
@@ -1760,7 +1760,7 @@
     "Type": null,
     "Important": true,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
+    "Recommand": "Good",
     "Memo": "給他小費 7exp -20gold\n\n口袋空空或是試圖闖入 ->\n\n回答一堆問題 7exp\n成功得到情報\n放棄 -> 任務中斷"
   },
   {
@@ -1772,7 +1772,7 @@
     "Type": null,
     "Important": true,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
+    "Recommand": "Best",
     "Memo": "講話 -> 戰鬥\n\n放了他 -> 繼續探索，出現再會事件\n幹掉他 ->被趕出村子"
   },
   {
@@ -1784,8 +1784,8 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "戰鬥"
+    "Recommand": "Good",
+    "Memo": "戰鬥\n\n我受傷了(HP30以下)\n我還好\n你看我像有事的樣子嗎？\n\n獵人工會？ 有興趣"
   },
   {
     "ID": 154,
@@ -1814,14 +1814,14 @@
   {
     "ID": 156,
     "Name": "",
-    "CName": "獵人工會 - 受傷的沙蟲",
+    "CName": "獵人工會-受傷的沙蟲",
     "RelatedEvent": null,
     "Alignment": null,
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "我是獵人 -> 開始戰鬥\n\n獎品普通"
+    "Recommand": "Good",
+    "Memo": "默不作聲 -> 開始戰鬥\n轉身離開\n我是獵人 -> 開始戰鬥\n\n加入\n不想加入\n\n獎品普通\n\n"
   },
   {
     "ID": 157,
@@ -1880,8 +1880,8 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "智力24 仔細辨認\n\n上坡路 -> 戰鬥"
+    "Recommand": "Good",
+    "Memo": "智力24 仔細辨認\n任選一條 ->\n上坡路 -> 戰鬥\n下坡路 -> 戰鬥"
   },
   {
     "ID": 162,
@@ -1893,7 +1893,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Good",
-    "Memo": "敏捷26 追趕 -> 和老人戰鬥\n->\n歸還 -> 少量獎勵\n不歸還\n\n放任不管 -> 說謊 ->\n別胡說八道 -> 戰鬥\n反面 -> 戰鬥\n\n老實作答 -> 結束\n"
+    "Memo": "敏捷26 追趕 -> 和老人戰鬥\n->\n歸還 -> 少量獎勵\n不歸還\n\n放任不管 -> 說謊 ->\n 別胡說八道 -> 戰鬥\n 反面 -> 戰鬥\n 正面 -> \n   送他走\n   去哪裡 -> 戰鬥\n\n  掠奪他\n  你在幹什麼？\n  為什麼這樣？ -> 得到中等獎勵\n\n老實作答 -> 結束\n"
   },
   {
     "ID": 163,
@@ -2025,7 +2025,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "在這棵樹上 -> 似乎錯誤\n得到中等獎勵"
+    "Memo": "他的名字叫貓嗎 -> 刪除選項\n在這棵樹上 -> 謎? 得到中等獎勵\n不在這棵樹上  -> 6exp\n"
   },
   {
     "ID": 174,
@@ -2060,8 +2060,8 @@
     "Type": "Battle",
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "智力14 -> +4 exp\n智力18\n\n率先發難 -> 戰鬥"
+    "Recommand": "Best",
+    "Memo": "環顧四週\n智力14調查水窪 -> +4 exp\n智力18調查屍體 -> +6exp\n\n繞過水窪\n調查四周\n\n遠遠避開\n率先發難 -> 戰鬥"
   },
   {
     "ID": 177,
@@ -2516,8 +2516,8 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "積極調解\n\n智力20以上 看起來足夠 -> 聲望小幅上升"
+    "Recommand": "Not Good",
+    "Memo": "積極調解\n\n智力20以上 看起來足夠 -> 聲望小幅上升\n智力20應該提高費用\n商人公會聲望上升"
   },
   {
     "ID": 215,
@@ -2684,8 +2684,8 @@
     "Type": null,
     "Important": true,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "第一個 -> X"
+    "Recommand": "Not Good",
+    "Memo": "第一個 -> X\n第三個 -> O"
   },
   {
     "ID": 229,
@@ -2708,8 +2708,8 @@
     "Type": "Battle",
     "Important": false,
     "OnlyChoice": true,
-    "Recommand": "Not Good",
-    "Memo": "逃跑 -> 結束\n無視並繼續前進 -> 戰鬥"
+    "Recommand": "Good",
+    "Memo": "逃跑 -> 結束\n無視並繼續前進 -> 戰鬥(穿透)"
   },
   {
     "ID": 231,
@@ -2726,14 +2726,14 @@
   {
     "ID": 232,
     "Name": "",
-    "CName": "歡迎光臨林中洞窟",
+    "CName": "歡迎光臨 林中洞窟",
     "RelatedEvent": null,
     "Alignment": null,
     "Type": null,
-    "Important": true,
+    "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": ""
+    "Recommand": "Not Good",
+    "Memo": "不進入洞窟\n進入洞窟 -> +血"
   },
   {
     "ID": 233,
@@ -2744,8 +2744,8 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "上前搭救\n\n-> 一路不理得到+13 exp"
+    "Recommand": "Not Good",
+    "Memo": "上前搭救\n\n巧克力與香草-> ?\n\n置之不理 -> 得到+13 exp\n攻擊野狗 -> 得到中等獎勵 扔飼料1張"
   },
   {
     "ID": 234,
@@ -2780,8 +2780,8 @@
     "Type": null,
     "Important": true,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "委託 -> 戰鬥\n送遊俠卡"
+    "Recommand": "Best",
+    "Memo": "我不知道你在說什麼\n委託？\n\n默不作聲\n點頭承認\n\n我不想去\n那就一起吧 -> 戰鬥\n\n你沒事吧\n怎麼了嗎？->\n\n送獵人卡"
   },
   {
     "ID": 237,
@@ -2901,7 +2901,7 @@
     "Important": false,
     "OnlyChoice": true,
     "Recommand": "Best",
-    "Memo": "智力20製作木筏 -> 小獎勵\n敏捷14一躍而過(失敗)"
+    "Memo": "智力20製作木筏 -> 小獎勵\n敏捷14一躍而過(失敗)\n環顧四週 -> 體力12匍匐而行\n\n在光之林也會發生"
   },
   {
     "ID": 247,
@@ -3260,8 +3260,8 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "詢問箱子裡有什麼 -> 走自己的路 -> 結束"
+    "Recommand": "Good",
+    "Memo": "走自己的路  -> 結束\n詢問箱子裡有什麼 -> 消滅選項\n\n威脅他們 -> 戰鬥\n -> 中獎\n\n"
   },
   {
     "ID": 277,
@@ -3573,7 +3573,7 @@
     "Important": false,
     "OnlyChoice": false,
     "Recommand": "Unknown",
-    "Memo": "輕輕刮一下 -> 小獎勵(有果實)"
+    "Memo": "自然地指點\n詢問他們在做什麼\n\n大膽地刮一下 -> 戰鬥 -> 沒獎勵或是沒顯示\n輕輕刮一下 -> 小獎勵(有果實)\n\n"
   },
   {
     "ID": 304,
@@ -3620,8 +3620,8 @@
     "Type": null,
     "Important": false,
     "OnlyChoice": false,
-    "Recommand": "Unknown",
-    "Memo": "尋找聲響的來源 ->  幫它脫困\n -> 獎勵(陷阱卡 Machinaze)"
+    "Recommand": "Not Good",
+    "Memo": "尋找聲響的來源 ->  \n\n幫它脫困\n -> 獎勵(陷阱卡 Machinaze)\n\n獵捕野豬 -> 戰鬥\n-> 小獎勵(Greenpia卡片)\n"
   },
   {
     "ID": 308,
@@ -3634,5 +3634,437 @@
     "OnlyChoice": false,
     "Recommand": "Unknown",
     "Memo": "保持安靜\n後退\n搭話\n\n保持安靜 -> 08HP -> 開始戰鬥 -> 些許獎勵"
+  },
+  {
+    "ID": 309,
+    "Name": "",
+    "CName": "就餐時間",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "檢查周圍 -> 搖晃果樹 ->  開始戰鬥"
+  },
+  {
+    "ID": 310,
+    "Name": "",
+    "CName": "綠林的守護者",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": "Battle",
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Best",
+    "Memo": "和他們拚了 -> 戰鬥->\n  和他們拚了-> 戰鬥\n  繳納過路費(100金幣以上)\n\n繳納過路費(30金幣以上)\n\n第二輪有穿透傷，獎品極佳"
+  },
+  {
+    "ID": 311,
+    "Name": "",
+    "CName": "深陷危機的男人",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "有什麼事嗎？->詢問如何幫助 -> 滿口答應 -> 戰鬥(尚未獲勝)\n\n毒狀態"
+  },
+  {
+    "ID": 312,
+    "Name": "",
+    "CName": "岩石之下",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Not Good",
+    "Memo": "回HP\n\n檢查到底是什麼 -> 戰鬥\n力量18用腳用力踢\n敏捷18用武器攻擊"
+  },
+  {
+    "ID": 313,
+    "Name": "",
+    "CName": "呼哧呼哧",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Good",
+    "Memo": "敏捷16奪路狂奔\n開始戰鬥 -> 戰鬥"
+  },
+  {
+    "ID": 314,
+    "Name": "",
+    "CName": "甜蜜的大樹",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Not Good",
+    "Memo": "無視聲音\n調查一下 -> \n調查大樹 ->\n智力14稍加思索\n返回樹旁 -> 開始戰鬥\n\n簡單休息\n品嘗樹液\n\n+HP事件"
+  },
+  {
+    "ID": 315,
+    "Name": "",
+    "CName": "寶箱與變異生物",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Good",
+    "Memo": "稍稍離開\n解決掉它\n繼續觀察\n\n-> (再選一次)\n\n解決掉它 -> 戰鬥\n\n開鎖"
+  },
+  {
+    "ID": 316,
+    "Name": "",
+    "CName": "盜伐現場",
+    "RelatedEvent": null,
+    "Alignment": "Greenpia",
+    "Type": "Battle",
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Good",
+    "Memo": "躲避並離開\n抗議\n靠近看看 -> \n觀察情況 -> \n趁機逃跑\n站在綠野部落一邊 -> 戰鬥\n站在伐木工一邊 -> 戰鬥"
+  },
+  {
+    "ID": 317,
+    "Name": "",
+    "CName": "部族狩獵方式",
+    "RelatedEvent": null,
+    "Alignment": "Greenpia",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Good",
+    "Memo": "直接離開\n詢問他們在做什麼\n\n攻擊他們 -> 戰鬥\n不打擾他們\n放走幼崽 -> 戰鬥 -> 中等獎勵"
+  },
+  {
+    "ID": 318,
+    "Name": "",
+    "CName": "出沒在田裡的怪物",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Good",
+    "Memo": "轉身逃跑\n小心周圍 ->\n   敏捷14轉身逃跑\n   巋然不動 ->\n      智力14尋找躲避物\n      力量14採取防禦姿態\n      繼續靠近 -> -6 HP\n   -> 開始戰鬥\n走近他\n\n戰鬥後\n當然了\n看不出來嗎？\n\n萎縮的果實x1 不確定"
+  },
+  {
+    "ID": 319,
+    "Name": "",
+    "CName": "可疑的老人",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Best",
+    "Memo": "沒有飾品時極強事件\n\n(需要食物卡牌)\n\n極力無視\n探聽聲響的來源 -> \n\n迫使離開\n(食物卡牌)給他一點食物\n>得到一些卡牌\n\n和老人告別\n詢問老人從何而來 ->\n得到殉教者的項鍊"
+  },
+  {
+    "ID": 320,
+    "Name": "",
+    "CName": "感覺到靈力了嗎",
+    "RelatedEvent": null,
+    "Alignment": "Greenpia",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "不喜歡\n好的\n是我嗎？ -> 看得見\n不相信普拉納\n相信普拉納\n\n每次相信-3HP\n\n-> 相信到底後會補回血量和得到大量經驗與普拉那"
+  },
+  {
+    "ID": 321,
+    "Name": "",
+    "CName": "奴隸運輸",
+    "RelatedEvent": null,
+    "Alignment": "Imperial",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Good",
+    "Memo": "進攻\n讓路\n詢問他們的身份 ->\n\n進攻\n不讓開 -> 得到回答\n讓開\n\n放走馬車\n解救人們 -> 戰鬥\n\n我的報酬呢？\n你們自由了 ->\n獎勵佳"
+  },
+  {
+    "ID": 322,
+    "Name": "",
+    "CName": "帝國追擊隊",
+    "RelatedEvent": null,
+    "Alignment": "Imperial",
+    "Type": "Battle",
+    "Important": false,
+    "OnlyChoice": true,
+    "Recommand": "Best",
+    "Memo": "敏捷24逃跑\n發生什麼事了？\n靜靜待著\n\n抵抗 -> 戰鬥(強)\n乖乖被捕"
+  },
+  {
+    "ID": 323,
+    "Name": "",
+    "CName": "帝國的逃兵",
+    "RelatedEvent": null,
+    "Alignment": "Imperial",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Good",
+    "Memo": "調查洞穴 -> 搭話 -> 戰鬥\n\n回家去吧\n你在說什麼 ->\n\n換上別的衣服吧\n脫下盔甲吧\n是啊 -> 無盔甲"
+  },
+  {
+    "ID": 324,
+    "Name": "",
+    "CName": "連坐",
+    "RelatedEvent": null,
+    "Alignment": "Imperial",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Good",
+    "Memo": "詢問發生什麼事情 ->\n\n智力16嘗試邏輯說服\n這些傢伙該死\n這有什麼關係？\n\n暴力是不對的\n觀察情況 -> 戰鬥\n\n暴力是不對的\n觀察情況 -> 得到感謝與中等獎勵"
+  },
+  {
+    "ID": 325,
+    "Name": "",
+    "CName": "森林迷局",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": "Battle",
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Best",
+    "Memo": "教訓他們 -> 戰鬥 (左邊穿透)\n什麼都不給\n我寧願給錢\n\n你是誰啊 -> 什麼債主，我不是 -> 戰鬥\n\n開什麼玩笑，我當然是\n\n大量獎勵"
+  },
+  {
+    "ID": 326,
+    "Name": "",
+    "CName": "預言之樹",
+    "RelatedEvent": null,
+    "Alignment": "Greenpia",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "靜靜旁觀 ->\n  離開這裡\n  踢樹 ->\n    再踢一次樹 ->\n         救青年 -> 戰鬥 -> 得到一些獎勵\n         偷財物\n     與他們戰鬥\n  接受預言\n  \n快讓開！\n\n"
+  },
+  {
+    "ID": 327,
+    "Name": "",
+    "CName": "奴隸間的決鬥",
+    "RelatedEvent": null,
+    "Alignment": "Imperial",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Good",
+    "Memo": "這是什麼情況\n\n離開那裡\n無法理解\n野蠻的文化 ->\n  敏捷24全力逃跑\n  開始戰鬥(強) -> 中等獎勵"
+  },
+  {
+    "ID": 328,
+    "Name": "",
+    "CName": "學習歷史",
+    "RelatedEvent": null,
+    "Alignment": "Imperial",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "路過\n去聽講座\n\n繼續聽講座x3 -> \n古拉皇宮的黃金鑰匙\n初代皇帝的武器\n阿爾孔皇帝冠冕"
+  },
+  {
+    "ID": 329,
+    "Name": "",
+    "CName": "落第騎士",
+    "RelatedEvent": null,
+    "Alignment": "Imperial",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "直接放棄吧\n機會還很多！\n呃…加油 ->\n\n你高升無望了\n下輩子投個好胎\n生活本就如此 ->\n\n你做得很好-> 繼續挑戰吧 ->\n13exp 65gold"
+  },
+  {
+    "ID": 330,
+    "Name": "",
+    "CName": "快樂的狩獵",
+    "RelatedEvent": null,
+    "Alignment": "Imperial",
+    "Type": "Battle",
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Good",
+    "Memo": "贊同騎士\n保護哥布林\n指責騎士 -> 戰鬥(中)\n\n什麼都不做\n把騎士關進籠子 -> 中獎"
+  },
+  {
+    "ID": 331,
+    "Name": "",
+    "CName": "地面下的存在",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": "Battle",
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Best",
+    "Memo": "遠離音源\n去向聲音的方向 -> 確認聲音的來源 -> 戰鬥"
+  },
+  {
+    "ID": 332,
+    "Name": "",
+    "CName": "獵人工會-兔子？",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Good",
+    "Memo": "獵人工會任務\n\n等待\n這是怪物兔子嗎\n衝出去 -> 開始戰鬥\n\n我差點送命\n它們很弱\n小菜一碟"
+  },
+  {
+    "ID": 333,
+    "Name": "",
+    "CName": "升級考試",
+    "RelatedEvent": null,
+    "Alignment": "Imperial",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "拒絕\n這是什麼交易 ->\n\n拒絕\n接受 ->\n\n讓他擊敗你\n結束他"
+  },
+  {
+    "ID": 334,
+    "Name": "",
+    "CName": "宣布開始決鬥！",
+    "RelatedEvent": null,
+    "Alignment": "Imperial",
+    "Type": "Battle",
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "力量與敏捷24全力逃跑\n開始戰鬥"
+  },
+  {
+    "ID": 335,
+    "Name": "",
+    "CName": "歸來的殉教者",
+    "RelatedEvent": null,
+    "Alignment": "Imperial",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "無視並離開\n給更多錢(80金幣)\n給錢(20金幣)"
+  },
+  {
+    "ID": 336,
+    "Name": "",
+    "CName": "實際情況",
+    "RelatedEvent": null,
+    "Alignment": "ROA",
+    "Type": "Battle",
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Best",
+    "Memo": "敏捷及智力20躲起來\n面對他們 -> 戰鬥\n\n知道了\n往那邊去了 -> 高獎"
+  },
+  {
+    "ID": 337,
+    "Name": "",
+    "CName": "外面的世界",
+    "RelatedEvent": null,
+    "Alignment": "ROA",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Unknown",
+    "Memo": "智力考驗 26最好\n\n敷衍\n掩體 ->\n\n親自去看看吧 ->\n\n那你就不能出去了嗎？\n隨便講述\n智力18適當地講述\n智力26有趣地講述"
+  },
+  {
+    "ID": 338,
+    "Name": "",
+    "CName": "臨時盤查",
+    "RelatedEvent": null,
+    "Alignment": "ROA",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": true,
+    "Recommand": "Good",
+    "Memo": "拒絕\n遞過去\n\n有要求就說 -> 再問一次\n保持不動\n給賄賂\n\n抵抗到底 -> 戰鬥(雙穿透)\n放下武器"
+  },
+  {
+    "ID": 339,
+    "Name": "",
+    "CName": "憲兵隊",
+    "RelatedEvent": null,
+    "Alignment": "ROA",
+    "Type": "Battle",
+    "Important": false,
+    "OnlyChoice": true,
+    "Recommand": "Best",
+    "Memo": "有點難\n\n逃跑\n保持不動 ->\n\n發生什麼事了 -> 沒回答\n繼續保持不動\n逃跑 ->  \n\n和他們戰鬥 -> 戰鬥(強)\n體力32繼續跑"
+  },
+  {
+    "ID": 340,
+    "Name": "",
+    "CName": "雪崩",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": true,
+    "Recommand": "Unknown",
+    "Memo": "向側面奔去 -> \n  捲縮著身子(-5HP)\n   -> 挖出小洞(正確?)\n向山下奔去\n向山上奔去"
+  },
+  {
+    "ID": 341,
+    "Name": "",
+    "CName": "暴風雪",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": true,
+    "Recommand": "Unknown",
+    "Memo": "郎嗆前進 -> (正確?)\n躲在岩石後面 -> -5HP\n繼續蜷縮\n\n繼續走 -> -5HP\n\n蓋上毯子"
+  },
+  {
+    "ID": 342,
+    "Name": "",
+    "CName": "打獵委託",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Best",
+    "Memo": "打獵？\n\n直接拒絕\n開始補獵 -> 戰鬥"
+  },
+  {
+    "ID": 343,
+    "Name": "",
+    "CName": "掃雷",
+    "RelatedEvent": null,
+    "Alignment": "ROA",
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Not Good",
+    "Memo": "無視\n地雷？->\n\n右邊安全 -> 成功 -> 中獎\n中間安全\n左邊安全"
+  },
+  {
+    "ID": 344,
+    "Name": "",
+    "CName": "林中逃亡者",
+    "RelatedEvent": null,
+    "Alignment": null,
+    "Type": null,
+    "Important": false,
+    "OnlyChoice": false,
+    "Recommand": "Not Good",
+    "Memo": "呼喊 -> \n 就此停下\n 追趕孩子 ->   \n追逐\n\n\n緊緊抓著\n鬆開 -> \n\n智力20誤會，都是誤會...\n率先發難 -> 戰鬥\n稍稍離開\n\n這不是我的包\n這就是我的包 -> 得到一些獎勵"
   }
 ]
