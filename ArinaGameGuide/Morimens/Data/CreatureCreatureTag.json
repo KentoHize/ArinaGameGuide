@@ -123,5 +123,20 @@
     "ID": 25,
     "Creature": 107,
     "CreatureTag": "植物"
+  },
+  {
+    "ID": 26,
+    "Creature": 169,
+    "CreatureTag": "主宰"
+  },
+  {
+    "ID": 27,
+    "Creature": 169,
+    "CreatureTag": "喚醒體"
+  },
+  {
+    "ID": 28,
+    "Creature": 169,
+    "CreatureTag": "超維"
   }
 ]

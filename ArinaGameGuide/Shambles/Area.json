@@ -3,7 +3,7 @@
     "ID": 1,
     "Name": "",
     "CName": "班西內部",
-    "Master": null,
+    "Master": 1,
     "From": null,
     "To": null
   },
@@ -27,7 +27,7 @@
     "ID": 4,
     "Name": "",
     "CName": "里維拉村周圍",
-    "Master": null,
+    "Master": 4,
     "From": null,
     "To": null
   },
@@ -52,6 +52,118 @@
     "Name": "",
     "CName": "帕拉斯遺址",
     "Master": null,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 8,
+    "Name": "",
+    "CName": "紅河周圍",
+    "Master": 8,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 9,
+    "Name": "",
+    "CName": "紅河河邊城市",
+    "Master": 8,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 10,
+    "Name": "",
+    "CName": "梅爾庫裡翁周圍",
+    "Master": 10,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 11,
+    "Name": "",
+    "CName": "梅爾庫裡翁內部",
+    "Master": 10,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 12,
+    "Name": "",
+    "CName": "斯托拉斯都城",
+    "Master": 12,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 13,
+    "Name": "",
+    "CName": "斯托拉斯周圍",
+    "Master": 12,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 14,
+    "Name": "",
+    "CName": "斯托拉斯外圍遺址",
+    "Master": 12,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 15,
+    "Name": "",
+    "CName": "盧克斯外圍",
+    "Master": 15,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 16,
+    "Name": "",
+    "CName": "盧克斯內部",
+    "Master": 15,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 17,
+    "Name": "",
+    "CName": "萊希托村",
+    "Master": null,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 18,
+    "Name": "",
+    "CName": "伊萊克平原",
+    "Master": null,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 19,
+    "Name": "",
+    "CName": "低語之林",
+    "Master": null,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 20,
+    "Name": "",
+    "CName": "山入口處的村子",
+    "Master": 20,
+    "From": null,
+    "To": null
+  },
+  {
+    "ID": 21,
+    "Name": "",
+    "CName": "溫迪亞山半山腰",
+    "Master": 20,
     "From": null,
     "To": null
   }

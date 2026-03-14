@@ -1083,7 +1083,7 @@
     "ID": 71,
     "Name": "食屍鬼衛隊長",
     "Character": null,
-    "HP": 321000,
+    "HP": 3009000,
     "StackOfHP": 1,
     "UseCounter": "△",
     "UsePoison": null,
@@ -1148,7 +1148,7 @@
     "Bleeding": null,
     "Weak": null,
     "Grow": "中",
-    "Description": "",
+    "Description": "改名為「紳士」與「淑女」?",
     "Memo": "x10與前擋Combo"
   },
   {
@@ -1293,7 +1293,7 @@
     "Weak": null,
     "Grow": "中",
     "Description": "尚未覺醒",
-    "Memo": "易傷\n\n注意在第一招時攻擊會造成攻擊次數上升"
+    "Memo": "易傷１\n\n注意在第一招時攻擊會造成攻擊次數上升"
   },
   {
     "ID": 93,
@@ -2932,5 +2932,41 @@
     "Grow": "未知",
     "Description": "觸腕集結(83)\n\n以牙還牙\n\n舊日餘燼9308",
     "Memo": ""
+  },
+  {
+    "ID": 169,
+    "Name": "「青炎舞者」",
+    "Character": 29,
+    "HP": 981000,
+    "StackOfHP": null,
+    "UseCounter": "◎",
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "UseAreaAttacks": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "未知",
+    "Description": "尚未覺醒\n覺醒後告死之舞獲得解除負面狀態的能力\n\n不朽綠炎\n對方回合結束不會丟棄手牌。當意圖切換為綠炎時，若至少6層翠綠火種，消耗6層，將意圖升級為559傷害3次的「死滅綠炎」；若擁有至少3層，將意圖升級為造成652傷害2次的「腐化綠炎」\n\n翠綠火種\n上限10層，每層使莉茲造成的傷害提高38點",
+    "Memo": ""
+  },
+  {
+    "ID": 170,
+    "Name": "「維度之孔」",
+    "Character": null,
+    "HP": 704000,
+    "StackOfHP": 1,
+    "UseCounter": null,
+    "UsePoison": null,
+    "UseManyAttacks": null,
+    "UseSeveralAttacks": null,
+    "UsePierceDamage": null,
+    "UseAreaAttacks": null,
+    "Bleeding": null,
+    "Weak": null,
+    "Grow": "無",
+    "Description": "",
+    "Memo": "弱Boss\n高降力\nTurn 5 脆弱2 虛弱2\n無成長\n\n分裂成干涉型融蝕體(交互打沒有其他動作)"
   }
 ]
