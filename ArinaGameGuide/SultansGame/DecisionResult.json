@@ -1,0 +1,19 @@
+[
+  {
+    "ID": 1,
+    "Decision": 1,
+    "Choice": null,
+    "Gold": null,
+    "Card": null,
+    "Stat1": null,
+    "Stat1Value": null,
+    "Stat2": null,
+    "Stat2Value": null,
+    "Target": null,
+    "Attribute1": null,
+    "Attribute1Value": null,
+    "Attribute2": null,
+    "Attribute2Value": null,
+    "Memo": "Test"
+  }
+]

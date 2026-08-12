@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Renown",
+    "CName": "善名"
+  },
+  {
+    "Name": "Infamy",
+    "CName": "惡名"
+  },
+  {
+    "Name": "Influence",
+    "CName": "權勢"
+  },
+  {
+    "Name": "Notoriety",
+    "CName": "俠名"
+  },
+  {
+    "Name": "Insight",
+    "CName": "靈視"
+  }
+]

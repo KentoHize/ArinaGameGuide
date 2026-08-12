@@ -37,12 +37,12 @@
   {
     "ID": 8,
     "Subject": "Temp",
-    "Memo": "Knowledge(World) DC 22\nLore(Religions) 16\n\n"
+    "Memo": "Knowledge(World) DC 22\nLore(Religions) 16\n\n<-\n+2\n+2\n+3 -3\n+2\n-3 +3\n\n\n->\n-3 -2 -3\n-3 -2 -3\n-1 -1 -2 -1 -3?\n-3 -2 -3\n-3 -1 -1 -2 -1"
   },
   {
     "ID": 9,
     "Subject": "Portraits",
-    "Memo": "Ryavelana HE-FM-FM-F106\nTifvae HE-MF-2H-F203\nRyria GH-GH-MS-F303\nRina HE-PC-CE-F206\nElianna HE-MF-SH-F204\nLeslie HE-MF-SH-F202\nAdonis HE-MF-DD-M104\nDalolug DW-MF-MS-M303\nGarhar HE-WS-MS-M150\nArirad HE-FM-FM-F201\nFreya HE-PC-CE-F208\nEllie HE-WS-MS-F217\nElizabeth\nSophia\nSonia\nSelena\nSolyn MX-BD-BT-F306\nFisash\nNina HE-BA-BR-F213\nZahra HE-DR-DD-F124"
+    "Memo": "Ryavelana HE-FM-FM-F106\nTifvae HE-MF-2H-F203\nRyria GH-GH-MS-F303\nRina HE-PC-CE-F206\nElianna HE-MF-SH-F204\nLeslie HE-MF-SH-F202\nAdonis HE-MF-DD-M104\nDalolug DW-MF-MS-M303\nGarhar HE-WS-MS-M150\nArirad HE-FM-FM-F201\nFreya HE-PC-CE-F208\nEllie HE-WS-MS-F217\nElizabeth\nSophia\nSonia\nSelena\nSolyn MX-BD-BT-F306\nFisash\nNina HE-BA-BR-F213\nZahra HE-DR-DD-F124\n\nいつくしま みはる\nMiharu Itsukusima\n\nMisao Yukishiro\nReisalin Stout\nCynthia"
   },
   {
     "ID": 10,
@@ -83,5 +83,45 @@
     "ID": 17,
     "Subject": "Divine Hunter Challenge",
     "Memo": "Remain Items\nTechnic League Encampment "
+  },
+  {
+    "ID": 18,
+    "Subject": "Upgrade",
+    "Memo": "Str Cha Fighter\nStr 16 Dex 7 Con 14 Int 14 Wis 7 Cha 19\nSor 1   Combat Expertise\nScaled Fist 1 Dodge\nPaladin 1 Endurance\nPaladin 2\n-> Dargon Disciple -> Skill Focus Arcana\n\nDex Int Fighter\nStr 10 Dex 7 Con 14 Int 14 Wis 7 Cha 19"
+  },
+  {
+    "ID": 19,
+    "Subject": "Wrath of the Righetous",
+    "Memo": "初次有Athleic和World Check 只有主角能完成\n\n後期有Mobilty 20 40等考驗\n\n自己會Peception在後期有好處(30以上, 56 in dance)\n\n自己開鎖 38\nWill Check 25 30 32\n\n後期有自己的Use Magic Device和Perception 測試\n\n在Lann處有Religion DC17此時有隊友可以完成(+3)\n\nNenio許多 Lore(Reigon) 19以及Lore(Knowledge) 19\n\nStoryteller Atheltic DC20 可救下cusader\n\nLeper -> 選擇Sosiel\n\nDrezen -> 兩個Gate都能機關打開賺取更多經驗\n\nWinterrun -> 可能不能殺動物\n\nCall of Stone -> 談判後獎品更好\n\nRest Count 18 + (By Scenario)3\n\n軍團Water Element 極強\n\nBefouled barrow Rest 1\n\nAct 4\n上層強 Echo 弱"
+  },
+  {
+    "ID": 20,
+    "Subject": "Sadistic game design",
+    "Memo": "Your First Big Enemy\nPlaying on Core difficulty or above, defeat the water elemental in the Prologue.\n\nPrelate’s Nemesis\nPlaying on Core difficulty or above, find the nabasu demon on the streets of Kenabres and kill him.\n\nBlight of Drezen\nPlaying on Core difficulty or above, allow Chorussina to summon a powerful demon in Drezen and defeat him.\n\nEnd of Eternal Guard\nPlaying on Core difficulty or above, find and defeat the final Eternal Guardian of the Ivory Sanctum.\n\nPlayful Mood\nPlaying on Core difficulty or above, kill the Playful Darkness in the Midnight Fane.\n\nJust Pathetic\nPlaying on Core difficulty or above, find and defeat the Pathetic Quasit in Alushinyrra.\n\nDreadful Dragon\nPlaying on Core difficulty or above, kill Melazmera, the umbral dragon of Colyphyr.\n\nAshes to Ashes\nPlaying on Core difficulty or above, find and defeat the Ashen Lady in the Ivory Labyrinth."
+  },
+  {
+    "ID": 21,
+    "Subject": "WotR Secret Room",
+    "Memo": "Treasure Island -> last 2 -> 1"
+  },
+  {
+    "ID": 22,
+    "Subject": "WotR Schedule",
+    "Memo": "Rova 11 Day1\nRova 30 Renew ?\nNeth(11) 6 Renew\nNeth(11) 13 Renew\nNeth(11) 27 Renew"
+  },
+  {
+    "ID": 23,
+    "Subject": "WotR IE",
+    "Memo": "Chaos\nSpin of Nightmare\nHelp the Storyteller\nKeystone - Otherside of Threshold\nKeystone - Threshold Mid\nKeystone - Threshold NorthWest\nKeystone - Threshold West\nKeystone - Iz West\nKeystone - Iz East\n\nLaw\nSave Irabeth\nHis Majesty Anguish\nSaving Targona\nCleansing the Ziggurat\nThe Portal of Wish\nDevil on Trial\nDeal with Shamira\nKeystone - Iz South\n"
+  },
+  {
+    "ID": 24,
+    "Subject": "WotR TtA-LoN",
+    "Memo": "主角需要\n\nAthletic 28\n或可能的Mobilty 20\n\n寵物可\n\n後續 選擇內建角色\n\n不能用寵物 Athletic 16 x2\n\nLore (Religon) 15\nDiplomancy 30\nTrickey 20\nWill 23\n選一\n\nLore(Nature) 16\n\nFort 17 18 19 各1\n(沒過Sick 1分?)\n\nPreception 22\n\nLore (Religon) 17\nWill 22\n選1\n\n寶藏"
+  },
+  {
+    "ID": 25,
+    "Subject": "Build",
+    "Memo": "Buff機\nExtend Spell\nSpell Focus - Tran\nHeighten Spell\nSpell Specialization\nGSF - Tran\nExtra Reservior\nReach Spell\nPersistent Spell?"
   }
 ]
