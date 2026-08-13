@@ -8,7 +8,7 @@
     "Choice4": "不我看不上",
     "BestChoice": null,
     "BestResult": null,
-    "Memo": "我全要了 -> 全要事件\n-> 巨大寶石項鍊"
+    "Memo": "1 全要事件\n-> 巨大寶石項鍊\n我只要最好的 -> \n3 5元 惡名+1 俠名-1"
   },
   {
     "ID": 2,
@@ -41,7 +41,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestResult": null,
-    "Memo": "1 投注資金 事件出現"
+    "Memo": "1 投注資金 事件出現\n2 權勢-1 金幣2"
   },
   {
     "ID": 5,
@@ -52,7 +52,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestResult": null,
-    "Memo": "1 \n\n3 善名+1 惡名-1"
+    "Memo": "1 靈視+1 惡名+1\n\n3 善名+1 惡名-1"
   },
   {
     "ID": 6,
@@ -63,7 +63,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestResult": null,
-    "Memo": "2 善名+1 權勢-1\n3 卡牌 戰術1"
+    "Memo": "1 權勢+1\n2 善名+1 權勢-1\n3 卡牌 戰術1"
   },
   {
     "ID": 7,
@@ -74,7 +74,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestResult": null,
-    "Memo": "1 靈視+1\n\n3 善+1 惡-1"
+    "Memo": "1 靈視+1\n2 卡牌 秘氛\n3 善+1 惡-1"
   },
   {
     "ID": 8,
@@ -85,11 +85,11 @@
     "Choice4": "讓我品品",
     "BestChoice": null,
     "BestResult": null,
-    "Memo": "1 俠名-1 惡名+1\n2 權勢+1"
+    "Memo": "1 俠名-1 惡名+1\n2 權勢+1\n4 卡牌 不再恐懼的自由"
   },
   {
     "ID": 9,
-    "Question": "魯梅拉故事\n\n這天清早，你發現魯梅拉俏俏鑽出門，~~",
+    "Question": "E 魯梅拉\n\n這天清早，你發現魯梅拉俏俏鑽出門，~~",
     "Choice1": "阻止她",
     "Choice2": "幫助她",
     "Choice3": "讓她自己處理",
@@ -133,7 +133,7 @@
   },
   {
     "ID": 13,
-    "Question": "魯梅拉故事2\n\n魯梅拉在你面前跪下",
+    "Question": "E 魯梅拉\n\n魯梅拉在你面前跪下",
     "Choice1": "就寫是你殺了他吧",
     "Choice2": "照實寫，是我殺了他",
     "Choice3": null,
@@ -166,7 +166,7 @@
   },
   {
     "ID": 16,
-    "Question": "魯梅拉故事\n\n你的思緒剛剛從魯梅拉的復仇中抽離",
+    "Question": "E 魯梅拉\n\n你的思緒剛剛從魯梅拉的復仇中抽離",
     "Choice1": "同意",
     "Choice2": "拒絕",
     "Choice3": "我需要問問作者的意見",
@@ -177,14 +177,14 @@
   },
   {
     "ID": 17,
-    "Question": "法拉傑的熱情?",
+    "Question": "這天，法拉傑和往常一樣和你談完事務後",
     "Choice1": "我不能背叛妻子",
-    "Choice2": null,
-    "Choice3": null,
+    "Choice2": "我們不是好兄弟嗎？",
+    "Choice3": "只是因為時機未到",
     "Choice4": null,
     "BestChoice": null,
     "BestResult": null,
-    "Memo": "1 琥珀寶石吊飾 激情-1\n"
+    "Memo": "1 琥珀寶石吊飾 激情-1\n\n3 無事發生"
   },
   {
     "ID": 18,
@@ -195,7 +195,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestResult": null,
-    "Memo": "3 俠名+1"
+    "Memo": "1 權勢+1 俠名-1\n3 俠名+1"
   },
   {
     "ID": 19,
@@ -228,7 +228,7 @@
     "Choice4": "向蘇丹報告",
     "BestChoice": null,
     "BestResult": null,
-    "Memo": "2 俠名+1 權勢-1"
+    "Memo": "1 金幣3\n2 俠名+1 權勢-1"
   },
   {
     "ID": 22,
@@ -239,7 +239,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestResult": null,
-    "Memo": "1 善名+1"
+    "Memo": "1 善名+1\n2 俠名+1 3元"
   },
   {
     "ID": 23,
@@ -261,7 +261,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestResult": null,
-    "Memo": "3 靈視+1"
+    "Memo": "2 金幣3\n3 靈視+1"
   },
   {
     "ID": 25,
@@ -272,7 +272,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestResult": null,
-    "Memo": "3 權勢-1"
+    "Memo": "2 事件 黃金鳥\n3 權勢-1"
   },
   {
     "ID": 26,
@@ -294,7 +294,7 @@
     "Choice4": "放任自流",
     "BestChoice": null,
     "BestResult": null,
-    "Memo": "4 俠名+1"
+    "Memo": "2 善名+1\n4 俠名+1"
   },
   {
     "ID": 28,
@@ -303,9 +303,9 @@
     "Choice2": "趁火打劫",
     "Choice3": "號召救火",
     "Choice4": null,
-    "BestChoice": null,
+    "BestChoice": "1",
     "BestResult": null,
-    "Memo": "3 善名+1 惡名-1"
+    "Memo": "1 權勢+1 巨大寶石項鍊\n3 善名+1 惡名-1"
   },
   {
     "ID": 29,
@@ -316,7 +316,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestResult": null,
-    "Memo": "1 善名+1\n2 權勢+1"
+    "Memo": "1 善名+1\n2 權勢+1\n3 避避風頭 (多等3回合)"
   },
   {
     "ID": 30,
@@ -405,5 +405,467 @@
     "BestChoice": null,
     "BestResult": null,
     "Memo": "1 權勢+1\n2\n3 卡牌 內幕"
+  },
+  {
+    "ID": 38,
+    "Question": "蘇丹突發雅興，要你來評一下他後宮最美的女性是誰",
+    "Choice1": "是跟隨您最久的女人",
+    "Choice2": "是最新到手的女人",
+    "Choice3": "是您的下一個女人",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 卡牌 洞察"
+  },
+  {
+    "ID": 39,
+    "Question": "E 魯梅拉\n\n你發現魯梅拉枯坐在你家的書齋中",
+    "Choice1": "寫書人偏狹",
+    "Choice2": "未記於紙頁上",
+    "Choice3": "不值得紀錄",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 俠名+1"
+  },
+  {
+    "ID": 40,
+    "Question": "有幾個過去與你在同一間學堂讀書的朋友",
+    "Choice1": "靈魂",
+    "Choice2": "智識",
+    "Choice3": "身體",
+    "Choice4": "神性",
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "3 靈視-1 卡牌 戰術"
+  },
+  {
+    "ID": 41,
+    "Question": "E 扎齊伊\n\n扎齊伊希望向你學習武藝",
+    "Choice1": "武術指導",
+    "Choice2": "唆使犯罪",
+    "Choice3": "狩獵實戰",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 體魄考驗"
+  },
+  {
+    "ID": 42,
+    "Question": "有兩個人在城裡起了爭執",
+    "Choice1": "原主人",
+    "Choice2": "鄰居",
+    "Choice3": "歸我所有",
+    "Choice4": "宰羊分食",
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "4 權勢+1"
+  },
+  {
+    "ID": 43,
+    "Question": "E 魯梅拉\n\n你最近偶然發現，每到午後不那麼忙的時分",
+    "Choice1": "應該留下",
+    "Choice2": "不該留下",
+    "Choice3": "別浪費僕人的時間了",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "3 權勢+1"
+  },
+  {
+    "ID": 44,
+    "Question": "你的鄰居 -- 一名學者",
+    "Choice1": "取消宴會",
+    "Choice2": "請他搬家",
+    "Choice3": "置之不理",
+    "Choice4": "將他刺聾",
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "3 權勢+1"
+  },
+  {
+    "ID": 45,
+    "Question": "E\n\n僕人告訴你，馬爾基娜和一個陌生男子在你的宅邸外面發生了爭執",
+    "Choice1": "都怪你",
+    "Choice2": "都怪你身後的女人",
+    "Choice3": "馬爾基娜你也真是的",
+    "Choice4": "關我屁事",
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "4 阿爾圖 生存+1"
+  },
+  {
+    "ID": 46,
+    "Question": "E 舍館\n\n這天，你來到舍館時，看到有一群人正圍著一個男子",
+    "Choice1": "喝斥他",
+    "Choice2": "讚揚他",
+    "Choice3": "挑釁他",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 先付款後交貨 事件出現"
+  },
+  {
+    "ID": 47,
+    "Question": "E 奈費勒\n\n你在一次路過與奈費勒密會的偏僻宅邸時",
+    "Choice1": "怎麼？我不能來？",
+    "Choice2": "打擾了，我走錯了",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "2 之後似乎無事"
+  },
+  {
+    "ID": 48,
+    "Question": "E 哲瓦德\n哲瓦德找到你，諂媚地笑著",
+    "Choice1": "阿魯米娜小姐能有多好呢？",
+    "Choice2": "你是來浪費我的時間的嗎？",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "2 金幣3"
+  },
+  {
+    "ID": 49,
+    "Question": "有人呈上了一本在鬧市流行的小冊子",
+    "Choice1": "這是對蘇丹的頌揚",
+    "Choice2": "這是對蘇丹的詆毀",
+    "Choice3": "這是婦人的玩樂而已",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "2 善名-1 權勢+1"
+  },
+  {
+    "ID": 50,
+    "Question": "有人將孩子寄養在頗有些生意往來的沙民部落之中",
+    "Choice1": "搜尋亡駭",
+    "Choice2": "禱告?",
+    "Choice3": "你們要負責?",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 事件 搜尋亡駭 (任意人 7天)"
+  },
+  {
+    "ID": 51,
+    "Question": "E 哲瓦德\n有位不速之客突然登門",
+    "Choice1": "調戲她",
+    "Choice2": "答應她",
+    "Choice3": "拒絕她",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 事件 氣急敗壞 卡牌 昂貴的金面紗"
+  },
+  {
+    "ID": 52,
+    "Question": "附近的另一個氏族眷養的詩人這段時間總是在寫詩諷刺你",
+    "Choice1": "隔空對罵",
+    "Choice2": "與之決鬥",
+    "Choice3": "大加讚賞",
+    "Choice4": "求助蘇丹",
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 權勢-1"
+  },
+  {
+    "ID": 53,
+    "Question": "E 阿里木\n\n這天晚上，阿里木突然敲響了你家的門",
+    "Choice1": "接受",
+    "Choice2": "拒絕",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 事件 腐爛之巢"
+  },
+  {
+    "ID": 54,
+    "Question": "最近王城中有幾處水井突然變苦了",
+    "Choice1": "開掘新井",
+    "Choice2": "城外供水",
+    "Choice3": "忍耐一下",
+    "Choice4": "調查甜水井",
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 卡牌 內幕"
+  },
+  {
+    "ID": 55,
+    "Question": "E 自動事件\n「我們逃跑吧，」妻子說",
+    "Choice1": "接受",
+    "Choice2": "拒絕",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 產生新結局目標\n2 無事"
+  },
+  {
+    "ID": 56,
+    "Question": "一個衣著華貴的傢伙突然來到你門前",
+    "Choice1": "揭穿他",
+    "Choice2": "黑吃黑",
+    "Choice3": "利用他",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 善名+1 俠名+1\n2 俠名+1 1元\n3 權勢+1 金幣3"
+  },
+  {
+    "ID": 57,
+    "Question": "在厄運降臨的時候，你和妻子就遣散了大部分僕人",
+    "Choice1": "這錢是我給他的",
+    "Choice2": "就用她的身體來抵罪吧",
+    "Choice3": "留下錢，讓他滾",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "3 金幣3"
+  },
+  {
+    "ID": 58,
+    "Question": "有人狀告自己的鄰居，說對方摔碎了自己隨身攜帶的聖石~~",
+    "Choice1": "這是敲詐",
+    "Choice2": "這是合理的索賠",
+    "Choice3": "讓我看看這石頭",
+    "Choice4": "你竟敢公然敬拜異神",
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "2 權勢+1 俠名-1"
+  },
+  {
+    "ID": 59,
+    "Question": "E 扎齊伊\n\n扎齊伊想要增進自己的社交技巧",
+    "Choice1": "宮廷社交",
+    "Choice2": "浴場閒談",
+    "Choice3": "歡愉之館",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "3 事件"
+  },
+  {
+    "ID": 60,
+    "Question": "E\n\n這顆頭顱脖頸處的鮮血早已凝結",
+    "Choice1": "做成首飾",
+    "Choice2": "送給盟友",
+    "Choice3": "送給哲巴爾",
+    "Choice4": "賣給感興趣的商人",
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 推薦給熱娜 -> 狼頭圍巾"
+  },
+  {
+    "ID": 61,
+    "Question": "E\n\n顯然，這位流民並不完全領你的情",
+    "Choice1": "我只是盡力玩好這個遊戲",
+    "Choice2": "我只是為你們好",
+    "Choice3": "你現在在我手裡",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "3 沒特別效果 之後可能會消失"
+  },
+  {
+    "ID": 62,
+    "Question": "E\n\n梅姬在晚餐時，不經意地跟你說起了今天在浴室的遭遇",
+    "Choice1": "讚美妻子",
+    "Choice2": "少出風頭",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 事件發生\n2 沒有事情"
+  },
+  {
+    "ID": 63,
+    "Question": "E 扎齊伊\n\n扎齊伊想要知道，如果你心中有所困惑",
+    "Choice1": "去書店",
+    "Choice2": "去監獄",
+    "Choice3": "去黑街",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 +2智力 +2魅力\n2 貌似+3 智力\n3"
+  },
+  {
+    "ID": 64,
+    "Question": "一名貴族攔住你，希望你能告訴他",
+    "Choice1": "你是岩石品級",
+    "Choice2": "你是青銅品級",
+    "Choice3": "你是白銀品級",
+    "Choice4": "你是黃金品級",
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 俠名+1"
+  },
+  {
+    "ID": 65,
+    "Question": "你的鄰居，一個什麼都要和你攀比的蠢貨",
+    "Choice1": "滿足他的幻想",
+    "Choice2": "教訓他一頓",
+    "Choice3": "置之不理",
+    "Choice4": "只是女人？",
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 事件\n2 俠名+1"
+  },
+  {
+    "ID": 66,
+    "Question": "E\n\n只要稍微想想就知道，這是一個極好的把柄，",
+    "Choice1": "要挾哲巴爾",
+    "Choice2": "呈給蘇丹",
+    "Choice3": "拿去黑街揚名",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "3 事件 黑街揚名"
+  },
+  {
+    "ID": 67,
+    "Question": "E 扎齊伊\n\n扎齊伊這天早上就來拜訪你",
+    "Choice1": "邀請他去",
+    "Choice2": "這不合適",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 事件 浴池裡的波瀾"
+  },
+  {
+    "ID": 68,
+    "Question": "E\n\n雖然法爾克死了，但蘇丹還是寬宏大量",
+    "Choice1": "幫助修建暗渠",
+    "Choice2": "舉行獻祭儀式",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 事件 修建暗渠 7回合出現"
+  },
+  {
+    "ID": 69,
+    "Question": "你治下的農夫們憂心忡忡，",
+    "Choice1": "這是神祕符文",
+    "Choice2": "這是小偷記號",
+    "Choice3": "張貼廣告要收稅",
+    "Choice4": "別來煩我",
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 靈視+1\n2 善名+1 俠名-1\n3 權勢+1 1元\n4 惡名+1 善名-1"
+  },
+  {
+    "ID": 70,
+    "Question": "有人敲開你的家門，幽幽地看著你",
+    "Choice1": "那拜託了",
+    "Choice2": "滾開，你騙錯人了",
+    "Choice3": "你會為你的胡言亂語付出代價",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "2 靈視+1"
+  },
+  {
+    "ID": 71,
+    "Question": "E\n\n芮爾一舉擒獲了豺狼眾餘部召集起來的新任老大",
+    "Choice1": "讓我嘗嘗！",
+    "Choice2": "還是算了....",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 事件 肝膽相照 綁主角 +1力量\n2 不明"
+  },
+  {
+    "ID": 72,
+    "Question": "E 拉伊德\n\n拉伊德直接找到了你....她的態度十分戒備，恐怕是已經聽街頭的人提到了",
+    "Choice1": "我會保密",
+    "Choice2": "看你表現了",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": "1",
+    "BestResult": null,
+    "Memo": "1 卡牌 妃子的決心 友誼的見證\n2 卡牌 妃子的決心"
+  },
+  {
+    "ID": 73,
+    "Question": "E 扎齊伊\n\n扎齊伊獨自來找你，他若有所思地問你",
+    "Choice1": "未必會有回報",
+    "Choice2": "一定會有回報的",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 卡牌 秘密x1 命運的羈絆"
+  },
+  {
+    "ID": 74,
+    "Question": "E\n\n這天，你路過純淨者教會時，正看到幾位低級僧侶",
+    "Choice1": "我應當追根究柢",
+    "Choice2": "肯定是我看錯了",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1  事件 靈光之試"
+  },
+  {
+    "ID": 75,
+    "Question": "E\n\n你解決了法爾達克領地上的難題~~",
+    "Choice1": "施以嚴懲",
+    "Choice2": "許以重利",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "仁慈的許諾"
+  },
+  {
+    "ID": 76,
+    "Question": "E\n\n與奈布哈尼展開一段奇妙的尋歡之旅",
+    "Choice1": "我就要",
+    "Choice2": "算了司萬了",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 最受歡迎的男人"
+  },
+  {
+    "ID": 77,
+    "Question": "E 齊亞\n\n稅務官齊亞德再度登門。",
+    "Choice1": "促成談判",
+    "Choice2": "強硬驅逐",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "2 事件 強硬驅逐 "
+  },
+  {
+    "ID": 78,
+    "Question": "E 齊亞\n\n稅務官齊亞對你的手段深感欽佩",
+    "Choice1": "核查漏洞",
+    "Choice2": "神聖審判",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": "1 "
+  },
+  {
+    "ID": 79,
+    "Question": "最近你發現夏瑪似乎有點鬱鬱寡歡，你們之間的關係",
+    "Choice1": "我可以幫你殺了你父親",
+    "Choice2": "我可以納你為妾室",
+    "Choice3": "我們還是聊點別的吧",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestResult": null,
+    "Memo": null
   }
 ]
