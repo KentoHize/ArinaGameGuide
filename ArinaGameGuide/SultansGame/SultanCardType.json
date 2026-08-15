@@ -16,5 +16,17 @@
   },
   {
     "Name": "AllExceptConquest"
+  },
+  {
+    "Name": "Bloodshed/Conquest"
+  },
+  {
+    "Name": "Extravagance/Carnality"
+  },
+  {
+    "Name": "Conquest/Extravagance"
+  },
+  {
+    "Name": "Conquest/Carnality"
   }
 ]

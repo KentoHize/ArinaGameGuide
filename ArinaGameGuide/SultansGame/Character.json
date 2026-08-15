@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Protagonist",
+    "CName": "主角"
+  },
+  {
+    "Name": "Maggie",
+    "CName": "梅姬"
+  },
+  {
+    "Name": "Lumera",
+    "CName": "魯梅拉"
+  },
+  {
+    "Name": "Arzuna",
+    "CName": "阿爾圖娜"
+  },
+  {
+    "Name": "Faraj",
+    "CName": "法拉傑"
+  },
+  {
+    "Name": "Jenna",
+    "CName": "熱娜"
+  },
+  {
+    "Name": "Zaki",
+    "CName": "扎齊伊"
+  },
+  {
+    "Name": "Lady Becky",
+    "CName": "貝姬夫人"
+  },
+  {
+    "Name": "Any",
+    "CName": "任意"
+  },
+  {
+    "Name": "Protagonist/Maggie",
+    "CName": "主角或梅姬"
+  }
+]

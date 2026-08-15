@@ -7,5 +7,14 @@
   },
   {
     "Name": "Weapon"
+  },
+  {
+    "Name": "Gem"
+  },
+  {
+    "Name": "Stackable"
+  },
+  {
+    "Name": "Owned"
   }
 ]
