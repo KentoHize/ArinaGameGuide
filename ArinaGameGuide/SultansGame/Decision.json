@@ -9,7 +9,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1 全要事件\n-> 巨大寶石項鍊\n我只要最好的 -> \n3 5元 惡名+1 俠名-1"
+    "Memo": "1 全要事件\n-> 巨大寶石項鍊\n2  \n3 5元 惡名+1 俠名-1"
   },
   {
     "ID": 2,
@@ -129,7 +129,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1 善名+1\n2 權勢-1 金幣5"
+    "Memo": "1 善名+1\n2 權勢-1 金幣5\n4 權勢+2 善名-1"
   },
   {
     "ID": 12,
@@ -138,10 +138,10 @@
     "Choice2": "這是吉兆",
     "Choice3": "這是凶兆",
     "Choice4": null,
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 1,
+    "BestChoice2": 3,
     "BestResult": null,
-    "Memo": "1 俠名+1\n2 權勢+1"
+    "Memo": "1 俠名+1\n2 權勢+1\n3 靈視+1\n\n1在事件上也最理想"
   },
   {
     "ID": 13,
@@ -165,7 +165,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1 慷慨解囊 事件(捐10元)"
+    "Memo": "1 慷慨解囊 事件(捐10元)\n3 善名-1(奇妙，照理來說是騙術)"
   },
   {
     "ID": 15,
@@ -301,7 +301,7 @@
   },
   {
     "ID": 26,
-    "Question": "夏瑪\n\n最近你發現夏瑪似乎有點鬱鬱寡歡~~",
+    "Question": "E 夏瑪\n\n最近你發現夏瑪似乎有點鬱鬱寡歡~~",
     "Choice1": "我可以幫你殺了妳父親",
     "Choice2": "我可以納你為妾室",
     "Choice3": "我們還是聊點別的吧",
@@ -309,7 +309,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1　師出有名"
+    "Memo": "1 師出有名\n2 30元事件\n3 夏瑪 孤注一擲 出現"
   },
   {
     "ID": 27,
@@ -501,7 +501,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "4 權勢+1"
+    "Memo": "3 惡名+1\n4 權勢+1"
   },
   {
     "ID": 43,
@@ -621,7 +621,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1 權勢-1"
+    "Memo": "1 權勢-1\n2 權勢+1 善名-1"
   },
   {
     "ID": 53,
@@ -705,7 +705,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "3 事件"
+    "Memo": "1 社交教習\n3 事件"
   },
   {
     "ID": 60,
