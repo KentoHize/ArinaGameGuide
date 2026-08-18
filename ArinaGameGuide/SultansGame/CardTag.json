@@ -16,5 +16,14 @@
   },
   {
     "Name": "Owned"
+  },
+  {
+    "Name": "Consumable"
+  },
+  {
+    "Name": "Treasure"
+  },
+  {
+    "Name": "A Way Through"
   }
 ]

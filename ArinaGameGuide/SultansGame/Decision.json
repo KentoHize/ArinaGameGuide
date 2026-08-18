@@ -9,7 +9,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1 全要事件\n-> 巨大寶石項鍊\n2  \n3 5元 惡名+1 俠名-1"
+    "Memo": "1 全要事件\n-> 巨大寶石項鍊\n2  \n3 5元 惡名+1 俠名-1\n4 無事"
   },
   {
     "ID": 2,
@@ -90,10 +90,10 @@
     "Choice2": "微妙暗示",
     "Choice3": "請示蘇丹",
     "Choice4": "讓我品品",
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 2,
+    "BestChoice2": 3,
     "BestResult": null,
-    "Memo": "1 俠名-1 惡名+1\n2 權勢+1\n4 卡牌 不再恐懼的自由"
+    "Memo": "1 俠名-1 惡名+1\n2 權勢+1\n3 金幣5\n4 卡牌 不再恐懼的自由"
   },
   {
     "ID": 9,
@@ -129,7 +129,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1 善名+1\n2 權勢-1 金幣5\n4 權勢+2 善名-1"
+    "Memo": "1 善名+1\n2 權勢-1 金幣5\n3 俠名+1\n4 權勢+2 善名-1"
   },
   {
     "ID": 12,
@@ -249,17 +249,17 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1 金幣3\n2 俠名+1 權勢-1\n3 權勢+1 俠名-1\n4 說被押進監獄但沒看到"
+    "Memo": "1 金幣3\n2 俠名+1 權勢-1\n3 權勢+1 俠名-1\n4 被押進監獄(之後可能消失，付10元可得口無遮攔的囚犯，非食客一般追隨者)"
   },
   {
     "ID": 22,
-    "Question": "E\n\n就在書店老闆和賣書的男人討價還價之時",
+    "Question": "E 淘書\n\n就在書店老闆和賣書的男人討價還價之時",
     "Choice1": "你們走吧，把書留下",
     "Choice2": "我要懲罰你們",
     "Choice3": null,
     "Choice4": null,
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 1,
+    "BestChoice2": 2,
     "BestResult": null,
     "Memo": "1 善名+1\n2 俠名+1 3元"
   },
@@ -349,7 +349,7 @@
   },
   {
     "ID": 30,
-    "Question": "E\n\n你找到了陷害你的大臣，而他面如死灰，強打著精神向你承諾",
+    "Question": "E 碩鼠\n\n你找到了陷害你的大臣，而他面如死灰，強打著精神向你承諾",
     "Choice1": "我要你公開向我道歉",
     "Choice2": "我需要你的支持",
     "Choice3": "我要你賠錢",
@@ -357,19 +357,19 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1 俠名+2"
+    "Memo": "1 俠名+2\n2 嫉妒的大臣反對-1 支持+2 權勢+1"
   },
   {
     "ID": 31,
-    "Question": "你們倘佯在黑街上，打量著一個又一個",
+    "Question": "E\n\n你們倘佯在黑街上，打量著一個又一個",
     "Choice1": "和他爭搶",
     "Choice2": "看看今天帶的卡",
     "Choice3": null,
     "Choice4": null,
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 2,
+    "BestChoice2": 1,
     "BestResult": null,
-    "Memo": "2 惡名+1 金幣3"
+    "Memo": "1 俠名+1 罪證\n2 惡名+1 金幣3"
   },
   {
     "ID": 32,
@@ -438,8 +438,8 @@
     "Choice2": "給他們優惠價格",
     "Choice3": "認真幹旋",
     "Choice4": null,
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 1,
+    "BestChoice2": 2,
     "BestResult": null,
     "Memo": "1 權勢+1\n2 善名+1 權勢-1\n3 卡牌 內幕"
   },
@@ -582,10 +582,10 @@
     "Choice2": "這是對蘇丹的詆毀",
     "Choice3": "這是婦人的玩樂而已",
     "Choice4": null,
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 3,
+    "BestChoice2": 1,
     "BestResult": null,
-    "Memo": "2 善名-1 權勢+1"
+    "Memo": "1 3元\n2 善名-1 權勢+1\n3 善名+1"
   },
   {
     "ID": 50,
@@ -642,10 +642,10 @@
     "Choice2": "城外供水",
     "Choice3": "忍耐一下",
     "Choice4": "調查甜水井",
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 4,
+    "BestChoice2": 2,
     "BestResult": null,
-    "Memo": "1 卡牌 內幕\n2 3元\n3 惡名+1"
+    "Memo": "1 卡牌 內幕\n2 3元\n3 惡名+1\n4 俠名+1 權勢-1(正解)"
   },
   {
     "ID": 55,
@@ -774,10 +774,10 @@
     "Choice2": "教訓他一頓",
     "Choice3": "置之不理",
     "Choice4": "只是女人？",
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 2,
+    "BestChoice2": 1,
     "BestResult": null,
-    "Memo": "1 事件\n2 俠名+1"
+    "Memo": "1 事件\n2 俠名+1\n3 惡名+1 善名-1\n4 事件 如你所願"
   },
   {
     "ID": 66,
@@ -805,15 +805,15 @@
   },
   {
     "ID": 68,
-    "Question": "E\n\n雖然法爾克死了，但蘇丹還是寬宏大量",
+    "Question": "E 法爾達克\n\n雖然法爾克死了，但蘇丹還是寬宏大量\n\n或\n\n在你慷慨而善良的幫助下，",
     "Choice1": "幫助修建暗渠",
     "Choice2": "舉行獻祭儀式",
     "Choice3": null,
     "Choice4": null,
-    "BestChoice": null,
+    "BestChoice": 1,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1 事件 修建暗渠 7回合出現"
+    "Memo": "1 事件 修建暗渠 7回合出現\n2 事件 祈雨獻祭 (5點魔力並且需要黑暗知識，沒有限制時間)"
   },
   {
     "ID": 69,
@@ -822,8 +822,8 @@
     "Choice2": "這是小偷記號",
     "Choice3": "張貼廣告要收稅",
     "Choice4": "別來煩我",
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 1,
+    "BestChoice2": 3,
     "BestResult": null,
     "Memo": "1 靈視+1\n2 善名+1 俠名-1\n3 權勢+1 1元\n4 惡名+1 善名-1"
   },
@@ -841,7 +841,7 @@
   },
   {
     "ID": 71,
-    "Question": "E\n\n芮爾一舉擒獲了豺狼眾餘部召集起來的新任老大",
+    "Question": "E 芮爾\n\n芮爾一舉擒獲了豺狼眾餘部召集起來的新任老大",
     "Choice1": "讓我嘗嘗！",
     "Choice2": "還是算了....",
     "Choice3": null,
@@ -849,7 +849,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1 事件 肝膽相照 綁主角 +1力量\n2 不明"
+    "Memo": "1 事件 肝膽相照 綁主角 +1力量\n2 無事(不明)"
   },
   {
     "ID": 72,
@@ -873,7 +873,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1 卡牌 秘密x1 命運的羈絆"
+    "Memo": "1 卡牌 秘密x1 命運的羈絆\n2 卡牌 智慧寶珠"
   },
   {
     "ID": 74,
@@ -889,7 +889,7 @@
   },
   {
     "ID": 75,
-    "Question": "E\n\n你解決了法爾達克領地上的難題~~",
+    "Question": "E 齊亞德\n\n你解決了法爾達克領地上的難題~~",
     "Choice1": "施以嚴懲",
     "Choice2": "許以重利",
     "Choice3": null,
@@ -897,7 +897,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "仁慈的許諾"
+    "Memo": "1 事件 嚴厲懲罰(5智慧 5體魄各1名 3回合)\n2 事件 仁慈的許諾"
   },
   {
     "ID": 76,
@@ -913,7 +913,7 @@
   },
   {
     "ID": 77,
-    "Question": "E 齊亞\n\n稅務官齊亞德再度登門。",
+    "Question": "E 齊亞德\n\n稅務官齊亞德再度登門。",
     "Choice1": "促成談判",
     "Choice2": "強硬驅逐",
     "Choice3": null,
@@ -925,7 +925,7 @@
   },
   {
     "ID": 78,
-    "Question": "E 齊亞\n\n稅務官齊亞對你的手段深感欽佩",
+    "Question": "E 齊亞德\n\n稅務官齊亞德對你的手段深感欽佩",
     "Choice1": "核查漏洞",
     "Choice2": "神聖審判",
     "Choice3": null,
@@ -1018,5 +1018,65 @@
     "BestChoice2": null,
     "BestResult": null,
     "Memo": "激情-1"
+  },
+  {
+    "ID": 86,
+    "Question": "E 哈比卜\n\n這天你來到舍館，正好看到哈比卜",
+    "Choice1": "你想怎麼利用起來？",
+    "Choice2": "沒有這個必要",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestResult": null,
+    "Memo": "2 ..說不定發生下一個事件"
+  },
+  {
+    "ID": 87,
+    "Question": "E 哈比卜\n\n這天，你突然發現有幾個骨瘦如柴的乞丐",
+    "Choice1": "你們跟我來",
+    "Choice2": "你們在幹什麼",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestResult": null,
+    "Memo": "2 可能無事"
+  },
+  {
+    "ID": 88,
+    "Question": "E 瑪希爾\n\n瑪希爾臉蛋紅通通的來找你",
+    "Choice1": "金錢",
+    "Choice2": "力量",
+    "Choice3": "愛情",
+    "Choice4": "知識",
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestResult": null,
+    "Memo": "3 可能沒差\n\n姑且先多問一句"
+  },
+  {
+    "ID": 89,
+    "Question": "E 法爾達克\n\n法爾達克最近有些苦惱。",
+    "Choice1": "當然，我甚至可以為你介紹",
+    "Choice2": "不，這樣是不會得到幸福的",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestResult": null,
+    "Memo": "1 事件 證婚人"
+  },
+  {
+    "ID": 90,
+    "Question": "E 法圖娜",
+    "Choice1": null,
+    "Choice2": "和梅姬",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestResult": null,
+    "Memo": "2 卡牌 內幕"
   }
 ]

@@ -13,6 +13,8 @@
     "Survival": 0,
     "Magic": null,
     "Support": null,
+    "Opposition": null,
+    "Passion": null,
     "Memo": ""
   },
   {
@@ -29,6 +31,8 @@
     "Survival": null,
     "Magic": null,
     "Support": null,
+    "Opposition": null,
+    "Passion": null,
     "Memo": ""
   },
   {
@@ -45,6 +49,8 @@
     "Survival": null,
     "Magic": null,
     "Support": null,
+    "Opposition": null,
+    "Passion": null,
     "Memo": ""
   },
   {
@@ -61,6 +67,8 @@
     "Survival": null,
     "Magic": null,
     "Support": null,
+    "Opposition": null,
+    "Passion": null,
     "Memo": ""
   },
   {
@@ -77,6 +85,8 @@
     "Survival": null,
     "Magic": null,
     "Support": null,
+    "Opposition": null,
+    "Passion": null,
     "Memo": ""
   },
   {
@@ -93,6 +103,8 @@
     "Survival": null,
     "Magic": null,
     "Support": null,
+    "Opposition": null,
+    "Passion": null,
     "Memo": ""
   },
   {
@@ -109,6 +121,8 @@
     "Survival": null,
     "Magic": null,
     "Support": null,
+    "Opposition": null,
+    "Passion": null,
     "Memo": ""
   },
   {
@@ -125,6 +139,8 @@
     "Survival": null,
     "Magic": null,
     "Support": null,
+    "Opposition": null,
+    "Passion": null,
     "Memo": ""
   },
   {
@@ -141,6 +157,8 @@
     "Survival": null,
     "Magic": null,
     "Support": null,
+    "Opposition": null,
+    "Passion": null,
     "Memo": ""
   },
   {
@@ -157,6 +175,8 @@
     "Survival": null,
     "Magic": null,
     "Support": null,
+    "Opposition": null,
+    "Passion": null,
     "Memo": ""
   },
   {
@@ -173,6 +193,62 @@
     "Survival": 1,
     "Magic": null,
     "Support": 2,
+    "Opposition": null,
+    "Passion": null,
+    "Memo": "化妝+4生存"
+  },
+  {
+    "Name": "Fardak",
+    "CName": "法爾達克",
+    "Title": "Royal Hostage from a Vassal Tribe",
+    "Rank": "Silver",
+    "Physique": 2,
+    "Charisma": 5,
+    "Wisdom": 3,
+    "Combat": null,
+    "Steath": null,
+    "Sociability": 3,
+    "Survival": null,
+    "Magic": null,
+    "Support": null,
+    "Opposition": null,
+    "Passion": null,
+    "Memo": ""
+  },
+  {
+    "Name": "Fatuna",
+    "CName": "法圖娜",
+    "Title": "Wealthy Widow",
+    "Rank": "Brone",
+    "Physique": 1,
+    "Charisma": 3,
+    "Wisdom": 1,
+    "Combat": null,
+    "Steath": null,
+    "Sociability": 2,
+    "Survival": null,
+    "Magic": null,
+    "Support": 5,
+    "Opposition": 1,
+    "Passion": 1,
+    "Memo": ""
+  },
+  {
+    "Name": "Outspoken Prisoner",
+    "CName": "口無遮攔的囚犯",
+    "Title": "Prisoner",
+    "Rank": "Brone",
+    "Physique": null,
+    "Charisma": null,
+    "Wisdom": null,
+    "Combat": 2,
+    "Steath": null,
+    "Sociability": null,
+    "Survival": 1,
+    "Magic": null,
+    "Support": 1,
+    "Opposition": null,
+    "Passion": null,
     "Memo": ""
   }
 ]
