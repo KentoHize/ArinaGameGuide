@@ -18,10 +18,10 @@
     "Choice2": "反對她的主張",
     "Choice3": "不如你們結婚吧",
     "Choice4": null,
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 1,
+    "BestChoice2": 3,
     "BestResult": null,
-    "Memo": "1 可能隨機一個銀寶物 巨大寶石項鍊/重劍\n2 金幣3\n3 權勢1"
+    "Memo": "1 可能隨機一個銀寶物 巨大寶石項鍊/重劍/流星錘\n2 金幣3\n3 權勢1"
   },
   {
     "ID": 3,
@@ -42,8 +42,8 @@
     "Choice2": "堅定拒絕",
     "Choice3": "提出質疑",
     "Choice4": null,
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 1,
+    "BestChoice2": 3,
     "BestResult": null,
     "Memo": "1 投注資金 事件出現\n2 權勢-1 金幣2\n3 俠名+1\n"
   },
@@ -90,8 +90,8 @@
     "Choice2": "微妙暗示",
     "Choice3": "請示蘇丹",
     "Choice4": "讓我品品",
-    "BestChoice": 2,
-    "BestChoice2": 3,
+    "BestChoice": 3,
+    "BestChoice2": 4,
     "BestResult": null,
     "Memo": "1 俠名-1 惡名+1\n2 權勢+1\n3 金幣5\n4 卡牌 不再恐懼的自由"
   },
@@ -174,10 +174,10 @@
     "Choice2": "找機會敲他悶棍",
     "Choice3": "在宮廷上羞辱他",
     "Choice4": "免了他的債",
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 4,
+    "BestChoice2": 2,
     "BestResult": null,
-    "Memo": "2 卡牌 背叛的朋友\n3 惡名+1 權勢+1\n4 善名+1 權勢+1"
+    "Memo": "1 卡牌 秘密x1\n2 卡牌 背叛的朋友\n3 惡名+1 權勢+1\n4 善名+1 權勢+1"
   },
   {
     "ID": 16,
@@ -234,10 +234,10 @@
     "Choice2": "是兇夢",
     "Choice3": "是自省夢",
     "Choice4": "你睡糊塗了",
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 1,
+    "BestChoice2": 3,
     "BestResult": null,
-    "Memo": "1 幸福感+1\n2 梅姬激情+1\n3 靈視+1\n4 靈視-1 妻子的不滿+1"
+    "Memo": "1 幸福感+1\n2 梅姬激情+1\n3 靈視+1\n4 靈視-1 妻子的不滿+1\n\n有需要幸福感時幸福感，或是2 3"
   },
   {
     "ID": 21,
@@ -417,7 +417,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1 俠名+1\n2 5元"
+    "Memo": "1 俠名+1\n2 5元\n3 事件 你需要多少錢"
   },
   {
     "ID": 36,
@@ -522,10 +522,10 @@
     "Choice2": "請他搬家",
     "Choice3": "置之不理",
     "Choice4": "將他刺聾",
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 2,
+    "BestChoice2": 1,
     "BestResult": null,
-    "Memo": "3 權勢+1\n4 惡名+1 善名-1"
+    "Memo": "2 俠名+1\n3 權勢+1\n4 惡名+1 善名-1"
   },
   {
     "ID": 45,
@@ -534,10 +534,10 @@
     "Choice2": "都怪你身後的女人",
     "Choice3": "馬爾基娜你也真是的",
     "Choice4": "關我屁事",
-    "BestChoice": null,
+    "BestChoice": 2,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1 權勢+1\n3 馬爾基娜 魅力+1\n4 阿爾圖 生存+1"
+    "Memo": "1 權勢+1\n2 俠名+1\n3 馬爾基娜 魅力+1 (實驗中)\n4 阿爾圖 生存+1 (可能無法繼續事件)"
   },
   {
     "ID": 46,
@@ -618,10 +618,10 @@
     "Choice2": "與之決鬥",
     "Choice3": "大加讚賞",
     "Choice4": "求助蘇丹",
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 3,
+    "BestChoice2": 4,
     "BestResult": null,
-    "Memo": "1 權勢-1\n2 權勢+1 善名-1"
+    "Memo": "1 權勢-1\n2 權勢+1 善名-1\n3\n4 事件 討伐氏族 (3回合內需征服卡)"
   },
   {
     "ID": 53,
@@ -678,10 +678,10 @@
     "Choice2": "就用他的身體來抵罪吧",
     "Choice3": "留下錢，讓他滾",
     "Choice4": null,
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 1,
+    "BestChoice2": 2,
     "BestResult": null,
-    "Memo": "2 卡牌 等死的奴隸\n3 金幣3"
+    "Memo": "1 善名+1 惡名-1\n2 卡牌 等死的奴隸\n3 金幣3"
   },
   {
     "ID": 58,
@@ -1114,5 +1114,65 @@
     "BestChoice2": null,
     "BestResult": null,
     "Memo": "1 勇士歡宴\n2 無事"
+  },
+  {
+    "ID": 96,
+    "Question": "E 瑪希爾\n\n瑪希爾最近有一個天才的想法",
+    "Choice1": "沒別人，進來吧",
+    "Choice2": "還是下次再說.....",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestResult": null,
+    "Memo": "1 -> 摸就摸吧 -> 靈視 +1 事件 不潔的原料\n2 無事"
+  },
+  {
+    "ID": 97,
+    "Question": "E 哈桑\n\n這些詞句顯然指向了那神秘的存在",
+    "Choice1": "給其他人看，用於修行",
+    "Choice2": "給哈桑看，進一步追查",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestResult": null,
+    "Memo": "2 開始後續事件"
+  },
+  {
+    "ID": 98,
+    "Question": "E 哈桑\n\n你拚盡全力，總算是沒有被",
+    "Choice1": "我想要侍奉你！能改變現實的神明啊！",
+    "Choice2": "我們是一樣的，你沒必要和我為敵",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestResult": null,
+    "Memo": "1 -> 醒來 魔力+1"
+  },
+  {
+    "ID": 99,
+    "Question": "E 淘書\n\n你們一起來到了一位大貴族的宅邸跟前",
+    "Choice1": "當面諷刺他",
+    "Choice2": "回去收拾他",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestResult": null,
+    "Memo": "1 俠名+1 6元"
+  },
+  {
+    "ID": 100,
+    "Question": "E 芮爾\n\n你姑且相信他把知道的說出來，既然這樣",
+    "Choice1": "就...就交給你了，注意點形象",
+    "Choice2": "放了吧，不值得",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestResult": null,
+    "Memo": "1 芮爾 +2 體魄"
   }
 ]

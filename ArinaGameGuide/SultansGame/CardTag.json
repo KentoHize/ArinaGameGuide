@@ -28,5 +28,41 @@
   },
   {
     "Name": "Monster"
+  },
+  {
+    "Name": "Feast"
+  },
+  {
+    "Name": "Attire"
+  },
+  {
+    "Name": "Male"
+  },
+  {
+    "Name": "Female"
+  },
+  {
+    "Name": "Noble"
+  },
+  {
+    "Name": "Protagonist"
+  },
+  {
+    "Name": "Wife"
+  },
+  {
+    "Name": "Follower"
+  },
+  {
+    "Name": "Bond of Fate"
+  },
+  {
+    "Name": "Animal"
+  },
+  {
+    "Name": "Book"
+  },
+  {
+    "Name": "Intelligence"
   }
 ]

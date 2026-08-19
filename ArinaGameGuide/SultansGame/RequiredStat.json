@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "True",
+    "CName": "是",
+    "Memo": ""
+  },
+  {
+    "Name": "False",
+    "CName": "否",
+    "Memo": ""
+  },
+  {
+    "Name": "Better",
+    "CName": "有較佳",
+    "Memo": ""
+  },
+  {
+    "Name": "Partial",
+    "CName": "部分情況",
+    "Memo": ""
+  }
+]
