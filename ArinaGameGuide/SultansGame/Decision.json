@@ -397,7 +397,7 @@
   },
   {
     "ID": 34,
-    "Question": "E\n\n經過擴建之後，舍館的三樓~~",
+    "Question": "E 舍館\n\n經過擴建之後，舍館的三樓~~",
     "Choice1": "妓女",
     "Choice2": "貴族",
     "Choice3": "傭兵",
@@ -900,18 +900,6 @@
     "Memo": "1 事件 嚴厲懲罰(5智慧 5體魄各1名 3回合)\n2 事件 仁慈的許諾"
   },
   {
-    "ID": 76,
-    "Question": "E\n\n與奈布哈尼展開一段奇妙的尋歡之旅",
-    "Choice1": "我就要",
-    "Choice2": "算了司萬了",
-    "Choice3": null,
-    "Choice4": null,
-    "BestChoice": null,
-    "BestChoice2": null,
-    "BestResult": null,
-    "Memo": "1 最受歡迎的男人"
-  },
-  {
     "ID": 77,
     "Question": "E 齊亞德\n\n稅務官齊亞德再度登門。",
     "Choice1": "促成談判",
@@ -933,7 +921,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1 "
+    "Memo": "1 \n2 事件 神聖審判 正教信徒或8點魔力"
   },
   {
     "ID": 80,
@@ -1114,5 +1102,17 @@
     "BestChoice2": null,
     "BestResult": null,
     "Memo": "1 權勢+1"
+  },
+  {
+    "ID": 95,
+    "Question": "E 舍館\n\n經過擴建的舍館變得更大、更氣派了",
+    "Choice1": "就這麼辦",
+    "Choice2": "還是算了",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestResult": null,
+    "Memo": "1 勇士歡宴\n2 無事"
   }
 ]
