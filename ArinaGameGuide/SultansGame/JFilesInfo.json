@@ -72,13 +72,32 @@
         {
           "Name": "CName",
           "IsKey": false,
-          "IsNullable": false,
+          "IsNullable": true,
           "Type": "String",
           "Choices": [],
           "FKTable": null,
           "FKColumn": null,
           "NumberOfRows": 1,
           "Display": true,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": ""
+        },
+        {
+          "Name": "Type",
+          "IsKey": false,
+          "IsNullable": true,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": "CardType",
+          "FKColumn": "Name",
+          "NumberOfRows": 1,
+          "Display": false,
           "RegularExpression": "",
           "Description": "",
           "MinValue": "",
@@ -340,6 +359,31 @@
     },
     {
       "Name": "CardTag",
+      "Columns": [
+        {
+          "Name": "Name",
+          "IsKey": true,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": ""
+        }
+      ],
+      "InsertFirst": false
+    },
+    {
+      "Name": "CardType",
       "Columns": [
         {
           "Name": "Name",
@@ -1241,6 +1285,25 @@
         },
         {
           "Name": "NeedCharacter",
+          "IsKey": false,
+          "IsNullable": true,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": "Character",
+          "FKColumn": "Name",
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": ""
+        },
+        {
+          "Name": "NeedCharacter2",
           "IsKey": false,
           "IsNullable": true,
           "Type": "String",

@@ -33,7 +33,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "事件Quest\n1 以身試刀 事件 3回合\n\n我和蘇丹不一樣\n滾，別逼我罵你\n-> 得3元\n\n"
+    "Memo": "事件Quest\n1 以身試刀 事件 3回合\n\n2 3元\n3 3元\n\n"
   },
   {
     "ID": 4,
@@ -733,7 +733,7 @@
   },
   {
     "ID": 62,
-    "Question": "E\n\n梅姬在晚餐時，不經意地跟你說起了今天在浴室的遭遇",
+    "Question": "E 梅姬\n\n梅姬在晚餐時，不經意地跟你說起了今天在浴室的遭遇",
     "Choice1": "讚美妻子",
     "Choice2": "少出風頭",
     "Choice3": null,
@@ -741,7 +741,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1 事件發生\n2 沒有事情"
+    "Memo": "1 事件 浴場的焦點\n2 沒有事情"
   },
   {
     "ID": 63,
@@ -765,7 +765,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "1 俠名+1"
+    "Memo": "1 俠名+1\n4 惡名+1"
   },
   {
     "ID": 65,
@@ -921,7 +921,7 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestResult": null,
-    "Memo": "2 事件 強硬驅逐 "
+    "Memo": "1 事件 促成談判 (社交6 1人 6元)\n2 事件 強硬驅逐 "
   },
   {
     "ID": 78,
@@ -934,18 +934,6 @@
     "BestChoice2": null,
     "BestResult": null,
     "Memo": "1 "
-  },
-  {
-    "ID": 79,
-    "Question": "最近你發現夏瑪似乎有點鬱鬱寡歡，你們之間的關係",
-    "Choice1": "我可以幫你殺了你父親",
-    "Choice2": "我可以納你為妾室",
-    "Choice3": "我們還是聊點別的吧",
-    "Choice4": null,
-    "BestChoice": null,
-    "BestChoice2": null,
-    "BestResult": null,
-    "Memo": "2 事件 緊急結婚(30金幣)"
   },
   {
     "ID": 80,
@@ -1078,5 +1066,53 @@
     "BestChoice2": null,
     "BestResult": null,
     "Memo": "2 卡牌 內幕"
+  },
+  {
+    "ID": 91,
+    "Question": "E\n一個女僕冒著極大的風險向你求助",
+    "Choice1": "查明真相",
+    "Choice2": "與我無關",
+    "Choice3": "你和你的主人",
+    "Choice4": "判決無誤，無需再議",
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestResult": null,
+    "Memo": "1 事件 實地走訪"
+  },
+  {
+    "ID": 92,
+    "Question": "E\n\n這天，法拉傑和往常一樣和你談完事務之後",
+    "Choice1": "我不能對妻子不忠",
+    "Choice2": "我們不是好兄弟嗎",
+    "Choice3": "只是因為時機未到",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestResult": null,
+    "Memo": "2 無事"
+  },
+  {
+    "ID": 93,
+    "Question": "E 法拉傑\n\n這一次，他嚴肅地、鄭重地來到你身邊。",
+    "Choice1": "我們三個可以一起分享快樂",
+    "Choice2": "我什麼都沒聽到",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestResult": null,
+    "Memo": "1 事件 慾望與幸福"
+  },
+  {
+    "ID": 94,
+    "Question": "E 馬爾基娜\n\n你思考著，要具體講講哪位妃子的事呢？",
+    "Choice1": "莎姬",
+    "Choice2": "薩達爾尼",
+    "Choice3": "安蘇亞",
+    "Choice4": "法德耶和女奴們",
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestResult": null,
+    "Memo": "1 權勢+1"
   }
 ]
