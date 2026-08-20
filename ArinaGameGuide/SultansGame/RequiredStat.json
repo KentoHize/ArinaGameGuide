@@ -10,6 +10,11 @@
     "Memo": ""
   },
   {
+    "Name": "AtLeast1",
+    "CName": "至少1",
+    "Memo": ""
+  },
+  {
     "Name": "Better",
     "CName": "有較佳",
     "Memo": ""

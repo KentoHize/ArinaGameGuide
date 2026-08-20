@@ -968,7 +968,7 @@
           "DefaultValue": ""
         },
         {
-          "Name": "BestResult",
+          "Name": "Suggestion",
           "IsKey": false,
           "IsNullable": true,
           "Type": "String",
@@ -1436,16 +1436,11 @@
           "DefaultValue": ""
         },
         {
-          "Name": "SutanCardRequired",
+          "Name": "GoldRequired",
           "IsKey": false,
           "IsNullable": true,
           "Type": "String",
-          "Choices": [
-            "否",
-            "部分",
-            "有較佳",
-            "是"
-          ],
+          "Choices": [],
           "FKTable": "RequiredStat",
           "FKColumn": "Name",
           "NumberOfRows": 1,
@@ -1485,6 +1480,30 @@
           "Type": "String",
           "Choices": [],
           "FKTable": "Rank",
+          "FKColumn": "Name",
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": ""
+        },
+        {
+          "Name": "SutanCardRequired",
+          "IsKey": false,
+          "IsNullable": true,
+          "Type": "String",
+          "Choices": [
+            "否",
+            "部分",
+            "有較佳",
+            "是"
+          ],
+          "FKTable": "RequiredStat",
           "FKColumn": "Name",
           "NumberOfRows": 1,
           "Display": false,
@@ -1931,6 +1950,69 @@
       "InsertFirst": false
     },
     {
+      "Name": "RequiredStat",
+      "Columns": [
+        {
+          "Name": "Name",
+          "IsKey": true,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": ""
+        },
+        {
+          "Name": "CName",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": null,
+          "Description": null,
+          "MinValue": null,
+          "MaxValue": null,
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": null
+        },
+        {
+          "Name": "Memo",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 5,
+          "Display": true,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": ""
+        }
+      ],
+      "InsertFirst": false
+    },
+    {
       "Name": "Stat",
       "Columns": [
         {
@@ -1986,69 +2068,6 @@
           "FKTable": null,
           "FKColumn": null,
           "NumberOfRows": 1,
-          "Display": true,
-          "RegularExpression": "",
-          "Description": "",
-          "MinValue": "",
-          "MaxValue": "",
-          "MaxLength": 0,
-          "AutoGenerateKey": false,
-          "IsUnique": false,
-          "DefaultValue": ""
-        }
-      ],
-      "InsertFirst": false
-    },
-    {
-      "Name": "RequiredStat",
-      "Columns": [
-        {
-          "Name": "Name",
-          "IsKey": true,
-          "IsNullable": false,
-          "Type": "String",
-          "Choices": [],
-          "FKTable": null,
-          "FKColumn": null,
-          "NumberOfRows": 1,
-          "Display": true,
-          "RegularExpression": "",
-          "Description": "",
-          "MinValue": "",
-          "MaxValue": "",
-          "MaxLength": 0,
-          "AutoGenerateKey": false,
-          "IsUnique": false,
-          "DefaultValue": ""
-        },
-        {
-          "Name": "CName",
-          "IsKey": false,
-          "IsNullable": false,
-          "Type": "String",
-          "Choices": [],
-          "FKTable": null,
-          "FKColumn": null,
-          "NumberOfRows": 1,
-          "Display": true,
-          "RegularExpression": null,
-          "Description": null,
-          "MinValue": null,
-          "MaxValue": null,
-          "MaxLength": 0,
-          "AutoGenerateKey": false,
-          "IsUnique": false,
-          "DefaultValue": null
-        },
-        {
-          "Name": "Memo",
-          "IsKey": false,
-          "IsNullable": false,
-          "Type": "String",
-          "Choices": [],
-          "FKTable": null,
-          "FKColumn": null,
-          "NumberOfRows": 5,
           "Display": true,
           "RegularExpression": "",
           "Description": "",
