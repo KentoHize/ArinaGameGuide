@@ -8,6 +8,7 @@
     "Choice4": null,
     "BestChoice": 2,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 先付款後交貨 事件出現\n2 一手拿貨 事件出現\n3 先付款後交貨 事件出現"
   },
@@ -20,6 +21,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 事件 腐爛之巢"
   },
@@ -32,6 +34,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "激情-1"
   },
@@ -44,6 +47,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 師出有名\n2 30元事件\n3 夏瑪 孤注一擲 出現"
   },
@@ -56,6 +60,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 產生新結局目標\n2 無事"
   },
@@ -68,6 +73,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 俠名+2\n2 嫉妒的大臣反對-1 支持+2 權勢+1"
   },
@@ -80,6 +86,7 @@
     "Choice4": "財力",
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 事件 歡宴"
   },
@@ -92,6 +99,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 無(?)\n2 金幣3"
   },
@@ -102,10 +110,11 @@
     "Choice2": "答應她",
     "Choice3": "拒絕她",
     "Choice4": null,
-    "BestChoice": null,
-    "BestChoice2": null,
-    "Suggestion": null,
-    "Memo": "1 事件 氣急敗壞 卡牌 昂貴的金面紗\n3 4元"
+    "BestChoice": 2,
+    "BestChoice2": 1,
+    "BestChoice3": null,
+    "Suggestion": "1 調戲可以得到寶物\n2 6元正解",
+    "Memo": "1 事件 氣急敗壞 卡牌 昂貴的金面紗\n2 6元\n3 4元"
   },
   {
     "ID": 66,
@@ -116,8 +125,9 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "\n2 退回卡片，可直接送給蘇丹\n3 事件 黑街揚名"
+    "Memo": "1 事件 您也不想讓別人知道吧\n2 退回卡片，可直接送給蘇丹\n3 事件 黑街揚名"
   },
   {
     "ID": 83,
@@ -128,6 +138,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "2 事件 將軍夜獵"
   },
@@ -140,6 +151,7 @@
     "Choice4": null,
     "BestChoice": 1,
     "BestChoice2": 2,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 善名+1\n2 俠名+1 3元"
   },
@@ -152,6 +164,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 俠名+1 6元"
   },
@@ -164,6 +177,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "2 之後似乎無事"
   },
@@ -176,6 +190,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 事件 最受歡迎的男人\n2 沒事"
   },
@@ -188,6 +203,7 @@
     "Choice4": "關我屁事",
     "BestChoice": 3,
     "BestChoice2": 2,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 權勢+1\n2 俠名+1\n3 馬爾基娜 魅力+1(可)\n4 阿爾圖 生存+1 (可能無法繼續事件)"
   },
@@ -200,6 +216,7 @@
     "Choice4": "法德耶和女奴們",
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 權勢+1"
   },
@@ -212,6 +229,7 @@
     "Choice4": "給她看俠義之士的樣子",
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": null
   },
@@ -224,6 +242,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 事件 浴場的焦點\n2 沒有事情"
   },
@@ -236,6 +255,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 事件 證婚人"
   },
@@ -248,6 +268,7 @@
     "Choice4": null,
     "BestChoice": 1,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 事件 修建暗渠 7回合出現\n2 事件 祈雨獻祭 (5點魔力並且需要黑暗知識，沒有限制時間)"
   },
@@ -260,6 +281,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "2 卡牌 內幕"
   },
@@ -272,6 +294,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 事件 慾望與幸福"
   },
@@ -284,6 +307,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "2 -> 當然可以 -> 復仇 事件出現"
   },
@@ -296,6 +320,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "2 金幣10"
   },
@@ -308,6 +333,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "3 權勢+1"
   },
@@ -320,6 +346,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "3 一本書的誕生 事件"
   },
@@ -332,6 +359,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 俠名+1\n3 權勢+1 (似乎反對)"
   },
@@ -344,6 +372,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "2 開始後續事件"
   },
@@ -356,6 +385,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 -> 醒來 魔力+1"
   },
@@ -368,6 +398,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "2 可能無事"
   },
@@ -380,6 +411,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "2 ..說不定發生下一個事件"
   },
@@ -392,8 +424,9 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 體魄考驗\n3 狩獵實戰(+3體 +2生存)"
+    "Memo": "1 體魄考驗(+3體)\n3 狩獵實戰(+3體 +2生存)"
   },
   {
     "ID": 63,
@@ -404,6 +437,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 +2智力 +2魅力\n2 貌似+3 智力\n3"
   },
@@ -416,6 +450,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 社交教習\n3 事件"
   },
@@ -428,6 +463,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 事件 浴池裡的波瀾"
   },
@@ -438,9 +474,10 @@
     "Choice2": "一定會有回報的",
     "Choice3": null,
     "Choice4": null,
-    "BestChoice": null,
-    "BestChoice2": null,
-    "Suggestion": null,
+    "BestChoice": 1,
+    "BestChoice2": 2,
+    "BestChoice3": null,
+    "Suggestion": "1正解\n2的智慧寶珠雖然不錯，不會非常重要",
     "Memo": "1 卡牌 秘密x1 命運的羈絆\n2 卡牌 智慧寶珠"
   },
   {
@@ -452,6 +489,7 @@
     "Choice4": null,
     "BestChoice": 1,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 卡牌 妃子的決心 友誼的見證\n2 卡牌 妃子的決心"
   },
@@ -464,6 +502,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 沒特別效果 \n2 沒特別效果 之後出現 流民的索要\n3 沒特別效果 之後可能會消失"
   },
@@ -476,6 +515,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 -> 摸就摸吧 -> 靈視 +1 事件 不潔的原料\n2 無事"
   },
@@ -488,6 +528,7 @@
     "Choice4": "知識",
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "3 可能沒差\n\n姑且先多問一句"
   },
@@ -500,6 +541,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 勇士歡宴\n2 無事"
   },
@@ -512,6 +554,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 事件 閣樓裡的笑聲(收益)"
   },
@@ -524,6 +567,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 事件 嚴厲懲罰(5智慧 5體魄各1名 3回合)\n2 事件 仁慈的許諾"
   },
@@ -536,6 +580,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 事件 促成談判 (社交6 1人 6元)\n2 事件 強硬驅逐 "
   },
@@ -548,6 +593,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 \n2 事件 神聖審判 正教信徒或8點魔力"
   },
@@ -560,6 +606,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 芮爾 +2 體魄"
   },
@@ -572,6 +619,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 事件 肝膽相照 綁主角 +1力量\n2 無事(不明)"
   },
@@ -584,6 +632,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 權勢-1 俠名+1\n2 "
   },
@@ -596,6 +645,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "2 ?"
   },
@@ -608,6 +658,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "2 無事"
   },
@@ -620,6 +671,7 @@
     "Choice4": null,
     "BestChoice": 1,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 事件 靈光之試\n2 靈視-1"
   },
@@ -632,6 +684,7 @@
     "Choice4": "賣給感興趣的商人",
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 推薦給熱娜 -> 狼頭圍巾\n2 事件 一件殘酷的禮物 -> 盟友戰鬥+1?"
   },
@@ -644,6 +697,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "2 -> 我聽說的不是這樣"
   },
@@ -656,6 +710,7 @@
     "Choice4": null,
     "BestChoice": 2,
     "BestChoice2": 1,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 俠名+1 罪證\n2 惡名+1 金幣3"
   },
@@ -668,6 +723,7 @@
     "Choice4": "判決無誤，無需再議",
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 事件 實地走訪"
   },
@@ -680,6 +736,7 @@
     "Choice4": null,
     "BestChoice": 1,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 善名+1 俠名+1\n2 俠名+1 1元\n3 權勢+1 金幣3"
   },
@@ -692,6 +749,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "事件Quest\n1 以身試刀 事件 3回合\n\n2 3元\n3 3元\n\n"
   },
@@ -704,6 +762,7 @@
     "Choice4": "我可以接濟你女兒",
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 俠名+1\n2 5元\n3 事件 你需要多少錢"
   },
@@ -714,10 +773,11 @@
     "Choice2": "你是青銅品級",
     "Choice3": "你是白銀品級",
     "Choice4": "你是黃金品級",
-    "BestChoice": null,
-    "BestChoice2": null,
+    "BestChoice": 2,
+    "BestChoice2": 3,
+    "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 俠名+1\n4 惡名+1"
+    "Memo": "1 俠名+1\n3 權勢+1 5元\n4 惡名+1"
   },
   {
     "ID": 21,
@@ -728,6 +788,7 @@
     "Choice4": "向蘇丹報告",
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 金幣3\n2 俠名+1 權勢-1\n3 權勢+1 俠名-1\n4 被押進監獄(之後可能消失，付10元可得口無遮攔的囚犯，非食客一般追隨者)"
   },
@@ -740,6 +801,7 @@
     "Choice4": null,
     "BestChoice": 3,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 靈視+1 惡名+1\n2 卡牌 密氛\n3 善名+1 惡名-1"
   },
@@ -752,20 +814,22 @@
     "Choice4": null,
     "BestChoice": 1,
     "BestChoice2": 3,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 投注資金 事件出現\n2 權勢-1 金幣2\n3 俠名+1\n"
   },
   {
     "ID": 82,
-    "Question": "可憐的莫爾台茲將所有的復仇執念都寄託在邪教神明上",
+    "Question": "E\n\n可憐的莫爾台茲將所有的復仇執念都寄託在邪教神明上",
     "Choice1": "殺了他",
     "Choice2": "放過他",
     "Choice3": null,
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 事件 終結苦痛"
+    "Memo": "1 事件 終結苦痛\n2 事件 放過他"
   },
   {
     "ID": 36,
@@ -776,6 +840,7 @@
     "Choice4": null,
     "BestChoice": 1,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 靈視+1\n2 卡牌 秘氛\n3 權勢-1"
   },
@@ -788,6 +853,7 @@
     "Choice4": null,
     "BestChoice": 3,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 靈視+1\n2 卡牌 秘氛\n3 善+1 惡-1"
   },
@@ -800,6 +866,7 @@
     "Choice4": "你睡糊塗了",
     "BestChoice": 1,
     "BestChoice2": 3,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 幸福感+1\n2 梅姬激情+1\n3 靈視+1\n4 靈視-1 妻子的不滿+1\n\n有需要幸福感時幸福感，或是2 3"
   },
@@ -812,6 +879,7 @@
     "Choice4": "讓我品品",
     "BestChoice": 3,
     "BestChoice2": 4,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 俠名-1 惡名+1\n2 權勢+1\n3 金幣5\n4 卡牌 不再恐懼的自由"
   },
@@ -824,6 +892,7 @@
     "Choice4": "調查甜水井",
     "BestChoice": 4,
     "BestChoice2": 2,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 卡牌 內幕\n2 3元\n3 惡名+1\n4 俠名+1 權勢-1(正解)"
   },
@@ -836,6 +905,7 @@
     "Choice4": null,
     "BestChoice": 1,
     "BestChoice2": 2,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 善名+1 惡名-1\n2 卡牌 等死的奴隸(Stone 體魄 1)\n3 金幣3"
   },
@@ -846,9 +916,10 @@
     "Choice2": "訛詐旅人",
     "Choice3": "賄賂士兵",
     "Choice4": "指認間諜",
-    "BestChoice": null,
-    "BestChoice2": null,
-    "Suggestion": null,
+    "BestChoice": 1,
+    "BestChoice2": 3,
+    "BestChoice3": 2,
+    "Suggestion": "善名 俠名\n或-1權勢換5金幣",
     "Memo": "1 善名+1\n2 權勢-1 金幣5\n3 俠名+1\n4 權勢+2 善名-1"
   },
   {
@@ -860,6 +931,7 @@
     "Choice4": null,
     "BestChoice": 1,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 權勢+1 巨大寶石項鍊\n2 惡名+1 善名-1 5元\n3 善名+1 惡名-1"
   },
@@ -872,6 +944,7 @@
     "Choice4": "強迫貴族加入遊戲",
     "BestChoice": 3,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 惡名+1 善名-1\n2 惡名+1 俠名 -1 2 金幣\n3 善名+2 權勢-1\n4 俠名+1 權勢0-1"
   },
@@ -884,6 +957,7 @@
     "Choice4": null,
     "BestChoice": 3,
     "BestChoice2": 2,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 卡牌 洞察\n2 3元\n3 權勢+1"
   },
@@ -894,8 +968,9 @@
     "Choice2": "是凶兆",
     "Choice3": "您太為國操勞....",
     "Choice4": null,
-    "BestChoice": 1,
-    "BestChoice2": 3,
+    "BestChoice": 3,
+    "BestChoice2": 1,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 權勢+1\n2 金幣3\n3 靈視+1"
   },
@@ -908,6 +983,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "3 俠名+1"
   },
@@ -920,6 +996,7 @@
     "Choice4": "免了他的債",
     "BestChoice": 4,
     "BestChoice2": 2,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 卡牌 秘密x1\n2 卡牌 背叛的朋友\n3 惡名+1 權勢+1\n4 善名+1 權勢+1"
   },
@@ -932,6 +1009,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 琥珀寶石吊飾 激情-1\n\n3 無事發生"
   },
@@ -944,6 +1022,7 @@
     "Choice4": null,
     "BestChoice": 1,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 善名+1\n2 權勢+1\n3 避避風頭 (多等3回合)"
   },
@@ -955,9 +1034,10 @@
     "Choice3": "大加讚賞",
     "Choice4": "求助蘇丹",
     "BestChoice": 3,
-    "BestChoice2": 4,
-    "Suggestion": null,
-    "Memo": "1 權勢-1\n2 權勢+1 善名-1\n3\n4 事件 討伐氏族 (3回合內需征服卡) 沒有拿出的情況會受到處罰"
+    "BestChoice2": null,
+    "BestChoice3": null,
+    "Suggestion": "4成功的獎勵未明",
+    "Memo": "1 權勢-1\n2 權勢+1 善名-1\n3 卡牌 偉大的史詩\n4 事件 討伐氏族 (3回合內需征服卡) 沒有拿出的情況會受到處罰"
   },
   {
     "ID": 18,
@@ -968,6 +1048,7 @@
     "Choice4": null,
     "BestChoice": 3,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 權勢+1 俠名-1\n2 2元\n3 俠名+1"
   },
@@ -980,6 +1061,7 @@
     "Choice4": null,
     "BestChoice": 1,
     "BestChoice2": 3,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 可能隨機一個銀寶物 巨大寶石項鍊/重劍/流星錘\n2 金幣3\n3 權勢1"
   },
@@ -992,6 +1074,7 @@
     "Choice4": null,
     "BestChoice": 2,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 權勢+1 善名-1\n2 事件 黃金鳥\n3 權勢-1"
   },
@@ -1004,8 +1087,9 @@
     "Choice4": "神性",
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "3 靈視-1 卡牌 戰術\n4 靈視+1 卡牌 秘氛"
+    "Memo": "2 卡牌 Silver 洞察\n3 靈視-1 卡牌 戰術\n4 靈視+1 卡牌 秘氛"
   },
   {
     "ID": 12,
@@ -1016,6 +1100,7 @@
     "Choice4": null,
     "BestChoice": 1,
     "BestChoice2": 3,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 俠名+1\n2 權勢+1\n3 靈視+1\n\n1在事件上也最理想"
   },
@@ -1028,6 +1113,7 @@
     "Choice4": "不我看不上",
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 全要事件\n-> 巨大寶石項鍊\n2  事件 我只要最好的(3元 權勢+1)\n3 5元 惡名+1 俠名-1\n4 無事"
   },
@@ -1040,6 +1126,7 @@
     "Choice4": null,
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 慷慨解囊 事件(捐10元)\n3 善名-1(奇妙，照理來說是騙術)"
   },
@@ -1052,6 +1139,7 @@
     "Choice4": null,
     "BestChoice": 3,
     "BestChoice2": 1,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 3元\n2 善名-1 權勢+1\n3 善名+1"
   },
@@ -1064,6 +1152,7 @@
     "Choice4": null,
     "BestChoice": 3,
     "BestChoice2": 2,
+    "BestChoice3": null,
     "Suggestion": "3較佳\n缺錢選2\n\n正確選2?",
     "Memo": "1 事件 搜尋亡駭 (任意人 7天) 最後拿到一個不是很重要的首飾 \n2 事件 願你安息 (7回合等待需要 5點魔力 善名+1 5元 )\n3 權勢+1 俠名+1"
   },
@@ -1076,6 +1165,7 @@
     "Choice4": null,
     "BestChoice": 1,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 事件 讓我剖開你的胸膛\n2 靈視+1"
   },
@@ -1088,6 +1178,7 @@
     "Choice4": "你竟敢公然敬拜異神",
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 靈視+1\n2 權勢+1 俠名-1\n3 事件 血的渴求(似乎需要祭品)\n4"
   },
@@ -1100,6 +1191,7 @@
     "Choice4": "宰羊分食",
     "BestChoice": null,
     "BestChoice2": null,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "3 惡名+1\n4 權勢+1"
   },
@@ -1112,6 +1204,7 @@
     "Choice4": null,
     "BestChoice": 2,
     "BestChoice2": 1,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 權勢+1\n2 善名+1 權勢-1\n3 卡牌 戰術1"
   },
@@ -1124,6 +1217,7 @@
     "Choice4": null,
     "BestChoice": 2,
     "BestChoice2": 1,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 權勢+1\n2 善名+1 權勢-1\n3 卡牌 內幕"
   },
@@ -1136,6 +1230,7 @@
     "Choice4": "別來煩我",
     "BestChoice": 1,
     "BestChoice2": 3,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 靈視+1\n2 善名+1 俠名-1\n3 權勢+1 1元\n4 惡名+1 善名-1"
   },
@@ -1148,6 +1243,7 @@
     "Choice4": "將他刺聾",
     "BestChoice": 2,
     "BestChoice2": 1,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "2 俠名+1\n3 權勢+1\n4 惡名+1 善名-1"
   },
@@ -1160,6 +1256,7 @@
     "Choice4": "只是女人？",
     "BestChoice": 2,
     "BestChoice2": 1,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 事件 如你所願\n2 俠名+1\n3 惡名+1 善名-1\n4 事件 如你所願"
   },
@@ -1172,7 +1269,34 @@
     "Choice4": "放任自流",
     "BestChoice": 2,
     "BestChoice2": 4,
+    "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 權勢+1 善名-1\n2 善名+1\n3 權勢-1\n4 俠名+1"
+  },
+  {
+    "ID": 76,
+    "Question": "E\n\n儘管你仍在猶豫，但這猶豫在",
+    "Choice1": "揭露陰謀",
+    "Choice2": "為虎作倀",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": 1,
+    "BestChoice2": null,
+    "BestChoice3": null,
+    "Suggestion": null,
+    "Memo": "1 表示要殺他"
+  },
+  {
+    "ID": 79,
+    "Question": "E\n\n要怎麼處理這個小毛賊呢",
+    "Choice1": "放了算了",
+    "Choice2": "留著銷卡",
+    "Choice3": null,
+    "Choice4": null,
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestChoice3": null,
+    "Suggestion": null,
+    "Memo": null
   }
 ]

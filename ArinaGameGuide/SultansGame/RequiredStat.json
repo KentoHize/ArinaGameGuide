@@ -23,5 +23,10 @@
     "Name": "Partial",
     "CName": "部分情況",
     "Memo": ""
+  },
+  {
+    "Name": "Worse",
+    "CName": "沒有較佳",
+    "Memo": ""
   }
 ]

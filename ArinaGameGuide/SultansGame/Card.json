@@ -878,5 +878,25 @@
     "Tag2": null,
     "Tag3": null,
     "Memo": ""
+  },
+  {
+    "ID": 45,
+    "Name": "Forgiving Gba?al",
+    "CName": "寬恕的情詩",
+    "Type": "Love Poem",
+    "Rank": "Gold",
+    "Physique": null,
+    "Charisma": null,
+    "Combat": null,
+    "Survival": null,
+    "Sociability": null,
+    "Steath": null,
+    "Wisdom": null,
+    "Magic": null,
+    "Reroll": null,
+    "Tag1": "Love Poem",
+    "Tag2": null,
+    "Tag3": null,
+    "Memo": "消除妻子的不滿"
   }
 ]
