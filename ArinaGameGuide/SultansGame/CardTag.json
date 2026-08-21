@@ -1,77 +1,118 @@
 [
   {
-    "Name": "Equipment"
+    "Name": "Equipment",
+    "CName": "裝備"
   },
   {
-    "Name": "Accessory"
+    "Name": "Accessory",
+    "CName": "飾品"
   },
   {
-    "Name": "Weapon"
+    "Name": "Weapon",
+    "CName": "武器"
   },
   {
-    "Name": "Gem"
+    "Name": "Gem",
+    "CName": ""
   },
   {
-    "Name": "Stackable"
+    "Name": "Stackable",
+    "CName": "可堆疊"
   },
   {
-    "Name": "Owned"
+    "Name": "Owned",
+    "CName": ""
   },
   {
-    "Name": "Consumable"
+    "Name": "Consumable",
+    "CName": "消耗品"
   },
   {
-    "Name": "Treasure"
+    "Name": "Treasure",
+    "CName": ""
   },
   {
-    "Name": "A Way Through"
+    "Name": "A Way Through",
+    "CName": ""
   },
   {
-    "Name": "Monster"
+    "Name": "Monster",
+    "CName": ""
   },
   {
-    "Name": "Feast"
+    "Name": "Feast",
+    "CName": ""
   },
   {
-    "Name": "Attire"
+    "Name": "Attire",
+    "CName": "服裝"
   },
   {
-    "Name": "Male"
+    "Name": "Male",
+    "CName": "男性"
   },
   {
-    "Name": "Female"
+    "Name": "Female",
+    "CName": "女性"
   },
   {
-    "Name": "Noble"
+    "Name": "Noble",
+    "CName": "貴族"
   },
   {
-    "Name": "Protagonist"
+    "Name": "Protagonist",
+    "CName": "主角"
   },
   {
-    "Name": "Wife"
+    "Name": "Wife",
+    "CName": ""
   },
   {
-    "Name": "Follower"
+    "Name": "Follower",
+    "CName": "追隨者"
   },
   {
-    "Name": "Bond of Fate"
+    "Name": "Bond of Fate",
+    "CName": ""
   },
   {
-    "Name": "Animal"
+    "Name": "Animal",
+    "CName": ""
   },
   {
-    "Name": "Book"
+    "Name": "Book",
+    "CName": ""
   },
   {
-    "Name": "Intelligence"
+    "Name": "Intelligence",
+    "CName": "情報"
   },
   {
-    "Name": "Love Poem"
+    "Name": "Love Poem",
+    "CName": "愛情詩"
   },
   {
-    "Name": "Location"
+    "Name": "Location",
+    "CName": "地點"
   },
   {
-    "Name": "Vacant House"
+    "Name": "Vacant House",
+    "CName": ""
+  },
+  {
+    "Name": "Bookworm",
+    "CName": "愛書人"
+  },
+  {
+    "Name": "Commander",
+    "CName": "將領"
+  },
+  {
+    "Name": "Astronomy",
+    "CName": "天象"
+  },
+  {
+    "Name": "Outfit",
+    "CName": "裝扮"
   }
 ]

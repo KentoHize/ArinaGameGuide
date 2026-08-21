@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Weapon",
+    "CName": "武器"
+  },
+  {
+    "Name": "Attire",
+    "CName": "服裝"
+  },
+  {
+    "Name": "Accessory",
+    "CName": "飾品"
+  },
+  {
+    "Name": "Animal Handling",
+    "CName": "馴獸"
+  }
+]

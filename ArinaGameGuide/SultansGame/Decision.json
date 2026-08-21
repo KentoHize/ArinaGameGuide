@@ -88,7 +88,7 @@
     "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 事件 歡宴"
+    "Memo": "1 事件 歡宴\n2 事件 歡宴"
   },
   {
     "ID": 48,
@@ -179,7 +179,7 @@
     "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "2 之後似乎無事"
+    "Memo": "1 清流交會\n2 之後似乎無事"
   },
   {
     "ID": 81,
@@ -335,7 +335,7 @@
     "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "3 權勢+1"
+    "Memo": "2 俠名+1\n3 權勢+1"
   },
   {
     "ID": 16,
@@ -361,7 +361,7 @@
     "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 俠名+1\n3 權勢+1 (似乎反對)"
+    "Memo": "1 俠名+1\n2 Brone 洞察\n3 權勢+1 (似乎反對)"
   },
   {
     "ID": 97,
@@ -413,7 +413,7 @@
     "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "2 ..說不定發生下一個事件"
+    "Memo": "2 ..說不定發生下一個事件(無事)"
   },
   {
     "ID": 41,
@@ -852,7 +852,7 @@
     "Choice3": "道破來由",
     "Choice4": null,
     "BestChoice": 3,
-    "BestChoice2": null,
+    "BestChoice2": 1,
     "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 靈視+1\n2 卡牌 秘氛\n3 善+1 惡-1"
@@ -1216,10 +1216,10 @@
     "Choice3": "認真幹旋",
     "Choice4": null,
     "BestChoice": 2,
-    "BestChoice2": 1,
+    "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 權勢+1\n2 善名+1 權勢-1\n3 卡牌 內幕"
+    "Memo": "1 權勢+1\n2 善名+1 權勢-1\n3 Silver 內幕"
   },
   {
     "ID": 69,
@@ -1244,8 +1244,8 @@
     "BestChoice": 2,
     "BestChoice2": 1,
     "BestChoice3": null,
-    "Suggestion": null,
-    "Memo": "2 俠名+1\n3 權勢+1\n4 惡名+1 善名-1"
+    "Suggestion": "2最理想\n1可能最正確",
+    "Memo": "1 權勢-1\n2 俠名+1\n3 權勢+1\n4 惡名+1 善名-1"
   },
   {
     "ID": 65,
