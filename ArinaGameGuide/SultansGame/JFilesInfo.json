@@ -441,6 +441,25 @@
           "AutoGenerateKey": false,
           "IsUnique": false,
           "DefaultValue": ""
+        },
+        {
+          "Name": "CName",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": null,
+          "Description": null,
+          "MinValue": null,
+          "MaxValue": null,
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": null
         }
       ],
       "InsertFirst": false
@@ -485,6 +504,25 @@
           "AutoGenerateKey": false,
           "IsUnique": false,
           "DefaultValue": null
+        },
+        {
+          "Name": "IsOption",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "Boolean",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": ""
         },
         {
           "Name": "Title",
@@ -2033,6 +2071,69 @@
       "InsertFirst": false
     },
     {
+      "Name": "EventType",
+      "Columns": [
+        {
+          "Name": "Name",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": null,
+          "Description": null,
+          "MinValue": null,
+          "MaxValue": null,
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": null
+        },
+        {
+          "Name": "CName",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": null,
+          "Description": null,
+          "MinValue": null,
+          "MaxValue": null,
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": null
+        },
+        {
+          "Name": "Memo",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 5,
+          "Display": false,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": ""
+        }
+      ],
+      "InsertFirst": false
+    },
+    {
       "Name": "Memo",
       "Columns": [
         {
@@ -2165,6 +2266,50 @@
       "InsertFirst": false
     },
     {
+      "Name": "SlotType",
+      "Columns": [
+        {
+          "Name": "Name",
+          "IsKey": true,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": false,
+          "DefaultValue": ""
+        },
+        {
+          "Name": "CName",
+          "IsKey": false,
+          "IsNullable": false,
+          "Type": "String",
+          "Choices": [],
+          "FKTable": null,
+          "FKColumn": null,
+          "NumberOfRows": 1,
+          "Display": true,
+          "RegularExpression": "",
+          "Description": "",
+          "MinValue": "",
+          "MaxValue": "",
+          "MaxLength": 0,
+          "AutoGenerateKey": false,
+          "IsUnique": true,
+          "DefaultValue": ""
+        }
+      ],
+      "InsertFirst": false
+    },
+    {
       "Name": "Stat",
       "Columns": [
         {
@@ -2228,50 +2373,6 @@
           "MaxLength": 0,
           "AutoGenerateKey": false,
           "IsUnique": false,
-          "DefaultValue": ""
-        }
-      ],
-      "InsertFirst": false
-    },
-    {
-      "Name": "SlotType",
-      "Columns": [
-        {
-          "Name": "Name",
-          "IsKey": true,
-          "IsNullable": false,
-          "Type": "String",
-          "Choices": [],
-          "FKTable": null,
-          "FKColumn": null,
-          "NumberOfRows": 1,
-          "Display": true,
-          "RegularExpression": "",
-          "Description": "",
-          "MinValue": "",
-          "MaxValue": "",
-          "MaxLength": 0,
-          "AutoGenerateKey": false,
-          "IsUnique": false,
-          "DefaultValue": ""
-        },
-        {
-          "Name": "CName",
-          "IsKey": false,
-          "IsNullable": false,
-          "Type": "String",
-          "Choices": [],
-          "FKTable": null,
-          "FKColumn": null,
-          "NumberOfRows": 1,
-          "Display": true,
-          "RegularExpression": "",
-          "Description": "",
-          "MinValue": "",
-          "MaxValue": "",
-          "MaxLength": 0,
-          "AutoGenerateKey": false,
-          "IsUnique": true,
           "DefaultValue": ""
         }
       ],

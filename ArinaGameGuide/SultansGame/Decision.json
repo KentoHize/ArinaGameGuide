@@ -266,10 +266,10 @@
     "Choice2": "舉行獻祭儀式",
     "Choice3": null,
     "Choice4": null,
-    "BestChoice": 1,
+    "BestChoice": null,
     "BestChoice2": null,
     "BestChoice3": null,
-    "Suggestion": null,
+    "Suggestion": "1 7回合不能動 花費8元 但是+2體魄\n2 很快速，但是需要黑暗知識\n\n1貌似正解",
     "Memo": "1 事件 修建暗渠 7回合出現\n2 事件 祈雨獻祭 (5點魔力並且需要黑暗知識，沒有限制時間)"
   },
   {
@@ -309,7 +309,7 @@
     "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "2 -> 當然可以 -> 復仇 事件出現"
+    "Memo": "1 權勢+1\n2 -> 當然可以 -> 復仇 事件出現"
   },
   {
     "ID": 13,
@@ -439,7 +439,7 @@
     "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 +2智力 +2魅力\n2 貌似+3 智力\n3"
+    "Memo": "1 +2智慧 +2魅力\n2 貌似+3 智力\n3"
   },
   {
     "ID": 59,
@@ -465,7 +465,7 @@
     "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 事件 浴池裡的波瀾"
+    "Memo": "1 事件 浴池裡的波瀾(普通 激情+1)"
   },
   {
     "ID": 73,
@@ -517,7 +517,7 @@
     "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 -> 摸就摸吧 -> 靈視 +1 事件 不潔的原料\n2 無事"
+    "Memo": "1 -> 摸就摸吧 -> 靈視 +1 事件 不潔的原料\n1 -> 拼命反抗 -> 事件 不潔的原料\n2 無事"
   },
   {
     "ID": 88,
@@ -651,7 +651,7 @@
   },
   {
     "ID": 92,
-    "Question": "E\n\n這天，法拉傑和往常一樣和你談完事務之後",
+    "Question": "E 法拉傑\n\n這天，法拉傑和往常一樣和你談完事務之後",
     "Choice1": "我不能對妻子不忠",
     "Choice2": "我們不是好兄弟嗎",
     "Choice3": "只是因為時機未到",
@@ -659,8 +659,8 @@
     "BestChoice": null,
     "BestChoice2": null,
     "BestChoice3": null,
-    "Suggestion": null,
-    "Memo": "2 無事"
+    "Suggestion": "1 較虛裝備",
+    "Memo": "1 琥珀寶石吊飾 激情-1\n2 無事"
   },
   {
     "ID": 74,
@@ -673,11 +673,11 @@
     "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 事件 靈光之試\n2 靈視-1"
+    "Memo": "1 靈視+1 事件 靈光之試\n2 靈視-1(沒什麼好處)"
   },
   {
     "ID": 60,
-    "Question": "E\n\n這顆頭顱脖頸處的鮮血早已凝結",
+    "Question": "E 哲巴爾\n\n這顆頭顱脖頸處的鮮血早已凝結",
     "Choice1": "做成首飾",
     "Choice2": "送給盟友",
     "Choice3": "送給哲巴爾",
@@ -686,7 +686,7 @@
     "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 推薦給熱娜 -> 狼頭圍巾\n2 事件 一件殘酷的禮物 -> 盟友戰鬥+1?"
+    "Memo": "1 推薦給熱娜 -> 狼頭圍巾\n2 事件 一件殘酷的禮物 -> 盟友戰鬥+1?\n3 事件 一件殘酷的禮物 -> 支持+1 戰鬥+1\n"
   },
   {
     "ID": 23,
@@ -721,11 +721,11 @@
     "Choice2": "與我無關",
     "Choice3": "你和你的主人",
     "Choice4": "判決無誤，無需再議",
-    "BestChoice": null,
+    "BestChoice": 1,
     "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 事件 實地走訪"
+    "Memo": "1 事件 實地走訪\n3 俠名+1"
   },
   {
     "ID": 56,
@@ -803,7 +803,7 @@
     "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 靈視+1 惡名+1\n2 卡牌 密氛\n3 善名+1 惡名-1"
+    "Memo": "1 靈視+1 惡名+1\n2 Silver 秘氛\n3 善名+1 惡名-1"
   },
   {
     "ID": 4,
@@ -943,7 +943,7 @@
     "Choice3": "停止不人道的行為",
     "Choice4": "強迫貴族加入遊戲",
     "BestChoice": 3,
-    "BestChoice2": null,
+    "BestChoice2": 4,
     "BestChoice3": null,
     "Suggestion": null,
     "Memo": "1 惡名+1 善名-1\n2 惡名+1 俠名 -1 2 金幣\n3 善名+2 權勢-1\n4 俠名+1 權勢0-1"
@@ -955,11 +955,11 @@
     "Choice2": "是最新到手的女人",
     "Choice3": "是您的下一個女人",
     "Choice4": null,
-    "BestChoice": 3,
-    "BestChoice2": 2,
+    "BestChoice": 2,
+    "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 卡牌 洞察\n2 3元\n3 權勢+1"
+    "Memo": "1 Brone 洞察\n2 3元\n3 權勢+1"
   },
   {
     "ID": 24,
@@ -1036,8 +1036,8 @@
     "BestChoice": 3,
     "BestChoice2": null,
     "BestChoice3": null,
-    "Suggestion": "4成功的獎勵未明",
-    "Memo": "1 權勢-1\n2 權勢+1 善名-1\n3 卡牌 偉大的史詩\n4 事件 討伐氏族 (3回合內需征服卡) 沒有拿出的情況會受到處罰"
+    "Suggestion": "3 正常\n4成功的獎勵未明",
+    "Memo": "1 權勢-1\n2 權勢+1 善名-1\n3 Silver 偉大的史詩，過一陣子出現 啟蒙之書\n4 事件 討伐氏族 (3回合內需征服卡) 沒有拿出的情況會受到處罰"
   },
   {
     "ID": 18,
@@ -1063,7 +1063,7 @@
     "BestChoice2": 3,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 可能隨機一個銀寶物 巨大寶石項鍊/重劍/流星錘\n2 金幣3\n3 權勢1"
+    "Memo": "1 可能隨機一個銀寶物 巨大寶石項鍊(2)/重劍(2)/流星錘\n2 金幣3\n3 權勢1"
   },
   {
     "ID": 25,
@@ -1128,7 +1128,7 @@
     "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 慷慨解囊 事件(捐10元)\n3 善名-1(奇妙，照理來說是騙術)"
+    "Memo": "1 慷慨解囊 事件(捐10元)\n2 事件 破財消災\n3 善名-1(奇妙，照理來說是騙術)"
   },
   {
     "ID": 49,
@@ -1180,7 +1180,7 @@
     "BestChoice2": null,
     "BestChoice3": null,
     "Suggestion": null,
-    "Memo": "1 靈視+1\n2 權勢+1 俠名-1\n3 事件 血的渴求(似乎需要祭品)\n4"
+    "Memo": "1 靈視+1\n2 權勢+1 俠名-1\n3 事件 血的渴求(似乎需要祭品)\n4 被俘的異教徒"
   },
   {
     "ID": 42,
@@ -1298,5 +1298,31 @@
     "BestChoice3": null,
     "Suggestion": null,
     "Memo": null
+  },
+  {
+    "ID": 101,
+    "Question": "這天的朝會上，有大臣哭訴自己領土的災厄",
+    "Choice1": "你唯有獻上二子以平息神的怒火",
+    "Choice2": "血腥的祭獻應當禁絕",
+    "Choice3": "我可以幫你與神溝通",
+    "Choice4": null,
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestChoice3": null,
+    "Suggestion": null,
+    "Memo": "1 惡名+1 權勢+1"
+  },
+  {
+    "ID": 102,
+    "Question": "E\n「我沒有在這裡看到值得歌頌的東西。」",
+    "Choice1": "男人",
+    "Choice2": "女人",
+    "Choice3": "身居高位者",
+    "Choice4": "笑而不語",
+    "BestChoice": null,
+    "BestChoice2": null,
+    "BestChoice3": null,
+    "Suggestion": null,
+    "Memo": "1 事件 見男人"
   }
 ]

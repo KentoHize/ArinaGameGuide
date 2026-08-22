@@ -1,41 +1,58 @@
 [
   {
-    "Name": "Weapon"
+    "Name": "Weapon",
+    "CName": ""
   },
   {
-    "Name": "Accessory"
+    "Name": "Accessory",
+    "CName": ""
   },
   {
-    "Name": "Legendary Treasure"
+    "Name": "Legendary Treasure",
+    "CName": ""
   },
   {
-    "Name": "Consumable"
+    "Name": "Consumable",
+    "CName": ""
   },
   {
-    "Name": "Cult Ritual"
+    "Name": "Cult Ritual",
+    "CName": ""
   },
   {
-    "Name": "The Jeweller's Original Work"
+    "Name": "The Jeweller's Original Work",
+    "CName": ""
   },
   {
-    "Name": "Feast"
+    "Name": "Feast",
+    "CName": ""
   },
   {
-    "Name": "Attire"
+    "Name": "Attire",
+    "CName": ""
   },
   {
-    "Name": "Book"
+    "Name": "Book",
+    "CName": ""
   },
   {
-    "Name": "Special"
+    "Name": "Special",
+    "CName": ""
   },
   {
-    "Name": "Special Book"
+    "Name": "Special Book",
+    "CName": ""
   },
   {
-    "Name": "Love Poem"
+    "Name": "Love Poem",
+    "CName": ""
   },
   {
-    "Name": "Location"
+    "Name": "Location",
+    "CName": ""
+  },
+  {
+    "Name": "Evidence",
+    "CName": "證據"
   }
 ]

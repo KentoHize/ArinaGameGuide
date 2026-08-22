@@ -114,5 +114,13 @@
   {
     "Name": "Outfit",
     "CName": "裝扮"
+  },
+  {
+    "Name": "Black Art",
+    "CName": "黑暗知識"
+  },
+  {
+    "Name": "Cultist",
+    "CName": "異教徒"
   }
 ]
